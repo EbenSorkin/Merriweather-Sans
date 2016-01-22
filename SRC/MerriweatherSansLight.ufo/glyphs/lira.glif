@@ -4,7 +4,7 @@
   <unicode hex="20A4"/>
   <outline>
     <contour>
-      <point x="141" y="54" type="curve" smooth="yes" name="hr01"/>
+      <point x="141" y="54" type="curve" name="hr01" smooth="yes"/>
       <point x="141" y="15"/>
       <point x="190" y="-10"/>
       <point x="227" y="-10" type="curve" smooth="yes"/>
@@ -70,30 +70,4 @@
       <point x="141" y="126"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-  <hintSetList>
-    <hintset pointTag="hr01">
-      <hstem pos="11" width="-21" />
-      <hstem pos="76" width="93" />
-      <hstem pos="595" width="106" />
-      <hstem pos="869" width="106" />
-      <hstem pos="1411" width="127" />
-      <vstem pos="442" width="167" />
-      <vstem pos="1235" width="158" />
-    </hintset>
-    <hintset pointTag="hr02">
-      <hstem pos="-24" width="120" />
-      <hstem pos="595" width="106" />
-      <hstem pos="869" width="106" />
-      <hstem pos="1411" width="127" />
-      <vstem pos="442" width="167" />
-      <vstem pos="1235" width="158" />
-    </hintset>
-  </hintSetList>
-  </data>
-  </dict>
-  </lib>
 </glyph>
