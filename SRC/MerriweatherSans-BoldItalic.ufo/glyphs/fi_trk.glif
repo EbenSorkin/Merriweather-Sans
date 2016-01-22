@@ -2,8 +2,8 @@
 <glyph name="fi_trk" format="1">
   <advance width="1354"/>
   <outline>
-    <component base="dotlessi" xOffset="730"/>
-    <component base="dotaccent" xOffset="990"/>
-    <component base="f"/>
+    <component base="idotless"/>
+    <component base="dotaccent" xOffset="268" yOffset="2"/>
+    <component base="f" xOffset="624"/>
   </outline>
 </glyph>
