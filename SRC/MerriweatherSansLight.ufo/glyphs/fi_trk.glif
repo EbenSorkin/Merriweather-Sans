@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fi_trk" format="1">
+  <advance width="1389"/>
+  <outline>
+    <component base="dotlessi" xOffset="801"/>
+    <component base="dotaccent" xOffset="934"/>
+    <component base="f"/>
+  </outline>
+</glyph>
