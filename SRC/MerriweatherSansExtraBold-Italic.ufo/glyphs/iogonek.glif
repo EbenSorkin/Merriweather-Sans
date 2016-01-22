@@ -26,7 +26,7 @@
       <point x="437" y="0" type="curve"/>
       <point x="316" y="21" type="line"/>
     </contour>
-    <component base="dotlessi"/>
+    <component base="idotless"/>
     <component base="dotaccent" xOffset="335"/>
   </outline>
 </glyph>

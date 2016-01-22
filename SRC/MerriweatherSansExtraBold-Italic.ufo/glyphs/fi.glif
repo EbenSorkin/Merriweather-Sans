@@ -31,7 +31,7 @@
       <point x="115" y="924" type="line"/>
       <point x="237" y="924" type="line"/>
     </contour>
-    <component base="dotlessi" xOffset="765"/>
+    <component base="idotless" xOffset="765"/>
     <component base="dotaccent" xOffset="1043"/>
   </outline>
 </glyph>
