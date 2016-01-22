@@ -77,19 +77,4 @@
       <point x="548" y="262" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-  <hintSetList>
-    <hintset pointTag="hr00">
-      <hstem pos="267" width="147" />
-      <hstem pos="703" width="147" />
-      <hstem pos="1522" width="-20" />
-      <vstem pos="22" width="1885" />
-    </hintset>
-  </hintSetList>
-  </data>
-  </dict>
-  </lib>
 </glyph>

@@ -26,7 +26,7 @@
       <point x="127" y="-55"/>
       <point x="21" y="-170"/>
     </contour>
-    <component base="dotlessi"/>
+    <component base="idotless"/>
     <component base="dotaccent" xOffset="104"/>
   </outline>
 </glyph>
