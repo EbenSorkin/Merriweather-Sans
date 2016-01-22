@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ffi_dflt" format="1">
+  <advance width="1953"/>
+  <outline>
+    <component base="dotlessi" xOffset="1389"/>
+    <component base="dotaccent" xOffset="1645"/>
+    <component base="f"/>
+    <component base="f" xOffset="695"/>
+  </outline>
+</glyph>
