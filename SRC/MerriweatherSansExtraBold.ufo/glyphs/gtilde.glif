@@ -3,6 +3,6 @@
   <advance width="1361"/>
   <outline>
     <component base="g"/>
-    <component base="tilde" xOffset="200" yOffset="-1"/>
+    <component base="tilde" xOffset="180"/>
   </outline>
 </glyph>
