@@ -10,10 +10,10 @@
       <point x="356" y="1637" type="line"/>
     </contour>
     <contour>
-      <point x="605" y="1571" type="move" name="caron"/>
+      <point x="216" y="-167" type="move" name="btm"/>
     </contour>
     <contour>
-      <point x="216" y="-167" type="move" name="btm"/>
+      <point x="605" y="1571" type="move" name="caron"/>
     </contour>
     <contour>
       <point x="327" y="1258" type="move" name="top"/>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ij" format="1">
-  <advance width="1143"/>
+  <advance width="1140"/>
   <unicode hex="0133"/>
   <outline>
-    <component base="dotlessj" xOffset="565"/>
-    <component base="dotlessi"/>
-    <component base="dotaccent" xOffset="256"/>
-    <component base="dotaccent" xOffset="813"/>
+    <component base="jdotless"/>
+    <component base="idotless" xOffset="576"/>
+    <component base="dotaccent" xOffset="832" yOffset="3"/>
+    <component base="dotaccent" xOffset="832" yOffset="3"/>
   </outline>
 </glyph>

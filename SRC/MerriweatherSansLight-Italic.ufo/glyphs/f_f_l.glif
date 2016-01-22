@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="f_f_l" format="1">
   <advance width="1953"/>
-  <unicode hex="FB04"/>
   <outline>
-    <component base="l" xOffset="1389"/>
-    <component base="f"/>
-    <component base="f" xOffset="695"/>
+    <component base="l"/>
+    <component base="f" xOffset="563"/>
+    <component base="f" xOffset="1258"/>
   </outline>
 </glyph>

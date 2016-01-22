@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="fi_trk" format="1">
-  <advance width="1258"/>
+  <advance width="1259"/>
   <outline>
-    <component base="dotlessi" xOffset="695"/>
-    <component base="dotaccent" xOffset="951"/>
-    <component base="f"/>
+    <component base="idotless"/>
+    <component base="dotaccent" xOffset="256" yOffset="3"/>
+    <component base="f" xOffset="564"/>
   </outline>
 </glyph>

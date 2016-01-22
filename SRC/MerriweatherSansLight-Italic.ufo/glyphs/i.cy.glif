@@ -2,7 +2,7 @@
 <glyph name="i.cy" format="1">
   <advance width="564"/>
   <outline>
-    <component base="dotlessi"/>
-    <component base="dotaccent" xOffset="256"/>
+    <component base="idotless"/>
+    <component base="dotaccent" xOffset="256" yOffset="3"/>
   </outline>
 </glyph>
