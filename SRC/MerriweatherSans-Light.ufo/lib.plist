@@ -644,8 +644,8 @@
 		<string>tilde.cap</string>
 		<string>caronvertical</string>
 		<string>ffi_dflt</string>
-		<string>gtilde</string>
 		<string>Gtilde</string>
+		<string>gtilde</string>
 		<string>NULL</string>
 	</array>
 </dict>
