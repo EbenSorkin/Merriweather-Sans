@@ -2,7 +2,7 @@
 <glyph name="i.dot" format="1">
   <advance width="584"/>
   <outline>
-    <component base="dotlessi"/>
-    <component base="dotaccent" xOffset="242"/>
+    <component base="idotless"/>
+    <component base="dotaccent" xOffset="247" yOffset="4"/>
   </outline>
 </glyph>

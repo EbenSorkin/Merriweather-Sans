@@ -2,9 +2,9 @@
 <glyph name="ffi_dflt" format="1">
   <advance width="1974"/>
   <outline>
-    <component base="dotlessi" xOffset="1390"/>
-    <component base="dotaccent" xOffset="1632"/>
-    <component base="f"/>
-    <component base="f" xOffset="695"/>
+    <component base="idotless"/>
+    <component base="dotaccent" xOffset="247" yOffset="4"/>
+    <component base="f" xOffset="584"/>
+    <component base="f" xOffset="1279"/>
   </outline>
 </glyph>

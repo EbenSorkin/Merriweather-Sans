@@ -3,6 +3,6 @@
   <advance width="580"/>
   <outline>
     <component base="I"/>
-    <component base="dotaccent.cap" xOffset="293"/>
+    <component base="dotaccent.cap" xOffset="266"/>
   </outline>
 </glyph>
