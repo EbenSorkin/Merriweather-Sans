@@ -7,7 +7,7 @@
 	<key>capHeight</key>
 	<integer>1522</integer>
 	<key>copyright</key>
-	<string>Copyright (c) 2013-2016, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name 'Merriweather'</string>
+	<string><![CDATA[Copyright (c) 2013-2016, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name 'Merriweather']]></string>
 	<key>descender</key>
 	<integer>-560</integer>
 	<key>familyName</key>

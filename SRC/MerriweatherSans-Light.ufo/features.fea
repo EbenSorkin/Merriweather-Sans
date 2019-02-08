@@ -1,5 +1,10 @@
-# Prefix: Prefix
-# Script and language coverage
+@sups2 = [ one.numr two.numr three.numr ];
+
+@sups1 = [ one two three ];
+
+@ordn1 = [ zero one two three four five six seven eight nine ];
+
+# Prefix: Languagesystems
 languagesystem DFLT dflt;
 languagesystem latn dflt;
 languagesystem latn AZE ;
@@ -9,11 +14,8 @@ languagesystem latn TRK ;
 languagesystem latn MOL ;
 languagesystem latn ROM ;
 
-@sups2 = [ one.numr two.numr three.numr ];
-
-@sups1 = [ one two three ];
-
-@ordn1 = [ zero one two three four five six seven eight nine ];
+# Prefix: Prefix
+# Script and language coverage
 
 feature aalt {
   feature locl;
