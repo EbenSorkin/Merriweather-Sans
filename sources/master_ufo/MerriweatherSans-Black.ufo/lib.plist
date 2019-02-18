@@ -598,6 +598,8 @@
       <string>/lcaron</string>
       <string>/tcaron</string>
       <string>/Lcaron</string>
+      <string>/Ohorn</string>
+      <string>y</string>
     </array>
     <key>com.schriftgestaltung.customParameter.GSFont.Enforce Compatibility Check</key>
     <integer>1</integer>

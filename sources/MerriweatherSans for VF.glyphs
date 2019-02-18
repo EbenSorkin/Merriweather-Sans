@@ -43,11 +43,15 @@ name = Uppercase;
 copyright = "Copyright (c) 2013-2016, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name 'Merriweather'";
 customParameters = (
 {
-name = openTypeNameLicense;
+name = trademark;
+value = "Merriweather is a trademark of Sorkin Type Co.";
+},
+{
+name = license;
 value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
 },
 {
-name = openTypeNameLicenseURL;
+name = licenseURL;
 value = "http://scripts.sil.org/OFL";
 },
 {
@@ -60,14 +64,6 @@ name = vendorID;
 value = STC;
 },
 {
-name = trademark;
-value = "Merriweather is a trademark of Sorkin Type Co.";
-},
-{
-name = "Enforce Compatibility Check";
-value = 1;
-},
-{
 name = Axes;
 value = (
 {
@@ -75,6 +71,10 @@ Name = Weight;
 Tag = wght;
 }
 );
+},
+{
+name = "Enforce Compatibility Check";
+value = 1;
 }
 );
 date = "2019-01-16 02:11:27 +0000";
