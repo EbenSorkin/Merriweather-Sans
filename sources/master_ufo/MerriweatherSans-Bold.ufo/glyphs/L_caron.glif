@@ -9,12 +9,12 @@
   <anchor x="527.0" y="743.0" name="topright"/>
   <outline>
     <component base="L"/>
-    <component base="caronvertical" xOffset="359.0"/>
+    <component base="caroncomb.alt" xOffset="291.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/01/21 06:08:13</string>
+      <string>2019/02/18 19:53:16</string>
       <key>com.schriftgestaltung.componentsAlignment</key>
       <array>
         <integer>-1</integer>

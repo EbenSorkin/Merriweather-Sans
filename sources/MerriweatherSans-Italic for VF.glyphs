@@ -49,6 +49,15 @@ value = "Merriweather is a trademark of Sorkin Type Co.";
 {
 name = "Enforce Compatibility Check";
 value = 1;
+},
+{
+name = Axes;
+value = (
+{
+Name = Weight;
+Tag = wght;
+}
+);
 }
 );
 date = "2019-02-09 04:06:34 +0000";
@@ -134764,6 +134773,7 @@ instanceInterpolations = {
 "9808B12E-936F-4588-BC0B-2F1DE3B33DAD" = 1;
 };
 name = "UltraBold Italic";
+weightClass = UltraBold;
 },
 {
 interpolationWeight = 150;
@@ -134772,7 +134782,9 @@ instanceInterpolations = {
 "210FEB57-8019-425C-A132-31E407D575F3" = 0.58974;
 "9808B12E-936F-4588-BC0B-2F1DE3B33DAD" = 0.41026;
 };
+isBold = 1;
 name = "Bold Italic";
+weightClass = Bold;
 },
 {
 interpolationWeight = 107;
@@ -134790,6 +134802,7 @@ instanceInterpolations = {
 "A8DD961D-2AAA-4421-B000-699D061D5CAD" = 1;
 };
 name = "Light Italic";
+weightClass = Light;
 }
 );
 kerning = {

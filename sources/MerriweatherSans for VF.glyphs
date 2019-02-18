@@ -17,7 +17,9 @@ A,
 "/caroncomb.alt",
 "/lcaron",
 "/tcaron",
-"/Lcaron"
+"/Lcaron",
+"/Ohorn",
+y
 );
 classes = (
 {
@@ -64,6 +66,15 @@ value = "Merriweather is a trademark of Sorkin Type Co.";
 {
 name = "Enforce Compatibility Check";
 value = 1;
+},
+{
+name = Axes;
+value = (
+{
+Name = Weight;
+Tag = wght;
+}
+);
 }
 );
 date = "2019-01-16 02:11:27 +0000";
@@ -13168,7 +13179,7 @@ unicode = 1ECE;
 },
 {
 glyphname = Ohorn;
-lastChange = "2019-02-16 05:39:16 +0000";
+lastChange = "2019-02-18 20:05:25 +0000";
 layers = (
 {
 anchors = (
@@ -13186,8 +13197,9 @@ components = (
 name = O;
 },
 {
+alignment = -1;
 name = horncomb.case;
-transform = "{1, 0, 0, 1, 665, 186}";
+transform = "{1, 0, 0, 1, 481, 186}";
 }
 );
 layerId = "8BC678DE-46B6-4C98-A96E-C0ED61786D32";
@@ -13209,8 +13221,9 @@ components = (
 name = O;
 },
 {
+alignment = -1;
 name = horncomb.case;
-transform = "{1, 0, 0, 1, 663, 186}";
+transform = "{1, 0, 0, 1, 472, 186}";
 }
 );
 layerId = "DB9867C4-88B4-4207-8D32-C8AFE6754240";
@@ -13232,8 +13245,9 @@ components = (
 name = O;
 },
 {
+alignment = -1;
 name = horncomb.case;
-transform = "{1, 0, 0, 1, 653, 186}";
+transform = "{1, 0, 0, 1, 495, 186}";
 }
 );
 layerId = "ADDB461F-7E69-4B45-B56F-E3E322F9570B";
@@ -13255,8 +13269,9 @@ components = (
 name = O;
 },
 {
+alignment = -1;
 name = horncomb.case;
-transform = "{1, 0, 0, 1, 657, 186}";
+transform = "{1, 0, 0, 1, 493, 186}";
 }
 );
 layerId = "23A20576-2241-481A-AD5B-28E85381F753";
@@ -13268,8 +13283,9 @@ rightKerningGroup = Ohorn;
 unicode = 01A0;
 },
 {
+color = 0;
 glyphname = Ohornacute;
-lastChange = "2019-02-16 05:40:25 +0000";
+lastChange = "2019-02-18 20:05:37 +0000";
 layers = (
 {
 components = (
@@ -13329,8 +13345,9 @@ rightKerningGroup = Ohorn;
 unicode = 1EDA;
 },
 {
+color = 0;
 glyphname = Ohorndotbelow;
-lastChange = "2019-02-16 05:40:25 +0000";
+lastChange = "2019-02-18 20:05:37 +0000";
 layers = (
 {
 components = (
@@ -13390,8 +13407,9 @@ rightKerningGroup = Ohorn;
 unicode = 1EE2;
 },
 {
+color = 0;
 glyphname = Ohorngrave;
-lastChange = "2019-02-16 05:40:25 +0000";
+lastChange = "2019-02-18 20:05:37 +0000";
 layers = (
 {
 components = (
@@ -13451,8 +13469,9 @@ rightKerningGroup = Ohorn;
 unicode = 1EDC;
 },
 {
+color = 0;
 glyphname = Ohornhookabove;
-lastChange = "2019-02-16 05:40:25 +0000";
+lastChange = "2019-02-18 20:05:37 +0000";
 layers = (
 {
 components = (
@@ -13512,8 +13531,9 @@ rightKerningGroup = Ohorn;
 unicode = 1EDE;
 },
 {
+color = 0;
 glyphname = Ohorntilde;
-lastChange = "2019-02-16 05:40:25 +0000";
+lastChange = "2019-02-18 20:05:37 +0000";
 layers = (
 {
 components = (
@@ -28477,8 +28497,9 @@ rightKerningGroup = e;
 unicode = 0113;
 },
 {
+color = 0;
 glyphname = emacronacute;
-lastChange = "2019-02-15 05:55:18 +0000";
+lastChange = "2019-02-18 20:07:59 +0000";
 layers = (
 {
 components = (
@@ -28554,8 +28575,9 @@ rightKerningGroup = e;
 unicode = 1E17;
 },
 {
+color = 0;
 glyphname = emacrongrave;
-lastChange = "2019-02-15 05:55:18 +0000";
+lastChange = "2019-02-18 20:07:59 +0000";
 layers = (
 {
 components = (
@@ -36176,8 +36198,9 @@ rightKerningGroup = o;
 unicode = 1ECF;
 },
 {
+color = 0;
 glyphname = ohorn;
-lastChange = "2019-02-16 05:40:25 +0000";
+lastChange = "2019-02-18 20:06:06 +0000";
 layers = (
 {
 anchors = (
@@ -36293,8 +36316,9 @@ rightKerningGroup = o;
 unicode = 01A1;
 },
 {
+color = 0;
 glyphname = ohornacute;
-lastChange = "2019-02-15 20:52:13 +0000";
+lastChange = "2019-02-18 20:06:06 +0000";
 layers = (
 {
 components = (
@@ -36354,8 +36378,9 @@ rightKerningGroup = o;
 unicode = 1EDB;
 },
 {
+color = 0;
 glyphname = ohorndotbelow;
-lastChange = "2019-02-16 05:40:25 +0000";
+lastChange = "2019-02-18 20:06:06 +0000";
 layers = (
 {
 components = (
@@ -36415,8 +36440,9 @@ rightKerningGroup = o;
 unicode = 1EE3;
 },
 {
+color = 0;
 glyphname = ohorngrave;
-lastChange = "2019-02-15 20:52:13 +0000";
+lastChange = "2019-02-18 20:06:06 +0000";
 layers = (
 {
 components = (
@@ -36476,8 +36502,9 @@ rightKerningGroup = o;
 unicode = 1EDD;
 },
 {
+color = 0;
 glyphname = ohornhookabove;
-lastChange = "2019-02-15 20:52:13 +0000";
+lastChange = "2019-02-18 20:06:06 +0000";
 layers = (
 {
 components = (
@@ -36545,8 +36572,9 @@ rightKerningGroup = o;
 unicode = 1EDF;
 },
 {
+color = 0;
 glyphname = ohorntilde;
-lastChange = "2019-02-15 20:52:13 +0000";
+lastChange = "2019-02-18 20:06:06 +0000";
 layers = (
 {
 components = (
@@ -39290,8 +39318,9 @@ rightKerningGroup = r;
 unicode = 0213;
 },
 {
+color = 0;
 glyphname = rlinebelow;
-lastChange = "2019-02-16 05:40:25 +0000";
+lastChange = "2019-02-18 20:07:31 +0000";
 layers = (
 {
 components = (
@@ -42543,8 +42572,9 @@ rightKerningGroup = u;
 unicode = 01B0;
 },
 {
+color = 0;
 glyphname = uhornacute;
-lastChange = "2019-02-16 05:40:09 +0000";
+lastChange = "2019-02-18 20:06:30 +0000";
 layers = (
 {
 components = (
@@ -42604,8 +42634,9 @@ rightKerningGroup = u;
 unicode = 1EE9;
 },
 {
+color = 0;
 glyphname = uhorndotbelow;
-lastChange = "2019-02-16 05:40:09 +0000";
+lastChange = "2019-02-18 20:06:30 +0000";
 layers = (
 {
 components = (
@@ -42665,8 +42696,9 @@ rightKerningGroup = u;
 unicode = 1EF1;
 },
 {
+color = 0;
 glyphname = uhorngrave;
-lastChange = "2019-02-16 05:40:09 +0000";
+lastChange = "2019-02-18 20:06:30 +0000";
 layers = (
 {
 components = (
@@ -42726,8 +42758,9 @@ rightKerningGroup = u;
 unicode = 1EEB;
 },
 {
+color = 0;
 glyphname = uhornhookabove;
-lastChange = "2019-02-15 20:52:10 +0000";
+lastChange = "2019-02-18 20:06:30 +0000";
 layers = (
 {
 components = (
@@ -42795,8 +42828,9 @@ rightKerningGroup = u;
 unicode = 1EED;
 },
 {
+color = 0;
 glyphname = uhorntilde;
-lastChange = "2019-02-16 05:40:09 +0000";
+lastChange = "2019-02-18 20:06:30 +0000";
 layers = (
 {
 components = (
@@ -44140,7 +44174,7 @@ unicode = 0078;
 },
 {
 glyphname = y;
-lastChange = "2019-02-16 05:39:16 +0000";
+lastChange = "2019-02-18 20:07:00 +0000";
 layers = (
 {
 anchors = (
@@ -44150,7 +44184,7 @@ position = "{271, 0}";
 },
 {
 name = btm;
-position = "{428, -103}";
+position = "{438, -103}";
 },
 {
 name = top;
@@ -44254,7 +44288,7 @@ position = "{290, 0}";
 },
 {
 name = btm;
-position = "{478, -103}";
+position = "{497, -103}";
 },
 {
 name = top;
@@ -44306,7 +44340,7 @@ position = "{295, 0}";
 },
 {
 name = btm;
-position = "{503, -103}";
+position = "{513, -103}";
 },
 {
 name = top;
@@ -44600,8 +44634,9 @@ rightKerningGroup = y;
 unicode = 1E8F;
 },
 {
+color = 0;
 glyphname = ydotbelow;
-lastChange = "2019-02-16 05:40:09 +0000";
+lastChange = "2019-02-18 20:07:22 +0000";
 layers = (
 {
 components = (
