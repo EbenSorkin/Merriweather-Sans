@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Wgrave" format="2">
-  <advance width="864.0"/>
+  <advance width="880.0"/>
   <unicode hex="1E80"/>
   <note>
 Wgrave
 </note>
-  <anchor x="395.0" y="0.0" name="bottom"/>
-  <anchor x="525.0" y="976.0" name="top"/>
+  <anchor x="403.0" y="0.0" name="bottom"/>
+  <anchor x="533.0" y="976.0" name="top"/>
   <outline>
     <component base="W"/>
-    <component base="gravecomb.case" xOffset="432.0"/>
+    <component base="gravecomb.case" xOffset="440.0"/>
   </outline>
   <lib>
     <dict>

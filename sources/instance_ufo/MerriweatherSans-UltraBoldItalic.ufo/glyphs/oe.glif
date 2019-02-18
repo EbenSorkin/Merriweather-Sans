@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="oe" format="2">
-  <advance width="883.0"/>
+  <advance width="874.0"/>
   <unicode hex="0153"/>
   <note>
 oe
 </note>
-  <anchor x="240.0" y="0.0" name="bottom_1"/>
-  <anchor x="625.0" y="0.0" name="bottom_2"/>
-  <anchor x="277.0" y="279.0" name="center"/>
-  <anchor x="335.0" y="10.0" name="ogonek_1"/>
-  <anchor x="698.0" y="10.0" name="ogonek_2"/>
-  <anchor x="326.0" y="557.0" name="top_1"/>
-  <anchor x="709.0" y="557.0" name="top_2"/>
-  <anchor x="571.0" y="557.0" name="topright"/>
+  <anchor x="252.0" y="0.0" name="bottom_1"/>
+  <anchor x="586.0" y="0.0" name="bottom_2"/>
+  <anchor x="289.0" y="279.0" name="center"/>
+  <anchor x="385.0" y="10.0" name="ogonek_1"/>
+  <anchor x="735.0" y="10.0" name="ogonek_2"/>
+  <anchor x="337.0" y="557.0" name="top_1"/>
+  <anchor x="680.0" y="557.0" name="top_2"/>
+  <anchor x="594.0" y="557.0" name="topright"/>
   <outline>
     <component base="o"/>
-    <component base="e" xOffset="380.0"/>
+    <component base="e" xOffset="331.0"/>
   </outline>
   <lib>
     <dict>

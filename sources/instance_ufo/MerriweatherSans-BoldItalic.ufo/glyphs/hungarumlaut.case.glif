@@ -7,20 +7,20 @@ hungarumlaut.cap
   <anchor x="87.0" y="939.0" name="top"/>
   <outline>
     <contour>
-      <point x="-91.0" y="766.0" type="line"/>
-      <point x="-26.0" y="813.0"/>
-      <point x="53.0" y="883.0"/>
-      <point x="76.0" y="930.0" type="curve"/>
-      <point x="27.0" y="974.0" type="line"/>
-      <point x="-126.0" y="791.0" type="line"/>
+      <point x="-95.64102564102564" y="761.5897435897435" type="line"/>
+      <point x="-44.230769230769226" y="779.1794871794872"/>
+      <point x="54.12820512820513" y="871.7692307692307"/>
+      <point x="74.53846153846153" y="915.7692307692307" type="curve"/>
+      <point x="-8.794871794871796" y="981.2307692307693" type="line"/>
+      <point x="-151.5128205128205" y="800.0512820512821" type="line"/>
     </contour>
     <contour>
-      <point x="104.0" y="767.0" type="line"/>
-      <point x="155.0" y="796.0"/>
-      <point x="251.0" y="879.0"/>
-      <point x="279.0" y="931.0" type="curve"/>
-      <point x="229.0" y="975.0" type="line"/>
-      <point x="76.0" y="792.0" type="line"/>
+      <point x="130.3846153846154" y="761.5897435897435" type="line"/>
+      <point x="183.7948717948718" y="779.1794871794872"/>
+      <point x="274.7435897435897" y="863.1025641025641"/>
+      <point x="303.9230769230769" y="914.7692307692307" type="curve"/>
+      <point x="222.4102564102564" y="981.2307692307693" type="line"/>
+      <point x="79.28205128205128" y="800.0512820512821" type="line"/>
     </contour>
   </outline>
   <lib>

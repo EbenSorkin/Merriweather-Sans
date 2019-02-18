@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="acute" format="2">
-  <advance width="273.0"/>
+  <advance width="276.0"/>
   <unicode hex="00B4"/>
   <note>
 acute
 </note>
   <outline>
     <contour>
-      <point x="59.0" y="610.0" type="line"/>
-      <point x="105.0" y="636.0"/>
-      <point x="209.0" y="740.0"/>
-      <point x="235.0" y="781.0" type="curve"/>
-      <point x="179.0" y="832.0" type="line"/>
-      <point x="28.0" y="637.0" type="line"/>
+      <point x="70.0" y="599.0" type="line"/>
+      <point x="118.0" y="616.0"/>
+      <point x="256.0" y="730.0"/>
+      <point x="274.0" y="769.0" type="curve"/>
+      <point x="172.0" y="866.0" type="line"/>
+      <point x="9.0" y="647.0" type="line"/>
     </contour>
   </outline>
   <lib>

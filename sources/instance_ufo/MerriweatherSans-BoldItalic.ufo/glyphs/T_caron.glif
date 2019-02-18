@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Tcaron" format="2">
-  <advance width="548.0"/>
+  <advance width="558.8717948717949"/>
   <unicode hex="0164"/>
   <note>
 Tcaron
 </note>
-  <anchor x="237.0" y="0.0" name="bottom"/>
-  <anchor x="287.0" y="374.0" name="center"/>
-  <anchor x="367.0" y="976.0" name="top"/>
+  <anchor x="242.64102564102564" y="0.0" name="bottom"/>
+  <anchor x="292.64102564102564" y="374.5897435897436" name="center"/>
+  <anchor x="372.64102564102564" y="977.7692307692307" name="top"/>
   <outline>
     <component base="T"/>
-    <component base="caroncomb.case" xOffset="274.0"/>
+    <component base="caroncomb.case" xOffset="279.64102564102564" yOffset="1.7692307692307696"/>
   </outline>
   <lib>
     <dict>

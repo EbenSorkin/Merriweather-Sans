@@ -1,46 +1,46 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="liraTurkish" format="2">
-  <advance width="715.0"/>
+  <advance width="711.3589743589744"/>
   <unicode hex="20BA"/>
   <note>
 uni20BA
 </note>
   <outline>
     <contour>
-      <point x="184.0" y="0.0" type="line"/>
-      <point x="260.0" y="0.0" type="line" smooth="yes"/>
-      <point x="329.0" y="0.0"/>
-      <point x="395.0" y="13.0"/>
-      <point x="456.0" y="40.0" type="curve" smooth="yes"/>
-      <point x="578.0" y="93.0"/>
-      <point x="663.0" y="196.0"/>
-      <point x="680.0" y="329.0" type="curve" smooth="yes"/>
-      <point x="683.0" y="351.0" type="line"/>
-      <point x="606.0" y="351.0" type="line"/>
-      <point x="598.0" y="287.0"/>
-      <point x="578.0" y="234.0"/>
-      <point x="545.0" y="191.0" type="curve" smooth="yes"/>
-      <point x="479.0" y="106.0"/>
-      <point x="378.0" y="65.0"/>
-      <point x="269.0" y="65.0" type="curve"/>
-      <point x="302.0" y="320.0" type="line"/>
-      <point x="552.0" y="423.0" type="line"/>
-      <point x="561.0" y="486.0" type="line"/>
-      <point x="310.0" y="383.0" type="line"/>
-      <point x="327.0" y="510.0" type="line"/>
-      <point x="585.0" y="617.0" type="line"/>
-      <point x="595.0" y="683.0" type="line"/>
-      <point x="335.0" y="576.0" type="line"/>
-      <point x="358.0" y="751.0" type="line"/>
-      <point x="282.0" y="751.0" type="line"/>
-      <point x="255.0" y="542.0" type="line"/>
-      <point x="104.0" y="480.0" type="line"/>
-      <point x="95.0" y="415.0" type="line"/>
-      <point x="246.0" y="477.0" type="line"/>
-      <point x="229.0" y="350.0" type="line"/>
-      <point x="83.0" y="290.0" type="line"/>
-      <point x="75.0" y="228.0" type="line"/>
-      <point x="221.0" y="288.0" type="line"/>
+      <point x="130.12820512820514" y="0.0" type="line"/>
+      <point x="283.9230769230769" y="0.0" type="line" smooth="yes"/>
+      <point x="403.7435897435897" y="0.0"/>
+      <point x="497.2307692307692" y="33.05128205128206"/>
+      <point x="560.0769230769231" y="97.97435897435898" type="curve" smooth="yes"/>
+      <point x="624.4358974358975" y="145.84615384615387"/>
+      <point x="662.6666666666666" y="219.0769230769231"/>
+      <point x="674.9487179487179" y="312.79487179487177" type="curve" smooth="yes"/>
+      <point x="678.9487179487179" y="339.79487179487177" type="line"/>
+      <point x="528.3846153846154" y="339.79487179487177" type="line"/>
+      <point x="517.8461538461538" y="260.12820512820514"/>
+      <point x="490.7435897435897" y="206.74358974358972"/>
+      <point x="445.48717948717945" y="175.9230769230769" type="curve" smooth="yes"/>
+      <point x="413.12820512820514" y="138.76923076923077"/>
+      <point x="363.7435897435897" y="120.92307692307692"/>
+      <point x="295.5128205128205" y="120.92307692307692" type="curve"/>
+      <point x="326.6923076923077" y="341.3333333333333" type="line"/>
+      <point x="504.1025641025641" y="414.7692307692308" type="line"/>
+      <point x="513.2820512820513" y="502.1794871794872" type="line"/>
+      <point x="338.6923076923077" y="430.56410256410254" type="line"/>
+      <point x="351.87179487179486" y="521.6923076923077" type="line"/>
+      <point x="538.2820512820513" y="599.1282051282051" type="line"/>
+      <point x="547.8717948717949" y="688.5384615384615" type="line"/>
+      <point x="363.87179487179486" y="611.9230769230769" type="line"/>
+      <point x="382.64102564102564" y="746.1794871794872" type="line"/>
+      <point x="229.25641025641028" y="746.1794871794872" type="line"/>
+      <point x="203.0769230769231" y="545.1794871794872" type="line"/>
+      <point x="62.769230769230774" y="487.20512820512823" type="line"/>
+      <point x="53.17948717948719" y="397.7948717948718" type="line"/>
+      <point x="191.0769230769231" y="454.7692307692308" type="line"/>
+      <point x="178.8974358974359" y="365.2307692307692" type="line"/>
+      <point x="44.17948717948718" y="309.84615384615387" type="line"/>
+      <point x="35.5897435897436" y="222.02564102564102" type="line"/>
+      <point x="167.30769230769232" y="276.0" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Idotaccent" format="2">
-  <advance width="279.0"/>
+  <advance width="293.075"/>
   <unicode hex="0130"/>
   <note>
 Idotaccent
 </note>
-  <anchor x="103.0" y="0.0" name="bottom"/>
-  <anchor x="216.0" y="10.0" name="ogonek"/>
-  <anchor x="229.0" y="939.0" name="top"/>
-  <anchor x="82.0" y="747.0" name="topleft"/>
+  <anchor x="109.875" y="0.0" name="bottom"/>
+  <anchor x="229.10000000000002" y="10.0" name="ogonek"/>
+  <anchor x="236.85" y="939.0" name="top"/>
+  <anchor x="82.0" y="747.975" name="topleft"/>
   <outline>
     <component base="I"/>
-    <component base="dotaccentcomb.case" xOffset="142.0"/>
+    <component base="dotaccentcomb.case" xOffset="149.85"/>
   </outline>
   <lib>
     <dict>

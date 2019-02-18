@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="seven.osf" format="2">
-  <advance width="519.0"/>
+  <advance width="538.25"/>
   <note>
 seven
 </note>
   <outline>
     <contour>
-      <point x="203.0" y="-154.0" type="line"/>
-      <point x="504.0" y="542.0" type="line"/>
-      <point x="492.0" y="559.0" type="line"/>
-      <point x="61.0" y="559.0" type="line"/>
-      <point x="48.0" y="499.0" type="line"/>
-      <point x="421.0" y="500.0" type="line"/>
-      <point x="136.0" y="-129.0" type="line"/>
+      <point x="227.875" y="-158.6" type="line"/>
+      <point x="524.5" y="536.725" type="line"/>
+      <point x="507.2" y="559.35" type="line"/>
+      <point x="66.325" y="559.35" type="line"/>
+      <point x="47.724999999999994" y="470.9" type="line"/>
+      <point x="398.875" y="472.575" type="line"/>
+      <point x="131.45" y="-123.025" type="line"/>
     </contour>
   </outline>
   <lib>

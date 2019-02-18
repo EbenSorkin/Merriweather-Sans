@@ -7,13 +7,13 @@ circumflex.cap
   <anchor x="87.0" y="939.0" name="top"/>
   <outline>
     <contour>
-      <point x="-67.0" y="778.0" type="line"/>
-      <point x="94.0" y="910.0" type="line"/>
-      <point x="201.0" y="781.0" type="line"/>
-      <point x="236.0" y="807.0" type="line"/>
-      <point x="136.0" y="977.0" type="line"/>
-      <point x="70.0" y="977.0" type="line"/>
-      <point x="-96.0" y="807.0" type="line"/>
+      <point x="-48.8974358974359" y="778.0512820512821" type="line"/>
+      <point x="94.64102564102564" y="870.2564102564103" type="line"/>
+      <point x="187.76923076923077" y="779.2307692307693" type="line"/>
+      <point x="251.69230769230768" y="816.0512820512821" type="line"/>
+      <point x="150.64102564102564" y="981.2307692307693" type="line"/>
+      <point x="63.23076923076923" y="981.2307692307693" type="line"/>
+      <point x="-111.28205128205128" y="811.8205128205128" type="line"/>
     </contour>
   </outline>
   <lib>

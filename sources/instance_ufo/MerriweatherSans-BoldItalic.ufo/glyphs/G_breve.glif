@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Gbreve" format="2">
-  <advance width="654.0"/>
+  <advance width="684.6153846153846"/>
   <unicode hex="011E"/>
   <note>
 Gbreve
 </note>
-  <anchor x="290.0" y="0.0" name="bottom"/>
-  <anchor x="420.0" y="976.0" name="top"/>
+  <anchor x="305.5128205128205" y="0.0" name="bottom"/>
+  <anchor x="435.5128205128205" y="977.7692307692307" name="top"/>
   <outline>
     <component base="G"/>
-    <component base="brevecomb.case" xOffset="327.0"/>
+    <component base="brevecomb.case" xOffset="342.5128205128205" yOffset="1.7692307692307696"/>
   </outline>
   <lib>
     <dict>

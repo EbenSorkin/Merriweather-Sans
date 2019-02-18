@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Eth" format="2">
-  <advance width="672.0"/>
+  <advance width="688.5128205128206"/>
   <unicode hex="00D0"/>
   <note>
 Eth
 </note>
-  <anchor x="299.0" y="0.0" name="bottom"/>
-  <anchor x="349.0" y="374.0" name="center"/>
-  <anchor x="398.0" y="747.0" name="top"/>
+  <anchor x="307.46153846153845" y="0.0" name="bottom"/>
+  <anchor x="357.46153846153845" y="374.5897435897436" name="center"/>
+  <anchor x="406.46153846153845" y="748.7692307692307" name="top"/>
   <outline>
     <contour>
-      <point x="392.0" y="407.0" type="line"/>
-      <point x="31.0" y="407.0" type="line"/>
-      <point x="25.0" y="358.0" type="line"/>
-      <point x="386.0" y="358.0" type="line"/>
+      <point x="412.56410256410254" y="440.97435897435895" type="line"/>
+      <point x="26.58974358974359" y="440.97435897435895" type="line"/>
+      <point x="16.358974358974358" y="336.0769230769231" type="line"/>
+      <point x="401.7435897435897" y="336.0769230769231" type="line"/>
     </contour>
     <component base="D"/>
   </outline>

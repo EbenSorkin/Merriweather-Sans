@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hbrevebelow.sc" format="2">
-  <advance width="664.0"/>
-  <anchor x="296.0" y="0.0" name="bottom"/>
-  <anchor x="383.0" y="650.0" name="top"/>
+  <advance width="698.025641025641"/>
+  <anchor x="309.46153846153845" y="0.0" name="bottom"/>
+  <anchor x="392.28205128205127" y="650.0" name="top"/>
   <outline>
     <component base="h.sc"/>
-    <component base="brevebelowcomb" xOffset="296.0"/>
+    <component base="brevebelowcomb" xOffset="309.46153846153845"/>
   </outline>
   <lib>
     <dict>

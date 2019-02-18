@@ -6,11 +6,11 @@
 Zacute
 </note>
   <anchor x="246.0" y="0.0" name="bottom"/>
-  <anchor x="296.0" y="374.0" name="center"/>
-  <anchor x="396.0" y="976.0" name="top"/>
+  <anchor x="296.0" y="374.5897435897436" name="center"/>
+  <anchor x="395.7435897435897" y="977.7692307692307" name="top"/>
   <outline>
     <component base="Z"/>
-    <component base="acutecomb.case" xOffset="303.0"/>
+    <component base="acutecomb.case" xOffset="302.7435897435897" yOffset="1.7692307692307696"/>
   </outline>
   <lib>
     <dict>

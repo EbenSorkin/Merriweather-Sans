@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="l" format="2">
-  <advance width="275.0"/>
+  <advance width="313.2051282051282"/>
   <unicode hex="006C"/>
   <note>
 l
 </note>
-  <anchor x="104.0" y="0.0" name="bottom"/>
-  <anchor x="166.0" y="492.0" name="center"/>
-  <anchor x="207.0" y="778.0" name="top"/>
-  <anchor x="317.0" y="711.0" name="topright"/>
+  <anchor x="125.87179487179486" y="0.0" name="bottom"/>
+  <anchor x="185.1025641025641" y="492.0" name="center"/>
+  <anchor x="226.69230769230768" y="780.4615384615385" name="top"/>
+  <anchor x="357.0" y="711.0" name="topright"/>
   <outline>
     <contour>
-      <point x="65.0" y="1.0" type="line"/>
-      <point x="138.0" y="1.0" type="line"/>
-      <point x="246.0" y="799.0" type="line"/>
-      <point x="174.0" y="799.0" type="line"/>
+      <point x="46.8974358974359" y="0.5897435897435899" type="line"/>
+      <point x="197.89743589743588" y="0.5897435897435899" type="line"/>
+      <point x="305.8974358974359" y="798.5897435897435" type="line"/>
+      <point x="154.4871794871795" y="798.5897435897435" type="line"/>
     </contour>
   </outline>
   <lib>

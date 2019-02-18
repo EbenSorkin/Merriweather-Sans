@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="I" format="2">
-  <advance width="279.0"/>
+  <advance width="326.71794871794873"/>
   <unicode hex="0049"/>
   <note>
 I
 </note>
-  <anchor x="103.0" y="0.0" name="bottom"/>
-  <anchor x="216.0" y="10.0" name="ogonek"/>
-  <anchor x="204.0" y="747.0" name="top"/>
-  <anchor x="82.0" y="747.0" name="topleft"/>
+  <anchor x="126.56410256410257" y="0.0" name="bottom"/>
+  <anchor x="259.4871794871795" y="10.0" name="ogonek"/>
+  <anchor x="230.15384615384616" y="747.0" name="top"/>
+  <anchor x="82.0" y="748.7692307692307" name="topleft"/>
   <outline>
     <contour>
-      <point x="71.0" y="0.0" type="line"/>
-      <point x="145.0" y="0.0" type="line"/>
-      <point x="239.0" y="747.0" type="line"/>
-      <point x="165.0" y="747.0" type="line"/>
+      <point x="52.12820512820513" y="0.0" type="line"/>
+      <point x="202.7179487179487" y="0.0" type="line"/>
+      <point x="306.1794871794872" y="747.0" type="line"/>
+      <point x="155.5897435897436" y="747.0" type="line"/>
     </contour>
   </outline>
   <lib>

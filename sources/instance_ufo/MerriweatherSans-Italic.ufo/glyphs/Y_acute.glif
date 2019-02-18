@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Yacute" format="2">
-  <advance width="529.0"/>
+  <advance width="535.5"/>
   <unicode hex="00DD"/>
   <note>
 Yacute
 </note>
-  <anchor x="228.0" y="0.0" name="bottom"/>
-  <anchor x="358.0" y="976.0" name="top"/>
-  <anchor x="82.0" y="747.0" name="topleft"/>
+  <anchor x="231.25" y="0.0" name="bottom"/>
+  <anchor x="361.25" y="976.975" name="top"/>
+  <anchor x="82.0" y="747.975" name="topleft"/>
   <outline>
     <component base="Y"/>
-    <component base="acutecomb.case" xOffset="265.0"/>
+    <component base="acutecomb.case" xOffset="268.25" yOffset="0.9750000000000014"/>
   </outline>
   <lib>
     <dict>

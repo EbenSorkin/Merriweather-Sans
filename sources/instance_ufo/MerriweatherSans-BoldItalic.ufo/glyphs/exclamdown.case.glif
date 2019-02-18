@@ -1,29 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="exclamdown.case" format="2">
-  <advance width="303.0"/>
+  <advance width="335.0"/>
   <note>
 exclamdown
 </note>
   <outline>
     <contour>
-      <point x="76.0" y="0.0" type="line"/>
-      <point x="160.0" y="0.0" type="line"/>
-      <point x="240.0" y="630.0" type="line"/>
-      <point x="181.0" y="630.0" type="line"/>
+      <point x="47.38461538461539" y="0.0" type="line"/>
+      <point x="205.33333333333331" y="0.0" type="line"/>
+      <point x="274.28205128205127" y="630.0" type="line"/>
+      <point x="163.02564102564102" y="630.0" type="line"/>
     </contour>
     <contour>
-      <point x="224.0" y="769.0" type="curve" smooth="yes"/>
-      <point x="259.0" y="769.0"/>
-      <point x="291.0" y="798.0"/>
-      <point x="291.0" y="835.0" type="curve" smooth="yes"/>
-      <point x="291.0" y="862.0"/>
-      <point x="272.0" y="877.0"/>
-      <point x="247.0" y="877.0" type="curve" smooth="yes"/>
-      <point x="208.0" y="877.0"/>
-      <point x="180.0" y="848.0"/>
-      <point x="180.0" y="809.0" type="curve" smooth="yes"/>
-      <point x="180.0" y="785.0"/>
-      <point x="195.0" y="769.0"/>
+      <point x="230.5897435897436" y="715.974358974359" type="curve" smooth="yes"/>
+      <point x="286.05128205128204" y="715.974358974359"/>
+      <point x="327.46153846153845" y="760.8461538461538"/>
+      <point x="327.46153846153845" y="813.8974358974359" type="curve" smooth="yes"/>
+      <point x="327.46153846153845" y="853.7692307692307"/>
+      <point x="299.64102564102564" y="881.4102564102565"/>
+      <point x="256.7692307692308" y="881.4102564102565" type="curve" smooth="yes"/>
+      <point x="199.4871794871795" y="881.4102564102565"/>
+      <point x="158.0769230769231" y="841.1794871794872"/>
+      <point x="158.0769230769231" y="782.4871794871794" type="curve" smooth="yes"/>
+      <point x="158.0769230769231" y="743.025641025641"/>
+      <point x="180.30769230769232" y="715.974358974359"/>
     </contour>
   </outline>
   <lib>

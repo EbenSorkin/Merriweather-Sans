@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="horncomb.case" format="2">
   <outline>
-    <component base="horncomb" xOffset="1.0"/>
+    <component base="horncomb" yxScale="0.05037128205128203" xOffset="-27.307692307692296"/>
   </outline>
   <lib>
     <dict>

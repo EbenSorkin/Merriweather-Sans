@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="otildeacute.sc" format="2">
-  <advance width="650.0"/>
-  <anchor x="288.0" y="0.0" name="bottom"/>
-  <anchor x="332.0" y="325.0" name="center"/>
-  <anchor x="373.0" y="9.0" name="ogonek"/>
-  <anchor x="393.0" y="996.0" name="top"/>
-  <anchor x="70.0" y="650.0" name="topleft"/>
-  <anchor x="678.0" y="650.0" name="topright"/>
+  <advance width="659.0"/>
+  <anchor x="293.0" y="0.0" name="bottom"/>
+  <anchor x="337.0" y="325.0" name="center"/>
+  <anchor x="438.0" y="9.0" name="ogonek"/>
+  <anchor x="334.0" y="1042.0" name="top"/>
+  <anchor x="71.0" y="649.0" name="topleft"/>
+  <anchor x="687.0" y="649.0" name="topright"/>
   <outline>
     <component base="o.sc"/>
-    <component base="tildecomb" xOffset="337.0" yOffset="93.0"/>
-    <component base="acutecomb" xOffset="360.0" yOffset="267.0"/>
+    <component base="tildecomb" xOffset="343.0" yOffset="92.0"/>
+    <component base="acutecomb" xOffset="339.0" yOffset="295.0"/>
   </outline>
   <lib>
     <dict>

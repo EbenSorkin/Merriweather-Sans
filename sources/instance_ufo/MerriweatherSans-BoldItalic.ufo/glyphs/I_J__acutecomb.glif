@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="IJ_acutecomb" format="2">
-  <advance width="564.0"/>
+  <advance width="650.7948717948718"/>
   <note>
 IJ_acutecomb
 </note>
-  <anchor x="103.0" y="0.0" name="bottom_1"/>
-  <anchor x="385.0" y="0.0" name="bottom_2"/>
-  <anchor x="216.0" y="10.0" name="ogonek"/>
-  <anchor x="537.0" y="973.0" name="top"/>
-  <anchor x="490.0" y="747.0" name="top_"/>
-  <anchor x="82.0" y="747.0" name="topleft"/>
+  <anchor x="126.56410256410257" y="0.0" name="bottom_1"/>
+  <anchor x="452.05128205128204" y="0.0" name="bottom_2"/>
+  <anchor x="259.4871794871795" y="10.0" name="ogonek"/>
+  <anchor x="575.1025641025641" y="973.0" name="top"/>
+  <anchor x="556.5128205128206" y="747.0" name="top_"/>
+  <anchor x="82.0" y="748.7692307692307" name="topleft"/>
   <outline>
     <component base="IJ"/>
-    <component base="acutecomb.case" xOffset="142.0"/>
-    <component base="acutecomb.case" xOffset="444.0" yOffset="-3.0"/>
+    <component base="acutecomb.case" xOffset="166.15384615384616"/>
+    <component base="acutecomb.case" xOffset="482.1025641025641" yOffset="-3.0"/>
   </outline>
   <lib>
     <dict>

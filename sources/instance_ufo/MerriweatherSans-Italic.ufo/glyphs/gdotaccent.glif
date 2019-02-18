@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gdotaccent" format="2">
-  <advance width="561.0"/>
+  <advance width="573.775"/>
   <unicode hex="0121"/>
   <note>
 gdotaccent
 </note>
-  <anchor x="208.0" y="-273.0" name="bottom"/>
-  <anchor x="380.0" y="769.0" name="top"/>
+  <anchor x="214.225" y="-273.0" name="bottom"/>
+  <anchor x="384.55" y="768.675" name="top"/>
   <outline>
     <component base="g"/>
-    <component base="dotaccentcomb" xOffset="313.0"/>
+    <component base="dotaccentcomb" xOffset="320.9"/>
   </outline>
   <lib>
     <dict>

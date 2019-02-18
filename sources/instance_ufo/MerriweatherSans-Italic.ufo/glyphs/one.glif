@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="one" format="2">
-  <advance width="454.0"/>
+  <advance width="452.05"/>
   <unicode hex="0031"/>
   <outline>
     <contour>
-      <point x="163.0" y="0.0" type="line"/>
-      <point x="238.0" y="0.0" type="line"/>
-      <point x="350.0" y="739.0" type="line"/>
-      <point x="317.0" y="747.0" type="line"/>
-      <point x="316.0" y="747.0" type="line"/>
-      <point x="267.0" y="712.0"/>
-      <point x="182.0" y="664.0"/>
-      <point x="113.0" y="648.0" type="curve"/>
-      <point x="122.0" y="601.0" type="line"/>
-      <point x="176.0" y="612.0"/>
-      <point x="226.0" y="633.0"/>
-      <point x="261.0" y="647.0" type="curve"/>
+      <point x="140.875" y="0.0" type="line"/>
+      <point x="254.55" y="0.0" type="line"/>
+      <point x="362.9" y="736.35" type="line"/>
+      <point x="306.55" y="747.0" type="line"/>
+      <point x="306.22499999999997" y="747.0" type="line"/>
+      <point x="254.225" y="711.0"/>
+      <point x="171.225" y="664.0"/>
+      <point x="103.225" y="648.0" type="curve"/>
+      <point x="115.85" y="579.15" type="line"/>
+      <point x="158.52499999999998" y="586.15"/>
+      <point x="191.25" y="593.525"/>
+      <point x="229.25" y="605.525" type="curve"/>
     </contour>
   </outline>
   <lib>

@@ -6,22 +6,22 @@
 Z
 </note>
   <anchor x="246.0" y="0.0" name="bottom"/>
-  <anchor x="296.0" y="374.0" name="center"/>
-  <anchor x="365.0" y="747.0" name="top"/>
+  <anchor x="296.0" y="374.325" name="center"/>
+  <anchor x="356.3" y="747.975" name="top"/>
   <outline>
     <contour>
-      <point x="18.0" y="0.0" type="line"/>
-      <point x="491.0" y="0.0" type="line"/>
-      <point x="501.0" y="63.0" type="line"/>
-      <point x="105.0" y="59.0" type="line"/>
-      <point x="166.0" y="131.0" type="line"/>
-      <point x="577.0" y="715.0" type="line"/>
-      <point x="568.0" y="747.0" type="line"/>
-      <point x="127.0" y="747.0" type="line"/>
-      <point x="119.0" y="685.0" type="line"/>
-      <point x="482.0" y="690.0" type="line"/>
-      <point x="409.0" y="599.0" type="line"/>
-      <point x="7.0" y="34.0" type="line"/>
+      <point x="14.17499999999999" y="0.0" type="line"/>
+      <point x="490.0" y="0.0" type="line"/>
+      <point x="504.625" y="92.75000000000001" type="line"/>
+      <point x="148.025" y="86.75000000000001" type="line"/>
+      <point x="205.775" y="152.225" type="line"/>
+      <point x="583.85" y="705.0" type="line"/>
+      <point x="571.175" y="747.0" type="line"/>
+      <point x="126.675" y="747.0" type="line"/>
+      <point x="114.05" y="655.9" type="line"/>
+      <point x="442.92499999999995" y="662.575" type="line"/>
+      <point x="380.84999999999997" y="591.725" type="line"/>
+      <point x="0.4999999999999911" y="43.0" type="line"/>
     </contour>
   </outline>
   <lib>

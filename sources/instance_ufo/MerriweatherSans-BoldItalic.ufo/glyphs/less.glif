@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="less" format="2">
-  <advance width="668.0"/>
+  <advance width="677.4615384615385"/>
   <unicode hex="003C"/>
   <note>
 less
 </note>
   <outline>
     <contour>
-      <point x="530.0" y="86.0" type="line"/>
-      <point x="537.0" y="152.0" type="line"/>
-      <point x="180.0" y="363.0" type="line"/>
-      <point x="586.0" y="574.0" type="line"/>
-      <point x="596.0" y="646.0" type="line"/>
-      <point x="102.0" y="391.0" type="line"/>
-      <point x="96.0" y="343.0" type="line"/>
+      <point x="537.4615384615385" y="87.41025641025641" type="line"/>
+      <point x="548.8717948717949" y="210.07692307692307" type="line"/>
+      <point x="262.4102564102564" y="366.2307692307692" type="line"/>
+      <point x="587.8205128205128" y="520.5641025641025" type="line"/>
+      <point x="604.0512820512821" y="655.4615384615385" type="line"/>
+      <point x="104.41025641025641" y="402.64102564102564" type="line"/>
+      <point x="96.41025641025641" y="339.64102564102564" type="line"/>
     </contour>
   </outline>
   <lib>

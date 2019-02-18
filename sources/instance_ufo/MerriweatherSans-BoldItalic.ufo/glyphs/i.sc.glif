@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="i.sc" format="2">
-  <advance width="272.0"/>
+  <advance width="323.71794871794873"/>
   <note>
 I
 </note>
-  <anchor x="100.0" y="0.0" name="bottom"/>
-  <anchor x="208.0" y="9.0" name="ogonek"/>
-  <anchor x="188.0" y="650.0" name="top"/>
-  <anchor x="70.0" y="650.0" name="topleft"/>
+  <anchor x="125.56410256410257" y="0.0" name="bottom"/>
+  <anchor x="255.48717948717947" y="9.0" name="ogonek"/>
+  <anchor x="216.15384615384616" y="650.0" name="top"/>
+  <anchor x="70.0" y="650.1794871794872" name="topleft"/>
   <outline>
     <contour>
-      <point x="67.0" y="0.0" type="line"/>
-      <point x="142.0" y="0.0" type="line"/>
-      <point x="223.0" y="647.0" type="line"/>
-      <point x="148.0" y="647.0" type="line"/>
+      <point x="49.12820512820513" y="0.0" type="line"/>
+      <point x="201.7179487179487" y="0.0" type="line"/>
+      <point x="293.1794871794872" y="647.0" type="line"/>
+      <point x="140.5897435897436" y="647.0" type="line"/>
     </contour>
   </outline>
   <lib>

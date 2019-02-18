@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hcircumflex" format="2">
-  <advance width="585.0"/>
+  <advance width="594.1"/>
   <unicode hex="0125"/>
   <note>
 hcircumflex
 </note>
-  <anchor x="256.0" y="0.0" name="bottom"/>
-  <anchor x="321.0" y="492.0" name="center"/>
-  <anchor x="216.0" y="987.0" name="top"/>
+  <anchor x="260.55" y="0.0" name="bottom"/>
+  <anchor x="325.55" y="492.0" name="center"/>
+  <anchor x="227.20000000000002" y="987.0" name="top"/>
   <outline>
     <component base="h"/>
-    <component base="circumflexcomb.case" xOffset="123.0" yOffset="11.0"/>
+    <component base="circumflexcomb.case" xOffset="134.20000000000002" yOffset="11.0"/>
   </outline>
   <lib>
     <dict>

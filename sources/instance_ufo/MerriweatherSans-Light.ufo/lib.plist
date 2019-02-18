@@ -576,6 +576,15 @@
     </dict>
     <key>com.schriftgestaltung.appVersion</key>
     <string>1213</string>
+    <key>com.schriftgestaltung.customParameter.GSFont.Axes</key>
+    <array>
+      <dict>
+        <key>Name</key>
+        <string>Weight</string>
+        <key>Tag</key>
+        <string>wght</string>
+      </dict>
+    </array>
     <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
     <array>
       <string>1234567890123456782345678901234567893456789012345678904567890123456789015678901234567890126789012345678901237890123456789012348901234567890123459012345678901234560123456789012345671 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 34 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 67 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 90 1 2 3 4 5 6 7 8 9 012345678901234567890123456789012345678901234567890123456789012345678912345678901234567890123456789012345678010203040506070809000 111213141516171819101 212223242526272829202 313233343536373839303414243444546474849404 515253545556575859505 616263646566676869606 717273747576777879707818283848586878889808 91929394959697989990900 01 02 03 04 05 06 07 08 09 10    11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29   30 31 32 33 34 35 36 37 38 39 40 41 42 43 4 45 46 47 48 49  50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69  70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 8990 91 92 93 94 95 96 97 98 99</string>
@@ -590,6 +599,13 @@
       <string>U</string>
       <string>O</string>
       <string>A</string>
+      <string>/dcaron</string>
+      <string>/caroncomb.alt</string>
+      <string>/lcaron</string>
+      <string>/tcaron</string>
+      <string>/Lcaron</string>
+      <string>/Ohorn</string>
+      <string>y</string>
     </array>
     <key>com.schriftgestaltung.customParameter.GSFont.Enforce Compatibility Check</key>
     <integer>1</integer>

@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="f.sc" format="2">
-  <advance width="499.0"/>
+  <advance width="500.975"/>
   <note>
 F
 </note>
-  <anchor x="212.0" y="0.0" name="bottom"/>
-  <anchor x="299.0" y="650.0" name="top"/>
+  <anchor x="213.0" y="0.0" name="bottom"/>
+  <anchor x="299.0" y="651.0" name="top"/>
   <outline>
     <contour>
-      <point x="56.0" y="0.0" type="line"/>
-      <point x="130.0" y="0.0" type="line"/>
-      <point x="169.0" y="301.0" type="line"/>
-      <point x="406.0" y="295.0" type="line"/>
-      <point x="410.0" y="359.0" type="line"/>
-      <point x="175.0" y="355.0" type="line"/>
-      <point x="206.0" y="590.0" type="line"/>
-      <point x="499.0" y="586.0" type="line"/>
-      <point x="504.0" y="646.0" type="line"/>
-      <point x="137.0" y="646.0" type="line"/>
+      <point x="46.77499999999999" y="0.0" type="line"/>
+      <point x="156.775" y="0.0" type="line"/>
+      <point x="194.775" y="282.525" type="line"/>
+      <point x="412.875" y="276.5" type="line"/>
+      <point x="420.5" y="368.575" type="line"/>
+      <point x="204.4" y="364.9" type="line"/>
+      <point x="231.425" y="563.9" type="line"/>
+      <point x="500.625" y="561.225" type="line"/>
+      <point x="509.25" y="646.975" type="line"/>
+      <point x="131.05" y="646.975" type="line"/>
     </contour>
   </outline>
   <lib>

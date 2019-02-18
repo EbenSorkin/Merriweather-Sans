@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="emacrongrave.sc" format="2">
-  <advance width="538.0"/>
-  <anchor x="232.0" y="0.0" name="bottom"/>
-  <anchor x="447.0" y="9.0" name="ogonek"/>
-  <anchor x="368.0" y="1024.0" name="top"/>
-  <anchor x="70.0" y="650.0" name="topleft"/>
+  <advance width="544.225"/>
+  <anchor x="234.625" y="0.0" name="bottom"/>
+  <anchor x="452.225" y="9.0" name="ogonek"/>
+  <anchor x="371.625" y="1036.575" name="top"/>
+  <anchor x="69.025" y="651.0" name="topleft"/>
   <outline>
     <component base="e.sc"/>
-    <component base="macroncomb" xOffset="281.0" yOffset="93.0"/>
-    <component base="gravecomb" xOffset="301.0" yOffset="236.0"/>
+    <component base="macroncomb" xOffset="283.625" yOffset="94.0"/>
+    <component base="gravecomb" xOffset="304.625" yOffset="248.57500000000002"/>
   </outline>
   <lib>
     <dict>

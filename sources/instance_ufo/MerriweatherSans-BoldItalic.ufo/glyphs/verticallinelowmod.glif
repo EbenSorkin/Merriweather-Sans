@@ -3,10 +3,10 @@
   <unicode hex="02CC"/>
   <outline>
     <contour>
-      <point x="-27.0" y="-258.0" type="line"/>
-      <point x="26.0" y="-258.0" type="line"/>
-      <point x="45.0" y="95.0" type="line"/>
-      <point x="-45.0" y="95.0" type="line"/>
+      <point x="-43.43589743589743" y="-318.28205128205127" type="line"/>
+      <point x="41.84615384615384" y="-318.28205128205127" type="line"/>
+      <point x="67.48717948717947" y="95.0" type="line"/>
+      <point x="-67.48717948717947" y="95.0" type="line"/>
     </contour>
   </outline>
   <lib>

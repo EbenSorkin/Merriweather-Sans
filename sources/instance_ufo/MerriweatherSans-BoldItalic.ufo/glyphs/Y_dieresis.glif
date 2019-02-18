@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ydieresis" format="2">
-  <advance width="529.0"/>
+  <advance width="556.7948717948718"/>
   <unicode hex="0178"/>
   <note>
 Ydieresis
 </note>
-  <anchor x="228.0" y="0.0" name="bottom"/>
-  <anchor x="350.0" y="919.0" name="top"/>
-  <anchor x="82.0" y="747.0" name="topleft"/>
+  <anchor x="241.69230769230768" y="0.0" name="bottom"/>
+  <anchor x="370.3333333333333" y="974.2564102564103" name="top"/>
+  <anchor x="82.0" y="748.7692307692307" name="topleft"/>
   <outline>
     <component base="Y"/>
-    <component base="dieresiscomb.case" xOffset="265.0"/>
+    <component base="dieresiscomb.case" xOffset="278.6923076923077" yOffset="1.7692307692307696"/>
   </outline>
   <lib>
     <dict>

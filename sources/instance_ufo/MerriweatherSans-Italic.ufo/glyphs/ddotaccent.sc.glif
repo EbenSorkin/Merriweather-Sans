@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ddotaccent.sc" format="2">
-  <advance width="649.0"/>
-  <anchor x="287.0" y="0.0" name="bottom"/>
-  <anchor x="331.0" y="325.0" name="center"/>
-  <anchor x="403.0" y="862.0" name="top"/>
+  <advance width="653.25"/>
+  <anchor x="288.975" y="0.0" name="bottom"/>
+  <anchor x="332.975" y="326.0" name="center"/>
+  <anchor x="401.95" y="862.675" name="top"/>
   <outline>
     <component base="d.sc"/>
-    <component base="dotaccentcomb" xOffset="336.0" yOffset="93.0"/>
+    <component base="dotaccentcomb" xOffset="338.3" yOffset="94.0"/>
   </outline>
   <lib>
     <dict>

@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="nacute.sc" format="2">
-  <advance width="660.0"/>
-  <anchor x="294.0" y="0.0" name="bottom"/>
-  <anchor x="376.0" y="822.0" name="top"/>
+  <advance width="697.4358974358975"/>
+  <anchor x="307.28205128205127" y="0.0" name="bottom"/>
+  <anchor x="338.38461538461536" y="824.2564102564103" name="top"/>
   <outline>
     <component base="n.sc"/>
-    <component base="acutecomb" xOffset="343.0" yOffset="93.0"/>
+    <component base="acutecomb" xOffset="343.974358974359" yOffset="93.17948717948718"/>
   </outline>
   <lib>
     <dict>

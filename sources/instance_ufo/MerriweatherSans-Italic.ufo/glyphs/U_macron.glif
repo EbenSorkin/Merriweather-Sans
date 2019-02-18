@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Umacron" format="2">
-  <advance width="664.0"/>
+  <advance width="672.175"/>
   <unicode hex="016A"/>
   <note>
 Umacron
 </note>
-  <anchor x="295.0" y="0.0" name="bottom"/>
-  <anchor x="368.0" y="0.0" name="ogonek"/>
-  <anchor x="418.0" y="903.0" name="top"/>
-  <anchor x="706.0" y="747.0" name="topright"/>
+  <anchor x="299.25" y="0.0" name="bottom"/>
+  <anchor x="387.5" y="0.0" name="ogonek"/>
+  <anchor x="425.2" y="908.925" name="top"/>
+  <anchor x="714.175" y="747.975" name="topright"/>
   <outline>
     <component base="U"/>
-    <component base="macroncomb.case" xOffset="337.0"/>
+    <component base="macroncomb.case" xOffset="342.55" yOffset="0.9750000000000014"/>
   </outline>
   <lib>
     <dict>

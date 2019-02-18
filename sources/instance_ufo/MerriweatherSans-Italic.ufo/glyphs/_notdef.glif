@@ -1,29 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name=".notdef" format="2">
-  <advance width="901.0"/>
+  <advance width="914.0"/>
   <note>
 .notdef
 </note>
   <outline>
     <contour>
-      <point x="107.0" y="0.0" type="line"/>
-      <point x="793.0" y="0.0" type="line"/>
-      <point x="793.0" y="691.0" type="line"/>
-      <point x="107.0" y="691.0" type="line"/>
+      <point x="110.025" y="0.0" type="line"/>
+      <point x="801.7" y="0.0" type="line"/>
+      <point x="801.7" y="691.0" type="line"/>
+      <point x="110.025" y="691.0" type="line"/>
     </contour>
     <contour>
-      <point x="285.0" y="113.0" type="line"/>
-      <point x="226.0" y="181.0" type="line"/>
-      <point x="396.0" y="344.0" type="line"/>
-      <point x="225.0" y="518.0" type="line"/>
-      <point x="282.0" y="576.0" type="line"/>
-      <point x="451.0" y="399.0" type="line"/>
-      <point x="618.0" y="576.0" type="line"/>
-      <point x="677.0" y="518.0" type="line"/>
-      <point x="503.0" y="346.0" type="line"/>
-      <point x="677.0" y="169.0" type="line"/>
-      <point x="621.0" y="113.0" type="line"/>
-      <point x="449.0" y="291.0" type="line"/>
+      <point x="285.025" y="107.0" type="line"/>
+      <point x="222.7" y="177.0" type="line"/>
+      <point x="397.025" y="344.0" type="line"/>
+      <point x="222.025" y="521.0" type="line"/>
+      <point x="282.025" y="583.0" type="line"/>
+      <point x="456.7" y="403.0" type="line"/>
+      <point x="628.025" y="582.0" type="line"/>
+      <point x="690.7" y="521.0" type="line"/>
+      <point x="513.7" y="346.0" type="line"/>
+      <point x="690.7" y="167.0" type="line"/>
+      <point x="631.025" y="107.0" type="line"/>
+      <point x="454.7" y="287.0" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="f_f_l" format="2">
-  <advance width="953.0"/>
+  <advance width="1073.0"/>
   <note>
 f_f_l
 </note>
-  <anchor x="133.0" y="0.0" name="bottom_1"/>
-  <anchor x="472.0" y="0.0" name="bottom_2"/>
-  <anchor x="782.0" y="0.0" name="bottom_3"/>
-  <anchor x="844.0" y="492.0" name="center"/>
-  <anchor x="244.0" y="747.0" name="top_1"/>
-  <anchor x="583.0" y="747.0" name="top_2"/>
-  <anchor x="885.0" y="778.0" name="top_3"/>
-  <anchor x="995.0" y="711.0" name="topright"/>
+  <anchor x="150.0" y="0.0" name="bottom_1"/>
+  <anchor x="524.0" y="0.0" name="bottom_2"/>
+  <anchor x="878.0" y="0.0" name="bottom_3"/>
+  <anchor x="939.0" y="492.0" name="center"/>
+  <anchor x="280.0" y="747.0" name="top_1"/>
+  <anchor x="654.0" y="747.0" name="top_2"/>
+  <anchor x="980.0" y="784.0" name="top_3"/>
+  <anchor x="1105.0" y="711.0" name="topright"/>
   <outline>
     <component base="f"/>
-    <component base="f" xOffset="339.0"/>
-    <component base="l" xOffset="678.0"/>
+    <component base="f" xOffset="374.0"/>
+    <component base="l" xOffset="748.0"/>
   </outline>
   <lib>
     <dict>

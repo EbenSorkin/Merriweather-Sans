@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Eogonek" format="2">
-  <advance width="556.0"/>
+  <advance width="578.5641025641025"/>
   <unicode hex="0118"/>
   <note>
 Eogonek
 </note>
   <anchor x="288.0" y="0.0" name="bottom"/>
-  <anchor x="465.0" y="10.0" name="ogonek"/>
-  <anchor x="348.0" y="747.0" name="top"/>
-  <anchor x="82.0" y="747.0" name="topleft"/>
+  <anchor x="485.7435897435897" y="10.0" name="ogonek"/>
+  <anchor x="362.2051282051282" y="747.0" name="top"/>
+  <anchor x="82.0" y="748.7692307692307" name="topleft"/>
   <outline>
     <component base="E"/>
-    <component base="ogonekcomb.case" xOffset="501.0" yOffset="10.0"/>
+    <component base="ogonekcomb.case" xOffset="521.7435897435897" yOffset="10.0"/>
   </outline>
   <lib>
     <dict>

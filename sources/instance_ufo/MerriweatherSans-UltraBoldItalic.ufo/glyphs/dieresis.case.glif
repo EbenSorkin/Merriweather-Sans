@@ -7,32 +7,32 @@ dieresis.cap
   <anchor x="87.0" y="939.0" name="top"/>
   <outline>
     <contour>
-      <point x="176.0" y="840.0" type="curve" smooth="yes"/>
-      <point x="208.0" y="840.0"/>
-      <point x="233.0" y="869.0"/>
-      <point x="233.0" y="902.0" type="curve" smooth="yes"/>
-      <point x="233.0" y="927.0"/>
-      <point x="216.0" y="945.0"/>
-      <point x="189.0" y="945.0" type="curve" smooth="yes"/>
-      <point x="162.0" y="945.0"/>
-      <point x="134.0" y="917.0"/>
-      <point x="134.0" y="887.0" type="curve" smooth="yes"/>
-      <point x="134.0" y="860.0"/>
-      <point x="152.0" y="840.0"/>
+      <point x="186.0" y="797.0" type="curve" smooth="yes"/>
+      <point x="247.0" y="797.0"/>
+      <point x="279.0" y="840.0"/>
+      <point x="279.0" y="897.0" type="curve" smooth="yes"/>
+      <point x="279.0" y="937.0"/>
+      <point x="245.0" y="974.0"/>
+      <point x="202.0" y="974.0" type="curve" smooth="yes"/>
+      <point x="148.0" y="974.0"/>
+      <point x="113.0" y="931.0"/>
+      <point x="113.0" y="876.0" type="curve" smooth="yes"/>
+      <point x="113.0" y="837.0"/>
+      <point x="147.0" y="797.0"/>
     </contour>
     <contour>
-      <point x="-29.0" y="840.0" type="curve" smooth="yes"/>
-      <point x="2.0" y="840.0"/>
-      <point x="28.0" y="868.0"/>
-      <point x="28.0" y="901.0" type="curve" smooth="yes"/>
-      <point x="28.0" y="926.0"/>
-      <point x="11.0" y="945.0"/>
-      <point x="-17.0" y="945.0" type="curve" smooth="yes"/>
-      <point x="-43.0" y="945.0"/>
-      <point x="-71.0" y="916.0"/>
-      <point x="-71.0" y="885.0" type="curve" smooth="yes"/>
-      <point x="-71.0" y="860.0"/>
-      <point x="-53.0" y="840.0"/>
+      <point x="-46.0" y="797.0" type="curve" smooth="yes"/>
+      <point x="16.0" y="797.0"/>
+      <point x="48.0" y="838.0"/>
+      <point x="48.0" y="897.0" type="curve" smooth="yes"/>
+      <point x="48.0" y="937.0"/>
+      <point x="14.0" y="974.0"/>
+      <point x="-29.0" y="974.0" type="curve" smooth="yes"/>
+      <point x="-83.0" y="974.0"/>
+      <point x="-119.0" y="931.0"/>
+      <point x="-119.0" y="877.0" type="curve" smooth="yes"/>
+      <point x="-119.0" y="837.0"/>
+      <point x="-84.0" y="797.0"/>
     </contour>
   </outline>
   <lib>

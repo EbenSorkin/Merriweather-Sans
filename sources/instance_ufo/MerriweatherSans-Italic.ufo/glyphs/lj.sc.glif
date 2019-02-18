@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="lj.sc" format="2">
-  <advance width="740.0"/>
-  <anchor x="194.0" y="0.0" name="bottom_1"/>
-  <anchor x="565.0" y="0.0" name="bottom_2"/>
-  <anchor x="238.0" y="325.0" name="center"/>
-  <anchor x="280.0" y="650.0" name="top_1"/>
-  <anchor x="656.0" y="650.0" name="top_2"/>
-  <anchor x="491.0" y="650.0" name="topright"/>
+  <advance width="762.575"/>
+  <anchor x="199.57500000000002" y="0.0" name="bottom_1"/>
+  <anchor x="581.025" y="0.0" name="bottom_2"/>
+  <anchor x="242.9" y="326.0" name="center"/>
+  <anchor x="285.575" y="651.0" name="top_1"/>
+  <anchor x="682.35" y="651.0" name="top_2"/>
+  <anchor x="500.475" y="651.0" name="topright"/>
   <outline>
     <component base="l.sc"/>
-    <component base="j.sc" xOffset="463.0"/>
+    <component base="j.sc" xOffset="473.15000000000003"/>
   </outline>
   <lib>
     <dict>

@@ -1,30 +1,30 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="franc" format="2">
-  <advance width="571.0"/>
+  <advance width="586.025"/>
   <unicode hex="20A3"/>
   <note>
 franc
 </note>
   <outline>
     <contour>
-      <point x="96.0" y="0.0" type="line"/>
-      <point x="169.0" y="0.0" type="line"/>
-      <point x="190.0" y="166.0" type="line"/>
-      <point x="323.0" y="166.0" type="line"/>
-      <point x="330.0" y="225.0" type="line"/>
-      <point x="197.0" y="225.0" type="line"/>
-      <point x="214.0" y="354.0" type="line"/>
-      <point x="464.0" y="348.0" type="line"/>
-      <point x="469.0" y="412.0" type="line"/>
-      <point x="221.0" y="408.0" type="line"/>
-      <point x="256.0" y="692.0" type="line"/>
-      <point x="565.0" y="688.0" type="line"/>
-      <point x="570.0" y="747.0" type="line"/>
-      <point x="190.0" y="747.0" type="line"/>
-      <point x="124.0" y="225.0" type="line"/>
-      <point x="14.0" y="225.0" type="line"/>
-      <point x="7.0" y="166.0" type="line"/>
-      <point x="117.0" y="166.0" type="line"/>
+      <point x="96.27499999999998" y="0.0" type="line"/>
+      <point x="208.95" y="0.0" type="line"/>
+      <point x="226.65" y="134.625" type="line"/>
+      <point x="374.075" y="134.625" type="line"/>
+      <point x="383.75" y="215.575" type="line"/>
+      <point x="236.975" y="215.575" type="line"/>
+      <point x="252.625" y="336.55" type="line"/>
+      <point x="480.375" y="329.2" type="line"/>
+      <point x="489.0" y="423.6" type="line"/>
+      <point x="263.575" y="419.925" type="line"/>
+      <point x="294.275" y="661.925" type="line"/>
+      <point x="574.2" y="658.25" type="line"/>
+      <point x="583.475" y="747.0" type="line"/>
+      <point x="193.225" y="747.0" type="line"/>
+      <point x="124.29999999999998" y="215.575" type="line"/>
+      <point x="16.924999999999983" y="215.575" type="line"/>
+      <point x="7.924999999999986" y="134.625" type="line"/>
+      <point x="113.29999999999998" y="134.625" type="line"/>
     </contour>
   </outline>
   <lib>

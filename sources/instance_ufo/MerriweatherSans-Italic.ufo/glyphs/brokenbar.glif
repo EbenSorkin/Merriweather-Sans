@@ -7,16 +7,16 @@ brokenbar
 </note>
   <outline>
     <contour>
-      <point x="183.0" y="-91.0" type="line"/>
-      <point x="247.0" y="-91.0" type="line"/>
-      <point x="247.0" y="346.0" type="line"/>
-      <point x="183.0" y="346.0" type="line"/>
+      <point x="170.4" y="81.57500000000024" type="line"/>
+      <point x="260.9" y="81.57500000000024" type="line"/>
+      <point x="260.9" y="515.9750000000003" type="line"/>
+      <point x="170.4" y="515.9750000000003" type="line"/>
     </contour>
     <contour>
-      <point x="183.0" y="433.0" type="line"/>
-      <point x="247.0" y="433.0" type="line"/>
-      <point x="247.0" y="869.0" type="line"/>
-      <point x="183.0" y="869.0" type="line"/>
+      <point x="170.4" y="262.69999999999976" type="line"/>
+      <point x="260.9" y="262.69999999999976" type="line"/>
+      <point x="260.9" y="696.4249999999997" type="line"/>
+      <point x="170.4" y="696.4249999999997" type="line"/>
     </contour>
   </outline>
   <lib>

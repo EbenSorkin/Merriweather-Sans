@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Rcaron" format="2">
-  <advance width="613.0"/>
+  <advance width="645.3846153846154"/>
   <unicode hex="0158"/>
   <note>
 Rcaron
 </note>
-  <anchor x="270.0" y="0.0" name="bottom"/>
-  <anchor x="373.0" y="976.0" name="top"/>
+  <anchor x="285.6923076923077" y="0.0" name="bottom"/>
+  <anchor x="392.1025641025641" y="976.0" name="top"/>
   <outline>
     <component base="R"/>
-    <component base="caroncomb.case" xOffset="280.0"/>
+    <component base="caroncomb.case" xOffset="299.1025641025641"/>
   </outline>
   <lib>
     <dict>

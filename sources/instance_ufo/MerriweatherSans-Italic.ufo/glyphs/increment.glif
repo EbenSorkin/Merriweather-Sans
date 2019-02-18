@@ -7,17 +7,17 @@ uni2206
 </note>
   <outline>
     <contour>
-      <point x="-4.0" y="0.0" type="line"/>
-      <point x="636.0" y="0.0" type="line"/>
-      <point x="644.0" y="13.0" type="line"/>
-      <point x="373.0" y="736.0" type="line"/>
-      <point x="358.0" y="736.0" type="line"/>
-      <point x="-10.0" y="11.0" type="line"/>
+      <point x="-11.950000000000003" y="0.0" type="line"/>
+      <point x="640.375" y="0.0" type="line"/>
+      <point x="648.7" y="13.0" type="line"/>
+      <point x="371.375" y="736.0" type="line"/>
+      <point x="355.375" y="736.0" type="line"/>
+      <point x="-17.625" y="11.0" type="line"/>
     </contour>
     <contour>
-      <point x="106.0" y="63.0" type="line"/>
-      <point x="357.0" y="578.0" type="line"/>
-      <point x="541.0" y="63.0" type="line"/>
+      <point x="147.45000000000002" y="92.42500000000001" type="line"/>
+      <point x="351.075" y="510.025" type="line"/>
+      <point x="502.625" y="92.42500000000001" type="line"/>
     </contour>
   </outline>
   <lib>

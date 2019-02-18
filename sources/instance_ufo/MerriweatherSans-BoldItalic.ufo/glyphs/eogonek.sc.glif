@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="eogonek.sc" format="2">
-  <advance width="538.0"/>
-  <anchor x="232.0" y="0.0" name="bottom"/>
-  <anchor x="447.0" y="9.0" name="ogonek"/>
-  <anchor x="318.0" y="650.0" name="top"/>
-  <anchor x="70.0" y="650.0" name="topleft"/>
+  <advance width="558.3333333333334"/>
+  <anchor x="239.64102564102564" y="0.0" name="bottom"/>
+  <anchor x="465.1025641025641" y="9.0" name="ogonek"/>
+  <anchor x="325.64102564102564" y="650.1794871794872" name="top"/>
+  <anchor x="65.35897435897436" y="650.1794871794872" name="topleft"/>
   <outline>
     <component base="e.sc"/>
-    <component base="ogonekcomb" xOffset="483.0" yOffset="-1.0"/>
+    <component base="ogonekcomb" xOffset="501.1025641025641" yOffset="-1.0"/>
   </outline>
   <lib>
     <dict>

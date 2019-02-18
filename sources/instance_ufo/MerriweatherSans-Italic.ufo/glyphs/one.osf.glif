@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="one.osf" format="2">
-  <advance width="445.0"/>
+  <advance width="462.45"/>
   <note>
 one
 </note>
   <outline>
     <contour>
-      <point x="170.0" y="0.0" type="line"/>
-      <point x="245.0" y="0.0" type="line"/>
-      <point x="326.0" y="558.0" type="line"/>
-      <point x="292.0" y="567.0" type="line"/>
-      <point x="232.0" y="524.0"/>
-      <point x="153.0" y="482.0"/>
-      <point x="89.0" y="469.0" type="curve"/>
-      <point x="98.0" y="421.0" type="line"/>
-      <point x="142.0" y="430.0"/>
-      <point x="164.0" y="438.0"/>
-      <point x="237.0" y="468.0" type="curve"/>
+      <point x="153.675" y="0.0" type="line"/>
+      <point x="264.02500000000003" y="0.0" type="line"/>
+      <point x="343.0" y="558.65" type="line"/>
+      <point x="289.65" y="567.0" type="line"/>
+      <point x="228.0" y="526.0"/>
+      <point x="149.325" y="482.0"/>
+      <point x="86.325" y="469.0" type="curve"/>
+      <point x="98.95" y="401.475" type="line"/>
+      <point x="146.4" y="409.775"/>
+      <point x="177.6" y="416.825"/>
+      <point x="212.675" y="428.85" type="curve"/>
     </contour>
   </outline>
   <lib>

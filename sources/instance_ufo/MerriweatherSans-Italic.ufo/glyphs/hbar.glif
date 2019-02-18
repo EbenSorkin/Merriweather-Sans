@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hbar" format="2">
-  <advance width="585.0"/>
+  <advance width="594.1"/>
   <unicode hex="0127"/>
   <note>
 hbar
 </note>
-  <anchor x="256.0" y="0.0" name="bottom"/>
-  <anchor x="321.0" y="492.0" name="center"/>
-  <anchor x="185.0" y="758.0" name="top"/>
+  <anchor x="260.55" y="0.0" name="bottom"/>
+  <anchor x="325.55" y="492.0" name="center"/>
+  <anchor x="196.20000000000002" y="758.0" name="top"/>
   <outline>
     <contour>
-      <point x="65.0" y="631.0" type="line"/>
-      <point x="349.0" y="631.0" type="line"/>
-      <point x="355.0" y="680.0" type="line"/>
-      <point x="71.0" y="680.0" type="line"/>
+      <point x="63.675" y="616.0" type="line"/>
+      <point x="356.475" y="616.0" type="line"/>
+      <point x="363.475" y="680.0" type="line"/>
+      <point x="71.675" y="680.0" type="line"/>
     </contour>
     <component base="h"/>
   </outline>

@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="i.uc.sc" format="2">
-  <advance width="272.0"/>
-  <anchor x="100.0" y="0.0" name="bottom"/>
-  <anchor x="208.0" y="9.0" name="ogonek"/>
-  <anchor x="188.0" y="650.0" name="top"/>
-  <anchor x="70.0" y="650.0" name="topleft"/>
+  <advance width="323.71794871794873"/>
+  <anchor x="125.56410256410257" y="0.0" name="bottom"/>
+  <anchor x="255.48717948717947" y="9.0" name="ogonek"/>
+  <anchor x="216.15384615384616" y="650.0" name="top"/>
+  <anchor x="70.0" y="650.1794871794872" name="topleft"/>
   <outline>
     <component base="i.sc"/>
   </outline>

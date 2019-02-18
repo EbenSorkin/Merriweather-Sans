@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ymacron" format="2">
-  <advance width="529.0"/>
+  <advance width="535.5"/>
   <unicode hex="0232"/>
-  <anchor x="228.0" y="0.0" name="bottom"/>
-  <anchor x="346.0" y="903.0" name="top"/>
-  <anchor x="82.0" y="747.0" name="topleft"/>
+  <anchor x="231.25" y="0.0" name="bottom"/>
+  <anchor x="350.9" y="908.925" name="top"/>
+  <anchor x="82.0" y="747.975" name="topleft"/>
   <outline>
     <component base="Y"/>
-    <component base="macroncomb.case" xOffset="265.0"/>
+    <component base="macroncomb.case" xOffset="268.25" yOffset="0.9750000000000014"/>
   </outline>
   <lib>
     <dict>

@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="omacronacute" format="2">
-  <advance width="554.0"/>
+  <advance width="577.0"/>
   <unicode hex="1E53"/>
-  <anchor x="240.0" y="0.0" name="bottom"/>
-  <anchor x="277.0" y="279.0" name="center"/>
-  <anchor x="335.0" y="10.0" name="ogonek"/>
-  <anchor x="342.0" y="872.0" name="top"/>
-  <anchor x="571.0" y="557.0" name="topright"/>
+  <anchor x="252.0" y="0.0" name="bottom"/>
+  <anchor x="289.0" y="279.0" name="center"/>
+  <anchor x="385.0" y="10.0" name="ogonek"/>
+  <anchor x="286.0" y="916.0" name="top"/>
+  <anchor x="594.0" y="557.0" name="topright"/>
   <outline>
     <component base="o"/>
-    <component base="macroncomb" xOffset="289.0"/>
-    <component base="acutecomb" xOffset="309.0" yOffset="143.0"/>
+    <component base="macroncomb" xOffset="300.0"/>
+    <component base="acutecomb" xOffset="291.0" yOffset="169.0"/>
   </outline>
   <lib>
     <dict>

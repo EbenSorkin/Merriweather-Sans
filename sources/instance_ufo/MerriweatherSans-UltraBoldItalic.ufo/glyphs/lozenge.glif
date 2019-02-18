@@ -1,30 +1,30 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="lozenge" format="2">
-  <advance width="574.0"/>
+  <advance width="671.0"/>
   <unicode hex="25CA"/>
   <note>
 lozenge
 </note>
   <outline>
     <contour>
-      <point x="286.0" y="0.0" type="line"/>
-      <point x="292.0" y="0.0" type="line"/>
-      <point x="551.0" y="371.0" type="line"/>
-      <point x="551.0" y="377.0" type="line"/>
-      <point x="291.0" y="740.0" type="line"/>
-      <point x="287.0" y="740.0" type="line"/>
-      <point x="28.0" y="377.0" type="line"/>
-      <point x="28.0" y="371.0" type="line"/>
+      <point x="341.0" y="-1.0" type="line"/>
+      <point x="344.0" y="-1.0" type="line"/>
+      <point x="644.0" y="375.0" type="line"/>
+      <point x="644.0" y="381.0" type="line"/>
+      <point x="344.0" y="756.0" type="line"/>
+      <point x="342.0" y="756.0" type="line"/>
+      <point x="42.0" y="381.0" type="line"/>
+      <point x="42.0" y="375.0" type="line"/>
     </contour>
     <contour>
-      <point x="288.0" y="108.0" type="line"/>
-      <point x="108.0" y="373.0" type="line"/>
-      <point x="108.0" y="376.0" type="line"/>
-      <point x="288.0" y="634.0" type="line"/>
-      <point x="290.0" y="634.0" type="line"/>
-      <point x="471.0" y="376.0" type="line"/>
-      <point x="471.0" y="375.0" type="line"/>
-      <point x="290.0" y="108.0" type="line"/>
+      <point x="342.0" y="203.0" type="line"/>
+      <point x="209.0" y="376.0" type="line"/>
+      <point x="209.0" y="379.0" type="line"/>
+      <point x="342.0" y="545.0" type="line"/>
+      <point x="343.0" y="545.0" type="line"/>
+      <point x="477.0" y="379.0" type="line"/>
+      <point x="477.0" y="377.0" type="line"/>
+      <point x="343.0" y="203.0" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Hbrevebelow" format="2">
-  <advance width="688.0"/>
+  <advance width="695.15"/>
   <unicode hex="1E2A"/>
-  <anchor x="308.0" y="0.0" name="bottom"/>
-  <anchor x="408.0" y="747.0" name="top"/>
+  <anchor x="311.25" y="0.0" name="bottom"/>
+  <anchor x="409.625" y="747.0" name="top"/>
   <outline>
     <component base="H"/>
-    <component base="brevebelowcomb.case" xOffset="308.0"/>
+    <component base="brevebelowcomb.case" xOffset="311.25"/>
   </outline>
   <lib>
     <dict>

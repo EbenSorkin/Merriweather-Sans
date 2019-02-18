@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="aring" format="2">
-  <advance width="552.0"/>
+  <advance width="619.0"/>
   <unicode hex="00E5"/>
   <note>
 aring
 </note>
-  <anchor x="209.0" y="0.0" name="bottom"/>
-  <anchor x="462.0" y="10.0" name="ogonek"/>
-  <anchor x="425.0" y="735.0" name="top"/>
+  <anchor x="273.0" y="0.0" name="bottom"/>
+  <anchor x="517.0" y="10.0" name="ogonek"/>
+  <anchor x="465.0" y="742.0" name="top"/>
   <outline>
     <component base="a"/>
-    <component base="ringcomb" xOffset="305.0"/>
+    <component base="ringcomb" xOffset="340.0"/>
   </outline>
   <lib>
     <dict>

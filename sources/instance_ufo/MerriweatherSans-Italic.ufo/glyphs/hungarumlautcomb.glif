@@ -4,24 +4,24 @@
   <note>
 hungarumlaut
 </note>
-  <anchor x="37.0" y="557.0" name="_top"/>
-  <anchor x="67.0" y="788.0" name="top"/>
+  <anchor x="43.74999999999999" y="557.0" name="_top"/>
+  <anchor x="73.75" y="788.0" name="top"/>
   <outline>
     <contour>
-      <point x="119.0" y="610.0" type="line"/>
-      <point x="159.0" y="642.0"/>
-      <point x="238.0" y="747.0"/>
-      <point x="258.0" y="790.0" type="curve"/>
-      <point x="205.0" y="833.0" type="line"/>
-      <point x="83.0" y="631.0" type="line"/>
+      <point x="143.3" y="614.825" type="line"/>
+      <point x="186.65" y="635.175"/>
+      <point x="274.475" y="743.475"/>
+      <point x="293.525" y="789.425" type="curve"/>
+      <point x="217.325" y="849.375" type="line"/>
+      <point x="94.7" y="643.1" type="line"/>
     </contour>
     <contour>
-      <point x="-90.0" y="610.0" type="line"/>
-      <point x="-47.0" y="645.0"/>
-      <point x="19.0" y="733.0"/>
-      <point x="46.0" y="790.0" type="curve"/>
-      <point x="-9.0" y="833.0" type="line"/>
-      <point x="-125.0" y="631.0" type="line"/>
+      <point x="-68.60000000000001" y="614.825" type="line"/>
+      <point x="-24.275000000000006" y="639.85"/>
+      <point x="55.625" y="741.15"/>
+      <point x="75.65" y="790.075" type="curve"/>
+      <point x="-0.22500000000000675" y="849.375" type="line"/>
+      <point x="-117.82500000000002" y="643.1" type="line"/>
     </contour>
   </outline>
   <lib>

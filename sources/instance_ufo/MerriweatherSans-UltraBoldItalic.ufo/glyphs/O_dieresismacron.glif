@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Odieresismacron" format="2">
-  <advance width="673.0"/>
+  <advance width="681.0"/>
   <unicode hex="022A"/>
-  <anchor x="300.0" y="0.0" name="bottom"/>
-  <anchor x="350.0" y="374.0" name="center"/>
-  <anchor x="385.0" y="10.0" name="ogonek"/>
-  <anchor x="447.0" y="1075.0" name="top"/>
+  <anchor x="304.0" y="0.0" name="bottom"/>
+  <anchor x="354.0" y="374.0" name="center"/>
+  <anchor x="449.0" y="10.0" name="ogonek"/>
+  <anchor x="460.0" y="1155.0" name="top"/>
   <anchor x="82.0" y="747.0" name="topleft"/>
-  <anchor x="715.0" y="747.0" name="topright"/>
+  <anchor x="723.0" y="747.0" name="topright"/>
   <outline>
     <component base="O"/>
-    <component base="dieresiscomb.case" xOffset="343.0"/>
-    <component base="macroncomb.case" xOffset="366.0" yOffset="172.0"/>
+    <component base="dieresiscomb.case" xOffset="347.0"/>
+    <component base="macroncomb.case" xOffset="379.0" yOffset="242.0"/>
   </outline>
   <lib>
     <dict>

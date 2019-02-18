@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <designspace format="4.0">
   <axes>
-    <axis tag="wght" name="Weight" minimum="400" maximum="400" default="400">
-      <map input="400" output="72"/>
+    <axis tag="wght" name="Weight" minimum="300" maximum="800" default="362.857143">
+      <map input="300" output="72"/>
+      <map input="400" output="107"/>
+      <map input="700" output="150"/>
+      <map input="800" output="173"/>
     </axis>
-    <axis tag="wdth" name="Width" minimum="5" maximum="5" default="5"/>
   </axes>
   <sources>
     <source filename="MerriweatherSans-UltraBoldItalic.ufo" name="Merriweather Sans UltraBold Italic" familyname="Merriweather Sans" stylename="UltraBold Italic">
       <location>
         <dimension name="Weight" xvalue="173"/>
-        <dimension name="Width" xvalue="5"/>
       </location>
     </source>
     <source filename="MerriweatherSans-BoldItalic.ufo" name="Merriweather Sans Bold Italic" familyname="Merriweather Sans" stylename="Bold Italic">
       <location>
         <dimension name="Weight" xvalue="134"/>
-        <dimension name="Width" xvalue="5"/>
       </location>
     </source>
     <source filename="MerriweatherSans-Italic.ufo" name="Merriweather Sans Italic" familyname="Merriweather Sans" stylename="Italic">
@@ -26,13 +26,11 @@
       <info copy="1"/>
       <location>
         <dimension name="Weight" xvalue="94"/>
-        <dimension name="Width" xvalue="5"/>
       </location>
     </source>
     <source filename="MerriweatherSans-LightItalic.ufo" name="Merriweather Sans Light Italic" familyname="Merriweather Sans" stylename="Light Italic">
       <location>
         <dimension name="Weight" xvalue="72"/>
-        <dimension name="Width" xvalue="5"/>
       </location>
     </source>
   </sources>
@@ -40,15 +38,13 @@
     <instance name="Merriweather Sans UltraBold Italic" familyname="Merriweather Sans" stylename="UltraBold Italic" filename="../instance_ufo/MerriweatherSans-UltraBoldItalic.ufo" stylemapfamilyname="Merriweather Sans UltraBold Italic" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="173"/>
-        <dimension name="Width" xvalue="5"/>
       </location>
       <kerning/>
       <info/>
     </instance>
-    <instance name="Merriweather Sans Bold Italic" familyname="Merriweather Sans" stylename="Bold Italic" filename="../instance_ufo/MerriweatherSans-BoldItalic.ufo" stylemapfamilyname="Merriweather Sans Bold Italic" stylemapstylename="regular">
+    <instance name="Merriweather Sans Bold Italic" familyname="Merriweather Sans" stylename="Bold Italic" filename="../instance_ufo/MerriweatherSans-BoldItalic.ufo" stylemapfamilyname="Merriweather Sans Italic" stylemapstylename="bold">
       <location>
         <dimension name="Weight" xvalue="150"/>
-        <dimension name="Width" xvalue="5"/>
       </location>
       <kerning/>
       <info/>
@@ -56,7 +52,6 @@
     <instance name="Merriweather Sans Italic" familyname="Merriweather Sans" stylename="Italic" filename="../instance_ufo/MerriweatherSans-Italic.ufo" stylemapfamilyname="Merriweather Sans Italic" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="107"/>
-        <dimension name="Width" xvalue="5"/>
       </location>
       <kerning/>
       <info/>
@@ -64,7 +59,6 @@
     <instance name="Merriweather Sans Light Italic" familyname="Merriweather Sans" stylename="Light Italic" filename="../instance_ufo/MerriweatherSans-LightItalic.ufo" stylemapfamilyname="Merriweather Sans Light Italic" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="72"/>
-        <dimension name="Width" xvalue="5"/>
       </location>
       <kerning/>
       <info/>

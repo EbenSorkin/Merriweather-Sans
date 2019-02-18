@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Oogonek" format="2">
-  <advance width="673.0"/>
+  <advance width="674.3"/>
   <unicode hex="01EA"/>
-  <anchor x="300.0" y="0.0" name="bottom"/>
-  <anchor x="350.0" y="374.0" name="center"/>
-  <anchor x="385.0" y="10.0" name="ogonek"/>
-  <anchor x="405.0" y="747.0" name="top"/>
-  <anchor x="82.0" y="747.0" name="topleft"/>
-  <anchor x="715.0" y="747.0" name="topright"/>
+  <anchor x="300.65" y="0.0" name="bottom"/>
+  <anchor x="350.65" y="374.325" name="center"/>
+  <anchor x="407.25" y="10.0" name="ogonek"/>
+  <anchor x="402.95" y="747.975" name="top"/>
+  <anchor x="82.0" y="747.975" name="topleft"/>
+  <anchor x="716.3" y="747.975" name="topright"/>
   <outline>
     <component base="O"/>
-    <component base="ogonekcomb.case" xOffset="421.0" yOffset="10.0"/>
+    <component base="ogonekcomb.case" xOffset="443.925" yOffset="10.0"/>
   </outline>
   <lib>
     <dict>

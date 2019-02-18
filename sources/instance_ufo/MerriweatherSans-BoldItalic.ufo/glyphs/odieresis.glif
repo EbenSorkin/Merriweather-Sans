@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="odieresis" format="2">
-  <advance width="554.0"/>
+  <advance width="569.9230769230769"/>
   <unicode hex="00F6"/>
   <note>
 odieresis
 </note>
-  <anchor x="240.0" y="0.0" name="bottom"/>
-  <anchor x="277.0" y="279.0" name="center"/>
-  <anchor x="335.0" y="10.0" name="ogonek"/>
-  <anchor x="350.0" y="752.0" name="top"/>
-  <anchor x="571.0" y="557.0" name="topright"/>
+  <anchor x="248.46153846153845" y="0.0" name="bottom"/>
+  <anchor x="285.46153846153845" y="279.0" name="center"/>
+  <anchor x="364.94871794871796" y="10.0" name="ogonek"/>
+  <anchor x="360.5128205128205" y="767.9487179487179" name="top"/>
+  <anchor x="586.9230769230769" y="557.0" name="topright"/>
   <outline>
     <component base="o"/>
-    <component base="dieresiscomb" xOffset="289.0"/>
+    <component base="dieresiscomb" xOffset="295.87179487179486"/>
   </outline>
   <lib>
     <dict>

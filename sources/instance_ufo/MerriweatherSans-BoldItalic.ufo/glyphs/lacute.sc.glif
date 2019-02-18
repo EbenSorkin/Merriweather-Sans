@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="lacute.sc" format="2">
-  <advance width="463.0"/>
-  <anchor x="194.0" y="0.0" name="bottom"/>
-  <anchor x="238.0" y="325.0" name="center"/>
-  <anchor x="276.0" y="822.0" name="top"/>
-  <anchor x="491.0" y="650.0" name="topright"/>
+  <advance width="496.61538461538464"/>
+  <anchor x="211.5128205128205" y="0.0" name="bottom"/>
+  <anchor x="255.5128205128205" y="325.5897435897436" name="center"/>
+  <anchor x="242.6153846153846" y="824.2564102564103" name="top"/>
+  <anchor x="524.6153846153846" y="650.1794871794872" name="topright"/>
   <outline>
     <component base="l.sc"/>
-    <component base="acutecomb" xOffset="243.0" yOffset="93.0"/>
+    <component base="acutecomb" xOffset="248.2051282051282" yOffset="93.17948717948718"/>
   </outline>
   <lib>
     <dict>

@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="sacute.sc" format="2">
-  <advance width="494.0"/>
-  <anchor x="210.0" y="0.0" name="bottom"/>
-  <anchor x="290.0" y="822.0" name="top"/>
+  <advance width="501.0"/>
+  <anchor x="214.0" y="0.0" name="bottom"/>
+  <anchor x="249.0" y="840.0" name="top"/>
   <outline>
     <component base="s.sc"/>
-    <component base="acutecomb" xOffset="257.0" yOffset="93.0"/>
+    <component base="acutecomb" xOffset="254.0" yOffset="93.0"/>
   </outline>
   <lib>
     <dict>

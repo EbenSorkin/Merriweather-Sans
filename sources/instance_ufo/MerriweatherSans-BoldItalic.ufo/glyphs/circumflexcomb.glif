@@ -8,13 +8,13 @@ circumflex
   <anchor x="67.0" y="788.0" name="top"/>
   <outline>
     <contour>
-      <point x="-99.0" y="635.0" type="line"/>
-      <point x="64.0" y="781.0" type="line"/>
-      <point x="170.0" y="637.0" type="line"/>
-      <point x="206.0" y="663.0" type="line"/>
-      <point x="107.0" y="847.0" type="line"/>
-      <point x="40.0" y="847.0" type="line"/>
-      <point x="-128.0" y="663.0" type="line"/>
+      <point x="-85.0" y="632.0" type="line"/>
+      <point x="59.94871794871795" y="734.8461538461538" type="line"/>
+      <point x="152.66666666666669" y="633.1794871794872" type="line"/>
+      <point x="219.23076923076923" y="666.1794871794872" type="line"/>
+      <point x="118.76923076923077" y="848.7692307692307" type="line"/>
+      <point x="31.358974358974358" y="848.7692307692307" type="line"/>
+      <point x="-143.15384615384616" y="666.1794871794872" type="line"/>
     </contour>
   </outline>
   <lib>

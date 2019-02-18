@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Icircumflex" format="2">
-  <advance width="279.0"/>
+  <advance width="326.71794871794873"/>
   <unicode hex="00CE"/>
   <note>
 Icircumflex
 </note>
-  <anchor x="103.0" y="0.0" name="bottom"/>
-  <anchor x="216.0" y="10.0" name="ogonek"/>
-  <anchor x="235.0" y="976.0" name="top"/>
-  <anchor x="82.0" y="747.0" name="topleft"/>
+  <anchor x="126.56410256410257" y="0.0" name="bottom"/>
+  <anchor x="259.4871794871795" y="10.0" name="ogonek"/>
+  <anchor x="261.15384615384613" y="976.0" name="top"/>
+  <anchor x="82.0" y="748.7692307692307" name="topleft"/>
   <outline>
     <component base="I"/>
-    <component base="circumflexcomb.case" xOffset="142.0"/>
+    <component base="circumflexcomb.case" xOffset="168.15384615384616"/>
   </outline>
   <lib>
     <dict>

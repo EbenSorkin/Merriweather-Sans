@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="kcommaaccent" format="2">
-  <advance width="500.0"/>
+  <advance width="599.0"/>
   <unicode hex="0137"/>
   <note>
 kcommaaccent
 </note>
-  <anchor x="187.0" y="-199.0" name="bottom"/>
-  <anchor x="343.0" y="983.0" name="top"/>
+  <anchor x="237.0" y="-199.0" name="bottom"/>
+  <anchor x="393.0" y="983.0" name="top"/>
   <outline>
     <component base="k"/>
-    <component base="commaaccentcomb" xOffset="213.0"/>
+    <component base="commaaccentcomb" xOffset="263.0"/>
   </outline>
   <lib>
     <dict>

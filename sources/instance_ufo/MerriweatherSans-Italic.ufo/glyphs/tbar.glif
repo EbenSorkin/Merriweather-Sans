@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tbar" format="2">
-  <advance width="361.0"/>
+  <advance width="369.8"/>
   <unicode hex="0167"/>
   <note>
 tbar
 </note>
-  <anchor x="144.0" y="0.0" name="bottom"/>
-  <anchor x="181.0" y="279.0" name="center"/>
-  <anchor x="205.0" y="658.0" name="top"/>
-  <anchor x="378.0" y="557.0" name="topright"/>
+  <anchor x="147.9" y="0.0" name="bottom"/>
+  <anchor x="184.9" y="279.0" name="center"/>
+  <anchor x="218.47500000000002" y="655.275" name="top"/>
+  <anchor x="386.8" y="557.0" name="topright"/>
   <outline>
     <contour>
-      <point x="330.0" y="369.0" type="line"/>
-      <point x="49.0" y="369.0" type="line"/>
-      <point x="43.0" y="314.0" type="line"/>
-      <point x="324.0" y="314.0" type="line"/>
+      <point x="340.55" y="364.45" type="line"/>
+      <point x="45.325" y="364.45" type="line"/>
+      <point x="34.300000000000004" y="289.25" type="line"/>
+      <point x="329.52500000000003" y="289.25" type="line"/>
     </contour>
     <component base="t"/>
   </outline>

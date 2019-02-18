@@ -1,26 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hungarumlaut" format="2">
-  <advance width="448.0"/>
+  <advance width="448.65"/>
   <unicode hex="02DD"/>
   <note>
 hungarumlaut
 </note>
   <outline>
     <contour>
-      <point x="267.0" y="610.0" type="line"/>
-      <point x="307.0" y="642.0"/>
-      <point x="386.0" y="747.0"/>
-      <point x="406.0" y="790.0" type="curve"/>
-      <point x="353.0" y="833.0" type="line"/>
-      <point x="231.0" y="631.0" type="line"/>
+      <point x="302.40000000000003" y="614.825" type="line"/>
+      <point x="345.75" y="635.175"/>
+      <point x="433.57500000000005" y="743.475"/>
+      <point x="452.625" y="789.425" type="curve"/>
+      <point x="376.425" y="849.375" type="line"/>
+      <point x="253.8" y="643.1" type="line"/>
     </contour>
     <contour>
-      <point x="59.0" y="610.0" type="line"/>
-      <point x="102.0" y="645.0"/>
-      <point x="167.0" y="733.0"/>
-      <point x="194.0" y="790.0" type="curve"/>
-      <point x="140.0" y="833.0" type="line"/>
-      <point x="24.0" y="631.0" type="line"/>
+      <point x="90.5" y="614.825" type="line"/>
+      <point x="134.82500000000002" y="639.85"/>
+      <point x="214.72500000000002" y="741.15"/>
+      <point x="234.75" y="790.075" type="curve"/>
+      <point x="158.875" y="849.375" type="line"/>
+      <point x="41.275000000000006" y="643.1" type="line"/>
     </contour>
   </outline>
   <lib>

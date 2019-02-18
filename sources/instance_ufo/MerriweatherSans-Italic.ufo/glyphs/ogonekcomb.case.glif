@@ -3,30 +3,30 @@
   <note>
 ogonek
 </note>
-  <anchor x="-36.0" y="0.0" name="_ogonek"/>
+  <anchor x="-36.675" y="0.0" name="_ogonek"/>
   <outline>
     <contour>
-      <point x="-170.0" y="-206.0" type="curve" smooth="yes"/>
-      <point x="-119.0" y="-206.0"/>
-      <point x="-85.0" y="-185.0"/>
-      <point x="-58.0" y="-160.0" type="curve"/>
-      <point x="-77.0" y="-122.0" type="line"/>
-      <point x="-102.0" y="-141.0"/>
-      <point x="-119.0" y="-151.0"/>
-      <point x="-146.0" y="-151.0" type="curve" smooth="yes"/>
-      <point x="-167.0" y="-151.0"/>
-      <point x="-183.0" y="-136.0"/>
-      <point x="-183.0" y="-112.0" type="curve" smooth="yes"/>
-      <point x="-183.0" y="-73.0"/>
-      <point x="-132.0" y="-40.0"/>
-      <point x="-71.0" y="0.0" type="curve"/>
-      <point x="-93.0" y="22.0" type="line"/>
-      <point x="-131.0" y="0.0" type="line"/>
-      <point x="-208.0" y="-37.0"/>
-      <point x="-263.0" y="-79.0"/>
-      <point x="-263.0" y="-138.0" type="curve" smooth="yes"/>
-      <point x="-263.0" y="-175.0"/>
-      <point x="-224.0" y="-206.0"/>
+      <point x="-186.8" y="-218.82500000000002" type="curve" smooth="yes"/>
+      <point x="-131.25" y="-218.82500000000002"/>
+      <point x="-89.275" y="-195.55"/>
+      <point x="-58.675" y="-168.625" type="curve"/>
+      <point x="-82.7" y="-118.65" type="line"/>
+      <point x="-108.675" y="-136.625"/>
+      <point x="-126.675" y="-142.925"/>
+      <point x="-148.325" y="-142.925" type="curve" smooth="yes"/>
+      <point x="-164.625" y="-142.925"/>
+      <point x="-178.975" y="-134.6"/>
+      <point x="-178.975" y="-110.275" type="curve" smooth="yes"/>
+      <point x="-178.975" y="-78.275"/>
+      <point x="-144.025" y="-46.975"/>
+      <point x="-74.39999999999999" y="0.0" type="curve"/>
+      <point x="-108.95" y="26.074999999999996" type="line"/>
+      <point x="-152.675" y="0.6500000000000009" type="line"/>
+      <point x="-232.10000000000002" y="-40.625"/>
+      <point x="-281.125" y="-82.47500000000001"/>
+      <point x="-281.125" y="-142.20000000000002" type="curve" smooth="yes"/>
+      <point x="-281.125" y="-183.82500000000002"/>
+      <point x="-244.125" y="-218.82500000000002"/>
     </contour>
   </outline>
   <lib>

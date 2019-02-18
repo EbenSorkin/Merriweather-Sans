@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="pdotaccent.sc" format="2">
-  <advance width="556.0"/>
-  <anchor x="241.0" y="0.0" name="bottom"/>
-  <anchor x="357.0" y="862.0" name="top"/>
+  <advance width="612.0"/>
+  <anchor x="266.0" y="0.0" name="bottom"/>
+  <anchor x="382.0" y="878.0" name="top"/>
   <outline>
     <component base="p.sc"/>
-    <component base="dotaccentcomb" xOffset="290.0" yOffset="93.0"/>
+    <component base="dotaccentcomb" xOffset="315.0" yOffset="92.0"/>
   </outline>
   <lib>
     <dict>

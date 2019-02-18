@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ydieresis.sc" format="2">
-  <advance width="512.0"/>
-  <anchor x="220.0" y="0.0" name="bottom"/>
-  <anchor x="330.0" y="845.0" name="top"/>
-  <anchor x="71.0" y="650.0" name="topleft"/>
+  <advance width="554.0"/>
+  <anchor x="240.0" y="0.0" name="bottom"/>
+  <anchor x="356.0" y="880.0" name="top"/>
+  <anchor x="70.0" y="649.0" name="topleft"/>
   <outline>
     <component base="y.sc"/>
-    <component base="dieresiscomb" xOffset="269.0" yOffset="93.0"/>
+    <component base="dieresiscomb" xOffset="289.0" yOffset="92.0"/>
   </outline>
   <lib>
     <dict>

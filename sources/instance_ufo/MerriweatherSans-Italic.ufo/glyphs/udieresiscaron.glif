@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="udieresiscaron" format="2">
-  <advance width="573.0"/>
+  <advance width="582.4250000000001"/>
   <unicode hex="01DA"/>
-  <anchor x="250.0" y="0.0" name="bottom"/>
-  <anchor x="479.0" y="10.0" name="ogonek"/>
-  <anchor x="363.0" y="983.0" name="top"/>
-  <anchor x="590.0" y="557.0" name="topright"/>
+  <anchor x="254.55" y="0.0" name="bottom"/>
+  <anchor x="485.5" y="10.0" name="ogonek"/>
+  <anchor x="376.8" y="982.3" name="top"/>
+  <anchor x="599.4250000000001" y="557.0" name="topright"/>
   <outline>
     <component base="u"/>
-    <component base="dieresiscomb" xOffset="272.0"/>
-    <component base="caroncomb" xOffset="296.0" yOffset="195.0"/>
+    <component base="dieresiscomb" xOffset="284.475"/>
+    <component base="caroncomb" xOffset="309.8" yOffset="194.3"/>
   </outline>
   <lib>
     <dict>

@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dcaron.sc" format="2">
-  <advance width="649.0"/>
-  <anchor x="287.0" y="0.0" name="bottom"/>
-  <anchor x="331.0" y="325.0" name="center"/>
-  <anchor x="403.0" y="881.0" name="top"/>
+  <advance width="667.0"/>
+  <anchor x="293.0" y="0.0" name="bottom"/>
+  <anchor x="337.0" y="325.0" name="center"/>
+  <anchor x="410.0" y="880.0" name="top"/>
   <outline>
     <component base="d.sc"/>
-    <component base="caroncomb" xOffset="336.0" yOffset="93.0"/>
+    <component base="caroncomb" xOffset="343.0" yOffset="92.0"/>
   </outline>
   <lib>
     <dict>

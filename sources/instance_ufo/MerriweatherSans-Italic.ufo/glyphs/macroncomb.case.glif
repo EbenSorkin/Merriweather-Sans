@@ -4,13 +4,13 @@
 macron
 </note>
   <anchor x="62.0" y="747.0" name="_top"/>
-  <anchor x="81.0" y="903.0" name="top"/>
+  <anchor x="82.65" y="907.95" name="top"/>
   <outline>
     <contour>
-      <point x="-47.0" y="818.0" type="line"/>
-      <point x="203.0" y="818.0" type="line"/>
-      <point x="205.0" y="874.0" type="line"/>
-      <point x="-45.0" y="874.0" type="line"/>
+      <point x="-51.275000000000006" y="817.675" type="line"/>
+      <point x="202.25" y="817.675" type="line"/>
+      <point x="205.9" y="895.225" type="line"/>
+      <point x="-48.300000000000004" y="895.225" type="line"/>
     </contour>
   </outline>
   <lib>

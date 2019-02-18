@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ntilde" format="2">
-  <advance width="685.0"/>
+  <advance width="717.8461538461538"/>
   <unicode hex="00D1"/>
   <note>
 Ntilde
 </note>
-  <anchor x="306.0" y="0.0" name="bottom"/>
-  <anchor x="437.0" y="976.0" name="top"/>
+  <anchor x="321.9230769230769" y="0.0" name="bottom"/>
+  <anchor x="452.9230769230769" y="977.7692307692307" name="top"/>
   <outline>
     <component base="N"/>
-    <component base="tildecomb.case" xOffset="343.0"/>
+    <component base="tildecomb.case" xOffset="358.9230769230769" yOffset="1.7692307692307696"/>
   </outline>
   <lib>
     <dict>

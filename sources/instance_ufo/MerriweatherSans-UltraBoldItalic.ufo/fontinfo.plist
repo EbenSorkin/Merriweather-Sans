@@ -47,9 +47,9 @@
     <key>openTypeOS2VendorID</key>
     <string>STC </string>
     <key>openTypeOS2WeightClass</key>
-    <integer>173</integer>
+    <integer>800</integer>
     <key>openTypeOS2WidthClass</key>
-    <integer>1</integer>
+    <integer>5</integer>
     <key>openTypeOS2WinAscent</key>
     <integer>1150</integer>
     <key>openTypeOS2WinDescent</key>
@@ -76,13 +76,13 @@
     </array>
     <key>postscriptStemSnapH</key>
     <array>
-      <integer>58</integer>
-      <integer>72</integer>
+      <integer>134</integer>
+      <integer>171</integer>
     </array>
     <key>postscriptStemSnapV</key>
     <array>
-      <integer>72</integer>
-      <integer>74</integer>
+      <integer>106</integer>
+      <integer>134</integer>
     </array>
     <key>postscriptUnderlinePosition</key>
     <integer>-122</integer>

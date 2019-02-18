@@ -1,32 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Lcaron" format="2">
-  <advance width="478.0"/>
+  <advance width="485.8"/>
   <unicode hex="013D"/>
   <note>
 Lcaron
 </note>
-  <anchor x="202.0" y="0.0" name="bottom"/>
-  <anchor x="252.0" y="374.0" name="center"/>
-  <anchor x="301.0" y="747.0" name="top"/>
-  <anchor x="520.0" y="747.0" name="topright"/>
+  <anchor x="205.57500000000002" y="0.0" name="bottom"/>
+  <anchor x="255.57500000000002" y="374.325" name="center"/>
+  <anchor x="304.575" y="747.975" name="top"/>
+  <anchor x="527.15" y="747.975" name="topright"/>
   <outline>
     <contour>
-      <point x="427.0" y="476.0" type="line"/>
-      <point x="462.0" y="525.0"/>
-      <point x="487.0" y="608.0"/>
-      <point x="490.0" y="677.0" type="curve" smooth="yes"/>
-      <point x="490.0" y="717.0"/>
-      <point x="490.0" y="759.0"/>
-      <point x="476.0" y="789.0" type="curve"/>
-      <point x="411.0" y="772.0" type="line"/>
-      <point x="408.0" y="760.0" type="line"/>
-      <point x="416.0" y="747.0"/>
-      <point x="422.0" y="715.0"/>
-      <point x="422.0" y="676.0" type="curve" smooth="yes"/>
-      <point x="422.0" y="623.0"/>
-      <point x="410.0" y="565.0"/>
-      <point x="387.0" y="500.0" type="curve"/>
-      <point x="389.0" y="490.0" type="line"/>
+      <point x="442.1" y="490.325" type="line"/>
+      <point x="478.40000000000003" y="541.35"/>
+      <point x="502.375" y="628.975"/>
+      <point x="502.375" y="696.575" type="curve" smooth="yes"/>
+      <point x="502.375" y="748.275"/>
+      <point x="498.40000000000003" y="782.275"/>
+      <point x="487.40000000000003" y="805.325" type="curve"/>
+      <point x="396.5" y="783.0" type="line"/>
+      <point x="391.52500000000003" y="766.35" type="line"/>
+      <point x="400.52500000000003" y="752.0"/>
+      <point x="406.2" y="712.025"/>
+      <point x="406.2" y="672.375" type="curve" smooth="yes"/>
+      <point x="406.2" y="625.425"/>
+      <point x="398.55" y="572.825"/>
+      <point x="386.2" y="521.35" type="curve"/>
+      <point x="389.2" y="509.025" type="line"/>
     </contour>
     <component base="L"/>
   </outline>

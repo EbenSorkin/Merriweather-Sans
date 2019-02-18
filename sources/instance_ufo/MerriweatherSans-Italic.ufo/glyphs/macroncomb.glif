@@ -5,13 +5,13 @@
 macron
 </note>
   <anchor x="37.0" y="557.0" name="_top"/>
-  <anchor x="57.0" y="700.0" name="top"/>
+  <anchor x="58.0" y="711.575" name="top"/>
   <outline>
     <contour>
-      <point x="-72.0" y="666.0" type="line"/>
-      <point x="178.0" y="666.0" type="line"/>
-      <point x="184.0" y="722.0" type="line"/>
-      <point x="-66.0" y="722.0" type="line"/>
+      <point x="-73.60000000000001" y="655.05" type="line"/>
+      <point x="179.925" y="655.05" type="line"/>
+      <point x="188.25" y="732.6" type="line"/>
+      <point x="-65.95" y="732.6" type="line"/>
     </contour>
   </outline>
   <lib>

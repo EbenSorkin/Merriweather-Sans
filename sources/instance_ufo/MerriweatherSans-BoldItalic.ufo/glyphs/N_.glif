@@ -1,28 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="N" format="2">
-  <advance width="685.0"/>
+  <advance width="717.8461538461538"/>
   <unicode hex="004E"/>
   <note>
 N
 </note>
-  <anchor x="306.0" y="0.0" name="bottom"/>
-  <anchor x="405.0" y="747.0" name="top"/>
+  <anchor x="321.9230769230769" y="0.0" name="bottom"/>
+  <anchor x="420.9230769230769" y="748.7692307692307" name="top"/>
   <outline>
     <contour>
-      <point x="59.0" y="0.0" type="line"/>
-      <point x="128.0" y="0.0" type="line"/>
-      <point x="193.0" y="524.0" type="line"/>
-      <point x="208.0" y="665.0" type="line"/>
-      <point x="243.0" y="548.0" type="line"/>
-      <point x="484.0" y="0.0" type="line"/>
-      <point x="557.0" y="0.0" type="line"/>
-      <point x="651.0" y="747.0" type="line"/>
-      <point x="581.0" y="747.0" type="line"/>
-      <point x="516.0" y="212.0" type="line"/>
-      <point x="505.0" y="96.0" type="line"/>
-      <point x="470.0" y="197.0" type="line"/>
-      <point x="230.0" y="747.0" type="line"/>
-      <point x="153.0" y="747.0" type="line"/>
+      <point x="40.30769230769231" y="0.0" type="line"/>
+      <point x="183.48717948717947" y="0.0" type="line"/>
+      <point x="241.25641025641025" y="432.35897435897436" type="line"/>
+      <point x="244.3846153846154" y="569.8974358974359" type="line"/>
+      <point x="285.8974358974359" y="441.7948717948718" type="line"/>
+      <point x="471.2307692307692" y="0.0" type="line"/>
+      <point x="601.4871794871794" y="0.0" type="line"/>
+      <point x="704.3589743589744" y="747.0" type="line"/>
+      <point x="559.7692307692307" y="747.0" type="line"/>
+      <point x="508.64102564102564" y="327.56410256410254" type="line"/>
+      <point x="501.64102564102564" y="202.33333333333331" type="line"/>
+      <point x="465.4102564102564" y="321.0769230769231" type="line"/>
+      <point x="279.61538461538464" y="747.0" type="line"/>
+      <point x="143.76923076923077" y="747.0" type="line"/>
     </contour>
   </outline>
   <lib>

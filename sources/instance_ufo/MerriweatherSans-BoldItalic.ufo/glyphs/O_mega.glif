@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Omega" format="2">
-  <advance width="809.0"/>
+  <advance width="810.0"/>
   <unicode hex="03A9"/>
   <unicode hex="03C9"/>
   <note>
 uni03A9
 </note>
   <outline>
-    <component base="Ohm" xOffset="-1.0"/>
+    <component base="Ohm"/>
   </outline>
   <lib>
     <dict>

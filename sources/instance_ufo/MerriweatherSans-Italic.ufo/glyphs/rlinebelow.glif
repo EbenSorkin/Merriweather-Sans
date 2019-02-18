@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="rlinebelow" format="2">
-  <advance width="380.0"/>
+  <advance width="393.425"/>
   <unicode hex="1E5F"/>
-  <anchor x="84.0" y="0.0" name="bottom"/>
-  <anchor x="257.0" y="557.0" name="top"/>
+  <anchor x="94.47500000000001" y="0.0" name="bottom"/>
+  <anchor x="273.875" y="557.0" name="top"/>
   <outline>
     <component base="r"/>
-    <component base="macronbelowcomb" xOffset="84.0"/>
+    <component base="macronbelowcomb" xOffset="94.47500000000001"/>
   </outline>
   <lib>
     <dict>

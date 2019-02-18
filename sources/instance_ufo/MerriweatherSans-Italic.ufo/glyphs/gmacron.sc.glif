@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gmacron.sc" format="2">
-  <advance width="632.0"/>
-  <anchor x="279.0" y="0.0" name="bottom"/>
-  <anchor x="385.0" y="793.0" name="top"/>
+  <advance width="641.825"/>
+  <anchor x="283.575" y="0.0" name="bottom"/>
+  <anchor x="391.25" y="805.575" name="top"/>
   <outline>
     <component base="g.sc"/>
-    <component base="macroncomb" xOffset="328.0" yOffset="93.0"/>
+    <component base="macroncomb" xOffset="333.25" yOffset="94.0"/>
   </outline>
   <lib>
     <dict>

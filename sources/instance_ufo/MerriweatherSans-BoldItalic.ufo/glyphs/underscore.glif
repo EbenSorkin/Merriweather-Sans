@@ -7,10 +7,10 @@ underscore
 </note>
   <outline>
     <contour>
-      <point x="-54.0" y="-165.0" type="line"/>
-      <point x="619.0" y="-165.0" type="line"/>
-      <point x="626.0" y="-109.0" type="line"/>
-      <point x="-47.0" y="-109.0" type="line"/>
+      <point x="-54.0" y="-181.9230769230769" type="line"/>
+      <point x="619.0" y="-181.9230769230769" type="line"/>
+      <point x="628.0" y="-91.0" type="line"/>
+      <point x="-44.0" y="-91.0" type="line"/>
     </contour>
   </outline>
   <lib>

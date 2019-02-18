@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="onehalf" format="2">
-  <advance width="1039.0"/>
+  <advance width="1099.0"/>
   <unicode hex="00BD"/>
   <note>
 onehalf
 </note>
   <outline>
     <component base="one.numr"/>
-    <component base="fraction" xOffset="353.0"/>
-    <component base="two.dnom" xOffset="545.0"/>
+    <component base="fraction" xOffset="338.0"/>
+    <component base="two.dnom" xOffset="560.0"/>
   </outline>
   <lib>
     <dict>

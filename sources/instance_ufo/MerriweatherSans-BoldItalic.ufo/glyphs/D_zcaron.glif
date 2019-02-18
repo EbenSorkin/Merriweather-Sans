@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Dzcaron" format="2">
-  <advance width="1142.0"/>
+  <advance width="1166.1538461538462"/>
   <unicode hex="01C5"/>
-  <anchor x="299.0" y="0.0" name="bottom_1"/>
-  <anchor x="870.0" y="0.0" name="bottom_2"/>
-  <anchor x="349.0" y="374.0" name="center_1"/>
-  <anchor x="907.0" y="279.0" name="center_2"/>
-  <anchor x="398.0" y="747.0" name="top_1"/>
-  <anchor x="980.0" y="788.0" name="top_2"/>
+  <anchor x="307.46153846153845" y="0.0" name="bottom_1"/>
+  <anchor x="890.3333333333334" y="0.0" name="bottom_2"/>
+  <anchor x="357.46153846153845" y="374.5897435897436" name="center_1"/>
+  <anchor x="927.3333333333334" y="279.0" name="center_2"/>
+  <anchor x="406.46153846153845" y="748.7692307692307" name="top_1"/>
+  <anchor x="1010.2564102564103" y="788.0" name="top_2"/>
   <outline>
     <component base="D"/>
-    <component base="zcaron" xOffset="672.0"/>
+    <component base="zcaron" xOffset="688.5128205128206"/>
   </outline>
   <lib>
     <dict>

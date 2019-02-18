@@ -7,13 +7,13 @@ guilsinglleft
 </note>
   <outline>
     <contour>
-      <point x="400.0" y="74.0" type="line"/>
-      <point x="426.0" y="116.0" type="line"/>
-      <point x="206.0" y="300.0" type="line"/>
-      <point x="477.0" y="487.0" type="line"/>
-      <point x="463.0" y="530.0" type="line"/>
-      <point x="124.0" y="328.0" type="line"/>
-      <point x="116.0" y="269.0" type="line"/>
+      <point x="400.975" y="72.375" type="line"/>
+      <point x="438.9" y="132.25" type="line"/>
+      <point x="240.125" y="299.35" type="line"/>
+      <point x="482.625" y="469.125" type="line"/>
+      <point x="463.0" y="532.6" type="line"/>
+      <point x="121.1" y="339.275" type="line"/>
+      <point x="109.44999999999999" y="259.0" type="line"/>
     </contour>
   </outline>
   <lib>

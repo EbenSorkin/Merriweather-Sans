@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Idieresisacute" format="2">
-  <advance width="279.0"/>
+  <advance width="293.075"/>
   <unicode hex="1E2E"/>
-  <anchor x="103.0" y="0.0" name="bottom"/>
-  <anchor x="216.0" y="10.0" name="ogonek"/>
-  <anchor x="258.0" y="1148.0" name="top"/>
-  <anchor x="82.0" y="747.0" name="topleft"/>
+  <anchor x="109.875" y="0.0" name="bottom"/>
+  <anchor x="229.10000000000002" y="10.0" name="ogonek"/>
+  <anchor x="269.5" y="1179.875" name="top"/>
+  <anchor x="82.0" y="747.975" name="topleft"/>
   <outline>
     <component base="I"/>
-    <component base="dieresiscomb.case" xOffset="142.0"/>
-    <component base="acutecomb.case" xOffset="165.0" yOffset="172.0"/>
+    <component base="dieresiscomb.case" xOffset="149.85"/>
+    <component base="acutecomb.case" xOffset="176.5" yOffset="203.875"/>
   </outline>
   <lib>
     <dict>

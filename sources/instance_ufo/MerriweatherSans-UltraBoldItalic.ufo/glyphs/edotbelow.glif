@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="edotbelow" format="2">
-  <advance width="503.0"/>
+  <advance width="543.0"/>
   <unicode hex="1EB9"/>
-  <anchor x="219.0" y="-199.0" name="bottom"/>
-  <anchor x="318.0" y="10.0" name="ogonek"/>
-  <anchor x="329.0" y="557.0" name="top"/>
+  <anchor x="229.0" y="-199.0" name="bottom"/>
+  <anchor x="404.0" y="10.0" name="ogonek"/>
+  <anchor x="349.0" y="557.0" name="top"/>
   <outline>
     <component base="e"/>
-    <component base="dotbelowcomb" xOffset="245.0"/>
+    <component base="dotbelowcomb" xOffset="255.0"/>
   </outline>
   <lib>
     <dict>

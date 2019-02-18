@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="bitcoin" format="2">
-  <advance width="605.0"/>
+  <advance width="666.2307692307692"/>
   <unicode hex="20BF"/>
-  <anchor x="266.0" y="0.0" name="bottom"/>
-  <anchor x="365.0" y="747.0" name="top"/>
+  <anchor x="285.3333333333333" y="0.0" name="bottom"/>
+  <anchor x="384.3333333333333" y="748.7692307692307" name="top"/>
   <outline>
     <contour>
       <point x="393.0" y="713.0" type="line"/>
@@ -12,16 +12,16 @@
       <point x="415.0" y="852.0" type="line"/>
     </contour>
     <contour>
-      <point x="139.0" y="-92.0" type="line"/>
-      <point x="195.0" y="-92.0" type="line"/>
-      <point x="217.0" y="36.0" type="line"/>
-      <point x="161.0" y="36.0" type="line"/>
+      <point x="143.5897435897436" y="-92.0" type="line"/>
+      <point x="199.5897435897436" y="-92.0" type="line"/>
+      <point x="221.5897435897436" y="47.0" type="line"/>
+      <point x="165.5897435897436" y="47.0" type="line"/>
     </contour>
     <contour>
-      <point x="283.0" y="-92.0" type="line"/>
-      <point x="339.0" y="-92.0" type="line"/>
-      <point x="361.0" y="36.0" type="line"/>
-      <point x="305.0" y="36.0" type="line"/>
+      <point x="287.5897435897436" y="-92.0" type="line"/>
+      <point x="343.5897435897436" y="-92.0" type="line"/>
+      <point x="365.5897435897436" y="47.0" type="line"/>
+      <point x="309.5897435897436" y="47.0" type="line"/>
     </contour>
     <contour>
       <point x="249.0" y="713.0" type="line"/>

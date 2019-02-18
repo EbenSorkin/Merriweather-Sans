@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="udieresisacute.sc" format="2">
-  <advance width="641.0"/>
-  <anchor x="284.0" y="0.0" name="bottom"/>
-  <anchor x="394.0" y="13.0" name="ogonek"/>
-  <anchor x="395.0" y="1017.0" name="top"/>
-  <anchor x="669.0" y="650.0" name="topright"/>
+  <advance width="683.0"/>
+  <anchor x="305.0" y="0.0" name="bottom"/>
+  <anchor x="473.0" y="8.0" name="ogonek"/>
+  <anchor x="361.0" y="1070.0" name="top"/>
+  <anchor x="711.0" y="649.0" name="topright"/>
   <outline>
     <component base="u.sc"/>
-    <component base="dieresiscomb" xOffset="338.0" yOffset="93.0"/>
-    <component base="acutecomb" xOffset="362.0" yOffset="288.0"/>
+    <component base="dieresiscomb" xOffset="366.0" yOffset="92.0"/>
+    <component base="acutecomb" xOffset="366.0" yOffset="323.0"/>
   </outline>
   <lib>
     <dict>

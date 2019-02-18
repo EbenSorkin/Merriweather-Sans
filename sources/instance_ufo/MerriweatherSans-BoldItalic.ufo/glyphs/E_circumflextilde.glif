@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ecircumflextilde" format="2">
-  <advance width="556.0"/>
+  <advance width="578.5641025641025"/>
   <unicode hex="1EC4"/>
   <anchor x="288.0" y="0.0" name="bottom"/>
-  <anchor x="465.0" y="10.0" name="ogonek"/>
-  <anchor x="373.0" y="939.0" name="top"/>
-  <anchor x="82.0" y="747.0" name="topleft"/>
+  <anchor x="485.7435897435897" y="10.0" name="ogonek"/>
+  <anchor x="387.2051282051282" y="939.0" name="top"/>
+  <anchor x="82.0" y="748.7692307692307" name="topleft"/>
   <outline>
     <component base="E"/>
-    <component base="circumflexcomb_tildecomb.case" xOffset="286.0"/>
+    <component base="circumflexcomb_tildecomb.case" xOffset="300.6153846153846"/>
   </outline>
   <lib>
     <dict>

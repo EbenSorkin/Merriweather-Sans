@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="yacute" format="2">
-  <advance width="512.0"/>
+  <advance width="544.025641025641"/>
   <unicode hex="00FD"/>
   <note>
 yacute
 </note>
-  <anchor x="359.0" y="0.0" name="bottom"/>
-  <anchor x="269.0" y="729.0" name="top"/>
+  <anchor x="430.7435897435897" y="0.0" name="bottom"/>
+  <anchor x="234.6153846153846" y="731.0769230769231" name="top"/>
   <outline>
     <component base="y"/>
-    <component base="acutecomb" xOffset="236.0"/>
+    <component base="acutecomb" xOffset="240.2051282051282"/>
   </outline>
   <lib>
     <dict>

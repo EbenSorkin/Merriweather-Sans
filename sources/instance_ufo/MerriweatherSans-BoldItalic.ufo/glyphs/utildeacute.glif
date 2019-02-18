@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="utildeacute" format="2">
-  <advance width="573.0"/>
+  <advance width="613.8974358974359"/>
   <unicode hex="1E79"/>
-  <anchor x="250.0" y="0.0" name="bottom"/>
-  <anchor x="479.0" y="10.0" name="ogonek"/>
-  <anchor x="328.0" y="903.0" name="top"/>
-  <anchor x="590.0" y="557.0" name="topright"/>
+  <anchor x="270.15384615384613" y="0.0" name="bottom"/>
+  <anchor x="512.5384615384615" y="10.0" name="ogonek"/>
+  <anchor x="317.5897435897436" y="922.8717948717949" name="top"/>
+  <anchor x="630.8974358974359" y="557.0" name="topright"/>
   <outline>
     <component base="u"/>
-    <component base="tildecomb" xOffset="272.0"/>
-    <component base="acutecomb" xOffset="295.0" yOffset="174.0"/>
+    <component base="tildecomb" xOffset="310.66666666666663"/>
+    <component base="acutecomb" xOffset="323.1794871794872" yOffset="191.7948717948718"/>
   </outline>
   <lib>
     <dict>

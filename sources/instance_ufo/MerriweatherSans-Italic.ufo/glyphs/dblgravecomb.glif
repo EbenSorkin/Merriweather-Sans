@@ -5,20 +5,20 @@
   <anchor x="68.0" y="789.0" name="top"/>
   <outline>
     <contour>
-      <point x="-39.0" y="640.0" type="curve"/>
-      <point x="-3.0" y="661.0" type="line"/>
-      <point x="-125.0" y="863.0" type="line"/>
-      <point x="-178.0" y="820.0" type="line"/>
-      <point x="-158.0" y="777.0"/>
-      <point x="-79.0" y="672.0"/>
+      <point x="-47.0" y="638.075" type="curve"/>
+      <point x="1.6000000000000032" y="666.35" type="line"/>
+      <point x="-121.025" y="872.625" type="line"/>
+      <point x="-197.225" y="812.675" type="line"/>
+      <point x="-178.175" y="766.725"/>
+      <point x="-90.35" y="658.425"/>
     </contour>
     <contour>
-      <point x="170.0" y="640.0" type="curve"/>
-      <point x="205.0" y="661.0" type="line"/>
-      <point x="89.0" y="863.0" type="line"/>
-      <point x="34.0" y="820.0" type="line"/>
-      <point x="61.0" y="763.0"/>
-      <point x="127.0" y="675.0"/>
+      <point x="171.65" y="638.075" type="curve"/>
+      <point x="220.875" y="666.35" type="line"/>
+      <point x="103.275" y="872.625" type="line"/>
+      <point x="27.4" y="813.325" type="line"/>
+      <point x="47.425" y="764.4"/>
+      <point x="127.325" y="663.1"/>
     </contour>
   </outline>
   <lib>

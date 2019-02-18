@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="oslashacute" format="2">
-  <advance width="554.0"/>
+  <advance width="576.0"/>
   <unicode hex="01FF"/>
   <note>
 oslashacute
 </note>
-  <anchor x="312.0" y="729.0" name="top"/>
+  <anchor x="255.0" y="747.0" name="top"/>
   <outline>
     <component base="oslash"/>
-    <component base="acutecomb" xOffset="279.0"/>
+    <component base="acutecomb" xOffset="260.0"/>
   </outline>
   <lib>
     <dict>

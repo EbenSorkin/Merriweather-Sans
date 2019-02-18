@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="semicolon" format="2">
-  <advance width="246.0"/>
+  <advance width="257.0"/>
   <unicode hex="003B"/>
   <note>
 semicolon
 </note>
   <outline>
     <component base="comma"/>
-    <component base="period" xOffset="41.0" yOffset="406.0"/>
+    <component base="period" xOffset="37.0" yOffset="395.0"/>
   </outline>
   <lib>
     <dict>

@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="product" format="2">
-  <advance width="789.0"/>
+  <advance width="810.275"/>
   <unicode hex="220F"/>
   <note>
 product
 </note>
   <outline>
     <contour>
-      <point x="103.0" y="-83.0" type="line"/>
-      <point x="186.0" y="-83.0" type="line"/>
-      <point x="293.0" y="686.0" type="line"/>
-      <point x="604.0" y="686.0" type="line"/>
-      <point x="497.0" y="-83.0" type="line"/>
-      <point x="580.0" y="-83.0" type="line"/>
-      <point x="687.0" y="686.0" type="line"/>
-      <point x="782.0" y="686.0" type="line"/>
-      <point x="791.0" y="747.0" type="line"/>
-      <point x="123.0" y="747.0" type="line"/>
-      <point x="114.0" y="686.0" type="line"/>
-      <point x="210.0" y="686.0" type="line"/>
+      <point x="103.275" y="-83.0" type="line"/>
+      <point x="224.62500000000003" y="-83.0" type="line"/>
+      <point x="328.32500000000005" y="657.225" type="line"/>
+      <point x="581.025" y="657.225" type="line"/>
+      <point x="477.325" y="-83.0" type="line"/>
+      <point x="598.35" y="-83.0" type="line"/>
+      <point x="702.0500000000001" y="657.225" type="line"/>
+      <point x="799.975" y="657.225" type="line"/>
+      <point x="812.275" y="747.0" type="line"/>
+      <point x="122.0" y="747.0" type="line"/>
+      <point x="109.7" y="657.225" type="line"/>
+      <point x="206.975" y="657.225" type="line"/>
     </contour>
   </outline>
   <lib>

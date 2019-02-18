@@ -7,10 +7,10 @@ bar
 </note>
   <outline>
     <contour>
-      <point x="183.0" y="-91.0" type="line"/>
-      <point x="247.0" y="-91.0" type="line"/>
-      <point x="247.0" y="869.0" type="line"/>
-      <point x="183.0" y="869.0" type="line"/>
+      <point x="156.0" y="-91.0" type="line"/>
+      <point x="280.0" y="-91.0" type="line"/>
+      <point x="280.0" y="869.0" type="line"/>
+      <point x="156.0" y="869.0" type="line"/>
     </contour>
   </outline>
   <lib>

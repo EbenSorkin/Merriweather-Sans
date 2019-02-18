@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tdieresis" format="2">
-  <advance width="361.0"/>
+  <advance width="369.8"/>
   <unicode hex="1E97"/>
-  <anchor x="144.0" y="0.0" name="bottom"/>
-  <anchor x="181.0" y="279.0" name="center"/>
-  <anchor x="229.0" y="853.0" name="top"/>
-  <anchor x="378.0" y="557.0" name="topright"/>
+  <anchor x="147.9" y="0.0" name="bottom"/>
+  <anchor x="184.9" y="279.0" name="center"/>
+  <anchor x="243.8" y="849.575" name="top"/>
+  <anchor x="386.8" y="557.0" name="topright"/>
   <outline>
     <component base="t"/>
-    <component base="dieresiscomb" xOffset="168.0" yOffset="101.0"/>
+    <component base="dieresiscomb" xOffset="181.47500000000002" yOffset="98.275"/>
   </outline>
   <lib>
     <dict>

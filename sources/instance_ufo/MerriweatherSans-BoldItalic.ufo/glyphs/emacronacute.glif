@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="emacronacute" format="2">
-  <advance width="503.0"/>
+  <advance width="531.7948717948718"/>
   <unicode hex="1E17"/>
-  <anchor x="245.0" y="0.0" name="bottom"/>
-  <anchor x="318.0" y="10.0" name="ogonek"/>
-  <anchor x="345.0" y="872.0" name="top"/>
+  <anchor x="249.1025641025641" y="0.0" name="bottom"/>
+  <anchor x="364.48717948717945" y="10.0" name="ogonek"/>
+  <anchor x="309.2051282051282" y="895.9487179487179" name="top"/>
   <outline>
     <component base="e"/>
-    <component base="macroncomb" xOffset="292.0"/>
-    <component base="acutecomb" xOffset="312.0" yOffset="143.0"/>
+    <component base="macroncomb" xOffset="306.1025641025641"/>
+    <component base="acutecomb" xOffset="314.7948717948718" yOffset="164.87179487179486"/>
   </outline>
   <lib>
     <dict>

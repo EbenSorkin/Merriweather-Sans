@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="lessequal" format="2">
-  <advance width="668.0"/>
+  <advance width="676.0512820512821"/>
   <unicode hex="2264"/>
   <note>
 lessequal
 </note>
   <outline>
     <contour>
-      <point x="534.0" y="120.0" type="line"/>
-      <point x="542.0" y="188.0" type="line"/>
-      <point x="204.0" y="355.0" type="line"/>
-      <point x="580.0" y="519.0" type="line"/>
-      <point x="588.0" y="588.0" type="line"/>
-      <point x="100.0" y="371.0" type="line"/>
-      <point x="97.0" y="342.0" type="line"/>
+      <point x="541.0512820512821" y="122.41025641025641" type="line"/>
+      <point x="554.8717948717949" y="241.43589743589743" type="line"/>
+      <point x="303.28205128205127" y="356.8205128205128" type="line"/>
+      <point x="580.4102564102565" y="470.38461538461536" type="line"/>
+      <point x="596.4615384615385" y="596.4615384615385" type="line"/>
+      <point x="102.82051282051282" y="379.64102564102564" type="line"/>
+      <point x="99.82051282051282" y="341.2307692307692" type="line"/>
     </contour>
     <contour>
-      <point x="68.0" y="0.0" type="line"/>
-      <point x="531.0" y="0.0" type="line"/>
-      <point x="538.0" y="55.0" type="line"/>
-      <point x="75.0" y="55.0" type="line"/>
+      <point x="72.64102564102564" y="0.0" type="line"/>
+      <point x="534.8205128205128" y="0.0" type="line"/>
+      <point x="542.8205128205128" y="92.74358974358974" type="line"/>
+      <point x="81.23076923076923" y="92.74358974358974" type="line"/>
     </contour>
   </outline>
   <lib>

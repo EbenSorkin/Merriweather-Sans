@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tdotbelow.sc" format="2">
-  <advance width="530.0"/>
-  <anchor x="202.0" y="-199.0" name="bottom"/>
-  <anchor x="272.0" y="325.0" name="center"/>
-  <anchor x="314.0" y="650.0" name="top"/>
+  <advance width="542.4615384615385"/>
+  <anchor x="208.23076923076923" y="-199.0" name="bottom"/>
+  <anchor x="277.64102564102564" y="325.5897435897436" name="center"/>
+  <anchor x="320.64102564102564" y="650.1794871794872" name="top"/>
   <outline>
     <component base="t.sc"/>
-    <component base="dotbelowcomb" xOffset="228.0"/>
+    <component base="dotbelowcomb" xOffset="234.23076923076923"/>
   </outline>
   <lib>
     <dict>

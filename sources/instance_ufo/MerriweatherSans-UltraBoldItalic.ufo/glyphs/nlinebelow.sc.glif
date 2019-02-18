@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="nlinebelow.sc" format="2">
-  <advance width="660.0"/>
-  <anchor x="294.0" y="0.0" name="bottom"/>
-  <anchor x="380.0" y="650.0" name="top"/>
+  <advance width="711.0"/>
+  <anchor x="312.0" y="0.0" name="bottom"/>
+  <anchor x="398.0" y="649.0" name="top"/>
   <outline>
     <component base="n.sc"/>
-    <component base="macronbelowcomb" xOffset="294.0"/>
+    <component base="macronbelowcomb" xOffset="312.0"/>
   </outline>
   <lib>
     <dict>

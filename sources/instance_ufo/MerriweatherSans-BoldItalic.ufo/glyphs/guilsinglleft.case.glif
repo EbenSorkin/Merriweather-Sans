@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="guilsinglleft.case" format="2">
-  <advance width="580.0"/>
+  <advance width="582.0"/>
   <note>
 guilsinglleft
 </note>
   <outline>
     <contour>
-      <point x="409.0" y="144.0" type="line"/>
-      <point x="435.0" y="186.0" type="line"/>
-      <point x="215.0" y="370.0" type="line"/>
-      <point x="486.0" y="557.0" type="line"/>
-      <point x="472.0" y="600.0" type="line"/>
-      <point x="133.0" y="398.0" type="line"/>
-      <point x="125.0" y="339.0" type="line"/>
+      <point x="413.8205128205128" y="136.94871794871796" type="line"/>
+      <point x="461.9230769230769" y="212.69230769230768" type="line"/>
+      <point x="276.8461538461538" y="366.7692307692308" type="line"/>
+      <point x="498.05128205128204" y="523.2564102564103" type="line"/>
+      <point x="473.0" y="610.8717948717949" type="line"/>
+      <point x="118.07692307692308" y="417.28205128205127" type="line"/>
+      <point x="103.84615384615384" y="329.0" type="line"/>
     </contour>
   </outline>
   <lib>

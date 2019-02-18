@@ -2,7 +2,7 @@
 <glyph name="cedillacomb.case" format="2">
   <anchor x="-36.0" y="0.0" name="_bottom"/>
   <outline>
-    <component base="cedilla" xOffset="-198.0"/>
+    <component base="cedilla" xOffset="-203.0"/>
   </outline>
   <lib>
     <dict>

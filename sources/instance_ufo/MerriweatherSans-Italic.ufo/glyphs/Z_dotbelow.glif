@@ -3,8 +3,8 @@
   <advance width="565.0"/>
   <unicode hex="1E92"/>
   <anchor x="220.0" y="-199.0" name="bottom"/>
-  <anchor x="296.0" y="374.0" name="center"/>
-  <anchor x="365.0" y="747.0" name="top"/>
+  <anchor x="296.0" y="374.325" name="center"/>
+  <anchor x="356.3" y="747.975" name="top"/>
   <outline>
     <component base="Z"/>
     <component base="dotbelowcomb.case" xOffset="246.0"/>

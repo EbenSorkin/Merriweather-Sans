@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Odotbelow" format="2">
-  <advance width="673.0"/>
+  <advance width="681.0"/>
   <unicode hex="1ECC"/>
-  <anchor x="274.0" y="-199.0" name="bottom"/>
-  <anchor x="350.0" y="374.0" name="center"/>
-  <anchor x="385.0" y="10.0" name="ogonek"/>
-  <anchor x="405.0" y="747.0" name="top"/>
+  <anchor x="278.0" y="-199.0" name="bottom"/>
+  <anchor x="354.0" y="374.0" name="center"/>
+  <anchor x="449.0" y="10.0" name="ogonek"/>
+  <anchor x="409.0" y="747.0" name="top"/>
   <anchor x="82.0" y="747.0" name="topleft"/>
-  <anchor x="715.0" y="747.0" name="topright"/>
+  <anchor x="723.0" y="747.0" name="topright"/>
   <outline>
     <component base="O"/>
-    <component base="dotbelowcomb.case" xOffset="300.0"/>
+    <component base="dotbelowcomb.case" xOffset="304.0"/>
   </outline>
   <lib>
     <dict>

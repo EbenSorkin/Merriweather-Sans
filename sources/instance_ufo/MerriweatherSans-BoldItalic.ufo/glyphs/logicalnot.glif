@@ -7,12 +7,12 @@ logicalnot
 </note>
   <outline>
     <contour>
-      <point x="484.0" y="157.0" type="line"/>
+      <point x="435.7948717948718" y="157.0" type="line"/>
       <point x="550.0" y="157.0" type="line"/>
-      <point x="579.0" y="408.0" type="line"/>
-      <point x="110.0" y="408.0" type="line"/>
-      <point x="104.0" y="351.0" type="line"/>
-      <point x="507.0" y="351.0" type="line"/>
+      <point x="580.0" y="417.0" type="line"/>
+      <point x="111.0" y="417.0" type="line"/>
+      <point x="100.17948717948718" y="316.61538461538464" type="line"/>
+      <point x="454.974358974359" y="316.61538461538464" type="line"/>
     </contour>
   </outline>
   <lib>

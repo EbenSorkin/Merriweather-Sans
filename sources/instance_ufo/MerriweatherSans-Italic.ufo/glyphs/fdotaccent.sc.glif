@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="fdotaccent.sc" format="2">
-  <advance width="499.0"/>
-  <anchor x="212.0" y="0.0" name="bottom"/>
-  <anchor x="329.0" y="862.0" name="top"/>
+  <advance width="500.975"/>
+  <anchor x="213.0" y="0.0" name="bottom"/>
+  <anchor x="325.65" y="862.675" name="top"/>
   <outline>
     <component base="f.sc"/>
-    <component base="dotaccentcomb" xOffset="262.0" yOffset="93.0"/>
+    <component base="dotaccentcomb" xOffset="262.0" yOffset="94.0"/>
   </outline>
   <lib>
     <dict>

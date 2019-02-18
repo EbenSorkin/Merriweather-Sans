@@ -7,10 +7,10 @@ hyphen
 </note>
   <outline>
     <contour>
-      <point x="107.0" y="328.0" type="line"/>
-      <point x="516.0" y="328.0" type="line"/>
-      <point x="523.0" y="387.0" type="line"/>
-      <point x="114.0" y="387.0" type="line"/>
+      <point x="109.0" y="296.0" type="line"/>
+      <point x="519.0" y="296.0" type="line"/>
+      <point x="537.0" y="418.0" type="line"/>
+      <point x="127.0" y="418.0" type="line"/>
     </contour>
   </outline>
   <lib>

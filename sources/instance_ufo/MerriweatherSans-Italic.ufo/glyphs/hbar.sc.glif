@@ -1,37 +1,37 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hbar.sc" format="2">
-  <advance width="664.0"/>
+  <advance width="675.775"/>
   <note>
 Hbar
 </note>
   <outline>
     <contour>
-      <point x="56.0" y="0.0" type="line"/>
-      <point x="130.0" y="0.0" type="line"/>
-      <point x="163.0" y="255.0" type="line"/>
-      <point x="497.0" y="255.0" type="line"/>
-      <point x="465.0" y="0.0" type="line"/>
-      <point x="540.0" y="0.0" type="line"/>
-      <point x="594.0" y="431.0" type="line"/>
-      <point x="700.0" y="431.0" type="line"/>
-      <point x="704.0" y="488.0" type="line"/>
-      <point x="600.0" y="488.0" type="line"/>
-      <point x="620.0" y="650.0" type="line"/>
-      <point x="546.0" y="650.0" type="line"/>
-      <point x="526.0" y="488.0" type="line"/>
-      <point x="192.0" y="488.0" type="line"/>
-      <point x="213.0" y="650.0" type="line"/>
-      <point x="137.0" y="650.0" type="line"/>
-      <point x="118.0" y="488.0" type="line"/>
-      <point x="25.0" y="488.0" type="line"/>
-      <point x="20.0" y="431.0" type="line"/>
-      <point x="111.0" y="431.0" type="line"/>
+      <point x="48.724999999999994" y="0.0" type="line"/>
+      <point x="158.72500000000002" y="0.0" type="line"/>
+      <point x="189.75" y="226.64999999999998" type="line"/>
+      <point x="477.1" y="226.64999999999998" type="line"/>
+      <point x="445.75" y="0.0" type="line"/>
+      <point x="556.75" y="0.0" type="line"/>
+      <point x="610.4" y="410.5" type="line"/>
+      <point x="710.4250000000001" y="410.5" type="line"/>
+      <point x="717.4" y="490.625" type="line"/>
+      <point x="620.375" y="490.625" type="line"/>
+      <point x="641.025" y="650.0" type="line"/>
+      <point x="530.025" y="650.0" type="line"/>
+      <point x="509.7" y="490.625" type="line"/>
+      <point x="222.35000000000002" y="490.625" type="line"/>
+      <point x="243.675" y="650.0" type="line"/>
+      <point x="133.325" y="650.0" type="line"/>
+      <point x="113.0" y="490.625" type="line"/>
+      <point x="19.749999999999996" y="490.625" type="line"/>
+      <point x="13.099999999999994" y="410.5" type="line"/>
+      <point x="102.7" y="410.5" type="line"/>
     </contour>
     <contour>
-      <point x="169.0" y="312.0" type="line"/>
-      <point x="185.0" y="431.0" type="line"/>
-      <point x="520.0" y="431.0" type="line"/>
-      <point x="503.0" y="312.0" type="line"/>
+      <point x="199.05" y="307.1" type="line"/>
+      <point x="213.05" y="410.5" type="line"/>
+      <point x="500.075" y="410.5" type="line"/>
+      <point x="486.4" y="307.1" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Dcaron" format="2">
-  <advance width="672.0"/>
+  <advance width="675.9"/>
   <unicode hex="010E"/>
   <note>
 Dcaron
 </note>
-  <anchor x="299.0" y="0.0" name="bottom"/>
-  <anchor x="349.0" y="374.0" name="center"/>
-  <anchor x="429.0" y="976.0" name="top"/>
+  <anchor x="300.95" y="0.0" name="bottom"/>
+  <anchor x="350.95" y="374.325" name="center"/>
+  <anchor x="430.95" y="976.975" name="top"/>
   <outline>
     <component base="D"/>
-    <component base="caroncomb.case" xOffset="336.0"/>
+    <component base="caroncomb.case" xOffset="337.95" yOffset="0.9750000000000014"/>
   </outline>
   <lib>
     <dict>

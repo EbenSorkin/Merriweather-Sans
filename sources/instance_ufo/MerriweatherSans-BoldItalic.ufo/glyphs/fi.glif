@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="fi" format="2">
-  <advance width="614.0"/>
+  <advance width="676.1794871794872"/>
   <unicode hex="FB01"/>
   <note>
 fi
 </note>
-  <anchor x="133.0" y="0.0" name="bottom_1"/>
-  <anchor x="440.0" y="0.0" name="bottom_2"/>
-  <anchor x="512.0" y="10.0" name="ogonek"/>
-  <anchor x="244.0" y="747.0" name="top_1"/>
-  <anchor x="514.0" y="557.0" name="top_2"/>
+  <anchor x="144.69230769230768" y="0.0" name="bottom_1"/>
+  <anchor x="483.0769230769231" y="0.0" name="bottom_2"/>
+  <anchor x="574.4615384615385" y="10.0" name="ogonek"/>
+  <anchor x="274.6923076923077" y="748.7692307692307" name="top_1"/>
+  <anchor x="557.0769230769231" y="557.0" name="top_2"/>
   <outline>
     <component base="f"/>
-    <component base="i" xOffset="339.0"/>
+    <component base="i" xOffset="363.38461538461536"/>
   </outline>
   <lib>
     <dict>

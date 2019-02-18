@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ccedillaacute" format="2">
-  <advance width="445.0"/>
+  <advance width="446.225"/>
   <unicode hex="1E09"/>
-  <anchor x="261.0" y="0.0" name="bottom"/>
-  <anchor x="315.0" y="729.0" name="top"/>
+  <anchor x="264.25" y="0.0" name="bottom"/>
+  <anchor x="274.52500000000003" y="724.725" name="top"/>
   <outline>
     <component base="c"/>
-    <component base="cedillacomb" xOffset="261.0"/>
-    <component base="acutecomb" xOffset="282.0"/>
+    <component base="cedillacomb" xOffset="264.25"/>
+    <component base="acutecomb" xOffset="266.35"/>
   </outline>
   <lib>
     <dict>

@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="downArrow" format="2">
-  <advance width="747.0"/>
+  <advance width="600.0"/>
   <unicode hex="2193"/>
   <outline>
     <contour>
-      <point x="615.0" y="392.0" type="line"/>
-      <point x="401.0" y="177.0" type="line"/>
-      <point x="406.0" y="227.0" type="line"/>
-      <point x="406.0" y="696.0" type="line"/>
-      <point x="340.0" y="696.0" type="line"/>
-      <point x="340.0" y="227.0" type="line"/>
-      <point x="346.0" y="177.0" type="line"/>
-      <point x="131.0" y="392.0" type="line"/>
-      <point x="85.0" y="348.0" type="line"/>
-      <point x="373.0" y="59.0" type="line"/>
-      <point x="661.0" y="348.0" type="line"/>
+      <point x="570.0" y="408.0" type="line"/>
+      <point x="410.0" y="247.0" type="line"/>
+      <point x="419.0" y="334.0" type="line"/>
+      <point x="419.0" y="682.0" type="line"/>
+      <point x="294.0" y="682.0" type="line"/>
+      <point x="294.0" y="334.0" type="line"/>
+      <point x="303.0" y="247.0" type="line"/>
+      <point x="142.0" y="408.0" type="line"/>
+      <point x="60.0" y="325.0" type="line"/>
+      <point x="356.0" y="28.000000000000004" type="line"/>
+      <point x="652.0" y="325.0" type="line"/>
     </contour>
   </outline>
   <lib>

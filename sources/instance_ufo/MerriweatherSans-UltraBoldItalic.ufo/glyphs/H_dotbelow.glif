@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Hdotbelow" format="2">
-  <advance width="688.0"/>
+  <advance width="732.0"/>
   <unicode hex="1E24"/>
-  <anchor x="282.0" y="-199.0" name="bottom"/>
-  <anchor x="408.0" y="747.0" name="top"/>
+  <anchor x="298.0" y="-199.0" name="bottom"/>
+  <anchor x="421.0" y="747.0" name="top"/>
   <outline>
     <component base="H"/>
-    <component base="dotbelowcomb.case" xOffset="308.0"/>
+    <component base="dotbelowcomb.case" xOffset="324.0"/>
   </outline>
   <lib>
     <dict>

@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="lj" format="2">
-  <advance width="556.0"/>
+  <advance width="625.4102564102564"/>
   <unicode hex="01C9"/>
-  <anchor x="104.0" y="0.0" name="bottom_1"/>
-  <anchor x="343.0" y="-273.0" name="bottom_2"/>
-  <anchor x="166.0" y="492.0" name="center"/>
-  <anchor x="207.0" y="778.0" name="top_1"/>
-  <anchor x="453.0" y="557.0" name="top_2"/>
-  <anchor x="317.0" y="711.0" name="topright"/>
+  <anchor x="125.87179487179486" y="0.0" name="bottom_1"/>
+  <anchor x="396.3076923076923" y="-273.0" name="bottom_2"/>
+  <anchor x="185.1025641025641" y="492.0" name="center"/>
+  <anchor x="226.69230769230768" y="780.4615384615385" name="top_1"/>
+  <anchor x="506.3076923076923" y="557.0" name="top_2"/>
+  <anchor x="357.0" y="711.0" name="topright"/>
   <outline>
     <component base="l"/>
-    <component base="j" xOffset="275.0"/>
+    <component base="j" xOffset="313.2051282051282"/>
   </outline>
   <lib>
     <dict>

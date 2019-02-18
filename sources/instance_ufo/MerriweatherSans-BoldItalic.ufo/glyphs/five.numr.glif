@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="five.numr" format="2">
-  <advance width="456.0"/>
+  <advance width="464.05128205128204"/>
   <outline>
     <component base="five.dnom" xOffset="41.0" yOffset="310.0"/>
   </outline>

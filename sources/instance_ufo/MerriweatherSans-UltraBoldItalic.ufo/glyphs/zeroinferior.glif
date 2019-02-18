@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="zeroinferior" format="2">
-  <advance width="520.0"/>
+  <advance width="519.0"/>
   <unicode hex="2080"/>
   <outline>
     <component base="zero.dnom" xOffset="-20.0" yOffset="-150.0"/>

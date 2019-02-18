@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="h.sc" format="2">
-  <advance width="664.0"/>
+  <advance width="674.15"/>
   <note>
 H
 </note>
-  <anchor x="296.0" y="0.0" name="bottom"/>
-  <anchor x="383.0" y="650.0" name="top"/>
+  <anchor x="300.25" y="0.0" name="bottom"/>
+  <anchor x="385.625" y="650.0" name="top"/>
   <outline>
     <contour>
-      <point x="56.0" y="0.0" type="line"/>
-      <point x="130.0" y="0.0" type="line"/>
-      <point x="168.0" y="299.0" type="line"/>
-      <point x="503.0" y="299.0" type="line"/>
-      <point x="465.0" y="0.0" type="line"/>
-      <point x="540.0" y="0.0" type="line"/>
-      <point x="620.0" y="646.0" type="line"/>
-      <point x="546.0" y="646.0" type="line"/>
-      <point x="509.0" y="356.0" type="line"/>
-      <point x="175.0" y="356.0" type="line"/>
-      <point x="212.0" y="646.0" type="line"/>
-      <point x="137.0" y="646.0" type="line"/>
+      <point x="46.77499999999999" y="0.0" type="line"/>
+      <point x="156.45000000000002" y="0.0" type="line"/>
+      <point x="194.10000000000002" y="283.15" type="line"/>
+      <point x="481.125" y="283.15" type="line"/>
+      <point x="443.8" y="0.0" type="line"/>
+      <point x="554.475" y="0.0" type="line"/>
+      <point x="638.75" y="646.0" type="line"/>
+      <point x="527.75" y="646.0" type="line"/>
+      <point x="490.775" y="361.95" type="line"/>
+      <point x="203.07500000000002" y="361.95" type="line"/>
+      <point x="241.4" y="646.0" type="line"/>
+      <point x="130.725" y="646.0" type="line"/>
     </contour>
   </outline>
   <lib>

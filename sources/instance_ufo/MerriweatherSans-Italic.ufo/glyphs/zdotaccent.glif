@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="zdotaccent" format="2">
-  <advance width="470.0"/>
+  <advance width="472.625"/>
   <unicode hex="017C"/>
   <note>
 zdotaccent
 </note>
-  <anchor x="198.0" y="0.0" name="bottom"/>
-  <anchor x="235.0" y="279.0" name="center"/>
-  <anchor x="308.0" y="769.0" name="top"/>
+  <anchor x="199.65" y="0.0" name="bottom"/>
+  <anchor x="236.65" y="279.0" name="center"/>
+  <anchor x="307.25" y="768.675" name="top"/>
   <outline>
     <component base="z"/>
-    <component base="dotaccentcomb" xOffset="241.0"/>
+    <component base="dotaccentcomb" xOffset="243.6"/>
   </outline>
   <lib>
     <dict>

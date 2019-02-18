@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="oacute" format="2">
-  <advance width="554.0"/>
+  <advance width="557.575"/>
   <unicode hex="00F3"/>
   <note>
 oacute
 </note>
-  <anchor x="240.0" y="0.0" name="bottom"/>
-  <anchor x="277.0" y="279.0" name="center"/>
-  <anchor x="335.0" y="10.0" name="ogonek"/>
-  <anchor x="322.0" y="729.0" name="top"/>
-  <anchor x="571.0" y="557.0" name="topright"/>
+  <anchor x="241.95" y="0.0" name="bottom"/>
+  <anchor x="278.95" y="279.0" name="center"/>
+  <anchor x="332.77500000000003" y="10.0" name="ogonek"/>
+  <anchor x="276.875" y="724.725" name="top"/>
+  <anchor x="574.575" y="557.0" name="topright"/>
   <outline>
     <component base="o"/>
-    <component base="acutecomb" xOffset="289.0"/>
+    <component base="acutecomb" xOffset="268.70000000000005"/>
   </outline>
   <lib>
     <dict>

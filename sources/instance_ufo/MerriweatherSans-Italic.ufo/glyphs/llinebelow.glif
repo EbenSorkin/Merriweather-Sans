@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="llinebelow" format="2">
-  <advance width="275.0"/>
+  <advance width="291.5"/>
   <unicode hex="1E3B"/>
-  <anchor x="104.0" y="0.0" name="bottom"/>
-  <anchor x="166.0" y="492.0" name="center"/>
-  <anchor x="207.0" y="778.0" name="top"/>
-  <anchor x="317.0" y="711.0" name="topright"/>
+  <anchor x="114.9" y="0.0" name="bottom"/>
+  <anchor x="174.25" y="492.0" name="center"/>
+  <anchor x="215.57500000000002" y="778.0" name="top"/>
+  <anchor x="336.75" y="711.0" name="topright"/>
   <outline>
     <component base="l"/>
-    <component base="macronbelowcomb" xOffset="104.0"/>
+    <component base="macronbelowcomb" xOffset="114.9"/>
   </outline>
   <lib>
     <dict>

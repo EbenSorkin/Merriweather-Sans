@@ -7,10 +7,10 @@ minus
 </note>
   <outline>
     <contour>
-      <point x="107.0" y="348.0" type="line"/>
-      <point x="516.0" y="348.0" type="line"/>
-      <point x="523.0" y="407.0" type="line"/>
-      <point x="114.0" y="407.0" type="line"/>
+      <point x="108.41025641025641" y="323.0769230769231" type="line"/>
+      <point x="517.8205128205128" y="323.0769230769231" type="line"/>
+      <point x="533.4615384615385" y="431.5128205128205" type="line"/>
+      <point x="123.46153846153845" y="431.5128205128205" type="line"/>
     </contour>
   </outline>
   <lib>

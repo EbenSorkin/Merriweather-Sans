@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Omacrongrave" format="2">
-  <advance width="673.0"/>
+  <advance width="681.0"/>
   <unicode hex="1E50"/>
-  <anchor x="300.0" y="0.0" name="bottom"/>
-  <anchor x="350.0" y="374.0" name="center"/>
-  <anchor x="385.0" y="10.0" name="ogonek"/>
-  <anchor x="455.0" y="1132.0" name="top"/>
+  <anchor x="304.0" y="0.0" name="bottom"/>
+  <anchor x="354.0" y="374.0" name="center"/>
+  <anchor x="449.0" y="10.0" name="ogonek"/>
+  <anchor x="459.0" y="1142.0" name="top"/>
   <anchor x="82.0" y="747.0" name="topleft"/>
-  <anchor x="715.0" y="747.0" name="topright"/>
+  <anchor x="723.0" y="747.0" name="topright"/>
   <outline>
     <component base="O"/>
-    <component base="macroncomb.case" xOffset="343.0"/>
-    <component base="gravecomb.case" xOffset="362.0" yOffset="156.0"/>
+    <component base="macroncomb.case" xOffset="347.0"/>
+    <component base="gravecomb.case" xOffset="366.0" yOffset="166.0"/>
   </outline>
   <lib>
     <dict>

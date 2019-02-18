@@ -4,16 +4,16 @@
   <note>
 acute
 </note>
-  <anchor x="37.0" y="557.0" name="_top"/>
-  <anchor x="33.0" y="729.0" name="top"/>
+  <anchor x="57.249999999999986" y="557.0" name="_top"/>
+  <anchor x="8.17499999999999" y="724.725" name="top"/>
   <outline>
     <contour>
-      <point x="33.0" y="658.0" type="line"/>
-      <point x="80.0" y="684.0"/>
-      <point x="184.0" y="788.0"/>
-      <point x="210.0" y="829.0" type="curve"/>
-      <point x="154.0" y="880.0" type="line"/>
-      <point x="2.0" y="685.0" type="line"/>
+      <point x="37.925000000000004" y="650.4" type="line"/>
+      <point x="85.575" y="667.4"/>
+      <point x="202.85000000000002" y="771.025"/>
+      <point x="225.85" y="814.375" type="curve"/>
+      <point x="147.3" y="886.575" type="line"/>
+      <point x="-5.324999999999999" y="686.675" type="line"/>
     </contour>
   </outline>
   <lib>

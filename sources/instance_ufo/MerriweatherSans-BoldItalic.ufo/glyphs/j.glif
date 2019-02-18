@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="j" format="2">
-  <advance width="281.0"/>
+  <advance width="312.2051282051282"/>
   <unicode hex="006A"/>
   <note>
 j
 </note>
-  <anchor x="68.0" y="-273.0" name="bottom"/>
-  <anchor x="178.0" y="557.0" name="top"/>
+  <anchor x="83.1025641025641" y="-273.0" name="bottom"/>
+  <anchor x="193.1025641025641" y="557.0" name="top"/>
   <outline>
     <component base="jdotless"/>
-    <component base="dotaccent" xOffset="120.0" yOffset="1.0"/>
+    <component base="dotaccent" xOffset="130.15384615384616" yOffset="0.5897435897435899"/>
   </outline>
   <lib>
     <dict>

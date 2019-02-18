@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="sdotbelowdotaccent" format="2">
-  <advance width="426.0"/>
+  <advance width="477.0"/>
   <unicode hex="1E69"/>
-  <anchor x="146.0" y="-199.0" name="bottom"/>
-  <anchor x="300.0" y="769.0" name="top"/>
+  <anchor x="176.0" y="-199.0" name="bottom"/>
+  <anchor x="336.0" y="786.0" name="top"/>
   <outline>
     <component base="s"/>
-    <component base="dotbelowcomb" xOffset="172.0"/>
-    <component base="dotaccentcomb" xOffset="233.0"/>
+    <component base="dotbelowcomb" xOffset="202.0"/>
+    <component base="dotaccentcomb" xOffset="269.0"/>
   </outline>
   <lib>
     <dict>

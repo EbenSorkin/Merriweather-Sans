@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="nacute" format="2">
-  <advance width="583.0"/>
+  <advance width="626.3076923076923"/>
   <unicode hex="0144"/>
   <note>
 nacute
 </note>
-  <anchor x="255.0" y="0.0" name="bottom"/>
-  <anchor x="325.0" y="729.0" name="top"/>
+  <anchor x="276.15384615384613" y="0.0" name="bottom"/>
+  <anchor x="295.2564102564103" y="731.0769230769231" name="top"/>
   <outline>
     <component base="n"/>
-    <component base="acutecomb" xOffset="292.0"/>
+    <component base="acutecomb" xOffset="300.84615384615387"/>
   </outline>
   <lib>
     <dict>

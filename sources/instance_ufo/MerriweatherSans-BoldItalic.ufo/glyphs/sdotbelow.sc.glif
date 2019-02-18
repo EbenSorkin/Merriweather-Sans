@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="sdotbelow.sc" format="2">
-  <advance width="494.0"/>
-  <anchor x="184.0" y="-199.0" name="bottom"/>
-  <anchor x="294.0" y="650.0" name="top"/>
+  <advance width="498.64102564102564"/>
+  <anchor x="186.82051282051282" y="-199.0" name="bottom"/>
+  <anchor x="313.9230769230769" y="650.0" name="top"/>
   <outline>
     <component base="s.sc"/>
-    <component base="dotbelowcomb" xOffset="210.0"/>
+    <component base="dotbelowcomb" xOffset="212.82051282051282"/>
   </outline>
   <lib>
     <dict>

@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="one.tf" format="2">
-  <advance width="589.0"/>
+  <advance width="591.0"/>
   <outline>
     <contour>
-      <point x="84.0" y="0.0" type="line"/>
-      <point x="491.0" y="0.0" type="line"/>
-      <point x="498.0" y="56.0" type="line"/>
-      <point x="330.0" y="56.0" type="line"/>
-      <point x="433.0" y="739.0" type="line"/>
-      <point x="400.0" y="747.0" type="line"/>
-      <point x="399.0" y="747.0" type="line"/>
-      <point x="350.0" y="712.0"/>
-      <point x="208.0" y="648.0"/>
-      <point x="140.0" y="633.0" type="curve"/>
-      <point x="148.0" y="585.0" type="line"/>
-      <point x="203.0" y="597.0"/>
-      <point x="309.0" y="633.0"/>
-      <point x="344.0" y="647.0" type="curve"/>
-      <point x="255.0" y="56.0" type="line"/>
-      <point x="91.0" y="56.0" type="line"/>
+      <point x="61.0" y="0.0" type="line"/>
+      <point x="507.0" y="0.0" type="line"/>
+      <point x="519.0" y="109.0" type="line"/>
+      <point x="378.0" y="109.0" type="line"/>
+      <point x="467.0" y="737.0" type="line"/>
+      <point x="343.0" y="747.0" type="line"/>
+      <point x="341.0" y="747.0" type="line"/>
+      <point x="292.0" y="711.0"/>
+      <point x="216.0" y="669.0"/>
+      <point x="85.0" y="646.0" type="curve"/>
+      <point x="105.0" y="554.0" type="line"/>
+      <point x="172.0" y="558.0"/>
+      <point x="237.0" y="564.0"/>
+      <point x="271.0" y="572.0" type="curve"/>
+      <point x="204.0" y="109.0" type="line"/>
+      <point x="72.0" y="109.0" type="line"/>
     </contour>
   </outline>
   <lib>

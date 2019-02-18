@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="guillemetright.case" format="2">
-  <advance width="916.0"/>
+  <advance width="927.1"/>
   <note>
 guillemotright
 </note>
   <outline>
     <contour>
-      <point x="464.0" y="144.0" type="line"/>
-      <point x="803.0" y="347.0" type="line"/>
-      <point x="811.0" y="405.0" type="line"/>
-      <point x="526.0" y="600.0" type="line"/>
-      <point x="500.0" y="559.0" type="line"/>
-      <point x="721.0" y="375.0" type="line"/>
-      <point x="449.0" y="188.0" type="line"/>
+      <point x="253.3000000000002" y="141.725" type="line"/>
+      <point x="595.2000000000002" y="335.4" type="line"/>
+      <point x="607.1750000000002" y="416.0" type="line"/>
+      <point x="315.32500000000016" y="601.625" type="line"/>
+      <point x="277.4000000000002" y="542.75" type="line"/>
+      <point x="475.50000000000017" y="374.975" type="line"/>
+      <point x="233.00000000000017" y="204.875" type="line"/>
     </contour>
     <contour>
-      <point x="134.0" y="144.0" type="line"/>
-      <point x="473.0" y="347.0" type="line"/>
-      <point x="481.0" y="405.0" type="line"/>
-      <point x="196.0" y="600.0" type="line"/>
-      <point x="170.0" y="559.0" type="line"/>
-      <point x="391.0" y="375.0" type="line"/>
-      <point x="119.0" y="188.0" type="line"/>
+      <point x="358.39999999999986" y="141.725" type="line"/>
+      <point x="700.6249999999998" y="335.4" type="line"/>
+      <point x="712.2749999999999" y="416.0" type="line"/>
+      <point x="420.42499999999984" y="601.625" type="line"/>
+      <point x="382.8249999999998" y="542.75" type="line"/>
+      <point x="581.2749999999999" y="374.975" type="line"/>
+      <point x="338.77499999999986" y="204.875" type="line"/>
     </contour>
   </outline>
   <lib>

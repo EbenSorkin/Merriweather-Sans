@@ -7,32 +7,32 @@ daggerdbl
 </note>
   <outline>
     <contour>
-      <point x="143.0" y="-25.0" type="line"/>
-      <point x="186.0" y="-25.0" type="line"/>
-      <point x="238.0" y="249.0" type="line"/>
-      <point x="245.0" y="317.0" type="line"/>
-      <point x="362.0" y="317.0" type="line"/>
-      <point x="370.0" y="373.0" type="line"/>
-      <point x="249.0" y="373.0" type="line"/>
-      <point x="275.0" y="479.0" type="line"/>
-      <point x="281.0" y="560.0" type="line"/>
-      <point x="416.0" y="560.0" type="line"/>
-      <point x="424.0" y="615.0" type="line"/>
-      <point x="281.0" y="615.0" type="line"/>
-      <point x="308.0" y="717.0" type="line"/>
-      <point x="321.0" y="804.0" type="line"/>
-      <point x="251.0" y="804.0" type="line"/>
-      <point x="238.0" y="717.0" type="line"/>
-      <point x="234.0" y="615.0" type="line"/>
-      <point x="94.0" y="615.0" type="line"/>
-      <point x="86.0" y="560.0" type="line"/>
-      <point x="218.0" y="560.0" type="line"/>
-      <point x="199.0" y="479.0" type="line"/>
-      <point x="195.0" y="373.0" type="line"/>
-      <point x="73.0" y="373.0" type="line"/>
-      <point x="64.0" y="317.0" type="line"/>
-      <point x="182.0" y="317.0" type="line"/>
-      <point x="168.0" y="249.0" type="line"/>
+      <point x="121.8974358974359" y="-25.0" type="line"/>
+      <point x="198.23076923076923" y="-25.0" type="line"/>
+      <point x="249.5897435897436" y="194.4102564102564" type="line"/>
+      <point x="258.2307692307692" y="288.6666666666667" type="line"/>
+      <point x="380.15384615384613" y="288.6666666666667" type="line"/>
+      <point x="392.97435897435895" y="380.0" type="line"/>
+      <point x="271.6923076923077" y="380.0" type="line"/>
+      <point x="289.8205128205128" y="466.3076923076923" type="line"/>
+      <point x="295.64102564102564" y="528.4358974358975" type="line"/>
+      <point x="416.5897435897436" y="528.4358974358975" type="line"/>
+      <point x="430.8205128205128" y="624.0" type="line"/>
+      <point x="304.1025641025641" y="624.0" type="line"/>
+      <point x="326.05128205128204" y="717.0" type="line"/>
+      <point x="340.64102564102564" y="804.0" type="line"/>
+      <point x="226.8974358974359" y="804.0" type="line"/>
+      <point x="215.4871794871795" y="717.0" type="line"/>
+      <point x="207.84615384615384" y="624.0" type="line"/>
+      <point x="82.8974358974359" y="624.0" type="line"/>
+      <point x="69.07692307692308" y="528.4358974358975" type="line"/>
+      <point x="186.43589743589743" y="528.4358974358975" type="line"/>
+      <point x="174.8974358974359" y="466.3076923076923" type="line"/>
+      <point x="167.84615384615384" y="380.0" type="line"/>
+      <point x="53.61538461538462" y="380.0" type="line"/>
+      <point x="39.20512820512821" y="288.6666666666667" type="line"/>
+      <point x="153.66666666666669" y="288.6666666666667" type="line"/>
+      <point x="136.02564102564102" y="190.76923076923077" type="line"/>
     </contour>
   </outline>
   <lib>

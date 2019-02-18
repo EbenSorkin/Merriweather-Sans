@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="otildedieresis" format="2">
-  <advance width="554.0"/>
+  <advance width="577.0"/>
   <unicode hex="1E4F"/>
-  <anchor x="240.0" y="0.0" name="bottom"/>
-  <anchor x="277.0" y="279.0" name="center"/>
-  <anchor x="335.0" y="10.0" name="ogonek"/>
-  <anchor x="373.0" y="926.0" name="top"/>
-  <anchor x="571.0" y="557.0" name="topright"/>
+  <anchor x="252.0" y="0.0" name="bottom"/>
+  <anchor x="289.0" y="279.0" name="center"/>
+  <anchor x="385.0" y="10.0" name="ogonek"/>
+  <anchor x="393.0" y="991.0" name="top"/>
+  <anchor x="594.0" y="557.0" name="topright"/>
   <outline>
     <component base="o"/>
-    <component base="tildecomb" xOffset="289.0"/>
-    <component base="dieresiscomb" xOffset="312.0" yOffset="174.0"/>
+    <component base="tildecomb" xOffset="300.0"/>
+    <component base="dieresiscomb" xOffset="326.0" yOffset="203.0"/>
   </outline>
   <lib>
     <dict>

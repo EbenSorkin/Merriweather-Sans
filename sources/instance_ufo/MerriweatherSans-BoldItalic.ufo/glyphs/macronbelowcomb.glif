@@ -7,10 +7,10 @@ macron
   <anchor x="0.0" y="0.0" name="_bottom"/>
   <outline>
     <contour>
-      <point x="-145.0" y="-169.0" type="line"/>
-      <point x="105.0" y="-169.0" type="line"/>
-      <point x="107.0" y="-113.0" type="line"/>
-      <point x="-143.0" y="-113.0" type="line"/>
+      <point x="-160.56410256410257" y="-195.1025641025641" type="line"/>
+      <point x="115.1025641025641" y="-195.1025641025641" type="line"/>
+      <point x="121.74358974358974" y="-99.8974358974359" type="line"/>
+      <point x="-153.9230769230769" y="-99.8974358974359" type="line"/>
     </contour>
   </outline>
   <lib>

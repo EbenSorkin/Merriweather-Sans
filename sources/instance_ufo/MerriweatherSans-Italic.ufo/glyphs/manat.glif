@@ -1,33 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="manat" format="2">
-  <advance width="749.0"/>
+  <advance width="758.5"/>
   <unicode hex="20BC"/>
   <outline>
     <contour>
-      <point x="43.0" y="0.0" type="line"/>
-      <point x="121.0" y="0.0" type="line"/>
-      <point x="166.0" y="334.0" type="line" smooth="yes"/>
-      <point x="187.0" y="484.0"/>
-      <point x="292.0" y="547.0"/>
-      <point x="411.0" y="547.0" type="curve" smooth="yes"/>
-      <point x="534.0" y="547.0"/>
-      <point x="618.0" y="484.0"/>
-      <point x="597.0" y="334.0" type="curve" smooth="yes"/>
-      <point x="553.0" y="2.0" type="line"/>
-      <point x="631.0" y="0.0" type="line"/>
-      <point x="674.0" y="318.0" type="line" smooth="yes"/>
-      <point x="703.0" y="534.0"/>
-      <point x="585.0" y="623.0"/>
-      <point x="408.0" y="623.0" type="curve" smooth="yes"/>
-      <point x="265.0" y="623.0"/>
-      <point x="115.0" y="540.0"/>
-      <point x="86.0" y="323.0" type="curve" smooth="yes"/>
+      <point x="29.749999999999996" y="0.0" type="line"/>
+      <point x="147.07500000000002" y="0.0" type="line"/>
+      <point x="193.425" y="344.0" type="line" smooth="yes"/>
+      <point x="211.07500000000002" y="478.875"/>
+      <point x="298.475" y="532.425"/>
+      <point x="416.05" y="532.425" type="curve" smooth="yes"/>
+      <point x="536.975" y="532.425"/>
+      <point x="601.0749999999999" y="478.875"/>
+      <point x="583.425" y="344.0" type="curve" smooth="yes"/>
+      <point x="536.75" y="2.0" type="line"/>
+      <point x="654.75" y="0.0" type="line"/>
+      <point x="698.75" y="328.0" type="line" smooth="yes"/>
+      <point x="727.75" y="544.0"/>
+      <point x="606.0" y="633.0"/>
+      <point x="413.75" y="633.0" type="curve" smooth="yes"/>
+      <point x="258.5" y="633.0"/>
+      <point x="103.75" y="550.0"/>
+      <point x="74.75" y="333.0" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="316.0" y="138.0" type="line"/>
-      <point x="395.0" y="138.0" type="line"/>
-      <point x="481.0" y="775.0" type="line"/>
-      <point x="402.0" y="775.0" type="line"/>
+      <point x="305.175" y="138.0" type="line"/>
+      <point x="418.6" y="138.0" type="line"/>
+      <point x="506.6" y="785.0" type="line"/>
+      <point x="392.5" y="785.0" type="line"/>
     </contour>
   </outline>
   <lib>

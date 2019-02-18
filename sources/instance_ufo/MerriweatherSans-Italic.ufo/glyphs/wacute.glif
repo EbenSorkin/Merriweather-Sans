@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="wacute" format="2">
-  <advance width="797.0"/>
+  <advance width="819.8"/>
   <unicode hex="1E83"/>
   <note>
 wacute
 </note>
-  <anchor x="362.0" y="0.0" name="bottom"/>
-  <anchor x="432.0" y="729.0" name="top"/>
+  <anchor x="372.9" y="0.0" name="bottom"/>
+  <anchor x="397.825" y="724.725" name="top"/>
   <outline>
     <component base="w"/>
-    <component base="acutecomb" xOffset="399.0"/>
+    <component base="acutecomb" xOffset="389.65000000000003"/>
   </outline>
   <lib>
     <dict>

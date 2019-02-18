@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Itilde" format="2">
-  <advance width="279.0"/>
+  <advance width="293.075"/>
   <unicode hex="0128"/>
   <note>
 Itilde
 </note>
-  <anchor x="103.0" y="0.0" name="bottom"/>
-  <anchor x="216.0" y="10.0" name="ogonek"/>
-  <anchor x="236.0" y="976.0" name="top"/>
-  <anchor x="82.0" y="747.0" name="topleft"/>
+  <anchor x="109.875" y="0.0" name="bottom"/>
+  <anchor x="229.10000000000002" y="10.0" name="ogonek"/>
+  <anchor x="243.85" y="976.0" name="top"/>
+  <anchor x="82.0" y="747.975" name="topleft"/>
   <outline>
     <component base="I"/>
-    <component base="tildecomb.case" xOffset="142.0"/>
+    <component base="tildecomb.case" xOffset="149.85"/>
   </outline>
   <lib>
     <dict>

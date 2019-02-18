@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="fivesixths" format="2">
-  <advance width="1159.0"/>
+  <advance width="1195.0"/>
   <unicode hex="215A"/>
   <outline>
     <component base="five.numr"/>
-    <component base="fraction" xOffset="456.0"/>
-    <component base="six.dnom" xOffset="648.0"/>
+    <component base="fraction" xOffset="467.0"/>
+    <component base="six.dnom" xOffset="689.0"/>
   </outline>
   <lib>
     <dict>

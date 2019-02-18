@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="udieresiscaron.sc" format="2">
-  <advance width="641.0"/>
-  <anchor x="284.0" y="0.0" name="bottom"/>
-  <anchor x="394.0" y="13.0" name="ogonek"/>
-  <anchor x="429.0" y="1076.0" name="top"/>
-  <anchor x="669.0" y="650.0" name="topright"/>
+  <advance width="672.3846153846154"/>
+  <anchor x="299.6923076923077" y="0.0" name="bottom"/>
+  <anchor x="448.8205128205128" y="8.589743589743591" name="ogonek"/>
+  <anchor x="453.56410256410254" y="1092.128205128205" name="top"/>
+  <anchor x="700.3846153846154" y="650.1794871794872" name="topright"/>
   <outline>
     <component base="u.sc"/>
-    <component base="dieresiscomb" xOffset="338.0" yOffset="93.0"/>
-    <component base="caroncomb" xOffset="362.0" yOffset="288.0"/>
+    <component base="dieresiscomb" xOffset="358.9230769230769" yOffset="93.17948717948718"/>
+    <component base="caroncomb" xOffset="386.56410256410254" yOffset="304.12820512820514"/>
   </outline>
   <lib>
     <dict>

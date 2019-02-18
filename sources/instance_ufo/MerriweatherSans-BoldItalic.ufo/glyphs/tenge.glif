@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tenge" format="2">
-  <advance width="625.0"/>
+  <advance width="610.8205128205128"/>
   <unicode hex="20B8"/>
-  <anchor x="311.0" y="-83.0" name="btm"/>
-  <anchor x="309.0" y="830.0" name="top"/>
+  <anchor x="303.8205128205128" y="-83.0" name="btm"/>
+  <anchor x="303.8205128205128" y="830.0" name="top"/>
   <outline>
     <contour>
-      <point x="226.0" y="0.0" type="line"/>
-      <point x="310.0" y="0.0" type="line"/>
-      <point x="379.0" y="494.0" type="line"/>
-      <point x="622.0" y="494.0" type="line"/>
-      <point x="631.0" y="558.0" type="line"/>
-      <point x="64.0" y="558.0" type="line"/>
-      <point x="55.0" y="494.0" type="line"/>
-      <point x="295.0" y="494.0" type="line"/>
+      <point x="180.8974358974359" y="0.0" type="line"/>
+      <point x="346.3333333333333" y="0.0" type="line"/>
+      <point x="404.87179487179486" y="419.94871794871796" type="line"/>
+      <point x="612.3589743589744" y="419.94871794871796" type="line"/>
+      <point x="630.5897435897435" y="546.7435897435897" type="line"/>
+      <point x="48.35897435897436" y="546.7435897435897" type="line"/>
+      <point x="30.12820512820513" y="419.94871794871796" type="line"/>
+      <point x="239.43589743589746" y="419.94871794871796" type="line"/>
     </contour>
     <contour>
-      <point x="81.0" y="679.0" type="line"/>
-      <point x="648.0" y="679.0" type="line"/>
-      <point x="657.0" y="743.0" type="line"/>
-      <point x="90.0" y="743.0" type="line"/>
+      <point x="57.769230769230774" y="615.7948717948718" type="line"/>
+      <point x="640.0" y="615.7948717948718" type="line"/>
+      <point x="657.8205128205128" y="743.0" type="line"/>
+      <point x="75.58974358974359" y="743.0" type="line"/>
     </contour>
   </outline>
   <lib>

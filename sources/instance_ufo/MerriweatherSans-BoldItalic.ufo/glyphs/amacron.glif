@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="amacron" format="2">
-  <advance width="552.0"/>
+  <advance width="601.3076923076923"/>
   <unicode hex="0101"/>
   <note>
 amacron
 </note>
-  <anchor x="209.0" y="0.0" name="bottom"/>
-  <anchor x="462.0" y="10.0" name="ogonek"/>
-  <anchor x="362.0" y="700.0" name="top"/>
+  <anchor x="264.15384615384613" y="0.0" name="bottom"/>
+  <anchor x="496.35897435897436" y="10.0" name="ogonek"/>
+  <anchor x="389.15384615384613" y="721.8717948717949" name="top"/>
   <outline>
     <component base="a"/>
-    <component base="macroncomb" xOffset="305.0"/>
+    <component base="macroncomb" xOffset="331.15384615384613"/>
   </outline>
   <lib>
     <dict>

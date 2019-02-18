@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gcaron" format="2">
-  <advance width="561.0"/>
+  <advance width="573.775"/>
   <unicode hex="01E7"/>
   <note>
 gcaron
 </note>
-  <anchor x="208.0" y="-273.0" name="bottom"/>
-  <anchor x="380.0" y="788.0" name="top"/>
+  <anchor x="214.225" y="-273.0" name="bottom"/>
+  <anchor x="387.9" y="788.0" name="top"/>
   <outline>
     <component base="g"/>
-    <component base="caroncomb" xOffset="313.0"/>
+    <component base="caroncomb" xOffset="320.9"/>
   </outline>
   <lib>
     <dict>

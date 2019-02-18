@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uring" format="2">
-  <advance width="573.0"/>
+  <advance width="613.8974358974359"/>
   <unicode hex="016F"/>
   <note>
 uring
 </note>
-  <anchor x="250.0" y="0.0" name="bottom"/>
-  <anchor x="479.0" y="10.0" name="ogonek"/>
-  <anchor x="392.0" y="735.0" name="top"/>
-  <anchor x="590.0" y="557.0" name="topright"/>
+  <anchor x="270.15384615384613" y="0.0" name="bottom"/>
+  <anchor x="512.5384615384615" y="10.0" name="ogonek"/>
+  <anchor x="431.53846153846155" y="740.2307692307693" name="top"/>
+  <anchor x="630.8974358974359" y="557.0" name="topright"/>
   <outline>
     <component base="u"/>
-    <component base="ringcomb" xOffset="272.0"/>
+    <component base="ringcomb" xOffset="310.66666666666663"/>
   </outline>
   <lib>
     <dict>

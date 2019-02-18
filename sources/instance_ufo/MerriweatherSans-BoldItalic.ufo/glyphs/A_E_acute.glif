@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="AEacute" format="2">
-  <advance width="870.0"/>
+  <advance width="937.1538461538462"/>
   <unicode hex="01FC"/>
   <note>
 AEacute
 </note>
-  <anchor x="398.0" y="0.0" name="bottom"/>
-  <anchor x="528.0" y="976.0" name="top"/>
+  <anchor x="432.0769230769231" y="0.0" name="bottom"/>
+  <anchor x="562.0769230769231" y="977.7692307692307" name="top"/>
   <outline>
     <component base="AE"/>
-    <component base="acutecomb.case" xOffset="435.0"/>
+    <component base="acutecomb.case" xOffset="469.0769230769231" yOffset="1.7692307692307696"/>
   </outline>
   <lib>
     <dict>

@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="abrevedotbelow" format="2">
-  <advance width="552.0"/>
+  <advance width="568.75"/>
   <unicode hex="1EB7"/>
-  <anchor x="183.0" y="-199.0" name="bottom"/>
-  <anchor x="462.0" y="10.0" name="ogonek"/>
-  <anchor x="372.0" y="788.0" name="top"/>
+  <anchor x="221.875" y="-199.0" name="bottom"/>
+  <anchor x="469.85" y="10.0" name="ogonek"/>
+  <anchor x="379.175" y="788.0" name="top"/>
   <outline>
     <component base="a"/>
-    <component base="dotbelowcomb" xOffset="209.0"/>
-    <component base="brevecomb" xOffset="305.0"/>
+    <component base="dotbelowcomb" xOffset="247.875"/>
+    <component base="brevecomb" xOffset="312.175"/>
   </outline>
   <lib>
     <dict>

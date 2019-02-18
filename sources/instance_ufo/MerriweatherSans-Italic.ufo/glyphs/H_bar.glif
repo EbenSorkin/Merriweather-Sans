@@ -1,38 +1,38 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Hbar" format="2">
-  <advance width="688.0"/>
+  <advance width="696.125"/>
   <unicode hex="0126"/>
   <note>
 Hbar
 </note>
   <outline>
     <contour>
-      <point x="59.0" y="0.0" type="line"/>
-      <point x="132.0" y="0.0" type="line"/>
-      <point x="170.0" y="298.0" type="line"/>
-      <point x="524.0" y="298.0" type="line"/>
-      <point x="487.0" y="0.0" type="line"/>
-      <point x="561.0" y="0.0" type="line"/>
-      <point x="624.0" y="506.0" type="line"/>
-      <point x="735.0" y="506.0" type="line"/>
-      <point x="740.0" y="562.0" type="line"/>
-      <point x="631.0" y="562.0" type="line"/>
-      <point x="654.0" y="747.0" type="line"/>
-      <point x="581.0" y="747.0" type="line"/>
-      <point x="558.0" y="562.0" type="line"/>
-      <point x="203.0" y="562.0" type="line"/>
-      <point x="227.0" y="747.0" type="line"/>
-      <point x="153.0" y="747.0" type="line"/>
-      <point x="130.0" y="562.0" type="line"/>
-      <point x="33.0" y="562.0" type="line"/>
-      <point x="27.0" y="506.0" type="line"/>
-      <point x="123.0" y="506.0" type="line"/>
+      <point x="51.724999999999994" y="0.0" type="line"/>
+      <point x="160.4" y="0.0" type="line"/>
+      <point x="196.425" y="276.97499999999997" type="line"/>
+      <point x="502.1" y="276.97499999999997" type="line"/>
+      <point x="465.75" y="0.0" type="line"/>
+      <point x="575.425" y="0.0" type="line"/>
+      <point x="637.075" y="480.825" type="line"/>
+      <point x="741.775" y="480.825" type="line"/>
+      <point x="749.75" y="562.3" type="line"/>
+      <point x="648.0500000000001" y="562.3" type="line"/>
+      <point x="671.7" y="747.0" type="line"/>
+      <point x="562.025" y="747.0" type="line"/>
+      <point x="538.7" y="562.3" type="line"/>
+      <point x="233.025" y="562.3" type="line"/>
+      <point x="257.35" y="747.0" type="line"/>
+      <point x="148.0" y="747.0" type="line"/>
+      <point x="124.675" y="562.3" type="line"/>
+      <point x="28.749999999999996" y="562.3" type="line"/>
+      <point x="21.099999999999994" y="480.825" type="line"/>
+      <point x="113.375" y="480.825" type="line"/>
     </contour>
     <contour>
-      <point x="177.0" y="354.0" type="line"/>
-      <point x="196.0" y="506.0" type="line"/>
-      <point x="551.0" y="506.0" type="line"/>
-      <point x="531.0" y="354.0" type="line"/>
+      <point x="206.72500000000002" y="358.1" type="line"/>
+      <point x="222.72500000000002" y="480.825" type="line"/>
+      <point x="528.075" y="480.825" type="line"/>
+      <point x="512.4" y="358.1" type="line"/>
     </contour>
   </outline>
   <lib>

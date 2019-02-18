@@ -1,30 +1,30 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="exclamdown" format="2">
-  <advance width="303.0"/>
+  <advance width="335.0"/>
   <unicode hex="00A1"/>
   <note>
 exclamdown
 </note>
   <outline>
     <contour>
-      <point x="41.0" y="-212.0" type="line"/>
-      <point x="125.0" y="-212.0" type="line"/>
-      <point x="205.0" y="418.0" type="line"/>
-      <point x="146.0" y="418.0" type="line"/>
+      <point x="19.61538461538462" y="-212.0" type="line"/>
+      <point x="177.56410256410254" y="-212.0" type="line"/>
+      <point x="246.5128205128205" y="418.0" type="line"/>
+      <point x="135.25641025641025" y="418.0" type="line"/>
     </contour>
     <contour>
-      <point x="189.0" y="557.0" type="curve" smooth="yes"/>
-      <point x="224.0" y="557.0"/>
-      <point x="256.0" y="586.0"/>
-      <point x="256.0" y="623.0" type="curve" smooth="yes"/>
-      <point x="256.0" y="650.0"/>
-      <point x="237.0" y="665.0"/>
-      <point x="212.0" y="665.0" type="curve" smooth="yes"/>
-      <point x="173.0" y="665.0"/>
-      <point x="145.0" y="636.0"/>
-      <point x="145.0" y="597.0" type="curve" smooth="yes"/>
-      <point x="145.0" y="573.0"/>
-      <point x="160.0" y="557.0"/>
+      <point x="202.82051282051282" y="503.974358974359" type="curve" smooth="yes"/>
+      <point x="258.28205128205127" y="503.974358974359"/>
+      <point x="299.6923076923077" y="548.8461538461538"/>
+      <point x="299.6923076923077" y="601.8974358974359" type="curve" smooth="yes"/>
+      <point x="299.6923076923077" y="641.7692307692307"/>
+      <point x="271.87179487179486" y="669.4102564102565"/>
+      <point x="229.0" y="669.4102564102565" type="curve" smooth="yes"/>
+      <point x="171.71794871794873" y="669.4102564102565"/>
+      <point x="130.30769230769232" y="629.1794871794872"/>
+      <point x="130.30769230769232" y="570.4871794871794" type="curve" smooth="yes"/>
+      <point x="130.30769230769232" y="531.025641025641"/>
+      <point x="152.53846153846155" y="503.974358974359"/>
     </contour>
   </outline>
   <lib>

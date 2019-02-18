@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="etilde.sc" format="2">
-  <advance width="538.0"/>
-  <anchor x="232.0" y="0.0" name="bottom"/>
-  <anchor x="447.0" y="9.0" name="ogonek"/>
-  <anchor x="341.0" y="824.0" name="top"/>
-  <anchor x="70.0" y="650.0" name="topleft"/>
+  <advance width="544.225"/>
+  <anchor x="234.625" y="0.0" name="bottom"/>
+  <anchor x="452.225" y="9.0" name="ogonek"/>
+  <anchor x="342.6" y="838.375" name="top"/>
+  <anchor x="69.025" y="651.0" name="topleft"/>
   <outline>
     <component base="e.sc"/>
-    <component base="tildecomb" xOffset="281.0" yOffset="93.0"/>
+    <component base="tildecomb" xOffset="283.625" yOffset="94.0"/>
   </outline>
   <lib>
     <dict>

@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="racute" format="2">
-  <advance width="380.0"/>
+  <advance width="424.8974358974359"/>
   <unicode hex="0155"/>
   <note>
 racute
 </note>
-  <anchor x="84.0" y="0.0" name="bottom"/>
-  <anchor x="253.0" y="729.0" name="top"/>
+  <anchor x="117.38461538461539" y="0.0" name="bottom"/>
+  <anchor x="234.84615384615384" y="731.0769230769231" name="top"/>
   <outline>
     <component base="r"/>
-    <component base="acutecomb" xOffset="220.0"/>
+    <component base="acutecomb" xOffset="240.43589743589743"/>
   </outline>
   <lib>
     <dict>

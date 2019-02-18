@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="four.tosf" format="2">
-  <advance width="577.0"/>
+  <advance width="593.6"/>
   <outline>
     <contour>
-      <point x="314.0" y="-183.0" type="line"/>
-      <point x="385.0" y="-183.0" type="line"/>
-      <point x="408.0" y="0.0" type="line"/>
-      <point x="534.0" y="0.0" type="line"/>
-      <point x="542.0" y="65.0" type="line"/>
-      <point x="416.0" y="60.0" type="line"/>
-      <point x="449.0" y="317.0" type="line"/>
-      <point x="377.0" y="303.0" type="line"/>
-      <point x="346.0" y="55.0" type="line"/>
-      <point x="81.0" y="49.0" type="line"/>
-      <point x="132.0" y="126.0" type="line"/>
-      <point x="415.0" y="580.0" type="line"/>
-      <point x="363.0" y="613.0" type="line"/>
-      <point x="345.0" y="613.0" type="line"/>
-      <point x="224.0" y="393.0"/>
-      <point x="109.0" y="206.0"/>
-      <point x="0.0" y="35.0" type="curve"/>
-      <point x="14.0" y="0.0" type="line"/>
-      <point x="338.0" y="0.0" type="line"/>
+      <point x="306.725" y="-183.0" type="line"/>
+      <point x="413.1" y="-183.0" type="line"/>
+      <point x="436.1" y="0.0" type="line"/>
+      <point x="552.875" y="0.0" type="line"/>
+      <point x="564.5" y="93.47500000000001" type="line"/>
+      <point x="447.40000000000003" y="87.15" type="line"/>
+      <point x="476.425" y="317.0" type="line"/>
+      <point x="368.7" y="300.0" type="line"/>
+      <point x="341.025" y="81.47500000000001" type="line"/>
+      <point x="118.72500000000002" y="73.47500000000001" type="line"/>
+      <point x="156.72500000000002" y="122.775" type="line"/>
+      <point x="450.975" y="570.0" type="line"/>
+      <point x="387.85" y="613.0" type="line"/>
+      <point x="339.375" y="613.0" type="line"/>
+      <point x="224.17499999999998" y="400.8"/>
+      <point x="112.125" y="231.85000000000002"/>
+      <point x="0.0" y="52.85000000000001" type="curve"/>
+      <point x="22.250000000000004" y="0.0" type="line"/>
+      <point x="330.725" y="0.0" type="line"/>
     </contour>
   </outline>
   <lib>

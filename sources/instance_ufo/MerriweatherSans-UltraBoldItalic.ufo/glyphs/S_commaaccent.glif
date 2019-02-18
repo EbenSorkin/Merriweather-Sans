@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Scommaaccent" format="2">
-  <advance width="510.0"/>
+  <advance width="517.0"/>
   <unicode hex="0218"/>
   <note>
 Scommaaccent
 </note>
-  <anchor x="192.0" y="-199.0" name="bottom"/>
-  <anchor x="314.0" y="747.0" name="top"/>
+  <anchor x="196.0" y="-199.0" name="bottom"/>
+  <anchor x="341.0" y="747.0" name="top"/>
   <outline>
     <component base="S"/>
-    <component base="commaaccentcomb.case" xOffset="218.0"/>
+    <component base="commaaccentcomb.case" xOffset="222.0"/>
   </outline>
   <lib>
     <dict>

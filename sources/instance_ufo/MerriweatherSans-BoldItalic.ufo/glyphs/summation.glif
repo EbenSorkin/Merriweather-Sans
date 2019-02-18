@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="summation" format="2">
-  <advance width="747.0"/>
+  <advance width="746.974358974359"/>
   <unicode hex="2211"/>
   <note>
 summation
 </note>
   <outline>
     <contour>
-      <point x="63.0" y="-83.0" type="line"/>
-      <point x="578.0" y="-83.0" type="line"/>
-      <point x="586.0" y="-25.0" type="line"/>
-      <point x="174.0" y="-25.0" type="line"/>
-      <point x="471.0" y="333.0" type="line"/>
-      <point x="267.0" y="686.0" type="line"/>
-      <point x="677.0" y="686.0" type="line"/>
-      <point x="686.0" y="747.0" type="line"/>
-      <point x="181.0" y="747.0" type="line"/>
-      <point x="165.0" y="716.0" type="line"/>
-      <point x="385.0" y="331.0" type="line"/>
-      <point x="56.0" y="-63.0" type="line"/>
+      <point x="43.43589743589744" y="-83.0" type="line"/>
+      <point x="594.5128205128206" y="-83.0" type="line"/>
+      <point x="610.7435897435897" y="31.666666666666657" type="line"/>
+      <point x="271.8205128205128" y="31.666666666666657" type="line"/>
+      <point x="516.974358974359" y="334.8205128205128" type="line"/>
+      <point x="352.1794871794872" y="627.5128205128206" type="line"/>
+      <point x="671.3589743589744" y="627.5128205128206" type="line"/>
+      <point x="688.0" y="747.0" type="line"/>
+      <point x="161.43589743589743" y="747.0" type="line"/>
+      <point x="141.84615384615384" y="708.0" type="line"/>
+      <point x="356.43589743589746" y="332.4102564102564" type="line"/>
+      <point x="35.25641025641026" y="-50.94871794871795" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -7,22 +7,22 @@ dagger
 </note>
   <outline>
     <contour>
-      <point x="149.0" y="74.0" type="line"/>
-      <point x="193.0" y="74.0" type="line"/>
-      <point x="271.0" y="492.0" type="line"/>
-      <point x="276.0" y="560.0" type="line"/>
-      <point x="418.0" y="560.0" type="line"/>
-      <point x="426.0" y="615.0" type="line"/>
-      <point x="276.0" y="615.0" type="line"/>
-      <point x="304.0" y="717.0" type="line"/>
-      <point x="318.0" y="804.0" type="line"/>
-      <point x="248.0" y="804.0" type="line"/>
-      <point x="235.0" y="717.0" type="line"/>
-      <point x="229.0" y="615.0" type="line"/>
-      <point x="75.0" y="615.0" type="line"/>
-      <point x="67.0" y="560.0" type="line"/>
-      <point x="213.0" y="560.0" type="line"/>
-      <point x="200.0" y="492.0" type="line"/>
+      <point x="140.1" y="74.0" type="line"/>
+      <point x="204.9" y="74.0" type="line"/>
+      <point x="283.3" y="487.125" type="line"/>
+      <point x="287.275" y="545.125" type="line"/>
+      <point x="417.0" y="545.125" type="line"/>
+      <point x="427.975" y="624.0" type="line"/>
+      <point x="287.9" y="624.0" type="line"/>
+      <point x="316.275" y="717.0" type="line"/>
+      <point x="331.275" y="804.0" type="line"/>
+      <point x="233.725" y="804.0" type="line"/>
+      <point x="221.725" y="717.0" type="line"/>
+      <point x="219.1" y="624.0" type="line"/>
+      <point x="77.0" y="624.0" type="line"/>
+      <point x="65.025" y="545.125" type="line"/>
+      <point x="197.775" y="545.125" type="line"/>
+      <point x="185.75" y="487.125" type="line"/>
     </contour>
   </outline>
   <lib>

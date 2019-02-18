@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="greater" format="2">
-  <advance width="668.0"/>
+  <advance width="670.275"/>
   <unicode hex="003E"/>
   <note>
 greater
 </note>
   <outline>
     <contour>
-      <point x="122.0" y="87.0" type="line"/>
-      <point x="616.0" y="343.0" type="line"/>
-      <point x="622.0" y="391.0" type="line"/>
-      <point x="188.0" y="648.0" type="line"/>
-      <point x="181.0" y="582.0" type="line"/>
-      <point x="538.0" y="371.0" type="line"/>
-      <point x="131.0" y="160.0" type="line"/>
+      <point x="122.325" y="87.325" type="line"/>
+      <point x="616.95" y="337.3" type="line"/>
+      <point x="624.625" y="400.3" type="line"/>
+      <point x="188.325" y="649.95" type="line"/>
+      <point x="178.0" y="555.5" type="line"/>
+      <point x="501.95" y="373.3" type="line"/>
+      <point x="135.3" y="191.425" type="line"/>
     </contour>
   </outline>
   <lib>

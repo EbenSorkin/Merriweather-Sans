@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="odieresismacron" format="2">
-  <advance width="554.0"/>
+  <advance width="569.9230769230769"/>
   <unicode hex="022B"/>
-  <anchor x="240.0" y="0.0" name="bottom"/>
-  <anchor x="277.0" y="279.0" name="center"/>
-  <anchor x="335.0" y="10.0" name="ogonek"/>
-  <anchor x="370.0" y="895.0" name="top"/>
-  <anchor x="571.0" y="557.0" name="topright"/>
+  <anchor x="248.46153846153845" y="0.0" name="bottom"/>
+  <anchor x="285.46153846153845" y="279.0" name="center"/>
+  <anchor x="364.94871794871796" y="10.0" name="ogonek"/>
+  <anchor x="381.5128205128205" y="932.8205128205128" name="top"/>
+  <anchor x="586.9230769230769" y="557.0" name="topright"/>
   <outline>
     <component base="o"/>
-    <component base="dieresiscomb" xOffset="289.0"/>
-    <component base="macroncomb" xOffset="313.0" yOffset="195.0"/>
+    <component base="dieresiscomb" xOffset="295.87179487179486"/>
+    <component base="macroncomb" xOffset="323.5128205128205" yOffset="210.94871794871796"/>
   </outline>
   <lib>
     <dict>

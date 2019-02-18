@@ -8,15 +8,20 @@
   <anchor x="384.24444444444447" y="372.0" name="center"/>
   <anchor x="691.1333333333333" y="10.0" name="ogonek"/>
   <anchor x="20.0" y="743.0" name="topleft"/>
-  <anchor x="748.3111111111111" y="743.0" name="topright"/>
+  <anchor x="563.1777777777778" y="743.0" name="topright"/>
   <outline>
     <component base="O"/>
-    <component base="horncomb.case" xOffset="661.2222222222222" yOffset="186.0"/>
+    <component base="horncomb.case" xOffset="476.0888888888889" yOffset="186.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/16 05:39:16</string>
+      <string>2019/02/18 20:05:25</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>0</integer>
+        <integer>-1</integer>
+      </array>
     </dict>
   </lib>
 </glyph>

@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="commercialMinusSign" format="2">
-  <advance width="495.0"/>
+  <advance width="649.0"/>
   <unicode hex="2052"/>
   <outline>
-    <component base="fraction" xOffset="129.0"/>
-    <component base="bullet" xOffset="-52.0" yOffset="261.0"/>
-    <component base="bullet" xOffset="145.0" yOffset="-179.0"/>
+    <component base="fraction" xOffset="176.0"/>
+    <component base="bullet" xOffset="-35.0" yOffset="245.0"/>
+    <component base="bullet" xOffset="279.0" yOffset="-157.0"/>
   </outline>
   <lib>
     <dict>

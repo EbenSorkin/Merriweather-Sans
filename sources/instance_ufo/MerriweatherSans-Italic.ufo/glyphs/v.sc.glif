@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="v.sc" format="2">
-  <advance width="552.0"/>
+  <advance width="558.525"/>
   <note>
 V
 </note>
-  <anchor x="240.0" y="0.0" name="bottom"/>
-  <anchor x="326.0" y="650.0" name="top"/>
+  <anchor x="242.6" y="0.0" name="bottom"/>
+  <anchor x="328.6" y="651.0" name="top"/>
   <outline>
     <contour>
-      <point x="190.0" y="-1.0" type="line"/>
-      <point x="270.0" y="-1.0" type="line"/>
-      <point x="586.0" y="650.0" type="line"/>
-      <point x="507.0" y="650.0" type="line"/>
-      <point x="290.0" y="183.0" type="line"/>
-      <point x="240.0" y="77.0" type="line"/>
-      <point x="221.0" y="183.0" type="line"/>
-      <point x="136.0" y="650.0" type="line"/>
-      <point x="62.0" y="650.0" type="line"/>
+      <point x="172.775" y="0.0" type="line"/>
+      <point x="293.35" y="0.0" type="line"/>
+      <point x="606.75" y="650.0" type="line"/>
+      <point x="490.1" y="650.0" type="line"/>
+      <point x="286.52500000000003" y="202.07500000000002" type="line"/>
+      <point x="248.5" y="100.82500000000002" type="line"/>
+      <point x="236.15" y="202.07500000000002" type="line"/>
+      <point x="158.72500000000002" y="650.0" type="line"/>
+      <point x="49.05" y="650.0" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -5,14 +5,14 @@
   <anchor x="66.0" y="780.0" name="top"/>
   <outline>
     <contour>
-      <point x="-17.0" y="642.0" type="line"/>
-      <point x="26.0" y="670.0"/>
-      <point x="131.0" y="770.0"/>
-      <point x="165.0" y="819.0" type="curve"/>
-      <point x="106.0" y="870.0" type="line"/>
-      <point x="56.0" y="800.0"/>
-      <point x="0.0" y="739.0"/>
-      <point x="-59.0" y="675.0" type="curve"/>
+      <point x="-3.1499999999999915" y="625.175" type="line"/>
+      <point x="33.15000000000001" y="640.15"/>
+      <point x="161.8" y="753.275"/>
+      <point x="187.425" y="802.725" type="curve"/>
+      <point x="101.325" y="874.9" type="line"/>
+      <point x="53.675" y="802.675"/>
+      <point x="-8.325" y="734.725"/>
+      <point x="-64.0" y="676.65" type="curve"/>
     </contour>
   </outline>
   <lib>

@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Jcircumflex" format="2">
-  <advance width="285.0"/>
+  <advance width="340.0"/>
   <unicode hex="0134"/>
   <note>
 Jcircumflex
 </note>
-  <anchor x="106.0" y="0.0" name="bottom"/>
-  <anchor x="246.0" y="976.0" name="top"/>
+  <anchor x="133.0" y="0.0" name="bottom"/>
+  <anchor x="283.0" y="976.0" name="top"/>
   <outline>
     <component base="J"/>
-    <component base="circumflexcomb.case" xOffset="153.0"/>
+    <component base="circumflexcomb.case" xOffset="190.0"/>
   </outline>
   <lib>
     <dict>

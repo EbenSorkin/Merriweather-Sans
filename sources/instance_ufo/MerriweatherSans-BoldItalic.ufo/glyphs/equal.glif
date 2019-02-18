@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="equal" format="2">
-  <advance width="519.0"/>
+  <advance width="526.4615384615385"/>
   <unicode hex="003D"/>
   <note>
 equal
 </note>
   <outline>
     <contour>
-      <point x="83.0" y="423.0" type="line"/>
-      <point x="480.0" y="423.0" type="line"/>
-      <point x="487.0" y="482.0" type="line"/>
-      <point x="89.0" y="482.0" type="line"/>
+      <point x="79.58974358974359" y="400.3076923076923" type="line"/>
+      <point x="486.05128205128204" y="400.3076923076923" type="line"/>
+      <point x="501.6923076923077" y="508.3333333333333" type="line"/>
+      <point x="94.64102564102564" y="508.3333333333333" type="line"/>
     </contour>
     <contour>
-      <point x="48.0" y="175.0" type="line"/>
-      <point x="446.0" y="175.0" type="line"/>
-      <point x="453.0" y="233.0" type="line"/>
-      <point x="55.0" y="233.0" type="line"/>
+      <point x="50.230769230769226" y="157.53846153846155" type="line"/>
+      <point x="457.28205128205127" y="157.53846153846155" type="line"/>
+      <point x="472.3333333333333" y="265.56410256410254" type="line"/>
+      <point x="65.87179487179488" y="265.56410256410254" type="line"/>
     </contour>
   </outline>
   <lib>

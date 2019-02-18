@@ -1,32 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tcaron" format="2">
-  <advance width="361.0"/>
+  <advance width="369.8"/>
   <unicode hex="0165"/>
   <note>
 tcaron
 </note>
-  <anchor x="144.0" y="0.0" name="bottom"/>
-  <anchor x="181.0" y="279.0" name="center"/>
-  <anchor x="205.0" y="658.0" name="top"/>
-  <anchor x="378.0" y="557.0" name="topright"/>
+  <anchor x="147.9" y="0.0" name="bottom"/>
+  <anchor x="184.9" y="279.0" name="center"/>
+  <anchor x="218.47500000000002" y="655.275" name="top"/>
+  <anchor x="386.8" y="557.0" name="topright"/>
   <outline>
     <contour>
-      <point x="357.0" y="610.0" type="line"/>
-      <point x="392.0" y="659.0"/>
-      <point x="417.0" y="742.0"/>
-      <point x="420.0" y="811.0" type="curve"/>
-      <point x="420.0" y="851.0"/>
-      <point x="420.0" y="893.0"/>
-      <point x="406.0" y="923.0" type="curve"/>
-      <point x="341.0" y="906.0" type="line"/>
-      <point x="338.0" y="894.0" type="line"/>
-      <point x="346.0" y="881.0"/>
-      <point x="352.0" y="849.0"/>
-      <point x="352.0" y="810.0" type="curve" smooth="yes"/>
-      <point x="352.0" y="757.0"/>
-      <point x="340.0" y="699.0"/>
-      <point x="317.0" y="634.0" type="curve"/>
-      <point x="319.0" y="624.0" type="line"/>
+      <point x="382.975" y="608.325" type="line"/>
+      <point x="419.27500000000003" y="659.35"/>
+      <point x="443.25" y="746.975"/>
+      <point x="443.25" y="814.575" type="curve"/>
+      <point x="443.25" y="866.275"/>
+      <point x="439.27500000000003" y="900.275"/>
+      <point x="428.27500000000003" y="923.325" type="curve"/>
+      <point x="337.375" y="901.0" type="line"/>
+      <point x="332.40000000000003" y="884.35" type="line"/>
+      <point x="341.40000000000003" y="870.0"/>
+      <point x="347.075" y="830.025"/>
+      <point x="347.075" y="790.375" type="curve" smooth="yes"/>
+      <point x="347.075" y="743.425"/>
+      <point x="339.425" y="690.825"/>
+      <point x="327.075" y="639.35" type="curve"/>
+      <point x="330.075" y="627.025" type="line"/>
     </contour>
     <component base="t"/>
   </outline>

@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="onetenth" format="2">
-  <advance width="1448.0"/>
+  <advance width="1450.35"/>
   <unicode hex="2152"/>
   <outline>
     <component base="one.numr"/>
-    <component base="fraction" xOffset="353.0"/>
-    <component base="one.dnom" xOffset="545.0"/>
-    <component base="zero.dnom" xOffset="928.0"/>
+    <component base="fraction" xOffset="348.05"/>
+    <component base="one.dnom" xOffset="553.3"/>
+    <component base="zero.dnom" xOffset="931.35"/>
   </outline>
   <lib>
     <dict>

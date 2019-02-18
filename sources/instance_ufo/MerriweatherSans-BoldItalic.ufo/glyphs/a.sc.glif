@@ -1,29 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="a.sc" format="2">
-  <advance width="597.0"/>
+  <advance width="626.2051282051282"/>
   <note>
 A
 </note>
-  <anchor x="261.0" y="0.0" name="bottom"/>
-  <anchor x="500.0" y="9.0" name="ogonek"/>
-  <anchor x="348.0" y="650.0" name="top"/>
+  <anchor x="277.1025641025641" y="0.0" name="bottom"/>
+  <anchor x="527.3846153846154" y="9.0" name="ogonek"/>
+  <anchor x="375.71794871794873" y="650.1794871794872" name="top"/>
   <outline>
     <contour>
-      <point x="-25.0" y="0.0" type="line"/>
-      <point x="54.0" y="0.0" type="line"/>
-      <point x="144.0" y="175.0" type="line"/>
-      <point x="431.0" y="175.0" type="line"/>
-      <point x="468.0" y="0.0" type="line"/>
-      <point x="543.0" y="0.0" type="line"/>
-      <point x="398.0" y="646.0" type="line"/>
-      <point x="315.0" y="646.0" type="line"/>
+      <point x="-53.51282051282051" y="0.0" type="line"/>
+      <point x="113.12820512820512" y="0.0" type="line"/>
+      <point x="172.3846153846154" y="120.92307692307693" type="line"/>
+      <point x="424.0" y="120.92307692307693" type="line"/>
+      <point x="443.8974358974359" y="0.0" type="line"/>
+      <point x="595.8974358974359" y="0.0" type="line"/>
+      <point x="475.64102564102564" y="646.0" type="line"/>
+      <point x="284.6666666666667" y="646.0" type="line"/>
     </contour>
     <contour>
-      <point x="171.0" y="232.0" type="line"/>
-      <point x="324.0" y="530.0" type="line"/>
-      <point x="349.0" y="579.0" type="line"/>
-      <point x="356.0" y="530.0" type="line"/>
-      <point x="420.0" y="232.0" type="line"/>
+      <point x="214.43589743589743" y="222.94871794871796" type="line"/>
+      <point x="343.3333333333333" y="506.12820512820514" type="line"/>
+      <point x="362.1025641025641" y="556.7179487179487" type="line"/>
+      <point x="366.28205128205127" y="506.71794871794873" type="line"/>
+      <point x="409.5897435897436" y="222.94871794871796" type="line"/>
     </contour>
   </outline>
   <lib>

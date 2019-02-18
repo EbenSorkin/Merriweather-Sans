@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="zacute" format="2">
-  <advance width="470.0"/>
+  <advance width="477.64102564102564"/>
   <unicode hex="017A"/>
   <note>
 zacute
 </note>
-  <anchor x="198.0" y="0.0" name="bottom"/>
-  <anchor x="235.0" y="279.0" name="center"/>
-  <anchor x="274.0" y="729.0" name="top"/>
+  <anchor x="201.82051282051282" y="0.0" name="bottom"/>
+  <anchor x="238.82051282051282" y="279.0" name="center"/>
+  <anchor x="236.84615384615387" y="731.0769230769231" name="top"/>
   <outline>
     <component base="z"/>
-    <component base="acutecomb" xOffset="241.0"/>
+    <component base="acutecomb" xOffset="242.43589743589743"/>
   </outline>
   <lib>
     <dict>

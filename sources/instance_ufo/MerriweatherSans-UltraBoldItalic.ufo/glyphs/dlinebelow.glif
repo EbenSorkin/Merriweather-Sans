@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dlinebelow" format="2">
-  <advance width="561.0"/>
+  <advance width="622.0"/>
   <unicode hex="1E0F"/>
-  <anchor x="244.0" y="0.0" name="bottom"/>
-  <anchor x="281.0" y="279.0" name="center"/>
+  <anchor x="274.0" y="0.0" name="bottom"/>
+  <anchor x="311.0" y="279.0" name="center"/>
   <anchor x="265.0" y="557.0" name="top"/>
-  <anchor x="578.0" y="557.0" name="topright"/>
+  <anchor x="639.0" y="557.0" name="topright"/>
   <outline>
     <component base="d"/>
-    <component base="macronbelowcomb" xOffset="244.0"/>
+    <component base="macronbelowcomb" xOffset="274.0"/>
   </outline>
   <lib>
     <dict>

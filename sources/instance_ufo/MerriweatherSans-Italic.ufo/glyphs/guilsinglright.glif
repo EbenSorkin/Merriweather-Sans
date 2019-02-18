@@ -7,13 +7,13 @@ guilsinglright
 </note>
   <outline>
     <contour>
-      <point x="108.0" y="74.0" type="line"/>
-      <point x="448.0" y="277.0" type="line"/>
-      <point x="456.0" y="335.0" type="line"/>
-      <point x="171.0" y="530.0" type="line"/>
-      <point x="145.0" y="489.0" type="line"/>
-      <point x="366.0" y="305.0" type="line"/>
-      <point x="94.0" y="118.0" type="line"/>
+      <point x="108.55000000000001" y="71.725" type="line"/>
+      <point x="450.45" y="265.4" type="line"/>
+      <point x="462.1" y="346.0" type="line"/>
+      <point x="170.57500000000002" y="531.625" type="line"/>
+      <point x="132.65" y="472.75" type="line"/>
+      <point x="330.75" y="304.975" type="line"/>
+      <point x="88.25" y="134.875" type="line"/>
     </contour>
   </outline>
   <lib>

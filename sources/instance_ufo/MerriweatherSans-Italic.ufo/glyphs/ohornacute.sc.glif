@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ohornacute.sc" format="2">
-  <advance width="650.0"/>
-  <anchor x="288.0" y="0.0" name="bottom"/>
-  <anchor x="332.0" y="325.0" name="center"/>
-  <anchor x="373.0" y="9.0" name="ogonek"/>
-  <anchor x="370.0" y="822.0" name="top"/>
-  <anchor x="70.0" y="650.0" name="topleft"/>
-  <anchor x="678.0" y="650.0" name="topright"/>
+  <advance width="652.3"/>
+  <anchor x="288.975" y="0.0" name="bottom"/>
+  <anchor x="332.975" y="326.0" name="center"/>
+  <anchor x="394.2" y="9.0" name="ogonek"/>
+  <anchor x="325.25" y="817.725" name="top"/>
+  <anchor x="70.325" y="651.0" name="topleft"/>
+  <anchor x="679.625" y="651.0" name="topright"/>
   <outline>
     <component base="ohorn.sc"/>
-    <component base="acutecomb" xOffset="337.0" yOffset="93.0"/>
+    <component base="acutecomb" xOffset="317.075" yOffset="93.0"/>
   </outline>
   <lib>
     <dict>

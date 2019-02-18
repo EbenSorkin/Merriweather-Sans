@@ -1,44 +1,44 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="circumflexcomb_tildecomb.case" format="2">
-  <anchor x="62.0" y="747.0" name="_top"/>
-  <anchor x="87.0" y="939.0" name="top"/>
+  <anchor x="61.0" y="747.0" name="_top"/>
+  <anchor x="86.0" y="939.0" name="top"/>
   <outline>
     <contour>
-      <point x="-61.0" y="803.0" type="line"/>
-      <point x="92.0" y="939.0" type="line"/>
-      <point x="192.0" y="805.0" type="line"/>
-      <point x="234.0" y="831.0" type="line"/>
-      <point x="135.0" y="1005.0" type="line"/>
-      <point x="68.0" y="1005.0" type="line"/>
-      <point x="-98.0" y="831.0" type="line"/>
+      <point x="-52.0" y="807.0" type="line"/>
+      <point x="90.0" y="902.0" type="line"/>
+      <point x="178.0" y="807.0" type="line"/>
+      <point x="254.0" y="840.0" type="line"/>
+      <point x="150.0" y="1012.0" type="line"/>
+      <point x="62.0" y="1012.0" type="line"/>
+      <point x="-119.0" y="840.0" type="line"/>
     </contour>
     <contour>
-      <point x="181.0" y="1051.0" type="curve" smooth="yes"/>
-      <point x="224.0" y="1051.0"/>
-      <point x="268.0" y="1089.0"/>
-      <point x="279.0" y="1135.0" type="curve"/>
-      <point x="252.0" y="1169.0" type="line"/>
-      <point x="242.0" y="1152.0"/>
-      <point x="221.0" y="1112.0"/>
-      <point x="189.0" y="1112.0" type="curve" smooth="yes"/>
-      <point x="171.0" y="1112.0"/>
-      <point x="161.0" y="1122.0"/>
-      <point x="142.0" y="1142.0" type="curve" smooth="yes"/>
-      <point x="117.0" y="1168.0"/>
-      <point x="93.0" y="1182.0"/>
-      <point x="63.0" y="1182.0" type="curve" smooth="yes"/>
-      <point x="20.0" y="1182.0"/>
-      <point x="-20.0" y="1143.0"/>
-      <point x="-38.0" y="1101.0" type="curve"/>
-      <point x="-9.0" y="1069.0" type="line"/>
-      <point x="8.0" y="1099.0"/>
-      <point x="30.0" y="1122.0"/>
-      <point x="55.0" y="1122.0" type="curve" smooth="yes"/>
-      <point x="75.0" y="1122.0"/>
-      <point x="85.0" y="1112.0"/>
-      <point x="105.0" y="1091.0" type="curve" smooth="yes"/>
-      <point x="126.0" y="1069.0"/>
-      <point x="151.0" y="1051.0"/>
+      <point x="187.0" y="1049.0" type="curve" smooth="yes"/>
+      <point x="231.0" y="1049.0"/>
+      <point x="281.0" y="1090.0"/>
+      <point x="295.0" y="1130.0" type="curve"/>
+      <point x="253.0" y="1179.0" type="line"/>
+      <point x="243.0" y="1164.0"/>
+      <point x="222.0" y="1133.0"/>
+      <point x="188.0" y="1133.0" type="curve" smooth="yes"/>
+      <point x="172.0" y="1133.0"/>
+      <point x="161.0" y="1142.0"/>
+      <point x="143.0" y="1158.0" type="curve" smooth="yes"/>
+      <point x="122.0" y="1177.0"/>
+      <point x="90.0" y="1194.0"/>
+      <point x="62.0" y="1194.0" type="curve" smooth="yes"/>
+      <point x="17.0" y="1194.0"/>
+      <point x="-36.0" y="1156.0"/>
+      <point x="-55.0" y="1119.0" type="curve"/>
+      <point x="-14.0" y="1073.0" type="line"/>
+      <point x="5.0" y="1092.0"/>
+      <point x="21.0" y="1110.0"/>
+      <point x="47.0" y="1110.0" type="curve" smooth="yes"/>
+      <point x="68.0" y="1110.0"/>
+      <point x="78.0" y="1101.0"/>
+      <point x="99.0" y="1085.0" type="curve" smooth="yes"/>
+      <point x="122.0" y="1067.0"/>
+      <point x="150.0" y="1049.0"/>
     </contour>
   </outline>
   <lib>

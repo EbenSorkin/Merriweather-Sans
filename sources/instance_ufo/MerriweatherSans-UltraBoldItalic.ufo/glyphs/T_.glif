@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="T" format="2">
-  <advance width="548.0"/>
+  <advance width="563.0"/>
   <unicode hex="0054"/>
   <note>
 T
 </note>
-  <anchor x="237.0" y="0.0" name="bottom"/>
-  <anchor x="287.0" y="374.0" name="center"/>
-  <anchor x="336.0" y="747.0" name="top"/>
+  <anchor x="245.0" y="0.0" name="bottom"/>
+  <anchor x="295.0" y="374.0" name="center"/>
+  <anchor x="344.0" y="747.0" name="top"/>
   <outline>
     <contour>
-      <point x="200.0" y="0.0" type="line"/>
-      <point x="273.0" y="0.0" type="line"/>
-      <point x="361.0" y="693.0" type="line"/>
-      <point x="577.0" y="688.0" type="line"/>
-      <point x="585.0" y="747.0" type="line"/>
-      <point x="76.0" y="747.0" type="line"/>
-      <point x="67.0" y="688.0" type="line"/>
-      <point x="288.0" y="693.0" type="line"/>
+      <point x="153.0" y="0.0" type="line"/>
+      <point x="329.0" y="0.0" type="line"/>
+      <point x="417.0" y="618.0" type="line"/>
+      <point x="589.0" y="613.0" type="line"/>
+      <point x="609.0" y="747.0" type="line"/>
+      <point x="88.0" y="747.0" type="line"/>
+      <point x="66.0" y="613.0" type="line"/>
+      <point x="242.0" y="618.0" type="line"/>
     </contour>
   </outline>
   <lib>

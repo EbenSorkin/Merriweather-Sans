@@ -7,13 +7,13 @@ caron.cap
   <anchor x="87.0" y="939.0" name="top"/>
   <outline>
     <contour>
-      <point x="35.0" y="788.0" type="line"/>
-      <point x="101.0" y="788.0" type="line"/>
-      <point x="258.0" y="944.0" type="line"/>
-      <point x="227.0" y="977.0" type="line"/>
-      <point x="70.0" y="845.0" type="line"/>
-      <point x="-49.0" y="977.0" type="line"/>
-      <point x="-82.0" y="944.0" type="line"/>
+      <point x="23.424999999999997" y="791.075" type="line"/>
+      <point x="109.75" y="791.075" type="line"/>
+      <point x="267.975" y="940.65" type="line"/>
+      <point x="222.775" y="982.025" type="line"/>
+      <point x="71.725" y="871.575" type="line"/>
+      <point x="-46.425" y="982.025" type="line"/>
+      <point x="-93.975" y="939.675" type="line"/>
     </contour>
   </outline>
   <lib>

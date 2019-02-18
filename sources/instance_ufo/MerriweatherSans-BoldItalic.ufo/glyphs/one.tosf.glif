@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="one.tosf" format="2">
-  <advance width="577.0"/>
+  <advance width="601.4615384615385"/>
   <outline>
     <contour>
-      <point x="104.0" y="0.0" type="line"/>
-      <point x="480.0" y="0.0" type="line"/>
-      <point x="481.0" y="56.0" type="line"/>
-      <point x="334.0" y="56.0" type="line"/>
-      <point x="408.0" y="558.0" type="line"/>
-      <point x="375.0" y="567.0" type="line"/>
-      <point x="375.0" y="567.0" type="line"/>
-      <point x="310.0" y="532.0"/>
-      <point x="208.0" y="484.0"/>
-      <point x="127.0" y="469.0" type="curve"/>
-      <point x="136.0" y="421.0" type="line"/>
-      <point x="207.0" y="432.0"/>
-      <point x="271.0" y="454.0"/>
-      <point x="319.0" y="468.0" type="curve"/>
-      <point x="260.0" y="56.0" type="line"/>
-      <point x="104.0" y="56.0" type="line"/>
+      <point x="86.71794871794872" y="0.0" type="line"/>
+      <point x="513.8717948717949" y="0.0" type="line"/>
+      <point x="522.9230769230769" y="99.56410256410255" type="line"/>
+      <point x="388.38461538461536" y="99.56410256410255" type="line"/>
+      <point x="457.38461538461536" y="561.8205128205128" type="line"/>
+      <point x="361.84615384615387" y="567.0" type="line"/>
+      <point x="360.43589743589746" y="567.0" type="line"/>
+      <point x="303.71794871794873" y="532.0"/>
+      <point x="189.66666666666669" y="482.5897435897436"/>
+      <point x="116.94871794871796" y="467.5897435897436" type="curve"/>
+      <point x="133.5897435897436" y="380.43589743589746" type="line"/>
+      <point x="174.43589743589746" y="383.61538461538464"/>
+      <point x="237.8974358974359" y="390.2051282051282"/>
+      <point x="280.61538461538464" y="402.7948717948718" type="curve"/>
+      <point x="234.43589743589743" y="99.56410256410255" type="line"/>
+      <point x="95.35897435897436" y="99.56410256410255" type="line"/>
     </contour>
   </outline>
   <lib>

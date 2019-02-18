@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ldot" format="2">
-  <advance width="521.0"/>
+  <advance width="574.0"/>
   <unicode hex="013F"/>
   <note>
 Ldot
 </note>
-  <anchor x="202.0" y="0.0" name="bottom"/>
-  <anchor x="252.0" y="374.0" name="center"/>
-  <anchor x="301.0" y="747.0" name="top"/>
-  <anchor x="520.0" y="747.0" name="topright"/>
+  <anchor x="224.0" y="0.0" name="bottom"/>
+  <anchor x="274.0" y="374.0" name="center"/>
+  <anchor x="323.0" y="747.0" name="top"/>
+  <anchor x="563.0" y="747.0" name="topright"/>
   <outline>
     <component base="L"/>
-    <component base="period" xOffset="339.0" yOffset="385.0"/>
+    <component base="period" xOffset="378.0" yOffset="379.0"/>
   </outline>
   <lib>
     <dict>

@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Uhorndotbelow" format="2">
-  <advance width="664.0"/>
+  <advance width="703.0"/>
   <unicode hex="1EF0"/>
-  <anchor x="269.0" y="-199.0" name="bottom"/>
-  <anchor x="368.0" y="0.0" name="ogonek"/>
-  <anchor x="399.0" y="747.0" name="top"/>
-  <anchor x="706.0" y="747.0" name="topright"/>
+  <anchor x="289.0" y="-199.0" name="bottom"/>
+  <anchor x="434.0" y="0.0" name="ogonek"/>
+  <anchor x="426.0" y="747.0" name="top"/>
+  <anchor x="745.0" y="747.0" name="topright"/>
   <outline>
     <component base="Uhorn"/>
-    <component base="dotbelowcomb.case" xOffset="295.0"/>
+    <component base="dotbelowcomb.case" xOffset="315.0"/>
   </outline>
   <lib>
     <dict>

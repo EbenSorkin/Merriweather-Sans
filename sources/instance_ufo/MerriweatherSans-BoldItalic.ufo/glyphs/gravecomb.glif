@@ -8,12 +8,12 @@ grave
   <anchor x="67.0" y="788.0" name="top"/>
   <outline>
     <contour>
-      <point x="107.0" y="658.0" type="curve"/>
-      <point x="139.0" y="685.0" type="line"/>
-      <point x="-5.0" y="879.0" type="line"/>
-      <point x="-62.0" y="828.0" type="line"/>
-      <point x="-31.0" y="779.0"/>
-      <point x="55.0" y="696.0"/>
+      <point x="85.30769230769232" y="641.7179487179487" type="curve"/>
+      <point x="140.4102564102564" y="685.5897435897435" type="line"/>
+      <point x="-16.102564102564102" y="898.1025641025641" type="line"/>
+      <point x="-110.84615384615384" y="809.3589743589744" type="line"/>
+      <point x="-88.89743589743588" y="768.0"/>
+      <point x="37.43589743589744" y="659.5384615384615"/>
     </contour>
   </outline>
   <lib>

@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Iogonek" format="2">
-  <advance width="279.0"/>
+  <advance width="326.71794871794873"/>
   <unicode hex="012E"/>
   <note>
 Iogonek
 </note>
-  <anchor x="103.0" y="0.0" name="bottom"/>
-  <anchor x="216.0" y="10.0" name="ogonek"/>
-  <anchor x="204.0" y="747.0" name="top"/>
-  <anchor x="82.0" y="747.0" name="topleft"/>
+  <anchor x="126.56410256410257" y="0.0" name="bottom"/>
+  <anchor x="259.4871794871795" y="10.0" name="ogonek"/>
+  <anchor x="230.15384615384616" y="747.0" name="top"/>
+  <anchor x="82.0" y="748.7692307692307" name="topleft"/>
   <outline>
     <component base="I"/>
-    <component base="ogonekcomb.case" xOffset="252.0" yOffset="10.0"/>
+    <component base="ogonekcomb.case" xOffset="295.4871794871795" yOffset="10.0"/>
   </outline>
   <lib>
     <dict>

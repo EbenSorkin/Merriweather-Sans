@@ -8,13 +8,13 @@ caron
   <anchor x="67.0" y="788.0" name="top"/>
   <outline>
     <contour>
-      <point x="19.0" y="650.0" type="line"/>
-      <point x="85.0" y="650.0" type="line"/>
-      <point x="249.0" y="811.0" type="line"/>
-      <point x="218.0" y="843.0" type="line"/>
-      <point x="55.0" y="707.0" type="line"/>
-      <point x="-66.0" y="843.0" type="line"/>
-      <point x="-99.0" y="811.0" type="line"/>
+      <point x="0.0" y="629.0" type="line"/>
+      <point x="88.0" y="629.0" type="line"/>
+      <point x="269.0" y="812.0" type="line"/>
+      <point x="197.0" y="845.0" type="line"/>
+      <point x="62.0" y="752.0" type="line"/>
+      <point x="-42.0" y="845.0" type="line"/>
+      <point x="-103.0" y="812.0" type="line"/>
     </contour>
   </outline>
   <lib>

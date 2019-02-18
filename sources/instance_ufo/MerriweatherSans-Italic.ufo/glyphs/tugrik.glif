@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tugrik" format="2">
-  <advance width="625.0"/>
+  <advance width="627.55"/>
   <unicode hex="20AE"/>
-  <anchor x="278.0" y="0.0" name="bottom"/>
-  <anchor x="328.0" y="374.0" name="center"/>
-  <anchor x="377.0" y="747.0" name="top"/>
+  <anchor x="281.47499999999997" y="0.0" name="bottom"/>
+  <anchor x="331.47499999999997" y="374.325" name="center"/>
+  <anchor x="380.47499999999997" y="747.975" name="top"/>
   <outline>
     <contour>
-      <point x="98.0" y="341.0" type="line"/>
-      <point x="529.0" y="481.0" type="line"/>
-      <point x="531.0" y="543.0" type="line"/>
-      <point x="100.0" y="402.0" type="line"/>
+      <point x="99.425" y="313.575" type="line"/>
+      <point x="530.425" y="453.575" type="line"/>
+      <point x="532.425" y="543.0" type="line"/>
+      <point x="101.425" y="402.0" type="line"/>
     </contour>
     <contour>
-      <point x="94.0" y="123.0" type="line"/>
-      <point x="525.0" y="263.0" type="line"/>
-      <point x="527.0" y="325.0" type="line"/>
-      <point x="96.0" y="185.0" type="line"/>
+      <point x="95.425" y="106.74999999999997" type="line"/>
+      <point x="526.425" y="246.74999999999997" type="line"/>
+      <point x="528.425" y="335.525" type="line"/>
+      <point x="97.425" y="195.52499999999998" type="line"/>
     </contour>
-    <component base="T" xOffset="41.0"/>
+    <component base="T" xOffset="43.17499999999999"/>
   </outline>
   <lib>
     <dict>

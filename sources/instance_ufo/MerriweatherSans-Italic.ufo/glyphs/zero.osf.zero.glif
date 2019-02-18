@@ -3,10 +3,10 @@
   <advance width="624.0"/>
   <outline>
     <contour>
-      <point x="197.0" y="54.0" type="line"/>
-      <point x="256.0" y="43.0" type="line"/>
-      <point x="435.0" y="514.0" type="line"/>
-      <point x="377.0" y="527.0" type="line"/>
+      <point x="196.675" y="54.0" type="line"/>
+      <point x="255.675" y="43.0" type="line"/>
+      <point x="434.675" y="514.0" type="line"/>
+      <point x="376.675" y="527.0" type="line"/>
     </contour>
     <component base="zero.osf"/>
   </outline>

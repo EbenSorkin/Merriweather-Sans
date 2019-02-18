@@ -1,30 +1,30 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="exclam" format="2">
-  <advance width="303.0"/>
+  <advance width="335.0"/>
   <unicode hex="0021"/>
   <note>
 exclam
 </note>
   <outline>
     <contour>
-      <point x="115.0" y="238.0" type="line"/>
-      <point x="174.0" y="238.0" type="line"/>
-      <point x="279.0" y="868.0" type="line"/>
-      <point x="195.0" y="868.0" type="line"/>
+      <point x="116.425" y="239.3" type="line"/>
+      <point x="201.55" y="239.3" type="line"/>
+      <point x="312.175" y="868.0" type="line"/>
+      <point x="191.125" y="868.0" type="line"/>
     </contour>
     <contour>
-      <point x="108.0" y="-8.0" type="curve" smooth="yes"/>
-      <point x="146.0" y="-8.0"/>
-      <point x="175.0" y="21.0"/>
-      <point x="175.0" y="59.0" type="curve" smooth="yes"/>
-      <point x="175.0" y="84.0"/>
-      <point x="161.0" y="99.0"/>
-      <point x="130.0" y="99.0" type="curve" smooth="yes"/>
-      <point x="95.0" y="99.0"/>
-      <point x="64.0" y="70.0"/>
-      <point x="64.0" y="33.0" type="curve" smooth="yes"/>
-      <point x="64.0" y="8.0"/>
-      <point x="83.0" y="-8.0"/>
+      <point x="122.325" y="-8.325000000000001" type="curve" smooth="yes"/>
+      <point x="172.275" y="-8.325000000000001"/>
+      <point x="210.275" y="28.65"/>
+      <point x="211.925" y="77.9" type="curve" smooth="yes"/>
+      <point x="213.25" y="110.525"/>
+      <point x="192.275" y="132.47500000000002"/>
+      <point x="149.675" y="132.47500000000002" type="curve" smooth="yes"/>
+      <point x="102.39999999999999" y="132.47500000000002"/>
+      <point x="61.4" y="93.875"/>
+      <point x="60.4" y="47.925000000000004" type="curve" smooth="yes"/>
+      <point x="59.4" y="14.3"/>
+      <point x="87.05" y="-8.325000000000001"/>
     </contour>
   </outline>
   <lib>

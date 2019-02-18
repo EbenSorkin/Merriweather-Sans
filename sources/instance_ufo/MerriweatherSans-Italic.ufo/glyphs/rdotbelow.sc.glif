@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="rdotbelow.sc" format="2">
-  <advance width="595.0"/>
-  <anchor x="235.0" y="-199.0" name="bottom"/>
-  <anchor x="347.0" y="650.0" name="top"/>
+  <advance width="607.55"/>
+  <anchor x="240.625" y="-199.0" name="bottom"/>
+  <anchor x="353.3" y="651.0" name="top"/>
   <outline>
     <component base="r.sc"/>
-    <component base="dotbelowcomb" xOffset="261.0"/>
+    <component base="dotbelowcomb" xOffset="266.625"/>
   </outline>
   <lib>
     <dict>
