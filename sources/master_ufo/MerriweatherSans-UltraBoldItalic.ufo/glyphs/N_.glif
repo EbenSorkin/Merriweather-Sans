@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="N" format="2">
+  <advance width="732.0"/>
+  <unicode hex="004E"/>
+  <note>
+N
+</note>
+  <anchor x="329.0" y="0.0" name="bottom"/>
+  <anchor x="428.0" y="747.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="35.0" y="0.0" type="line"/>
+      <point x="200.0" y="0.0" type="line"/>
+      <point x="256.0" y="407.0" type="line"/>
+      <point x="255.0" y="541.0" type="line"/>
+      <point x="303.0" y="407.0" type="line"/>
+      <point x="473.0" y="0.0" type="line"/>
+      <point x="618.0" y="0.0" type="line"/>
+      <point x="725.0" y="747.0" type="line"/>
+      <point x="558.0" y="747.0" type="line"/>
+      <point x="511.0" y="360.0" type="line"/>
+      <point x="504.0" y="233.0" type="line"/>
+      <point x="466.0" y="360.0" type="line"/>
+      <point x="292.0" y="747.0" type="line"/>
+      <point x="142.0" y="747.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 35 values pushed */
+10 9 3 2 4 1 0 1 74 4 3 2 0 0 17 75 2 1 1 1 18 1 76 0 0 0 13 0 13 20 17 20 5 7 23 
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/14 16:46:02</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

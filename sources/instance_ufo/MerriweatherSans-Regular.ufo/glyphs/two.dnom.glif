@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="two.dnom" format="2">
+  <advance width="493.5333333333333"/>
+  <outline>
+    <contour>
+      <point x="54.53333333333333" y="0.0" type="line"/>
+      <point x="443.5333333333333" y="0.0" type="line"/>
+      <point x="443.5333333333333" y="86.55555555555554" type="line"/>
+      <point x="191.84444444444443" y="80.24444444444444" type="line"/>
+      <point x="328.06666666666666" y="168.64444444444445"/>
+      <point x="425.0" y="263.4222222222222"/>
+      <point x="425.0" y="381.1777777777778" type="curve" smooth="yes"/>
+      <point x="425.0" y="468.8888888888889"/>
+      <point x="374.64444444444445" y="549.2444444444444"/>
+      <point x="237.0" y="549.2444444444444" type="curve" smooth="yes"/>
+      <point x="151.20000000000002" y="549.2444444444444"/>
+      <point x="78.75555555555556" y="512.0"/>
+      <point x="43.82222222222222" y="476.24444444444447" type="curve"/>
+      <point x="77.42222222222222" y="417.4666666666667" type="line"/>
+      <point x="104.42222222222222" y="442.4666666666667"/>
+      <point x="161.17777777777778" y="467.44444444444446"/>
+      <point x="214.46666666666667" y="467.44444444444446" type="curve" smooth="yes"/>
+      <point x="284.1333333333333" y="467.44444444444446"/>
+      <point x="319.24444444444447" y="435.6222222222222"/>
+      <point x="319.24444444444447" y="378.44444444444446" type="curve" smooth="yes"/>
+      <point x="319.24444444444447" y="246.6888888888889"/>
+      <point x="151.57777777777778" y="100.19999999999999"/>
+      <point x="40.0" y="42.844444444444434" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>2</integer>
+        <key>height</key>
+        <integer>73</integer>
+        <key>keepStroke</key>
+        <integer>90</integer>
+        <key>monoWidth</key>
+        <integer>620</integer>
+        <key>weight</key>
+        <integer>-6</integer>
+        <key>width</key>
+        <integer>78</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/15 16:42:31</string>
+    </dict>
+  </lib>
+</glyph>

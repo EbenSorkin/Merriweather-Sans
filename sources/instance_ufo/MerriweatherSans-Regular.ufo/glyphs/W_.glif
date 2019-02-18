@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="W" format="2">
+  <advance width="941.6222222222223"/>
+  <unicode hex="0057"/>
+  <anchor x="471.31111111111113" y="0.0" name="bottom"/>
+  <anchor x="469.53333333333336" y="-83.0" name="btm"/>
+  <anchor x="469.5333333333333" y="830.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="212.6888888888889" y="-8.0" type="line"/>
+      <point x="316.2888888888889" y="-8.0" type="line"/>
+      <point x="452.8888888888889" y="466.20000000000005" type="line"/>
+      <point x="488.4888888888889" y="668.7333333333333" type="line"/>
+      <point x="452.7111111111111" y="669.5555555555555" type="line"/>
+      <point x="489.02222222222224" y="466.20000000000005" type="line"/>
+      <point x="623.4444444444445" y="-8.0" type="line"/>
+      <point x="739.8666666666667" y="-8.0" type="line"/>
+      <point x="932.2222222222222" y="743.0" type="line"/>
+      <point x="814.2222222222222" y="743.0" type="line"/>
+      <point x="708.6666666666666" y="268.35555555555555" type="line"/>
+      <point x="677.1333333333333" y="77.33333333333334" type="line"/>
+      <point x="696.4888888888889" y="77.33333333333334" type="line"/>
+      <point x="653.6666666666666" y="269.17777777777775" type="line"/>
+      <point x="516.6444444444444" y="743.0" type="line"/>
+      <point x="426.97777777777776" y="743.0" type="line"/>
+      <point x="292.84444444444443" y="269.17777777777775" type="line"/>
+      <point x="258.6" y="77.51111111111112" type="line"/>
+      <point x="275.9555555555555" y="77.51111111111112" type="line"/>
+      <point x="242.6" y="269.17777777777775" type="line"/>
+      <point x="129.2222222222222" y="743.0" type="line"/>
+      <point x="9.400000000000004" y="743.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/16 05:39:16</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

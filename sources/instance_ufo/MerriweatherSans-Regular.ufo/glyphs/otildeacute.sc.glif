@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="otildeacute.sc" format="2">
+  <advance width="743.1333333333333"/>
+  <anchor x="372.06666666666666" y="0.0" name="bottom"/>
+  <anchor x="370.8888888888889" y="-72.0" name="btm"/>
+  <anchor x="372.06666666666666" y="323.0" name="center"/>
+  <anchor x="668.9555555555555" y="10.0" name="ogonek"/>
+  <anchor x="321.4" y="1217.1555555555556" name="top"/>
+  <anchor x="20.0" y="646.0" name="topleft"/>
+  <anchor x="723.1333333333333" y="646.0" name="topright"/>
+  <outline>
+    <component base="o.sc"/>
+    <component base="tildecomb" xOffset="382.0" yOffset="42.0"/>
+    <component base="acutecomb" xOffset="381.8222222222222" yOffset="222.73333333333332"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/15 05:53:04</string>
+    </dict>
+  </lib>
+</glyph>

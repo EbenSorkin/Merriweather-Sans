@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ddotaccent" format="2">
+  <advance width="726.1111111111111"/>
+  <unicode hex="1E0A"/>
+  <anchor x="363.55555555555554" y="0.0" name="bottom"/>
+  <anchor x="323.73333333333335" y="-83.0" name="btm"/>
+  <anchor x="363.55555555555554" y="372.0" name="center"/>
+  <anchor x="359.2" y="1027.7777777777778" name="top"/>
+  <outline>
+    <component base="D"/>
+    <component base="dotaccentcomb.case" xOffset="359.2" yOffset="16.444444444444454"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/14 06:18:10</string>
+    </dict>
+  </lib>
+</glyph>

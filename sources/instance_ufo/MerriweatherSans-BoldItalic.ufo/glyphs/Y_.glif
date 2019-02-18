@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Y" format="2">
+  <advance width="529.0"/>
+  <unicode hex="0059"/>
+  <note>
+Y
+</note>
+  <anchor x="228.0" y="0.0" name="bottom"/>
+  <anchor x="327.0" y="747.0" name="top"/>
+  <anchor x="82.0" y="747.0" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="196.0" y="0.0" type="line"/>
+      <point x="267.0" y="0.0" type="line"/>
+      <point x="303.0" y="286.0" type="line"/>
+      <point x="592.0" y="747.0" type="line"/>
+      <point x="513.0" y="747.0" type="line"/>
+      <point x="304.0" y="400.0" type="line"/>
+      <point x="277.0" y="350.0" type="line"/>
+      <point x="257.0" y="400.0" type="line"/>
+      <point x="130.0" y="747.0" type="line"/>
+      <point x="51.0" y="747.0" type="line"/>
+      <point x="233.0" y="286.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 25 values pushed */
+10 3 2 2 0 1 74 1 1 0 0 17 75 0 2 2 18 2 76 18 20 16 3 7 23 
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/14 16:46:02</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="amacron" format="2">
+  <advance width="619.0"/>
+  <unicode hex="0101"/>
+  <note>
+amacron
+</note>
+  <anchor x="273.0" y="0.0" name="bottom"/>
+  <anchor x="517.0" y="10.0" name="ogonek"/>
+  <anchor x="398.0" y="726.0" name="top"/>
+  <outline>
+    <component base="a"/>
+    <component base="macroncomb" xOffset="340.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/14 16:46:02</string>
+    </dict>
+  </lib>
+</glyph>

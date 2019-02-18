@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omacronacute" format="2">
+  <advance width="677.0"/>
+  <unicode hex="1E52"/>
+  <anchor x="302.0" y="0.0" name="bottom"/>
+  <anchor x="352.0" y="375.0" name="center"/>
+  <anchor x="414.0" y="10.0" name="ogonek"/>
+  <anchor x="460.0" y="1144.0" name="top"/>
+  <anchor x="82.0" y="750.0" name="topleft"/>
+  <anchor x="719.0" y="750.0" name="topright"/>
+  <outline>
+    <component base="O"/>
+    <component base="macroncomb.case" xOffset="345.0" yOffset="3.0"/>
+    <component base="acutecomb.case" xOffset="367.0" yOffset="168.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/14 16:46:02</string>
+    </dict>
+  </lib>
+</glyph>

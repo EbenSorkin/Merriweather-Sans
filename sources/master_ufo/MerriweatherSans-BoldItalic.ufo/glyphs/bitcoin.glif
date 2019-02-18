@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bitcoin" format="2">
+  <advance width="633.0"/>
+  <unicode hex="20BF"/>
+  <anchor x="280.0" y="0.0" name="bottom"/>
+  <anchor x="379.0" y="750.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="393.0" y="713.0" type="line"/>
+      <point x="449.0" y="713.0" type="line"/>
+      <point x="471.0" y="852.0" type="line"/>
+      <point x="415.0" y="852.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="144.0" y="-92.0" type="line"/>
+      <point x="200.0" y="-92.0" type="line"/>
+      <point x="222.0" y="47.0" type="line"/>
+      <point x="166.0" y="47.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="288.0" y="-92.0" type="line"/>
+      <point x="344.0" y="-92.0" type="line"/>
+      <point x="366.0" y="47.0" type="line"/>
+      <point x="310.0" y="47.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="249.0" y="713.0" type="line"/>
+      <point x="305.0" y="713.0" type="line"/>
+      <point x="327.0" y="852.0" type="line"/>
+      <point x="271.0" y="852.0" type="line"/>
+    </contour>
+    <component base="B"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/15 20:49:16</string>
+    </dict>
+  </lib>
+</glyph>

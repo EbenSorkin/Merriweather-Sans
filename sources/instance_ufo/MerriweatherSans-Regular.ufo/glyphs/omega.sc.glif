@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="omega.sc" format="2">
+  <advance width="883.6666666666666"/>
+  <anchor x="442.24444444444447" y="0.0" name="bottom"/>
+  <anchor x="20.0" y="646.0" name="topleft"/>
+  <outline>
+    <component base="Omega"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/16 05:39:16</string>
+    </dict>
+  </lib>
+</glyph>

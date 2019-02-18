@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven.sc" format="2">
+  <advance width="609.9111111111112"/>
+  <outline>
+    <contour>
+      <point x="168.42222222222225" y="0.0" type="curve"/>
+      <point x="299.84444444444443" y="0.0" type="line"/>
+      <point x="563.2" y="709.3777777777777" type="line"/>
+      <point x="537.7111111111111" y="743.5333333333333" type="line"/>
+      <point x="70.0888888888889" y="743.5333333333333" type="line"/>
+      <point x="69.26666666666668" y="648.1777777777778" type="line"/>
+      <point x="435.1333333333333" y="647.1777777777778" type="line"/>
+      <point x="355.97777777777776" y="438.4888888888889"/>
+      <point x="270.77777777777777" y="215.17777777777778"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/15 20:51:05</string>
+    </dict>
+  </lib>
+</glyph>

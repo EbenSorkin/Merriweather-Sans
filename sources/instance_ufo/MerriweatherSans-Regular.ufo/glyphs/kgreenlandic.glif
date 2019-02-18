@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kgreenlandic" format="2">
+  <advance width="577.2222222222222"/>
+  <unicode hex="0138"/>
+  <anchor x="289.02222222222224" y="0.0" name="bottom"/>
+  <anchor x="289.02222222222224" y="557.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="559.3555555555555" y="557.0" type="line"/>
+      <point x="428.64444444444445" y="557.0" type="line"/>
+      <point x="173.64444444444442" y="253.26666666666665" type="line"/>
+      <point x="199.1111111111111" y="235.97777777777776" type="line"/>
+      <point x="203.28888888888886" y="332.3111111111111" type="line"/>
+      <point x="203.28888888888886" y="557.0" type="line"/>
+      <point x="87.46666666666667" y="557.0" type="line"/>
+      <point x="89.11111111111111" y="0.0" type="line"/>
+      <point x="204.1111111111111" y="0.0" type="line"/>
+      <point x="204.1111111111111" y="90.33333333333334" type="line"/>
+      <point x="201.46666666666664" y="175.15555555555557" type="line"/>
+      <point x="191.8222222222222" y="147.91111111111113" type="line"/>
+    </contour>
+    <contour>
+      <point x="262.97777777777776" y="256.55555555555554" type="line"/>
+      <point x="446.5777777777778" y="0.0" type="line"/>
+      <point x="577.8222222222222" y="0.0" type="line"/>
+      <point x="341.77777777777777" y="331.1333333333333" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/16 05:39:16</string>
+    </dict>
+  </lib>
+</glyph>

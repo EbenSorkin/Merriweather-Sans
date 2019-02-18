@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="umacrondieresis" format="2">
+  <advance width="610.0"/>
+  <unicode hex="1E7B"/>
+  <anchor x="305.0" y="0.0" name="bottom"/>
+  <anchor x="293.0" y="-83.0" name="btm"/>
+  <anchor x="549.0" y="10.0" name="ogonek"/>
+  <anchor x="310.0" y="1168.0" name="top"/>
+  <anchor x="590.0" y="557.0" name="topright"/>
+  <outline>
+    <component base="u"/>
+    <component base="macroncomb" xOffset="310.0"/>
+    <component base="dieresiscomb" xOffset="310.0" yOffset="155.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/15 06:27:28</string>
+    </dict>
+  </lib>
+</glyph>

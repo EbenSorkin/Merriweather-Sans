@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.tosf" format="2">
+  <advance width="591.0"/>
+  <outline>
+    <contour>
+      <point x="101.0" y="0.0" type="line"/>
+      <point x="503.0" y="0.0" type="line"/>
+      <point x="504.0" y="74.0" type="line"/>
+      <point x="360.0" y="74.0" type="line"/>
+      <point x="429.0" y="558.0" type="line"/>
+      <point x="385.0" y="567.0" type="line"/>
+      <point x="385.0" y="567.0" type="line"/>
+      <point x="316.0" y="532.0"/>
+      <point x="209.0" y="484.0"/>
+      <point x="124.0" y="469.0" type="curve"/>
+      <point x="135.0" y="405.0" type="line"/>
+      <point x="200.0" y="413.0"/>
+      <point x="254.0" y="421.0"/>
+      <point x="309.0" y="434.0" type="curve"/>
+      <point x="259.0" y="74.0" type="line"/>
+      <point x="102.0" y="74.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/14 16:46:03</string>
+      <key>com.schriftgestaltung.Glyphs.nodeUserData.0.15</key>
+      <dict>
+        <key>name</key>
+        <string>hr00</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

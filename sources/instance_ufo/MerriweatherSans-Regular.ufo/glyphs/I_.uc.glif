@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="I.uc" format="2">
+  <advance width="320.1111111111111"/>
+  <anchor x="160.55555555555554" y="0.0" name="bottom"/>
+  <anchor x="288.4" y="10.0" name="ogonek"/>
+  <anchor x="160.55555555555554" y="743.0" name="top"/>
+  <anchor x="20.0" y="743.0" name="topleft"/>
+  <anchor x="163.2" y="-83.0" name="btm"/>
+  <outline>
+    <component base="I"/>
+    <component base="dotaccentcomb.case" xOffset="160.37777777777777" yOffset="16.444444444444454"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/16 05:39:16</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="mdotbelow" format="2">
+  <advance width="969.4"/>
+  <unicode hex="1E43"/>
+  <anchor x="485.2" y="-215.08888888888887" name="bottom"/>
+  <anchor x="491.1333333333333" y="-83.0" name="btm"/>
+  <anchor x="488.4888888888889" y="830.0" name="top"/>
+  <outline>
+    <component base="m"/>
+    <component base="dotbelowcomb" xOffset="485.73333333333335"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/16 05:40:25</string>
+    </dict>
+  </lib>
+</glyph>

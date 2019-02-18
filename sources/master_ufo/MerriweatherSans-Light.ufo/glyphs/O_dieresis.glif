@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Odieresis" format="2">
+  <advance width="768.0"/>
+  <unicode hex="00D6"/>
+  <anchor x="384.0" y="0.0" name="bottom"/>
+  <anchor x="384.0" y="-83.0" name="btm"/>
+  <anchor x="384.0" y="372.0" name="center"/>
+  <anchor x="691.0" y="10.0" name="ogonek"/>
+  <anchor x="395.0" y="963.0" name="top"/>
+  <anchor x="20.0" y="743.0" name="topleft"/>
+  <anchor x="748.0" y="743.0" name="topright"/>
+  <outline>
+    <component base="O"/>
+    <component base="dieresiscomb.case" xOffset="395.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/14 06:18:47</string>
+    </dict>
+  </lib>
+</glyph>

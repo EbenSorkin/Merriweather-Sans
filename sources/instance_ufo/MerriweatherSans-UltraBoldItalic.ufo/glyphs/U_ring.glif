@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uring" format="2">
+  <advance width="664.0"/>
+  <unicode hex="016E"/>
+  <note>
+Uring
+</note>
+  <anchor x="295.0" y="0.0" name="bottom"/>
+  <anchor x="368.0" y="0.0" name="ogonek"/>
+  <anchor x="431.0" y="976.0" name="top"/>
+  <anchor x="706.0" y="747.0" name="topright"/>
+  <outline>
+    <component base="U"/>
+    <component base="ringcomb.case" xOffset="337.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/14 16:46:02</string>
+    </dict>
+  </lib>
+</glyph>

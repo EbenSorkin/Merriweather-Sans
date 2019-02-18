@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="udotbelow.sc" format="2">
+  <advance width="645.0"/>
+  <anchor x="260.0" y="-199.0" name="bottom"/>
+  <anchor x="407.0" y="11.0" name="ogonek"/>
+  <anchor x="377.0" y="651.0" name="top"/>
+  <anchor x="673.0" y="651.0" name="topright"/>
+  <outline>
+    <component base="u.sc"/>
+    <component base="dotbelowcomb" xOffset="286.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/14 16:46:03</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotesingle" format="2">
+  <advance width="275.0"/>
+  <unicode hex="0027"/>
+  <note>
+quotesingle
+</note>
+  <outline>
+    <contour>
+      <point x="105.0" y="472.0" type="line"/>
+      <point x="217.0" y="472.0" type="line"/>
+      <point x="307.0" y="824.0" type="line"/>
+      <point x="147.0" y="824.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 28 values pushed */
+2 1 1 0 0 1 85 2 1 1 1 0 89 0 0 1 0 77 0 0 0 3 0 3 17 3 7 21 
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/14 16:46:03</string>
+    </dict>
+  </lib>
+</glyph>

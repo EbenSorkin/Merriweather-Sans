@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="peso" format="2">
+  <advance width="746.0"/>
+  <unicode hex="20B1"/>
+  <note>
+uni20B1
+</note>
+  <outline>
+    <contour>
+      <point x="83.0" y="0.0" type="line"/>
+      <point x="239.0" y="0.0" type="line"/>
+      <point x="269.0" y="211.0" type="line"/>
+      <point x="278.0" y="210.0"/>
+      <point x="305.0" y="209.0"/>
+      <point x="352.0" y="209.0" type="curve" smooth="yes"/>
+      <point x="477.0" y="209.0"/>
+      <point x="584.0" y="276.0"/>
+      <point x="636.0" y="388.0" type="curve"/>
+      <point x="722.0" y="388.0" type="line"/>
+      <point x="729.0" y="440.0" type="line"/>
+      <point x="657.0" y="440.0" type="line"/>
+      <point x="666.0" y="471.0"/>
+      <point x="671.0" y="502.0"/>
+      <point x="671.0" y="534.0" type="curve"/>
+      <point x="737.0" y="534.0" type="line"/>
+      <point x="745.0" y="586.0" type="line"/>
+      <point x="668.0" y="586.0" type="line"/>
+      <point x="652.0" y="699.0"/>
+      <point x="566.0" y="755.0"/>
+      <point x="418.0" y="755.0" type="curve" smooth="yes"/>
+      <point x="400.0" y="755.0"/>
+      <point x="276.0" y="747.0"/>
+      <point x="259.0" y="747.0" type="curve" smooth="yes"/>
+      <point x="187.0" y="747.0" type="line"/>
+      <point x="165.0" y="586.0" type="line"/>
+      <point x="90.0" y="586.0" type="line"/>
+      <point x="83.0" y="534.0" type="line"/>
+      <point x="157.0" y="534.0" type="line"/>
+      <point x="144.0" y="440.0" type="line"/>
+      <point x="75.0" y="440.0" type="line"/>
+      <point x="67.0" y="388.0" type="line"/>
+      <point x="137.0" y="388.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="354.0" y="327.0" type="curve" smooth="yes"/>
+      <point x="329.0" y="327.0"/>
+      <point x="297.0" y="329.0"/>
+      <point x="285.0" y="333.0" type="curve"/>
+      <point x="292.0" y="388.0" type="line"/>
+      <point x="472.0" y="388.0" type="line"/>
+      <point x="444.0" y="349.0"/>
+      <point x="405.0" y="327.0"/>
+    </contour>
+    <contour>
+      <point x="300.0" y="440.0" type="line"/>
+      <point x="313.0" y="534.0" type="line"/>
+      <point x="517.0" y="532.0" type="line"/>
+      <point x="516.0" y="498.0"/>
+      <point x="510.0" y="467.0"/>
+      <point x="500.0" y="440.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="320.0" y="586.0" type="line"/>
+      <point x="328.0" y="639.0" type="line"/>
+      <point x="345.0" y="643.0"/>
+      <point x="373.0" y="646.0"/>
+      <point x="390.0" y="646.0" type="curve" smooth="yes"/>
+      <point x="458.0" y="646.0"/>
+      <point x="497.0" y="626.0"/>
+      <point x="510.0" y="586.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>PUSHB[ ]	/* 6 values pushed */
+53 1 16 1 1 74 
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+45 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 51 values pushed */
+12 10 2 7 14 11 2 6 0 7 6 97 15 5 2 0 19 17 4 3 1 16 0 1 97 0 16 0 3 2 16 3 99 18 1 13 13 8 89 9 1 8 8 17 75 0 2 2 18 2 76 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 55 values pushed */
+12 10 2 7 14 11 2 6 0 7 6 97 15 5 2 0 19 17 4 3 1 16 0 1 97 0 16 0 3 2 16 3 99 0 9 9 17 75 18 1 13 13 8 89 0 8 8 17 75 0 2 2 18 2 76 
+EIF[ ]	/* EndIf */
+NPUSHB[ ]	/* 38 values pushed */
+47 47 33 33 47 54 47 54 51 49 46 45 42 41 33 40 33 39 36 35 32 31 30 29 28 26 50 17 18 17 19 34 17 17 16 20 7 29 
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/15 20:49:16</string>
+    </dict>
+  </lib>
+</glyph>

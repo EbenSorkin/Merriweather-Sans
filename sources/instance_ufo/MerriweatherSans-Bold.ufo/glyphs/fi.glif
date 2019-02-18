@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fi" format="2">
+  <advance width="731.0"/>
+  <unicode hex="FB01"/>
+  <anchor x="365.5" y="0.0" name="caret_1"/>
+  <anchor x="210.0" y="0.0" name="bottom"/>
+  <anchor x="203.0" y="-83.0" name="btm"/>
+  <anchor x="158.0" y="994.0" name="top"/>
+  <outline>
+    <component base="f"/>
+    <component base="i" xOffset="419.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/16 05:39:16</string>
+    </dict>
+  </lib>
+</glyph>

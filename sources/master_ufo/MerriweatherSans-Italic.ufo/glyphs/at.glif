@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="at" format="2">
+  <advance width="961.0"/>
+  <unicode hex="0040"/>
+  <note>
+at
+</note>
+  <outline>
+    <contour>
+      <point x="438.0" y="-215.0" type="curve" smooth="yes"/>
+      <point x="521.0" y="-215.0"/>
+      <point x="601.0" y="-193.0"/>
+      <point x="646.0" y="-158.0" type="curve"/>
+      <point x="630.0" y="-111.0" type="line"/>
+      <point x="595.0" y="-128.0"/>
+      <point x="502.0" y="-147.0"/>
+      <point x="446.0" y="-147.0" type="curve" smooth="yes"/>
+      <point x="247.0" y="-147.0"/>
+      <point x="133.0" y="-18.0"/>
+      <point x="133.0" y="194.0" type="curve" smooth="yes"/>
+      <point x="133.0" y="451.0"/>
+      <point x="305.0" y="690.0"/>
+      <point x="560.0" y="690.0" type="curve" smooth="yes"/>
+      <point x="729.0" y="690.0"/>
+      <point x="838.0" y="618.0"/>
+      <point x="838.0" y="419.0" type="curve" smooth="yes"/>
+      <point x="838.0" y="295.0"/>
+      <point x="759.0" y="90.0"/>
+      <point x="663.0" y="90.0" type="curve" smooth="yes"/>
+      <point x="657.0" y="90.0"/>
+      <point x="655.0" y="104.0"/>
+      <point x="655.0" y="127.0" type="curve" smooth="yes"/>
+      <point x="655.0" y="217.0"/>
+      <point x="692.0" y="444.0"/>
+      <point x="712.0" y="521.0" type="curve"/>
+      <point x="631.0" y="507.0" type="line"/>
+      <point x="607.0" y="524.0"/>
+      <point x="557.0" y="533.0"/>
+      <point x="524.0" y="533.0" type="curve" smooth="yes"/>
+      <point x="360.0" y="533.0"/>
+      <point x="260.0" y="376.0"/>
+      <point x="260.0" y="204.0" type="curve" smooth="yes"/>
+      <point x="260.0" y="107.0"/>
+      <point x="336.0" y="3.0"/>
+      <point x="396.0" y="3.0" type="curve" smooth="yes"/>
+      <point x="465.0" y="3.0"/>
+      <point x="529.0" y="73.0"/>
+      <point x="576.0" y="181.0" type="curve"/>
+      <point x="573.0" y="153.0"/>
+      <point x="570.0" y="126.0"/>
+      <point x="570.0" y="110.0" type="curve" smooth="yes"/>
+      <point x="570.0" y="50.0"/>
+      <point x="571.0" y="5.0"/>
+      <point x="614.0" y="5.0" type="curve" smooth="yes"/>
+      <point x="792.0" y="5.0"/>
+      <point x="913.0" y="229.0"/>
+      <point x="913.0" y="434.0" type="curve" smooth="yes"/>
+      <point x="913.0" y="631.0"/>
+      <point x="785.0" y="754.0"/>
+      <point x="579.0" y="754.0" type="curve" smooth="yes"/>
+      <point x="268.0" y="754.0"/>
+      <point x="59.0" y="511.0"/>
+      <point x="59.0" y="183.0" type="curve" smooth="yes"/>
+      <point x="59.0" y="-55.0"/>
+      <point x="204.0" y="-215.0"/>
+    </contour>
+    <contour>
+      <point x="411.0" y="78.0" type="curve" smooth="yes"/>
+      <point x="369.0" y="78.0"/>
+      <point x="348.0" y="125.0"/>
+      <point x="348.0" y="218.0" type="curve" smooth="yes"/>
+      <point x="348.0" y="333.0"/>
+      <point x="408.0" y="472.0"/>
+      <point x="520.0" y="472.0" type="curve" smooth="yes"/>
+      <point x="551.0" y="472.0"/>
+      <point x="593.0" y="459.0"/>
+      <point x="608.0" y="436.0" type="curve"/>
+      <point x="597.0" y="336.0"/>
+      <point x="484.0" y="78.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 20 values pushed */
+30 29 2 8 2 72 15 2 3 8 56 1 5 0 57 1 6 5 4 74 
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+8 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 40 values pushed */
+0 2 0 8 3 2 8 99 0 5 0 6 5 6 95 0 4 4 7 91 10 1 7 7 25 75 11 9 2 3 3 0 91 1 1 0 0 18 0 76 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+21 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 42 values pushed */
+0 5 0 6 5 6 95 0 4 4 7 91 10 1 7 7 25 75 0 8 8 2 91 0 2 2 20 75 11 9 2 3 3 0 91 1 1 0 0 18 0 76 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 50 values pushed */
+0 2 0 8 3 2 8 99 0 5 0 6 5 6 95 0 4 4 7 91 10 1 7 7 25 75 0 3 3 0 91 1 1 0 0 18 75 11 1 9 9 0 91 1 1 0 0 18 0 76 
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+NPUSHB[ ]	/* 24 values pushed */
+69 69 0 0 69 81 69 80 76 74 0 68 0 67 37 38 37 42 38 41 38 12 7 27 
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/15 20:49:16</string>
+    </dict>
+  </lib>
+</glyph>

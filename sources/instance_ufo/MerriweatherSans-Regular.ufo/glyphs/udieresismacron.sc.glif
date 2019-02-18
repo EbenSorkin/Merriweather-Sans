@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="udieresismacron.sc" format="2">
+  <advance width="697.3333333333334"/>
+  <anchor x="348.6666666666667" y="0.0" name="bottom"/>
+  <anchor x="352.9555555555556" y="-72.0" name="btm"/>
+  <anchor x="627.8" y="10.0" name="ogonek"/>
+  <anchor x="353.9555555555556" y="1065.3333333333333" name="top"/>
+  <anchor x="677.3333333333334" y="646.0" name="topright"/>
+  <outline>
+    <component base="u.sc"/>
+    <component base="dieresiscomb" xOffset="353.9555555555556" yOffset="-108.0"/>
+    <component base="macroncomb" xOffset="353.9555555555556" yOffset="76.6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/14 16:06:22</string>
+    </dict>
+  </lib>
+</glyph>

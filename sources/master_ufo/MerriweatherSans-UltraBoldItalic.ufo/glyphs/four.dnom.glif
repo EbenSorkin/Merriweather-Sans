@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four.dnom" format="2">
+  <advance width="522.0"/>
+  <outline>
+    <contour>
+      <point x="244.0" y="0.0" type="line"/>
+      <point x="391.0" y="0.0" type="line"/>
+      <point x="406.0" y="113.0" type="line"/>
+      <point x="471.0" y="113.0" type="line"/>
+      <point x="487.0" y="230.0" type="line"/>
+      <point x="423.0" y="226.0" type="line"/>
+      <point x="440.0" y="404.0" type="line"/>
+      <point x="300.0" y="392.0" type="line"/>
+      <point x="277.0" y="223.0" type="line"/>
+      <point x="160.0" y="216.0" type="line"/>
+      <point x="197.0" y="261.0" type="line"/>
+      <point x="384.0" y="546.0" type="line"/>
+      <point x="378.0" y="560.0" type="line"/>
+      <point x="173.0" y="560.0" type="line"/>
+      <point x="131.0" y="451.0"/>
+      <point x="44.0" y="268.0"/>
+      <point x="-6.0" y="190.0" type="curve"/>
+      <point x="35.0" y="113.0" type="line"/>
+      <point x="261.0" y="113.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>10</integer>
+        <key>height</key>
+        <integer>75</integer>
+        <key>width</key>
+        <integer>80</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/14 16:46:03</string>
+    </dict>
+  </lib>
+</glyph>

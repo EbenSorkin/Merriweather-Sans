@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pi.sc" format="2">
+  <advance width="838.0"/>
+  <outline>
+    <contour>
+      <point x="192.0" y="0.0" type="line"/>
+      <point x="376.0" y="0.0" type="line"/>
+      <point x="451.0" y="608.0" type="line"/>
+      <point x="631.0" y="608.0" type="line"/>
+      <point x="556.0" y="0.0" type="line"/>
+      <point x="739.0" y="0.0" type="line"/>
+      <point x="814.0" y="608.0" type="line"/>
+      <point x="927.0" y="608.0" type="line"/>
+      <point x="943.0" y="743.0" type="line"/>
+      <point x="173.0" y="743.0" type="line"/>
+      <point x="157.0" y="608.0" type="line"/>
+      <point x="267.0" y="608.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/15 20:49:27</string>
+    </dict>
+  </lib>
+</glyph>

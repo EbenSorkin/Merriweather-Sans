@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="h" format="2">
+  <advance width="613.0"/>
+  <unicode hex="0068"/>
+  <note>
+h
+</note>
+  <anchor x="270.0" y="0.0" name="bottom"/>
+  <anchor x="335.0" y="492.0" name="center"/>
+  <anchor x="207.0" y="758.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="41.0" y="0.0" type="line"/>
+      <point x="173.0" y="0.0" type="line"/>
+      <point x="221.0" y="349.0" type="line"/>
+      <point x="255.0" y="402.0"/>
+      <point x="322.0" y="455.0"/>
+      <point x="369.0" y="455.0" type="curve" smooth="yes"/>
+      <point x="400.0" y="455.0"/>
+      <point x="414.0" y="443.0"/>
+      <point x="414.0" y="404.0" type="curve" smooth="yes"/>
+      <point x="414.0" y="390.0"/>
+      <point x="413.0" y="371.0"/>
+      <point x="410.0" y="348.0" type="curve" smooth="yes"/>
+      <point x="402.0" y="282.0"/>
+      <point x="396.0" y="245.0"/>
+      <point x="362.0" y="0.0" type="curve"/>
+      <point x="497.0" y="0.0" type="line"/>
+      <point x="550.0" y="367.0"/>
+      <point x="553.0" y="385.0"/>
+      <point x="553.0" y="420.0" type="curve" smooth="yes"/>
+      <point x="553.0" y="523.0"/>
+      <point x="512.0" y="564.0"/>
+      <point x="431.0" y="564.0" type="curve" smooth="yes"/>
+      <point x="356.0" y="564.0"/>
+      <point x="282.0" y="517.0"/>
+      <point x="230.0" y="448.0" type="curve"/>
+      <point x="247.0" y="545.0" type="line"/>
+      <point x="278.0" y="799.0" type="line"/>
+      <point x="145.0" y="799.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>PUSHB[ ]	/* 6 values pushed */
+28 1 0 1 1 74 
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+49 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 23 values pushed */
+0 3 3 19 75 0 1 1 4 91 5 1 4 4 28 75 2 1 0 0 18 0 76 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 23 values pushed */
+0 1 1 4 91 5 1 4 4 28 75 0 3 3 0 89 2 1 0 0 18 0 76 
+EIF[ ]	/* EndIf */
+NPUSHB[ ]	/* 13 values pushed */
+0 0 0 31 0 30 17 20 41 23 6 7 24 
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/14 16:46:02</string>
+    </dict>
+  </lib>
+</glyph>

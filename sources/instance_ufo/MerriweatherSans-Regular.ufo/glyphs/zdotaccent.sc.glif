@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zdotaccent.sc" format="2">
+  <advance width="611.8888888888889"/>
+  <anchor x="306.35555555555555" y="0.0" name="bottom"/>
+  <anchor x="302.64444444444445" y="-72.0" name="btm"/>
+  <anchor x="306.35555555555555" y="323.0" name="center"/>
+  <anchor x="319.8222222222222" y="882.3777777777777" name="top"/>
+  <outline>
+    <component base="z.sc"/>
+    <component base="dotaccentcomb" xOffset="319.8222222222222" yOffset="-108.17777777777778"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/14 16:06:53</string>
+    </dict>
+  </lib>
+</glyph>

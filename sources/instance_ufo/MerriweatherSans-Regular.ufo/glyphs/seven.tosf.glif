@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven.tosf" format="2">
+  <advance width="677.0"/>
+  <outline>
+    <contour>
+      <point x="188.1777777777778" y="-133.0222222222222" type="curve"/>
+      <point x="310.46666666666664" y="-168.97777777777776" type="line"/>
+      <point x="617.5333333333333" y="587.8444444444444" type="line"/>
+      <point x="591.4" y="622.0" type="line"/>
+      <point x="83.91111111111113" y="622.0" type="line"/>
+      <point x="83.0888888888889" y="526.6444444444445" type="line"/>
+      <point x="489.64444444444445" y="525.6444444444445" type="line"/>
+      <point x="410.7111111111111" y="318.31111111111113"/>
+      <point x="283.26666666666665" y="65.13333333333333"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>monoWidth</key>
+        <integer>677</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/15 17:09:42</string>
+    </dict>
+  </lib>
+</glyph>

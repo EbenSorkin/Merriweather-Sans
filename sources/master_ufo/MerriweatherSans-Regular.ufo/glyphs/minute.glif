@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="minute" format="2">
+  <advance width="333.0"/>
+  <unicode hex="2032"/>
+  <outline>
+    <contour>
+      <point x="93.0" y="581.0" type="line"/>
+      <point x="172.0" y="581.0" type="line"/>
+      <point x="251.0" y="875.0" type="line"/>
+      <point x="139.0" y="875.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/01/21 06:08:13</string>
+    </dict>
+  </lib>
+</glyph>

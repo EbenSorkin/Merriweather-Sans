@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ebreve" format="2">
+  <advance width="524.0"/>
+  <unicode hex="0115"/>
+  <note>
+ebreve
+</note>
+  <anchor x="245.0" y="0.0" name="bottom"/>
+  <anchor x="337.0" y="10.0" name="ogonek"/>
+  <anchor x="369.0" y="788.0" name="top"/>
+  <outline>
+    <component base="e"/>
+    <component base="brevecomb" xOffset="302.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/14 16:46:02</string>
+    </dict>
+  </lib>
+</glyph>

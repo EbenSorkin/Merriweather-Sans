@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="z" format="2">
+  <advance width="523.0"/>
+  <unicode hex="007A"/>
+  <anchor x="262.0" y="0.0" name="bottom"/>
+  <anchor x="262.0" y="-83.0" name="btm"/>
+  <anchor x="262.0" y="279.0" name="center"/>
+  <anchor x="268.0" y="830.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="62.0" y="0.0" type="line"/>
+      <point x="475.0" y="0.0" type="line"/>
+      <point x="475.0" y="60.0" type="line"/>
+      <point x="155.0" y="60.0" type="line"/>
+      <point x="190.0" y="107.0" type="line"/>
+      <point x="480.0" y="521.0" type="line"/>
+      <point x="466.0" y="557.0" type="line"/>
+      <point x="69.0" y="557.0" type="line"/>
+      <point x="69.0" y="494.0" type="line"/>
+      <point x="370.0" y="494.0" type="line"/>
+      <point x="336.0" y="446.0" type="line"/>
+      <point x="45.0" y="32.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/16 05:39:16</string>
+    </dict>
+  </lib>
+</glyph>

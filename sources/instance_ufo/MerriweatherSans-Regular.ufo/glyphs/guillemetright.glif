@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guillemetright" format="2">
+  <advance width="950.5111111111111"/>
+  <unicode hex="00BB"/>
+  <outline>
+    <contour>
+      <point x="762.4222222222224" y="250.6888888888889" type="line"/>
+      <point x="762.4222222222224" y="345.84444444444443" type="line"/>
+      <point x="455.57777777777795" y="555.1333333333333" type="line"/>
+      <point x="426.8000000000002" y="471.33333333333337" type="line"/>
+      <point x="678.5555555555558" y="278.7555555555556" type="line"/>
+      <point x="678.5555555555558" y="321.2444444444444" type="line"/>
+      <point x="426.8000000000002" y="130.48888888888888" type="line"/>
+      <point x="455.57777777777795" y="48.51111111111112" type="line"/>
+    </contour>
+    <contour>
+      <point x="536.9777777777776" y="250.6888888888889" type="line"/>
+      <point x="536.9777777777776" y="345.84444444444443" type="line"/>
+      <point x="223.6888888888887" y="555.1333333333333" type="line"/>
+      <point x="194.91111111111093" y="471.33333333333337" type="line"/>
+      <point x="453.111111111111" y="278.7555555555556" type="line"/>
+      <point x="453.111111111111" y="321.2444444444444" type="line"/>
+      <point x="194.91111111111093" y="130.48888888888888" type="line"/>
+      <point x="223.6888888888887" y="48.51111111111112" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>guilsinglright</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>guilsinglright</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/15 20:51:05</string>
+    </dict>
+  </lib>
+</glyph>

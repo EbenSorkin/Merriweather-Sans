@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pi.sc" format="2">
+  <advance width="813.4444444444445"/>
+  <outline>
+    <contour>
+      <point x="278.2888888888889" y="0.0" type="line"/>
+      <point x="278.2888888888889" y="567.7333333333333" type="line"/>
+      <point x="271.0444444444444" y="559.3111111111111" type="line"/>
+      <point x="541.5111111111111" y="559.3111111111111" type="line"/>
+      <point x="534.2666666666667" y="567.5555555555555" type="line"/>
+      <point x="534.2666666666667" y="0.0" type="line"/>
+      <point x="651.4444444444445" y="0.0" type="line"/>
+      <point x="651.4444444444445" y="567.5555555555555" type="line"/>
+      <point x="644.0222222222222" y="559.3111111111111" type="line"/>
+      <point x="749.2888888888889" y="559.4888888888889" type="line"/>
+      <point x="749.2888888888889" y="646.0" type="line"/>
+      <point x="64.15555555555557" y="646.0" type="line"/>
+      <point x="64.15555555555557" y="559.4888888888889" type="line"/>
+      <point x="168.35555555555555" y="559.3111111111111" type="line"/>
+      <point x="161.11111111111111" y="570.3777777777777" type="line"/>
+      <point x="161.11111111111111" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>product</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>product</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/14 05:11:13</string>
+    </dict>
+  </lib>
+</glyph>

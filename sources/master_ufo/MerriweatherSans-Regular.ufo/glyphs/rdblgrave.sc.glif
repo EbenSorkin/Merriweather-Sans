@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rdblgrave.sc" format="2">
+  <advance width="649.0"/>
+  <anchor x="325.0" y="0.0" name="bottom"/>
+  <anchor x="327.0" y="-72.0" name="btm"/>
+  <anchor x="294.0" y="784.0" name="top"/>
+  <outline>
+    <component base="r.sc"/>
+    <component base="dblgravecomb" xOffset="338.0" yOffset="-94.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/14 16:07:26</string>
+    </dict>
+  </lib>
+</glyph>

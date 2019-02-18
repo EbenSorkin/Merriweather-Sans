@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="m" format="2">
+  <advance width="1001.0"/>
+  <unicode hex="006D"/>
+  <anchor x="501.0" y="0.0" name="bottom"/>
+  <anchor x="501.0" y="-83.0" name="btm"/>
+  <anchor x="501.0" y="830.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="76.0" y="0.0" type="line"/>
+      <point x="256.0" y="0.0" type="line"/>
+      <point x="256.0" y="387.0" type="line"/>
+      <point x="281.0" y="411.0"/>
+      <point x="320.0" y="423.0"/>
+      <point x="346.0" y="423.0" type="curve" smooth="yes"/>
+      <point x="398.0" y="424.0"/>
+      <point x="415.0" y="399.0"/>
+      <point x="415.0" y="318.0" type="curve" smooth="yes"/>
+      <point x="415.0" y="0.0" type="line"/>
+      <point x="595.0" y="0.0" type="line"/>
+      <point x="595.0" y="352.0" type="line" smooth="yes"/>
+      <point x="595.0" y="512.0"/>
+      <point x="538.0" y="568.0"/>
+      <point x="427.0" y="565.0" type="curve" smooth="yes"/>
+      <point x="354.0" y="564.0"/>
+      <point x="283.0" y="528.0"/>
+      <point x="245.0" y="497.0" type="curve"/>
+      <point x="241.0" y="557.0" type="line"/>
+      <point x="76.0" y="557.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="588.0" y="383.0" type="line"/>
+      <point x="606.0" y="400.0"/>
+      <point x="642.0" y="423.0"/>
+      <point x="680.0" y="423.0" type="curve" smooth="yes"/>
+      <point x="733.0" y="424.0"/>
+      <point x="750.0" y="400.0"/>
+      <point x="750.0" y="319.0" type="curve" smooth="yes"/>
+      <point x="750.0" y="0.0" type="line"/>
+      <point x="931.0" y="0.0" type="line"/>
+      <point x="931.0" y="351.0" type="line" smooth="yes"/>
+      <point x="931.0" y="514.0"/>
+      <point x="864.0" y="566.0"/>
+      <point x="752.0" y="565.0" type="curve" smooth="yes"/>
+      <point x="659.0" y="566.0"/>
+      <point x="584.0" y="518.0"/>
+      <point x="558.0" y="494.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>n</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>n</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/16 05:39:16</string>
+    </dict>
+  </lib>
+</glyph>

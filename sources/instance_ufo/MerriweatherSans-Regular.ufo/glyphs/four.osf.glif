@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four.osf" format="2">
+  <advance width="660.2222222222222"/>
+  <outline>
+    <contour>
+      <point x="83.53333333333333" y="0.0" type="line"/>
+      <point x="628.8222222222222" y="0.0" type="line"/>
+      <point x="628.8222222222222" y="88.51111111111109" type="line"/>
+      <point x="182.9333333333333" y="88.51111111111109" type="line"/>
+      <point x="224.86666666666665" y="160.37777777777777" type="line"/>
+      <point x="300.68888888888887" y="304.1333333333333"/>
+      <point x="376.5111111111111" y="448.8888888888889"/>
+      <point x="452.3333333333333" y="592.6444444444444" type="curve"/>
+      <point x="376.0888888888889" y="637.0222222222222" type="line"/>
+      <point x="338.44444444444446" y="637.0222222222222" type="line"/>
+      <point x="244.15555555555557" y="442.84444444444443"/>
+      <point x="149.86666666666667" y="247.66666666666666"/>
+      <point x="55.57777777777778" y="53.48888888888888" type="curve"/>
+    </contour>
+    <contour>
+      <point x="400.7111111111111" y="-184.0" type="line"/>
+      <point x="515.6444444444444" y="-184.0" type="line"/>
+      <point x="515.6444444444444" y="297.55555555555554" type="line"/>
+      <point x="411.4888888888889" y="297.55555555555554" type="line"/>
+      <point x="400.7111111111111" y="88.51111111111109" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/01/21 06:08:13</string>
+    </dict>
+  </lib>
+</glyph>

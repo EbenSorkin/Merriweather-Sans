@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ydotbelow.sc" format="2">
+  <advance width="512.0"/>
+  <anchor x="194.0" y="-199.0" name="bottom"/>
+  <anchor x="306.0" y="650.0" name="top"/>
+  <anchor x="71.0" y="650.0" name="topleft"/>
+  <outline>
+    <component base="y.sc"/>
+    <component base="dotbelowcomb" xOffset="220.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/14 16:46:03</string>
+    </dict>
+  </lib>
+</glyph>

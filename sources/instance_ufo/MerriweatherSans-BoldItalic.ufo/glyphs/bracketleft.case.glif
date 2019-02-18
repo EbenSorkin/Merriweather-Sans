@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bracketleft.case" format="2">
+  <advance width="349.0"/>
+  <note>
+bracketleft
+</note>
+  <outline>
+    <contour>
+      <point x="107.0" y="-84.0" type="curve" smooth="yes"/>
+      <point x="151.0" y="-84.0"/>
+      <point x="207.0" y="-77.0"/>
+      <point x="252.0" y="-66.0" type="curve"/>
+      <point x="255.0" y="-34.0" type="line"/>
+      <point x="111.0" y="-33.0" type="line"/>
+      <point x="223.0" y="785.0" type="line"/>
+      <point x="366.0" y="785.0" type="line"/>
+      <point x="370.0" y="817.0" type="line"/>
+      <point x="329.0" y="826.0"/>
+      <point x="263.0" y="835.0"/>
+      <point x="234.0" y="835.0" type="curve" smooth="yes"/>
+      <point x="173.0" y="835.0"/>
+      <point x="157.0" y="811.0"/>
+      <point x="148.0" y="742.0" type="curve" smooth="yes"/>
+      <point x="45.0" y="10.0" type="line" smooth="yes"/>
+      <point x="44.0" y="-5.0"/>
+      <point x="42.0" y="-20.0"/>
+      <point x="42.0" y="-32.0" type="curve" smooth="yes"/>
+      <point x="42.0" y="-72.0"/>
+      <point x="60.0" y="-84.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 31 values pushed */
+0 0 0 1 2 0 1 97 0 2 3 3 2 85 0 2 2 3 91 0 3 2 3 79 35 17 21 34 4 7 24 
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/15 19:32:34</string>
+    </dict>
+  </lib>
+</glyph>

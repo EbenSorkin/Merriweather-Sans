@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven.dnom" format="2">
+  <advance width="449.26666666666665"/>
+  <outline>
+    <contour>
+      <point x="105.46666666666667" y="0.0" type="curve"/>
+      <point x="221.39999999999998" y="0.0" type="line"/>
+      <point x="424.26666666666665" y="507.7111111111111" type="line"/>
+      <point x="400.55555555555554" y="544.8888888888889" type="line"/>
+      <point x="25.0" y="544.8888888888889" type="line"/>
+      <point x="25.0" y="453.6" type="line"/>
+      <point x="310.26666666666665" y="453.4222222222222" type="line"/>
+      <point x="267.75555555555553" y="363.93333333333334"/>
+      <point x="168.66666666666669" y="120.8666666666667"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>2</integer>
+        <key>height</key>
+        <integer>73</integer>
+        <key>keepStroke</key>
+        <integer>90</integer>
+        <key>monoWidth</key>
+        <integer>620</integer>
+        <key>weight</key>
+        <integer>-6</integer>
+        <key>width</key>
+        <integer>78</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/15 16:57:32</string>
+    </dict>
+  </lib>
+</glyph>

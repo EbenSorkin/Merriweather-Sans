@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lj" format="2">
+  <advance width="879.0"/>
+  <unicode hex="01C8"/>
+  <anchor x="274.0" y="0.0" name="bottom_1"/>
+  <anchor x="714.0" y="-273.0" name="bottom_2"/>
+  <anchor x="295.0" y="-83.0" name="btm"/>
+  <anchor x="274.0" y="372.0" name="center"/>
+  <anchor x="178.0" y="830.0" name="top_1"/>
+  <anchor x="715.0" y="831.0" name="top_2"/>
+  <anchor x="528.0" y="743.0" name="topright"/>
+  <outline>
+    <component base="L"/>
+    <component base="jdotless" xOffset="548.0"/>
+    <component base="dotaccent" xOffset="581.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/01/21 06:08:13</string>
+    </dict>
+  </lib>
+</glyph>

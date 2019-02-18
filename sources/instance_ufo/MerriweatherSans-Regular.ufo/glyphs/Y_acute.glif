@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Yacute" format="2">
+  <advance width="615.0444444444445"/>
+  <unicode hex="00DD"/>
+  <anchor x="307.93333333333334" y="0.0" name="bottom"/>
+  <anchor x="312.22222222222223" y="-83.0" name="btm"/>
+  <anchor x="312.22222222222223" y="1024.088888888889" name="top"/>
+  <anchor x="20.0" y="743.0" name="topleft"/>
+  <outline>
+    <component base="Y"/>
+    <component base="acutecomb.case" xOffset="312.22222222222223"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/14 06:18:47</string>
+    </dict>
+  </lib>
+</glyph>

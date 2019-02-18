@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tcaron" format="2">
+  <advance width="386.0"/>
+  <unicode hex="0165"/>
+  <note>
+tcaron
+</note>
+  <anchor x="156.0" y="0.0" name="bottom"/>
+  <anchor x="193.0" y="279.0" name="center"/>
+  <anchor x="234.0" y="660.0" name="top"/>
+  <anchor x="403.0" y="557.0" name="topright"/>
+  <outline>
+    <contour>
+      <point x="412.0" y="609.0" type="line"/>
+      <point x="451.0" y="658.0"/>
+      <point x="477.0" y="749.0"/>
+      <point x="477.0" y="822.0" type="curve" smooth="yes"/>
+      <point x="477.0" y="871.0"/>
+      <point x="471.0" y="905.0"/>
+      <point x="460.0" y="924.0" type="curve"/>
+      <point x="361.0" y="901.0" type="line"/>
+      <point x="354.0" y="883.0" type="line"/>
+      <point x="363.0" y="870.0"/>
+      <point x="368.0" y="828.0"/>
+      <point x="368.0" y="787.0" type="curve" smooth="yes"/>
+      <point x="368.0" y="736.0"/>
+      <point x="359.0" y="678.0"/>
+      <point x="348.0" y="638.0" type="curve"/>
+      <point x="351.0" y="625.0" type="line"/>
+    </contour>
+    <component base="t"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/15 21:04:38</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="s" format="2">
+  <advance width="477.0"/>
+  <unicode hex="0073"/>
+  <anchor x="239.0" y="0.0" name="bottom"/>
+  <anchor x="241.0" y="-83.0" name="btm"/>
+  <anchor x="244.0" y="830.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="55.0" y="32.0" type="line"/>
+      <point x="81.0" y="13.0"/>
+      <point x="156.0" y="-8.0"/>
+      <point x="232.0" y="-8.0" type="curve" smooth="yes"/>
+      <point x="353.0" y="-8.0"/>
+      <point x="428.0" y="47.0"/>
+      <point x="428.0" y="148.0" type="curve" smooth="yes"/>
+      <point x="428.0" y="243.0"/>
+      <point x="340.0" y="292.0"/>
+      <point x="265.0" y="322.0" type="curve" smooth="yes"/>
+      <point x="197.0" y="350.0"/>
+      <point x="156.0" y="374.0"/>
+      <point x="157.0" y="426.0" type="curve" smooth="yes"/>
+      <point x="158.0" y="462.0"/>
+      <point x="194.0" y="485.0"/>
+      <point x="263.0" y="485.0" type="curve" smooth="yes"/>
+      <point x="314.0" y="485.0"/>
+      <point x="366.0" y="469.0"/>
+      <point x="383.0" y="455.0" type="curve"/>
+      <point x="400.0" y="536.0" type="line"/>
+      <point x="384.0" y="545.0"/>
+      <point x="327.0" y="564.0"/>
+      <point x="259.0" y="564.0" type="curve" smooth="yes"/>
+      <point x="149.0" y="564.0"/>
+      <point x="60.0" y="517.0"/>
+      <point x="58.0" y="420.0" type="curve" smooth="yes"/>
+      <point x="57.0" y="327.0"/>
+      <point x="125.0" y="276.0"/>
+      <point x="213.0" y="239.0" type="curve" smooth="yes"/>
+      <point x="277.0" y="212.0"/>
+      <point x="328.0" y="186.0"/>
+      <point x="328.0" y="140.0" type="curve" smooth="yes"/>
+      <point x="328.0" y="97.0"/>
+      <point x="292.0" y="71.0"/>
+      <point x="227.0" y="72.0" type="curve" smooth="yes"/>
+      <point x="156.0" y="73.0"/>
+      <point x="86.0" y="101.0"/>
+      <point x="71.0" y="112.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/16 05:39:16</string>
+    </dict>
+  </lib>
+</glyph>

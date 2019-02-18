@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="emacron.sc" format="2">
+  <advance width="566.0"/>
+  <anchor x="242.0" y="0.0" name="bottom"/>
+  <anchor x="471.0" y="9.0" name="ogonek"/>
+  <anchor x="349.0" y="818.0" name="top"/>
+  <anchor x="63.0" y="649.0" name="topleft"/>
+  <outline>
+    <component base="e.sc"/>
+    <component base="macroncomb" xOffset="291.0" yOffset="92.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/14 17:33:43</string>
+    </dict>
+  </lib>
+</glyph>

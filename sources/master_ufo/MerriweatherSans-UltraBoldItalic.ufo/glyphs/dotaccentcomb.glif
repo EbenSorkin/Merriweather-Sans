@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotaccentcomb" format="2">
+  <unicode hex="0307"/>
+  <note>
+dotaccent
+</note>
+  <anchor x="37.0" y="557.0" name="_top"/>
+  <anchor x="67.0" y="786.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="48.0" y="641.0" type="curve" smooth="yes"/>
+      <point x="114.0" y="641.0"/>
+      <point x="154.0" y="683.0"/>
+      <point x="154.0" y="742.0" type="curve" smooth="yes"/>
+      <point x="154.0" y="785.0"/>
+      <point x="116.0" y="821.0"/>
+      <point x="68.0" y="821.0" type="curve" smooth="yes"/>
+      <point x="8.0" y="821.0"/>
+      <point x="-36.0" y="777.0"/>
+      <point x="-36.0" y="721.0" type="curve" smooth="yes"/>
+      <point x="-36.0" y="678.0"/>
+      <point x="5.0" y="641.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>PUSHB[ ]	/* 2 values pushed */
+6 100 
+WCVTP[ ]	/* WriteCVTInPixels */
+NPUSHB[ ]	/* 21 values pushed */
+0 0 1 1 0 87 0 0 0 1 91 0 1 0 1 79 38 34 2 7 22 
+CALL[ ]	/* CallFunction */
+PUSHB[ ]	/* 2 values pushed */
+6 0 
+WCVTP[ ]	/* WriteCVTInPixels */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/15 20:49:12</string>
+    </dict>
+  </lib>
+</glyph>

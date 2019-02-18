@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eng" format="2">
+  <advance width="738.0"/>
+  <unicode hex="014A"/>
+  <note>
+Eng
+</note>
+  <outline>
+    <contour>
+      <point x="339.0" y="-202.0" type="line"/>
+      <point x="477.0" y="-193.0"/>
+      <point x="603.0" y="-118.0"/>
+      <point x="624.0" y="0.0" type="curve"/>
+      <point x="731.0" y="747.0" type="line"/>
+      <point x="564.0" y="747.0" type="line"/>
+      <point x="517.0" y="360.0" type="line"/>
+      <point x="510.0" y="233.0" type="line"/>
+      <point x="472.0" y="360.0" type="line"/>
+      <point x="298.0" y="747.0" type="line"/>
+      <point x="148.0" y="747.0" type="line"/>
+      <point x="41.0" y="0.0" type="line"/>
+      <point x="206.0" y="0.0" type="line"/>
+      <point x="262.0" y="407.0" type="line"/>
+      <point x="261.0" y="541.0" type="line"/>
+      <point x="309.0" y="407.0" type="line"/>
+      <point x="469.0" y="23.0" type="line"/>
+      <point x="463.0" y="-59.0"/>
+      <point x="379.0" y="-117.0"/>
+      <point x="312.0" y="-140.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 39 values pushed */
+20 19 13 12 10 5 0 1 1 74 6 5 2 0 71 3 2 2 1 1 17 75 0 0 0 18 0 76 0 0 0 21 0 21 17 30 4 7 22 
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/14 16:46:02</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

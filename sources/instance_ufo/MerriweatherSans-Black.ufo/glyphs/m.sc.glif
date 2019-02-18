@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="m.sc" format="2">
+  <advance width="937.0"/>
+  <anchor x="469.0" y="0.0" name="bottom"/>
+  <anchor x="474.0" y="-72.0" name="btm"/>
+  <anchor x="474.0" y="722.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="28.0" y="0.0" type="line"/>
+      <point x="201.0" y="0.0" type="line"/>
+      <point x="227.0" y="322.0" type="line"/>
+      <point x="239.0" y="512.0" type="line"/>
+      <point x="286.0" y="314.0" type="line"/>
+      <point x="384.0" y="-2.0" type="line"/>
+      <point x="554.0" y="-2.0" type="line"/>
+      <point x="644.0" y="314.0" type="line"/>
+      <point x="688.0" y="512.0" type="line"/>
+      <point x="698.0" y="322.0" type="line"/>
+      <point x="729.0" y="0.0" type="line"/>
+      <point x="909.0" y="0.0" type="line"/>
+      <point x="817.0" y="646.0" type="line"/>
+      <point x="573.0" y="646.0" type="line"/>
+      <point x="502.0" y="329.0" type="line"/>
+      <point x="477.0" y="172.0" type="line"/>
+      <point x="445.0" y="329.0" type="line"/>
+      <point x="364.0" y="646.0" type="line"/>
+      <point x="112.0" y="646.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>2</integer>
+        <key>height</key>
+        <integer>87</integer>
+        <key>weight</key>
+        <integer>1</integer>
+        <key>width</key>
+        <integer>96</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/16 05:39:16</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

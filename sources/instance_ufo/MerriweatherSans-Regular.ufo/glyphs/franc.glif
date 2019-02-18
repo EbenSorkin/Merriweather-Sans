@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="franc" format="2">
+  <advance width="548.9333333333333"/>
+  <unicode hex="20A3"/>
+  <outline>
+    <contour>
+      <point x="0.6888888888888829" y="116.6888888888889" type="line"/>
+      <point x="97.66666666666666" y="116.68888888888888" type="line"/>
+      <point x="97.66666666666667" y="0.0" type="line"/>
+      <point x="222.68888888888887" y="0.0" type="line"/>
+      <point x="222.68888888888887" y="116.6888888888889" type="line"/>
+      <point x="347.1111111111111" y="116.6888888888889" type="line"/>
+      <point x="347.1111111111111" y="199.06666666666666" type="line"/>
+      <point x="222.68888888888887" y="199.06666666666666" type="line"/>
+      <point x="222.68888888888887" y="322.24444444444447" type="line"/>
+      <point x="456.4888888888889" y="322.24444444444447" type="line"/>
+      <point x="456.4888888888888" y="416.8888888888889" type="line"/>
+      <point x="222.68888888888887" y="416.8888888888889" type="line"/>
+      <point x="222.68888888888887" y="648.1777777777778" type="line"/>
+      <point x="531.8222222222222" y="648.1777777777778" type="line"/>
+      <point x="531.8222222222221" y="743.0" type="line"/>
+      <point x="97.66666666666666" y="743.0" type="line"/>
+      <point x="97.66666666666666" y="199.06666666666666" type="line"/>
+      <point x="0.688888888888874" y="199.06666666666666" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/15 17:24:04</string>
+    </dict>
+  </lib>
+</glyph>

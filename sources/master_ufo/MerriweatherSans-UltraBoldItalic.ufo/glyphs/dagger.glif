@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dagger" format="2">
+  <advance width="398.0"/>
+  <unicode hex="2020"/>
+  <note>
+dagger
+</note>
+  <outline>
+    <contour>
+      <point x="120.0" y="74.0" type="line"/>
+      <point x="226.0" y="74.0" type="line"/>
+      <point x="291.0" y="461.0" type="line"/>
+      <point x="298.0" y="519.0" type="line"/>
+      <point x="416.0" y="519.0" type="line"/>
+      <point x="432.0" y="624.0" type="line"/>
+      <point x="309.0" y="624.0" type="line"/>
+      <point x="329.0" y="717.0" type="line"/>
+      <point x="343.0" y="804.0" type="line"/>
+      <point x="221.0" y="804.0" type="line"/>
+      <point x="209.0" y="717.0" type="line"/>
+      <point x="199.0" y="624.0" type="line"/>
+      <point x="77.0" y="624.0" type="line"/>
+      <point x="60.0" y="519.0" type="line"/>
+      <point x="177.0" y="519.0" type="line"/>
+      <point x="169.0" y="461.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+33 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 21 values pushed */
+0 5 0 5 115 3 1 1 4 1 0 5 1 0 98 0 2 2 19 2 76 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 29 values pushed */
+0 2 1 2 114 0 5 0 5 115 3 1 1 0 0 1 85 3 1 1 1 0 90 4 1 0 1 0 78 
+EIF[ ]	/* EndIf */
+NPUSHB[ ]	/* 9 values pushed */
+18 17 18 18 17 16 6 7 26 
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/15 20:49:16</string>
+    </dict>
+  </lib>
+</glyph>

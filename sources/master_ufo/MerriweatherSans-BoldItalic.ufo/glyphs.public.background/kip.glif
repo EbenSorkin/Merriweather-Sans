@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kip" format="2">
+  <outline>
+    <contour>
+      <point x="125.0" y="0.0" type="line"/>
+      <point x="280.0" y="0.0" type="line"/>
+      <point x="280.0" y="321.0" type="line"/>
+      <point x="258.0" y="204.0" type="line"/>
+      <point x="387.0" y="349.0" type="line"/>
+      <point x="413.0" y="368.0" type="line"/>
+      <point x="712.0" y="743.0" type="line"/>
+      <point x="541.0" y="743.0" type="line"/>
+      <point x="280.0" y="414.0" type="line"/>
+      <point x="280.0" y="743.0" type="line"/>
+      <point x="125.0" y="743.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="518.0" y="55.0" type="curve" smooth="yes"/>
+      <point x="535.0" y="25.0"/>
+      <point x="540.0" y="13.0"/>
+      <point x="549.0" y="0.0" type="curve"/>
+      <point x="722.0" y="0.0" type="line"/>
+      <point x="711.0" y="18.0"/>
+      <point x="701.0" y="36.0"/>
+      <point x="690.0" y="54.0" type="curve"/>
+      <point x="624.0" y="168.0"/>
+      <point x="482.0" y="402.0"/>
+      <point x="450.0" y="444.0" type="curve"/>
+      <point x="397.0" y="389.0" type="line"/>
+      <point x="346.0" y="332.0" type="line"/>
+      <point x="396.0" y="260.0"/>
+      <point x="464.0" y="154.0"/>
+    </contour>
+    <contour>
+      <point x="63.0" y="314.0" type="line"/>
+      <point x="478.0" y="314.0" type="line"/>
+      <point x="478.0" y="434.0" type="line"/>
+      <point x="63.0" y="434.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

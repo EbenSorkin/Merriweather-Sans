@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaaccentcomb" format="2">
+  <unicode hex="0326"/>
+  <anchor x="85.02222222222221" y="0.0" name="_bottom"/>
+  <anchor x="77.95555555555555" y="-83.0" name="_btm"/>
+  <anchor x="85.02222222222221" y="-273.0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="74.79999999999998" y="-273.0" type="line"/>
+      <point x="103.02222222222221" y="-261.06666666666666"/>
+      <point x="148.6222222222222" y="-211.88888888888889"/>
+      <point x="148.6222222222222" y="-142.75555555555556" type="curve" smooth="yes"/>
+      <point x="148.6222222222222" y="-87.57777777777778"/>
+      <point x="123.84444444444443" y="-50.28888888888889"/>
+      <point x="100.55555555555554" y="-40.355555555555554" type="curve"/>
+      <point x="21.24444444444444" y="-85.88888888888889" type="line"/>
+      <point x="21.24444444444444" y="-109.88888888888889" type="line"/>
+      <point x="40.17777777777778" y="-115.24444444444444"/>
+      <point x="52.888888888888886" y="-145.35555555555555"/>
+      <point x="52.888888888888886" y="-170.53333333333333" type="curve" smooth="yes"/>
+      <point x="52.888888888888886" y="-202.42222222222222"/>
+      <point x="44.42222222222222" y="-229.0"/>
+      <point x="34.599999999999994" y="-240.64444444444445" type="curve"/>
+      <point x="34.599999999999994" y="-252.82222222222222" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/16 05:39:16</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <real>164.0</real>
+    </dict>
+  </lib>
+</glyph>

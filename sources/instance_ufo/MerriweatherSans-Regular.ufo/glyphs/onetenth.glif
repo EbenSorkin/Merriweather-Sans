@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onetenth" format="2">
+  <advance width="1553.911111111111"/>
+  <unicode hex="2152"/>
+  <outline>
+    <component base="one.numr"/>
+    <component base="fraction" xOffset="331.31111111111113"/>
+    <component base="one.dnom" xOffset="645.4666666666667"/>
+    <component base="zero.dnom" xOffset="1008.5555555555555"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>one.numr</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>one.numr</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/15 20:51:05</string>
+    </dict>
+  </lib>
+</glyph>

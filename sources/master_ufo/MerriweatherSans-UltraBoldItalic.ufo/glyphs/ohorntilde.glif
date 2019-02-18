@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ohorntilde" format="2">
+  <advance width="577.0"/>
+  <unicode hex="1EE1"/>
+  <anchor x="252.0" y="0.0" name="bottom"/>
+  <anchor x="289.0" y="279.0" name="center"/>
+  <anchor x="385.0" y="10.0" name="ogonek"/>
+  <anchor x="363.0" y="760.0" name="top"/>
+  <anchor x="594.0" y="557.0" name="topright"/>
+  <outline>
+    <component base="ohorn"/>
+    <component base="tildecomb" xOffset="300.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/14 17:12:54</string>
+    </dict>
+  </lib>
+</glyph>

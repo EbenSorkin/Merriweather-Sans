@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven.sc" format="2">
+  <advance width="533.0"/>
+  <outline>
+    <contour>
+      <point x="83.0" y="0.0" type="line"/>
+      <point x="244.0" y="0.0" type="line"/>
+      <point x="550.0" y="720.0" type="line"/>
+      <point x="530.0" y="747.0" type="line"/>
+      <point x="63.0" y="747.0" type="line"/>
+      <point x="57.0" y="638.0" type="line"/>
+      <point x="389.0" y="639.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/14 16:46:03</string>
+      <key>com.schriftgestaltung.Glyphs.nodeUserData.0.6</key>
+      <dict>
+        <key>name</key>
+        <string>hr00</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="edieresis.sc" format="2">
+  <advance width="540.0"/>
+  <anchor x="233.0" y="0.0" name="bottom"/>
+  <anchor x="448.0" y="9.0" name="ogonek"/>
+  <anchor x="344.0" y="844.0" name="top"/>
+  <anchor x="70.0" y="651.0" name="topleft"/>
+  <outline>
+    <component base="e.sc"/>
+    <component base="dieresiscomb" xOffset="282.0" yOffset="94.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/14 17:33:43</string>
+    </dict>
+  </lib>
+</glyph>

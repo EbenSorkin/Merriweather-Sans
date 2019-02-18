@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name=".notdef" format="2">
+  <advance width="917.0"/>
+  <outline>
+    <contour>
+      <point x="113.0" y="0.0" type="line"/>
+      <point x="804.0" y="0.0" type="line"/>
+      <point x="804.0" y="691.0" type="line"/>
+      <point x="113.0" y="691.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="288.0" y="107.0" type="line"/>
+      <point x="225.0" y="177.0" type="line"/>
+      <point x="400.0" y="344.0" type="line"/>
+      <point x="225.0" y="521.0" type="line"/>
+      <point x="285.0" y="583.0" type="line"/>
+      <point x="459.0" y="403.0" type="line"/>
+      <point x="631.0" y="582.0" type="line"/>
+      <point x="693.0" y="521.0" type="line"/>
+      <point x="516.0" y="346.0" type="line"/>
+      <point x="693.0" y="167.0" type="line"/>
+      <point x="634.0" y="107.0" type="line"/>
+      <point x="457.0" y="287.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/01/21 06:08:13</string>
+    </dict>
+  </lib>
+</glyph>

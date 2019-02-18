@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="udieresisgrave" format="2">
+  <advance width="665.0"/>
+  <unicode hex="01DC"/>
+  <anchor x="333.0" y="0.0" name="bottom"/>
+  <anchor x="324.0" y="-83.0" name="btm"/>
+  <anchor x="599.0" y="10.0" name="ogonek"/>
+  <anchor x="256.0" y="1083.0" name="top"/>
+  <anchor x="645.0" y="557.0" name="topright"/>
+  <outline>
+    <component base="u"/>
+    <component base="dieresiscomb" xOffset="335.0"/>
+    <component base="gravecomb" xOffset="335.0" yOffset="192.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/14 06:18:47</string>
+    </dict>
+  </lib>
+</glyph>

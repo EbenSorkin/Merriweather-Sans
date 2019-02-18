@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dz" format="2">
+  <advance width="1134.2666666666667"/>
+  <unicode hex="01F3"/>
+  <anchor x="567.2222222222222" y="557.0" name="top"/>
+  <anchor x="306.0888888888889" y="0.0" name="bottom_1"/>
+  <anchor x="873.3111111111111" y="0.0" name="bottom_2"/>
+  <anchor x="299.3777777777778" y="-83.0" name="btm_1"/>
+  <anchor x="873.3111111111111" y="-83.0" name="btm_2"/>
+  <anchor x="306.0888888888889" y="279.0" name="center_1"/>
+  <anchor x="873.3111111111111" y="279.0" name="center_2"/>
+  <anchor x="592.1777777777778" y="557.0" name="topright"/>
+  <outline>
+    <component base="d"/>
+    <component base="z" xOffset="612.1777777777778"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/16 05:39:16</string>
+    </dict>
+  </lib>
+</glyph>

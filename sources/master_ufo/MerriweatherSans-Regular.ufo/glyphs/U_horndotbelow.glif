@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uhorndotbelow" format="2">
+  <advance width="714.0"/>
+  <unicode hex="1EF0"/>
+  <anchor x="357.0" y="-211.0" name="bottom"/>
+  <anchor x="363.0" y="-83.0" name="btm"/>
+  <anchor x="643.0" y="10.0" name="ogonek"/>
+  <anchor x="357.0" y="743.0" name="top"/>
+  <anchor x="694.0" y="743.0" name="topright"/>
+  <outline>
+    <component base="Uhorn"/>
+    <component base="dotbelowcomb.case" xOffset="357.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/16 05:40:25</string>
+    </dict>
+  </lib>
+</glyph>

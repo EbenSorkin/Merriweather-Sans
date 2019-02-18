@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cedilla" format="2">
+  <unicode hex="00B8"/>
+  <note>
+cedilla
+</note>
+  <outline>
+    <contour>
+      <point x="81.0" y="-229.0" type="curve" smooth="yes"/>
+      <point x="172.0" y="-229.0"/>
+      <point x="222.0" y="-184.0"/>
+      <point x="222.0" y="-99.0" type="curve" smooth="yes"/>
+      <point x="222.0" y="-56.0"/>
+      <point x="209.0" y="-5.0"/>
+      <point x="196.0" y="15.0" type="curve"/>
+      <point x="161.0" y="17.0" type="line"/>
+      <point x="125.0" y="15.0" type="line"/>
+      <point x="127.0" y="3.0"/>
+      <point x="128.0" y="-32.0"/>
+      <point x="128.0" y="-60.0" type="curve" smooth="yes"/>
+      <point x="128.0" y="-116.0"/>
+      <point x="89.0" y="-134.0"/>
+      <point x="53.0" y="-134.0" type="curve" smooth="yes"/>
+      <point x="22.0" y="-134.0"/>
+      <point x="9.0" y="-131.0"/>
+      <point x="0.0" y="-126.0" type="curve"/>
+      <point x="-15.0" y="-213.0" type="line"/>
+      <point x="-4.0" y="-220.0"/>
+      <point x="53.0" y="-229.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>PUSHB[ ]	/* 2 values pushed */
+6 100 
+WCVTP[ ]	/* WriteCVTInPixels */
+NPUSHB[ ]	/* 10 values pushed */
+10 1 1 2 9 1 0 1 2 74 
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+8 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 23 values pushed */
+3 1 2 1 1 2 102 0 1 0 0 1 87 0 1 1 0 92 0 0 1 0 80 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 22 values pushed */
+3 1 2 1 2 114 0 1 0 0 1 87 0 1 1 0 92 0 0 1 0 80 
+EIF[ ]	/* EndIf */
+NPUSHB[ ]	/* 11 values pushed */
+0 0 0 20 0 19 36 37 4 7 22 
+CALL[ ]	/* CallFunction */
+PUSHB[ ]	/* 2 values pushed */
+6 0 
+WCVTP[ ]	/* WriteCVTInPixels */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/15 20:49:12</string>
+    </dict>
+  </lib>
+</glyph>

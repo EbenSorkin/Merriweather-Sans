@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gcommaaccent.sc" format="2">
+  <advance width="678.0"/>
+  <anchor x="277.0" y="-199.0" name="bottom"/>
+  <anchor x="389.0" y="649.0" name="top"/>
+  <outline>
+    <component base="g.sc"/>
+    <component base="commaaccentcomb" xOffset="303.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/14 16:46:03</string>
+    </dict>
+  </lib>
+</glyph>

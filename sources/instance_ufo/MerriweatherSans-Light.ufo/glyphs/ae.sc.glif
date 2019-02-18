@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ae.sc" format="2">
+  <advance width="872.0"/>
+  <anchor x="436.0" y="0.0" name="bottom"/>
+  <anchor x="651.0" y="-72.0" name="btm"/>
+  <anchor x="455.0" y="913.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="-25.0" y="0.0" type="line"/>
+      <point x="68.0" y="0.0" type="line"/>
+      <point x="389.0" y="605.0" type="line"/>
+      <point x="317.0" y="646.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="396.0" y="646.0" type="line"/>
+      <point x="317.0" y="646.0" type="line"/>
+      <point x="328.0" y="591.0" type="line"/>
+      <point x="428.0" y="591.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="113.0" y="170.0" type="line"/>
+      <point x="461.0" y="170.0" type="line"/>
+      <point x="446.0" y="233.0" type="line"/>
+      <point x="129.0" y="233.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="396.0" y="0.0" type="line"/>
+      <point x="839.0" y="0.0" type="line"/>
+      <point x="839.0" y="66.0" type="line"/>
+      <point x="479.0" y="66.0" type="line"/>
+      <point x="479.0" y="301.0" type="line"/>
+      <point x="722.0" y="301.0" type="line"/>
+      <point x="722.0" y="366.0" type="line"/>
+      <point x="479.0" y="366.0" type="line"/>
+      <point x="479.0" y="581.0" type="line"/>
+      <point x="804.0" y="581.0" type="line"/>
+      <point x="804.0" y="646.0" type="line"/>
+      <point x="396.0" y="646.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>2</integer>
+        <key>height</key>
+        <integer>87</integer>
+        <key>weight</key>
+        <integer>1</integer>
+        <key>width</key>
+        <integer>96</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/16 05:39:16</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

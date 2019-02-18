@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="M" format="2">
+  <advance width="940.0"/>
+  <unicode hex="004D"/>
+  <anchor x="470.0" y="0.0" name="bottom"/>
+  <anchor x="471.0" y="-83.0" name="btm"/>
+  <anchor x="470.0" y="800.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="73.0" y="0.0" type="line"/>
+      <point x="153.0" y="0.0" type="line"/>
+      <point x="197.0" y="462.0" type="line"/>
+      <point x="216.0" y="682.0" type="line"/>
+      <point x="282.0" y="462.0" type="line"/>
+      <point x="448.0" y="-7.0" type="line"/>
+      <point x="493.0" y="-7.0" type="line"/>
+      <point x="651.0" y="462.0" type="line"/>
+      <point x="711.0" y="682.0" type="line"/>
+      <point x="733.0" y="462.0" type="line"/>
+      <point x="785.0" y="0.0" type="line"/>
+      <point x="868.0" y="0.0" type="line"/>
+      <point x="772.0" y="743.0" type="line"/>
+      <point x="661.0" y="743.0" type="line"/>
+      <point x="506.0" y="260.0" type="line"/>
+      <point x="470.0" y="121.0" type="line"/>
+      <point x="434.0" y="260.0" type="line"/>
+      <point x="269.0" y="743.0" type="line"/>
+      <point x="152.0" y="743.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/16 05:39:16</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ehookabove.sc" format="2">
+  <advance width="579.0222222222222"/>
+  <anchor x="289.6" y="0.0" name="bottom"/>
+  <anchor x="324.4222222222222" y="-72.0" name="btm"/>
+  <anchor x="520.8444444444444" y="10.0" name="ogonek"/>
+  <anchor x="318.77777777777777" y="1071.0" name="top"/>
+  <anchor x="20.0" y="646.0" name="topleft"/>
+  <outline>
+    <component base="e.sc"/>
+    <component base="hookabovecomb" xOffset="318.77777777777777" yOffset="62.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/14 16:38:18</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="z.sc" format="2">
+  <advance width="547.0"/>
+  <note>
+Z
+</note>
+  <anchor x="237.0" y="0.0" name="bottom"/>
+  <anchor x="280.0" y="325.0" name="center"/>
+  <anchor x="353.0" y="649.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="-23.0" y="0.0" type="line"/>
+      <point x="470.0" y="0.0" type="line"/>
+      <point x="491.0" y="143.0" type="line"/>
+      <point x="209.0" y="139.0" type="line"/>
+      <point x="246.0" y="159.0" type="line"/>
+      <point x="586.0" y="613.0" type="line"/>
+      <point x="575.0" y="650.0" type="line"/>
+      <point x="113.0" y="650.0" type="line"/>
+      <point x="92.0" y="511.0" type="line"/>
+      <point x="361.0" y="515.0" type="line"/>
+      <point x="320.0" y="500.0" type="line"/>
+      <point x="-36.0" y="37.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>2</integer>
+        <key>height</key>
+        <integer>87</integer>
+        <key>weight</key>
+        <integer>2</integer>
+        <key>width</key>
+        <integer>96</integer>
+      </dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 28 values pushed */
+0 0 0 1 89 0 1 1 17 75 0 2 2 3 89 0 3 3 18 3 76 17 19 17 17 4 7 24 
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/15 20:50:25</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

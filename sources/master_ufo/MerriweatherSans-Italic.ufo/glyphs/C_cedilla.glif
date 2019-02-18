@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ccedilla" format="2">
+  <advance width="557.0"/>
+  <unicode hex="00C7"/>
+  <note>
+Ccedilla
+</note>
+  <anchor x="302.0" y="0.0" name="bottom"/>
+  <anchor x="399.0" y="747.0" name="top"/>
+  <outline>
+    <component base="C"/>
+    <component base="cedillacomb.case" xOffset="338.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 24 values pushed */
+43 1 5 4 44 11 2 0 5 12 1 1 0 31 24 2 3 1 23 1 2 3 5 74 
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+24 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 32 values pushed */
+6 1 5 5 4 91 0 4 4 25 75 0 0 0 1 91 0 1 1 18 75 0 3 3 2 91 0 2 2 22 2 76 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 29 values pushed */
+0 3 0 2 3 2 95 6 1 5 5 4 91 0 4 4 25 75 0 0 0 1 91 0 1 1 18 1 76 
+EIF[ ]	/* EndIf */
+NPUSHB[ ]	/* 14 values pushed */
+0 0 0 48 0 47 43 36 36 22 38 7 7 25 
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/15 20:43:05</string>
+    </dict>
+  </lib>
+</glyph>

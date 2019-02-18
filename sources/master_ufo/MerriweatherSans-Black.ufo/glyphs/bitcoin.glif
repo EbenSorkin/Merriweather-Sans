@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bitcoin" format="2">
+  <advance width="714.0"/>
+  <unicode hex="20BF"/>
+  <anchor x="357.0" y="0.0" name="bottom"/>
+  <anchor x="414.0" y="-83.0" name="btm"/>
+  <anchor x="354.0" y="831.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="242.0" y="713.0" type="line"/>
+      <point x="298.0" y="713.0" type="line"/>
+      <point x="301.0" y="852.0" type="line"/>
+      <point x="245.0" y="852.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="386.0" y="713.0" type="line"/>
+      <point x="442.0" y="713.0" type="line"/>
+      <point x="445.0" y="852.0" type="line"/>
+      <point x="389.0" y="852.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="220.0" y="-92.0" type="line"/>
+      <point x="276.0" y="-92.0" type="line"/>
+      <point x="279.0" y="47.0" type="line"/>
+      <point x="223.0" y="47.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="364.0" y="-92.0" type="line"/>
+      <point x="420.0" y="-92.0" type="line"/>
+      <point x="423.0" y="47.0" type="line"/>
+      <point x="367.0" y="47.0" type="line"/>
+    </contour>
+    <component base="B"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/01/21 06:08:13</string>
+    </dict>
+  </lib>
+</glyph>

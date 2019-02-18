@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hungarumlautcomb" format="2">
+  <unicode hex="030B"/>
+  <anchor x="0.0" y="817.4222222222222" name="_top"/>
+  <anchor x="46.73333333333332" y="879.9555555555555" name="top"/>
+  <outline>
+    <contour>
+      <point x="-128.9777777777778" y="644.1777777777778" type="line"/>
+      <point x="-90.55555555555557" y="669.3555555555556"/>
+      <point x="-2.3777777777777906" y="772.0"/>
+      <point x="27.799999999999986" y="823.6444444444444" type="curve"/>
+      <point x="-54.04444444444445" y="879.9555555555555" type="line"/>
+      <point x="-96.4" y="813.9555555555555"/>
+      <point x="-138.75555555555556" y="746.9555555555555"/>
+      <point x="-181.11111111111111" y="680.9555555555555" type="curve"/>
+    </contour>
+    <contour>
+      <point x="114.6222222222222" y="644.1777777777778" type="line"/>
+      <point x="155.86666666666665" y="667.0"/>
+      <point x="247.68888888888887" y="772.0"/>
+      <point x="273.75555555555553" y="820.1777777777778" type="curve"/>
+      <point x="195.0222222222222" y="876.3111111111111" type="line"/>
+      <point x="151.0222222222222" y="811.1333333333333"/>
+      <point x="107.66666666666666" y="746.1333333333333"/>
+      <point x="63.66666666666666" y="680.9555555555555" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/16 05:39:16</string>
+    </dict>
+  </lib>
+</glyph>

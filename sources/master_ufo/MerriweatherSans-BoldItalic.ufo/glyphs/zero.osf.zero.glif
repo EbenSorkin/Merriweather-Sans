@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.osf.zero" format="2">
+  <advance width="624.0"/>
+  <outline>
+    <contour>
+      <point x="196.0" y="54.0" type="line"/>
+      <point x="255.0" y="43.0" type="line"/>
+      <point x="434.0" y="514.0" type="line"/>
+      <point x="376.0" y="527.0" type="line"/>
+    </contour>
+    <component base="zero.osf"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>zero.osf</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>zero.osf</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/14 16:46:03</string>
+      <key>com.schriftgestaltung.Glyphs.nodeUserData.0.3</key>
+      <dict>
+        <key>name</key>
+        <string>hr00</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

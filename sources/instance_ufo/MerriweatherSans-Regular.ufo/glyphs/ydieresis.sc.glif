@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ydieresis.sc" format="2">
+  <advance width="593.4666666666667"/>
+  <anchor x="296.8222222222222" y="0.0" name="bottom"/>
+  <anchor x="301.2888888888889" y="-72.0" name="btm"/>
+  <anchor x="300.64444444444445" y="1076.7777777777778" name="top"/>
+  <anchor x="20.0" y="646.0" name="topleft"/>
+  <outline>
+    <component base="y.sc"/>
+    <component base="dieresiscomb" xOffset="300.64444444444445" yOffset="62.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/14 16:04:02</string>
+    </dict>
+  </lib>
+</glyph>

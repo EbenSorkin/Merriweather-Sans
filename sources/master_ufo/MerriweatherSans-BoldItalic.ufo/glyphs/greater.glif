@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="greater" format="2">
+  <advance width="675.0"/>
+  <unicode hex="003E"/>
+  <note>
+greater
+</note>
+  <outline>
+    <contour>
+      <point x="123.0" y="88.0" type="line"/>
+      <point x="621.0" y="340.0" type="line"/>
+      <point x="628.0" y="403.0" type="line"/>
+      <point x="189.0" y="654.0" type="line"/>
+      <point x="178.0" y="542.0" type="line"/>
+      <point x="479.0" y="376.0" type="line"/>
+      <point x="138.0" y="211.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>PUSHB[ ]	/* 4 values pushed */
+4 0 1 48 
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/15 20:49:16</string>
+    </dict>
+  </lib>
+</glyph>

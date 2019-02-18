@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iogonek" format="2">
+  <advance width="283.0"/>
+  <unicode hex="012E"/>
+  <note>
+Iogonek
+</note>
+  <anchor x="105.0" y="0.0" name="bottom"/>
+  <anchor x="220.0" y="10.0" name="ogonek"/>
+  <anchor x="206.0" y="747.0" name="top"/>
+  <anchor x="82.0" y="747.0" name="topleft"/>
+  <outline>
+    <component base="I"/>
+    <component base="ogonekcomb.case" xOffset="257.0" yOffset="10.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 35 values pushed */
+8 1 0 3 9 1 1 0 2 74 0 0 0 1 0 1 95 0 2 2 17 75 0 3 3 18 3 76 17 24 37 36 4 7 24 
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/14 16:46:02</string>
+    </dict>
+  </lib>
+</glyph>

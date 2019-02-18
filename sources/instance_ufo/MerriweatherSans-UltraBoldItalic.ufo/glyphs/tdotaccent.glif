@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tdotaccent" format="2">
+  <advance width="361.0"/>
+  <unicode hex="1E6B"/>
+  <anchor x="144.0" y="0.0" name="bottom"/>
+  <anchor x="181.0" y="279.0" name="center"/>
+  <anchor x="235.0" y="870.0" name="top"/>
+  <anchor x="378.0" y="557.0" name="topright"/>
+  <outline>
+    <component base="t"/>
+    <component base="dotaccentcomb" xOffset="168.0" yOffset="101.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/14 16:46:03</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>public.kern1.fraction</key>
+    <dict>
+      <key>public.kern2.seven.dnom</key>
+      <integer>60</integer>
+    </dict>
+    <key>public.kern1.one.dnom</key>
+    <dict>
+      <key>public.kern2.fraction</key>
+      <integer>-30</integer>
+    </dict>
+    <key>public.kern1.seven.dnom</key>
+    <dict>
+      <key>public.kern2.fraction</key>
+      <integer>-60</integer>
+    </dict>
+  </dict>
+</plist>

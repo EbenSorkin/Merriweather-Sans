@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="AE" format="2">
+  <advance width="962.0"/>
+  <unicode hex="00C6"/>
+  <anchor x="481.0" y="0.0" name="bottom"/>
+  <anchor x="689.0" y="-83.0" name="btm"/>
+  <anchor x="516.0" y="830.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="-58.0" y="0.0" type="line"/>
+      <point x="142.0" y="0.0" type="line"/>
+      <point x="437.0" y="683.0" type="line"/>
+      <point x="294.0" y="743.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="423.0" y="743.0" type="line"/>
+      <point x="294.0" y="743.0" type="line"/>
+      <point x="318.0" y="672.0" type="line"/>
+      <point x="448.0" y="672.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="140.0" y="155.0" type="line"/>
+      <point x="509.0" y="155.0" type="line"/>
+      <point x="501.0" y="283.0" type="line"/>
+      <point x="163.0" y="283.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="423.0" y="0.0" type="line"/>
+      <point x="919.0" y="0.0" type="line"/>
+      <point x="919.0" y="142.0" type="line"/>
+      <point x="607.0" y="142.0" type="line"/>
+      <point x="607.0" y="313.0" type="line"/>
+      <point x="824.0" y="313.0" type="line"/>
+      <point x="824.0" y="449.0" type="line"/>
+      <point x="607.0" y="449.0" type="line"/>
+      <point x="607.0" y="604.0" type="line"/>
+      <point x="890.0" y="604.0" type="line"/>
+      <point x="890.0" y="743.0" type="line"/>
+      <point x="423.0" y="743.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/16 05:39:16</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

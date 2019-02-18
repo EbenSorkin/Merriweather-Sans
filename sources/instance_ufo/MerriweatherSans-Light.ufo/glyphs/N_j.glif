@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Nj" format="2">
+  <advance width="1032.0"/>
+  <unicode hex="01CB"/>
+  <anchor x="379.0" y="0.0" name="bottom_1"/>
+  <anchor x="895.0" y="-273.0" name="bottom_2"/>
+  <anchor x="366.0" y="-83.0" name="btm"/>
+  <anchor x="384.0" y="830.0" name="top_1"/>
+  <anchor x="908.0" y="830.0" name="top_2"/>
+  <outline>
+    <component base="N"/>
+    <component base="jdotless" xOffset="758.0"/>
+    <component base="dotaccent" xOffset="827.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/01/21 06:08:13</string>
+    </dict>
+  </lib>
+</glyph>

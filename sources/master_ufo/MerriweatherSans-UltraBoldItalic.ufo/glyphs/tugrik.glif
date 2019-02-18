@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tugrik" format="2">
+  <advance width="612.0"/>
+  <unicode hex="20AE"/>
+  <anchor x="269.0" y="0.0" name="bottom"/>
+  <anchor x="319.0" y="374.0" name="center"/>
+  <anchor x="368.0" y="747.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="92.0" y="280.0" type="line"/>
+      <point x="523.0" y="420.0" type="line"/>
+      <point x="525.0" y="543.0" type="line"/>
+      <point x="94.0" y="402.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="88.0" y="73.0" type="line"/>
+      <point x="519.0" y="213.0" type="line"/>
+      <point x="521.0" y="335.0" type="line"/>
+      <point x="90.0" y="195.0" type="line"/>
+    </contour>
+    <component base="T" xOffset="24.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/15 20:49:16</string>
+    </dict>
+  </lib>
+</glyph>

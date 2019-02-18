@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aacute" format="2">
+  <advance width="559.0"/>
+  <unicode hex="00E1"/>
+  <anchor x="280.0" y="0.0" name="bottom"/>
+  <anchor x="281.0" y="-100.0" name="btm"/>
+  <anchor x="503.0" y="25.0" name="ogonek"/>
+  <anchor x="228.0" y="983.0" name="top"/>
+  <outline>
+    <component base="a"/>
+    <component base="acutecomb" xOffset="274.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/14 06:18:10</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caron.case" format="2">
+  <note>
+caron.cap
+</note>
+  <anchor x="62.0" y="747.0" name="_top"/>
+  <anchor x="87.0" y="939.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="16.0" y="785.0" type="line"/>
+      <point x="103.0" y="785.0" type="line"/>
+      <point x="270.0" y="942.0" type="line"/>
+      <point x="214.0" y="980.0" type="line"/>
+      <point x="67.0" y="879.0" type="line"/>
+      <point x="-39.0" y="980.0" type="line"/>
+      <point x="-96.0" y="939.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 15 values pushed */
+6 3 2 1 4 0 72 0 0 0 105 20 1 7 21 
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/15 20:49:12</string>
+    </dict>
+  </lib>
+</glyph>

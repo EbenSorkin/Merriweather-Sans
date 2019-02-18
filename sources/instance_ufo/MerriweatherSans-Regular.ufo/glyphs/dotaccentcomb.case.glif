@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotaccentcomb.case" format="2">
+  <anchor x="0.0" y="813.5555555555555" name="_top"/>
+  <anchor x="0.0" y="1011.3333333333334" name="top"/>
+  <outline>
+    <contour>
+      <point x="-5.0" y="813.9333333333333" type="curve" smooth="yes"/>
+      <point x="38.133333333333326" y="813.9333333333333"/>
+      <point x="75.84444444444443" y="845.3555555555556"/>
+      <point x="75.84444444444443" y="891.2444444444444" type="curve" smooth="yes"/>
+      <point x="75.84444444444443" y="930.2"/>
+      <point x="53.24444444444444" y="959.0888888888888"/>
+      <point x="5.822222222222223" y="959.0888888888888" type="curve" smooth="yes"/>
+      <point x="-35.48888888888888" y="959.0888888888888"/>
+      <point x="-75.84444444444443" y="925.0222222222222"/>
+      <point x="-75.84444444444443" y="881.6" type="curve" smooth="yes"/>
+      <point x="-75.84444444444443" y="839.1777777777778"/>
+      <point x="-43.48888888888888" y="813.9333333333333"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/15 20:51:28</string>
+    </dict>
+  </lib>
+</glyph>

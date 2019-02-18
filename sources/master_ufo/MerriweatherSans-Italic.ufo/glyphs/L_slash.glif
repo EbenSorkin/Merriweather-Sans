@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lslash" format="2">
+  <advance width="478.0"/>
+  <unicode hex="0141"/>
+  <note>
+Lslash
+</note>
+  <outline>
+    <contour>
+      <point x="54.0" y="0.0" type="line"/>
+      <point x="428.0" y="0.0" type="line"/>
+      <point x="439.0" y="83.0" type="line"/>
+      <point x="161.0" y="81.0" type="line"/>
+      <point x="191.0" y="319.0" type="line"/>
+      <point x="395.0" y="405.0" type="line"/>
+      <point x="378.0" y="467.0" type="line"/>
+      <point x="200.0" y="390.0" type="line"/>
+      <point x="245.0" y="747.0" type="line"/>
+      <point x="148.0" y="747.0" type="line"/>
+      <point x="97.0" y="346.0" type="line"/>
+      <point x="-25.0" y="293.0" type="line"/>
+      <point x="-7.0" y="236.0" type="line"/>
+      <point x="88.0" y="276.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 37 values pushed */
+10 9 4 3 4 2 1 1 74 0 1 1 17 75 3 1 2 2 0 90 0 0 0 18 0 76 0 0 0 13 0 13 21 17 4 7 22 
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/14 16:46:02</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

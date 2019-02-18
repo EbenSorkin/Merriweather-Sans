@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ldotbelow.sc" format="2">
+  <advance width="513.0"/>
+  <anchor x="257.0" y="-211.0" name="bottom"/>
+  <anchor x="285.0" y="-72.0" name="btm"/>
+  <anchor x="257.0" y="323.0" name="center"/>
+  <anchor x="148.0" y="722.0" name="top"/>
+  <anchor x="493.0" y="646.0" name="topright"/>
+  <outline>
+    <component base="l.sc"/>
+    <component base="dotbelowcomb" xOffset="257.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/16 05:40:09</string>
+    </dict>
+  </lib>
+</glyph>

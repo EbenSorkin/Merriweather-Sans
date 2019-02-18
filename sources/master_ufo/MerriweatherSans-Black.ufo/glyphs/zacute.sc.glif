@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zacute.sc" format="2">
+  <advance width="616.0"/>
+  <anchor x="308.0" y="0.0" name="bottom"/>
+  <anchor x="299.0" y="-72.0" name="btm"/>
+  <anchor x="308.0" y="323.0" name="center"/>
+  <anchor x="221.0" y="920.0" name="top"/>
+  <outline>
+    <component base="z.sc"/>
+    <component base="acutecomb" xOffset="318.0" yOffset="-109.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/14 16:06:53</string>
+    </dict>
+  </lib>
+</glyph>

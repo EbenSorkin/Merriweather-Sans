@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="mdotaccent" format="2">
+  <advance width="965.0"/>
+  <unicode hex="1E41"/>
+  <anchor x="483.0" y="0.0" name="bottom"/>
+  <anchor x="488.0" y="-83.0" name="btm"/>
+  <anchor x="490.0" y="977.0" name="top"/>
+  <outline>
+    <component base="m"/>
+    <component base="dotaccentcomb" xOffset="490.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/14 06:18:47</string>
+    </dict>
+  </lib>
+</glyph>

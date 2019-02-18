@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="T" format="2">
+  <advance width="563.0"/>
+  <unicode hex="0054"/>
+  <note>
+T
+</note>
+  <anchor x="245.0" y="0.0" name="bottom"/>
+  <anchor x="295.0" y="374.0" name="center"/>
+  <anchor x="344.0" y="747.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="153.0" y="0.0" type="line"/>
+      <point x="329.0" y="0.0" type="line"/>
+      <point x="417.0" y="618.0" type="line"/>
+      <point x="589.0" y="613.0" type="line"/>
+      <point x="609.0" y="747.0" type="line"/>
+      <point x="88.0" y="747.0" type="line"/>
+      <point x="66.0" y="613.0" type="line"/>
+      <point x="242.0" y="618.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 30 values pushed */
+4 3 2 1 1 0 89 0 0 0 17 75 0 2 2 18 2 76 0 0 0 7 0 7 17 17 17 5 7 23 
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/14 16:46:02</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

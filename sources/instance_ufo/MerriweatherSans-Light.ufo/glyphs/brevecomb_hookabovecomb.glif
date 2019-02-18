@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb_hookabovecomb" format="2">
+  <anchor x="0.0" y="830.0" name="_top"/>
+  <anchor x="0.0" y="1025.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="0.0" y="652.0" type="curve" smooth="yes"/>
+      <point x="103.0" y="652.0"/>
+      <point x="161.0" y="723.0"/>
+      <point x="155.0" y="810.0" type="curve"/>
+      <point x="99.0" y="810.0" type="line"/>
+      <point x="99.0" y="786.0"/>
+      <point x="94.0" y="715.0"/>
+      <point x="0.0" y="715.0" type="curve" smooth="yes"/>
+      <point x="-95.0" y="715.0"/>
+      <point x="-97.0" y="785.0"/>
+      <point x="-97.0" y="810.0" type="curve"/>
+      <point x="-155.0" y="810.0" type="line"/>
+      <point x="-161.0" y="723.0"/>
+      <point x="-108.0" y="652.0"/>
+    </contour>
+    <contour>
+      <point x="-17.0" y="809.0" type="curve"/>
+      <point x="33.0" y="809.0" type="line"/>
+      <point x="25.0" y="831.0"/>
+      <point x="33.0" y="850.0"/>
+      <point x="41.0" y="856.0" type="curve" smooth="yes"/>
+      <point x="68.0" y="876.0"/>
+      <point x="96.0" y="892.0"/>
+      <point x="96.0" y="942.0" type="curve" smooth="yes"/>
+      <point x="96.0" y="993.0"/>
+      <point x="55.0" y="1025.0"/>
+      <point x="-7.0" y="1025.0" type="curve" smooth="yes"/>
+      <point x="-30.0" y="1025.0"/>
+      <point x="-56.0" y="1019.0"/>
+      <point x="-73.0" y="1012.0" type="curve"/>
+      <point x="-69.0" y="960.0" type="line"/>
+      <point x="-59.0" y="966.0"/>
+      <point x="-43.0" y="969.0"/>
+      <point x="-27.0" y="969.0" type="curve" smooth="yes"/>
+      <point x="11.0" y="969.0"/>
+      <point x="29.0" y="956.0"/>
+      <point x="29.0" y="929.0" type="curve" smooth="yes"/>
+      <point x="29.0" y="898.0"/>
+      <point x="-29.0" y="890.0"/>
+      <point x="-29.0" y="847.0" type="curve" smooth="yes"/>
+      <point x="-29.0" y="831.0"/>
+      <point x="-23.0" y="821.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/16 05:39:16</string>
+    </dict>
+  </lib>
+</glyph>

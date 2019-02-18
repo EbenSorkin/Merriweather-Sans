@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="peseta" format="2">
+  <advance width="783.0"/>
+  <unicode hex="20A7"/>
+  <note>
+peseta
+</note>
+  <outline>
+    <contour>
+      <point x="94.0" y="0.0" type="line"/>
+      <point x="255.0" y="0.0" type="line"/>
+      <point x="287.0" y="232.0" type="line"/>
+      <point x="302.0" y="231.0"/>
+      <point x="333.0" y="230.0"/>
+      <point x="378.0" y="230.0" type="curve" smooth="yes"/>
+      <point x="553.0" y="230.0"/>
+      <point x="665.0" y="308.0"/>
+      <point x="701.0" y="453.0" type="curve"/>
+      <point x="789.0" y="453.0" type="line"/>
+      <point x="798.0" y="524.0" type="line"/>
+      <point x="712.0" y="524.0" type="line"/>
+      <point x="727.0" y="685.0"/>
+      <point x="635.0" y="752.0"/>
+      <point x="466.0" y="752.0" type="curve" smooth="yes"/>
+      <point x="378.0" y="752.0"/>
+      <point x="335.0" y="745.0"/>
+      <point x="291.0" y="746.0" type="curve"/>
+      <point x="196.0" y="745.0" type="line"/>
+      <point x="166.0" y="524.0" type="line"/>
+      <point x="82.0" y="524.0" type="line"/>
+      <point x="72.0" y="453.0" type="line"/>
+      <point x="156.0" y="453.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="393.0" y="343.0" type="curve" smooth="yes"/>
+      <point x="356.0" y="343.0"/>
+      <point x="326.0" y="345.0"/>
+      <point x="303.0" y="348.0" type="curve"/>
+      <point x="317.0" y="453.0" type="line"/>
+      <point x="544.0" y="453.0" type="line"/>
+      <point x="522.0" y="380.0"/>
+      <point x="472.0" y="343.0"/>
+    </contour>
+    <contour>
+      <point x="327.0" y="524.0" type="line"/>
+      <point x="342.0" y="634.0" type="line"/>
+      <point x="370.0" y="639.0"/>
+      <point x="410.0" y="642.0"/>
+      <point x="438.0" y="642.0" type="curve" smooth="yes"/>
+      <point x="521.0" y="642.0"/>
+      <point x="559.0" y="600.0"/>
+      <point x="556.0" y="524.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 69 values pushed */
+38 1 9 2 1 74 7 5 2 3 12 10 6 3 2 9 3 2 97 0 9 0 1 0 9 1 99 11 1 8 8 4 89 0 4 4 17 75 0 0 0 18 0 76 34 34 26 26 34 39 34 39 37 35 26 33 26 32 19 17 17 116 17 18 34 16 13 7 28 
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/15 20:49:16</string>
+    </dict>
+  </lib>
+</glyph>

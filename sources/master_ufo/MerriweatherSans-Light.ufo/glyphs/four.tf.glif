@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four.tf" format="2">
+  <advance width="620.0"/>
+  <outline>
+    <contour>
+      <point x="67.0" y="184.0" type="line"/>
+      <point x="590.0" y="184.0" type="line"/>
+      <point x="590.0" y="247.0" type="line"/>
+      <point x="138.0" y="247.0" type="line"/>
+      <point x="170.0" y="303.0" type="line"/>
+      <point x="196.0" y="347.0"/>
+      <point x="348.0" y="660.0"/>
+      <point x="379.0" y="725.0" type="curve"/>
+      <point x="328.0" y="756.0" type="line"/>
+      <point x="300.0" y="756.0" type="line"/>
+      <point x="271.0" y="697.0"/>
+      <point x="75.0" y="267.0"/>
+      <point x="47.0" y="223.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="391.0" y="0.0" type="line"/>
+      <point x="472.0" y="0.0" type="line"/>
+      <point x="472.0" y="486.0" type="line"/>
+      <point x="397.0" y="486.0" type="line"/>
+      <point x="391.0" y="247.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>keepStroke</key>
+        <integer>90</integer>
+        <key>monoWidth</key>
+        <integer>620</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/01/17 06:41:26</string>
+    </dict>
+  </lib>
+</glyph>

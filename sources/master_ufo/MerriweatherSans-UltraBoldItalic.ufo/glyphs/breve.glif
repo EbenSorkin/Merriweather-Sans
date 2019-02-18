@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breve" format="2">
+  <advance width="354.0"/>
+  <unicode hex="02D8"/>
+  <note>
+breve
+</note>
+  <outline>
+    <contour>
+      <point x="176.0" y="635.0" type="curve" smooth="yes"/>
+      <point x="286.0" y="635.0"/>
+      <point x="354.0" y="701.0"/>
+      <point x="354.0" y="821.0" type="curve"/>
+      <point x="264.0" y="821.0" type="line"/>
+      <point x="256.0" y="773.0"/>
+      <point x="236.0" y="741.0"/>
+      <point x="184.0" y="741.0" type="curve" smooth="yes"/>
+      <point x="122.0" y="741.0"/>
+      <point x="109.0" y="761.0"/>
+      <point x="116.0" y="821.0" type="curve"/>
+      <point x="24.0" y="821.0" type="line"/>
+      <point x="1.0" y="707.0"/>
+      <point x="55.0" y="635.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>PUSHB[ ]	/* 2 values pushed */
+6 100 
+WCVTP[ ]	/* WriteCVTInPixels */
+NPUSHB[ ]	/* 37 values pushed */
+22 1 0 1 1 74 3 1 1 72 0 1 0 1 114 0 0 2 2 0 87 0 0 0 2 91 0 2 0 2 79 37 18 40 3 7 23 
+CALL[ ]	/* CallFunction */
+PUSHB[ ]	/* 2 values pushed */
+6 0 
+WCVTP[ ]	/* WriteCVTInPixels */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/15 20:49:12</string>
+    </dict>
+  </lib>
+</glyph>

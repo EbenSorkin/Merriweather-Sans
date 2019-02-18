@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ytilde" format="2">
+  <advance width="568.0"/>
+  <unicode hex="1EF8"/>
+  <anchor x="247.0" y="0.0" name="bottom"/>
+  <anchor x="378.0" y="976.0" name="top"/>
+  <anchor x="82.0" y="747.0" name="topleft"/>
+  <outline>
+    <component base="Y"/>
+    <component base="tildecomb.case" xOffset="284.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/14 16:46:02</string>
+    </dict>
+  </lib>
+</glyph>

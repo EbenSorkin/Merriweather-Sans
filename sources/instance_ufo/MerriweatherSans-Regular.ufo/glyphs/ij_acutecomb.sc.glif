@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ij_acutecomb.sc" format="2">
+  <advance width="666.8"/>
+  <anchor x="158.37777777777777" y="0.0" name="bottom_1"/>
+  <anchor x="491.77777777777777" y="0.0" name="bottom_2"/>
+  <anchor x="160.84444444444443" y="-72.0" name="btm_1"/>
+  <anchor x="445.0444444444444" y="-72.0" name="btm_2"/>
+  <anchor x="284.8666666666667" y="10.0" name="ogonek"/>
+  <anchor x="157.37777777777777" y="892.0" name="top_1"/>
+  <anchor x="502.3111111111111" y="722.1777777777778" name="top_2"/>
+  <outline>
+    <component base="ij.sc"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/14 16:39:45</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

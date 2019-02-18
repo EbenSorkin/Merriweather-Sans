@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.dnom" format="2">
+  <advance width="428.0"/>
+  <outline>
+    <contour>
+      <point x="178.0" y="0.0" type="line"/>
+      <point x="327.0" y="0.0" type="line"/>
+      <point x="328.0" y="544.0" type="line"/>
+      <point x="239.0" y="567.0" type="line"/>
+      <point x="239.0" y="568.0" type="line"/>
+      <point x="201.0" y="529.0"/>
+      <point x="124.0" y="471.0"/>
+      <point x="30.0" y="453.0" type="curve"/>
+      <point x="50.0" y="371.0" type="line"/>
+      <point x="84.0" y="372.0"/>
+      <point x="145.0" y="383.0"/>
+      <point x="178.0" y="401.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>2</integer>
+        <key>height</key>
+        <integer>75</integer>
+        <key>keepStroke</key>
+        <integer>90</integer>
+        <key>monoWidth</key>
+        <integer>680</integer>
+        <key>weight</key>
+        <integer>-38</integer>
+        <key>width</key>
+        <integer>76</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/15 17:03:23</string>
+    </dict>
+  </lib>
+</glyph>

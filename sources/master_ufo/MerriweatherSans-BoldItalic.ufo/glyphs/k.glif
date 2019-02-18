@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="k" format="2">
+  <advance width="554.0"/>
+  <unicode hex="006B"/>
+  <note>
+k
+</note>
+  <anchor x="240.0" y="0.0" name="bottom"/>
+  <anchor x="370.0" y="983.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="41.0" y="0.0" type="line"/>
+      <point x="173.0" y="0.0" type="line"/>
+      <point x="278.0" y="799.0" type="line"/>
+      <point x="145.0" y="799.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="378.0" y="1.0" type="line"/>
+      <point x="533.0" y="1.0" type="line"/>
+      <point x="365.0" y="299.0" type="line"/>
+      <point x="453.0" y="342.0"/>
+      <point x="547.0" y="465.0"/>
+      <point x="554.0" y="557.0" type="curve"/>
+      <point x="422.0" y="557.0" type="line"/>
+      <point x="396.0" y="472.0"/>
+      <point x="313.0" y="357.0"/>
+      <point x="231.0" y="309.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>PUSHB[ ]	/* 7 values pushed */
+9 6 2 0 3 1 74 
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+49 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 18 values pushed */
+4 1 1 1 19 75 0 3 3 20 75 2 1 0 0 18 0 76 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 24 values pushed */
+4 1 1 1 0 89 2 1 0 0 18 75 0 3 3 20 75 2 1 0 0 18 0 76 
+EIF[ ]	/* EndIf */
+NPUSHB[ ]	/* 14 values pushed */
+0 0 18 17 8 7 0 3 0 3 17 5 7 21 
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/14 16:46:02</string>
+    </dict>
+  </lib>
+</glyph>

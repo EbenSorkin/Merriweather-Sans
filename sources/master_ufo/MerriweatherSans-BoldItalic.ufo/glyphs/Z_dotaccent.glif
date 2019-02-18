@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Zdotaccent" format="2">
+  <advance width="565.0"/>
+  <unicode hex="017B"/>
+  <note>
+Zdotaccent
+</note>
+  <anchor x="246.0" y="0.0" name="bottom"/>
+  <anchor x="296.0" y="375.0" name="center"/>
+  <anchor x="384.0" y="942.0" name="top"/>
+  <outline>
+    <component base="Z"/>
+    <component base="dotaccentcomb.case" xOffset="297.0" yOffset="3.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/14 16:46:02</string>
+    </dict>
+  </lib>
+</glyph>

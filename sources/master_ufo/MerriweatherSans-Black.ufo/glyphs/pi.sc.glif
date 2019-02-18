@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pi.sc" format="2">
+  <advance width="838.0"/>
+  <outline>
+    <contour>
+      <point x="328.0" y="0.0" type="line"/>
+      <point x="328.0" y="519.0" type="line"/>
+      <point x="319.0" y="511.0" type="line"/>
+      <point x="515.0" y="511.0" type="line"/>
+      <point x="507.0" y="519.0" type="line"/>
+      <point x="507.0" y="0.0" type="line"/>
+      <point x="691.0" y="0.0" type="line"/>
+      <point x="691.0" y="518.0" type="line"/>
+      <point x="683.0" y="511.0" type="line"/>
+      <point x="804.0" y="511.0" type="line"/>
+      <point x="804.0" y="646.0" type="line"/>
+      <point x="34.0" y="646.0" type="line"/>
+      <point x="34.0" y="511.0" type="line"/>
+      <point x="152.0" y="511.0" type="line"/>
+      <point x="144.0" y="519.0" type="line"/>
+      <point x="144.0" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>product</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>product</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/14 05:11:13</string>
+    </dict>
+  </lib>
+</glyph>

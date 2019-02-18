@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="j.sc" format="2">
+  <advance width="309.0"/>
+  <note>
+J
+</note>
+  <anchor x="118.0" y="0.0" name="bottom"/>
+  <anchor x="220.0" y="651.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="-61.0" y="-148.0" type="line"/>
+      <point x="57.0" y="-145.0"/>
+      <point x="151.0" y="-96.0"/>
+      <point x="188.0" y="31.0" type="curve" smooth="yes"/>
+      <point x="194.0" y="52.0"/>
+      <point x="205.0" y="88.0"/>
+      <point x="214.0" y="157.0" type="curve" smooth="yes"/>
+      <point x="276.0" y="646.0" type="line"/>
+      <point x="139.0" y="646.0" type="line"/>
+      <point x="103.0" y="368.0"/>
+      <point x="85.0" y="187.0"/>
+      <point x="54.0" y="36.0" type="curve" smooth="yes"/>
+      <point x="44.0" y="-13.0"/>
+      <point x="-26.0" y="-87.0"/>
+      <point x="-80.0" y="-101.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>2</integer>
+        <key>height</key>
+        <integer>87</integer>
+        <key>weight</key>
+        <integer>2</integer>
+        <key>width</key>
+        <integer>96</integer>
+      </dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 20 values pushed */
+6 1 0 71 1 1 0 0 17 0 76 0 0 0 16 0 16 2 7 20 
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/15 20:50:34</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

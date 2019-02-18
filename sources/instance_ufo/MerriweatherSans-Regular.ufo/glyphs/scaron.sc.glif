@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="scaron.sc" format="2">
+  <advance width="544.8666666666667"/>
+  <anchor x="272.84444444444443" y="0.0" name="bottom"/>
+  <anchor x="269.55555555555554" y="-72.0" name="btm"/>
+  <anchor x="294.02222222222224" y="1082.3111111111111" name="top"/>
+  <outline>
+    <component base="s.sc"/>
+    <component base="caroncomb" xOffset="294.02222222222224" yOffset="62.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/14 16:07:16</string>
+    </dict>
+  </lib>
+</glyph>

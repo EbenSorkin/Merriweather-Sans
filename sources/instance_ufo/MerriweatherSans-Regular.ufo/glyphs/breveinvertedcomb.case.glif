@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breveinvertedcomb.case" format="2">
+  <anchor x="0.0" y="830.0" name="_top"/>
+  <anchor x="0.0" y="1043.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="0.0" y="993.4222222222222" type="curve" smooth="yes"/>
+      <point x="-111.71111111111111" y="993.4222222222222"/>
+      <point x="-176.06666666666666" y="903.3111111111111"/>
+      <point x="-168.95555555555555" y="816.0" type="curve"/>
+      <point x="-90.22222222222223" y="816.0" type="line"/>
+      <point x="-89.04444444444445" y="830.6"/>
+      <point x="-89.15555555555557" y="905.5111111111111"/>
+      <point x="1.0" y="905.5111111111111" type="curve" smooth="yes"/>
+      <point x="90.62222222222223" y="905.5111111111111"/>
+      <point x="91.6888888888889" y="830.6"/>
+      <point x="93.04444444444445" y="816.0" type="curve"/>
+      <point x="169.77777777777777" y="816.0" type="line"/>
+      <point x="177.06666666666666" y="903.3111111111111"/>
+      <point x="106.71111111111111" y="993.4222222222222"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/15 20:51:28</string>
+    </dict>
+  </lib>
+</glyph>

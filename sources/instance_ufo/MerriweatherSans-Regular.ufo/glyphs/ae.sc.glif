@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ae.sc" format="2">
+  <advance width="886.5777777777778"/>
+  <anchor x="443.3777777777778" y="0.0" name="bottom"/>
+  <anchor x="652.7777777777778" y="-72.0" name="btm"/>
+  <anchor x="465.55555555555554" y="913.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="-37.844444444444434" y="0.0" type="line"/>
+      <point x="91.68888888888887" y="0.0" type="line"/>
+      <point x="404.0888888888889" y="598.2888888888889" type="line"/>
+      <point x="306.1111111111111" y="646.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="397.77777777777777" y="646.0" type="line"/>
+      <point x="306.1111111111111" y="646.0" type="line"/>
+      <point x="321.4666666666667" y="585.0" type="line"/>
+      <point x="433.64444444444445" y="585.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="113.48888888888888" y="157.91111111111113" type="line"/>
+      <point x="475.64444444444445" y="157.91111111111113" type="line"/>
+      <point x="460.31111111111113" y="242.88888888888889" type="line"/>
+      <point x="134.0222222222222" y="242.88888888888889" type="line"/>
+    </contour>
+    <contour>
+      <point x="397.77777777777777" y="0.0" type="line"/>
+      <point x="848.5111111111111" y="0.0" type="line"/>
+      <point x="848.5111111111111" y="93.04444444444442" type="line"/>
+      <point x="515.9555555555555" y="93.04444444444442" type="line"/>
+      <point x="515.9555555555555" y="287.97777777777776" type="line"/>
+      <point x="737.8888888888889" y="287.97777777777776" type="line"/>
+      <point x="737.8888888888889" y="377.6666666666667" type="line"/>
+      <point x="515.9555555555555" y="377.6666666666667" type="line"/>
+      <point x="515.9555555555555" y="555.9555555555555" type="line"/>
+      <point x="815.2222222222222" y="555.9555555555555" type="line"/>
+      <point x="815.2222222222222" y="646.0" type="line"/>
+      <point x="397.77777777777777" y="646.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>2</integer>
+        <key>height</key>
+        <integer>87</integer>
+        <key>weight</key>
+        <integer>1</integer>
+        <key>width</key>
+        <integer>96</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/16 05:39:16</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

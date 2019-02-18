@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="M" format="2">
+  <advance width="971.0"/>
+  <unicode hex="004D"/>
+  <note>
+M
+</note>
+  <anchor x="449.0" y="0.0" name="bottom"/>
+  <anchor x="548.0" y="747.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="359.0" y="-9.0" type="line"/>
+      <point x="549.0" y="-1.0" type="line"/>
+      <point x="763.0" y="556.0" type="line"/>
+      <point x="799.0" y="670.0" type="line"/>
+      <point x="786.0" y="556.0" type="line"/>
+      <point x="742.0" y="0.0" type="line"/>
+      <point x="915.0" y="0.0" type="line"/>
+      <point x="926.0" y="747.0" type="line"/>
+      <point x="674.0" y="747.0" type="line"/>
+      <point x="500.0" y="233.0" type="line"/>
+      <point x="477.0" y="123.0" type="line"/>
+      <point x="474.0" y="233.0" type="line"/>
+      <point x="441.0" y="747.0" type="line"/>
+      <point x="189.0" y="747.0" type="line"/>
+      <point x="-15.0" y="0.0" type="line"/>
+      <point x="155.0" y="0.0" type="line"/>
+      <point x="276.0" y="556.0" type="line"/>
+      <point x="300.0" y="670.0" type="line"/>
+      <point x="301.0" y="556.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 9 values pushed */
+14 13 9 2 4 1 0 1 74 
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+45 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 15 values pushed */
+5 4 2 0 0 17 75 3 2 2 1 1 18 1 76 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 19 values pushed */
+5 4 2 0 0 17 75 3 1 1 1 18 75 0 2 2 18 2 76 
+EIF[ ]	/* EndIf */
+NPUSHB[ ]	/* 13 values pushed */
+0 0 0 18 0 18 20 20 17 20 6 7 24 
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/14 16:46:02</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

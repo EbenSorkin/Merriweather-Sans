@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lozenge" format="2">
+  <advance width="586.0888888888888"/>
+  <unicode hex="25CA"/>
+  <outline>
+    <contour>
+      <point x="25.77777777777777" y="378.0" type="line"/>
+      <point x="25.77777777777777" y="372.0" type="line"/>
+      <point x="292.0444444444444" y="0.0" type="line"/>
+      <point x="294.0444444444444" y="0.0" type="line"/>
+      <point x="559.4888888888888" y="372.0" type="line"/>
+      <point x="559.4888888888888" y="378.0" type="line"/>
+      <point x="294.0444444444444" y="741.7777777777778" type="line"/>
+      <point x="292.0444444444444" y="741.7777777777778" type="line"/>
+    </contour>
+    <contour>
+      <point x="292.0444444444444" y="592.7777777777778" type="line"/>
+      <point x="294.0444444444444" y="592.7777777777778" type="line"/>
+      <point x="447.44444444444446" y="377.0" type="line"/>
+      <point x="447.44444444444446" y="375.0" type="line"/>
+      <point x="294.0444444444444" y="149.04444444444442" type="line"/>
+      <point x="292.0444444444444" y="149.04444444444442" type="line"/>
+      <point x="137.8222222222222" y="374.0" type="line"/>
+      <point x="137.8222222222222" y="377.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/01/21 06:08:13</string>
+    </dict>
+  </lib>
+</glyph>

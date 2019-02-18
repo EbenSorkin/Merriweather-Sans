@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="edotbelow.sc" format="2">
+  <advance width="576.0"/>
+  <anchor x="288.0" y="-211.0" name="bottom"/>
+  <anchor x="323.0" y="-72.0" name="btm"/>
+  <anchor x="518.0" y="10.0" name="ogonek"/>
+  <anchor x="317.0" y="896.0" name="top"/>
+  <anchor x="20.0" y="646.0" name="topleft"/>
+  <outline>
+    <component base="e.sc"/>
+    <component base="dotbelowcomb" xOffset="288.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/16 05:40:09</string>
+    </dict>
+  </lib>
+</glyph>

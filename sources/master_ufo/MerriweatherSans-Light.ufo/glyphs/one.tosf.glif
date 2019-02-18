@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.tosf" format="2">
+  <advance width="677.0"/>
+  <outline>
+    <contour>
+      <point x="82.0" y="68.0" type="line"/>
+      <point x="82.0" y="0.0" type="line"/>
+      <point x="588.0" y="0.0" type="line"/>
+      <point x="588.0" y="68.0" type="line"/>
+      <point x="393.0" y="68.0" type="line"/>
+      <point x="393.0" y="683.0" type="line"/>
+      <point x="361.0" y="694.0" type="line"/>
+      <point x="355.0" y="694.0" type="line"/>
+      <point x="327.0" y="668.0"/>
+      <point x="215.0" y="602.0"/>
+      <point x="88.0" y="582.0" type="curve"/>
+      <point x="101.0" y="519.0" type="line"/>
+      <point x="199.0" y="526.0"/>
+      <point x="268.0" y="556.0"/>
+      <point x="309.0" y="573.0" type="curve"/>
+      <point x="309.0" y="68.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>monoWidth</key>
+        <integer>677</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/15 17:20:53</string>
+      <key>com.schriftgestaltung.Glyphs.nodeUserData.0.15</key>
+      <dict>
+        <key>name</key>
+        <string>hr00</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

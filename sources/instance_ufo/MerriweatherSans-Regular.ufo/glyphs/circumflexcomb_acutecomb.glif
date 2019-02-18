@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb_acutecomb" format="2">
+  <anchor x="0.0" y="830.0" name="_top"/>
+  <anchor x="0.0" y="1057.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="-127.86666666666667" y="616.1777777777778" type="line"/>
+      <point x="0.0" y="714.4666666666667" type="line"/>
+      <point x="123.04444444444445" y="617.0" type="line"/>
+      <point x="182.77777777777777" y="646.4888888888889" type="line"/>
+      <point x="47.53333333333333" y="799.1555555555556" type="line"/>
+      <point x="-43.24444444444444" y="799.1555555555556" type="line"/>
+      <point x="-182.95555555555555" y="646.3111111111111" type="line"/>
+    </contour>
+    <contour>
+      <point x="180.3111111111111" y="792.2888888888889" type="line"/>
+      <point x="214.95555555555555" y="806.8222222222222"/>
+      <point x="297.8222222222222" y="880.2"/>
+      <point x="325.55555555555554" y="924.9333333333334" type="curve"/>
+      <point x="250.88888888888889" y="987.2444444444444" type="line"/>
+      <point x="221.04444444444445" y="942.2222222222222"/>
+      <point x="182.62222222222223" y="894.8"/>
+      <point x="130.7111111111111" y="838.6" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/15 20:51:28</string>
+    </dict>
+  </lib>
+</glyph>

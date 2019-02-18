@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="naira" format="2">
+  <advance width="754.0"/>
+  <unicode hex="20A6"/>
+  <note>
+uni20A6
+</note>
+  <anchor x="331.0" y="0.0" name="bottom"/>
+  <anchor x="430.0" y="747.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="12.0" y="201.0" type="line"/>
+      <point x="161.0" y="201.0" type="line"/>
+      <point x="171.0" y="272.0" type="line"/>
+      <point x="22.0" y="272.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="205.0" y="557.0" type="line"/>
+      <point x="57.0" y="557.0" type="line"/>
+      <point x="48.0" y="487.0" type="line"/>
+      <point x="196.0" y="487.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="584.0" y="200.0" type="line"/>
+      <point x="723.0" y="200.0" type="line"/>
+      <point x="733.0" y="271.0" type="line"/>
+      <point x="594.0" y="271.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="767.0" y="556.0" type="line"/>
+      <point x="629.0" y="556.0" type="line"/>
+      <point x="620.0" y="486.0" type="line"/>
+      <point x="758.0" y="486.0" type="line"/>
+    </contour>
+    <component base="N" xOffset="25.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 90 values pushed */
+29 1 8 9 43 1 2 1 2 74 20 14 12 10 4 8 18 16 13 3 7 0 8 7 98 17 15 6 3 0 19 5 3 3 1 2 0 1 97 11 1 9 9 17 75 4 1 2 2 18 2 76 28 28 41 40 39 38 37 36 35 34 33 32 28 31 28 31 27 26 25 24 23 22 21 20 19 18 17 17 17 17 17 17 17 17 16 21 7 29 
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/15 20:49:16</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="v.sc" format="2">
+  <advance width="570.0"/>
+  <note>
+V
+</note>
+  <anchor x="248.0" y="0.0" name="bottom"/>
+  <anchor x="334.0" y="651.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="164.0" y="0.0" type="line"/>
+      <point x="319.0" y="0.0" type="line"/>
+      <point x="627.0" y="650.0" type="line"/>
+      <point x="482.0" y="650.0" type="line"/>
+      <point x="298.0" y="223.0" type="line"/>
+      <point x="262.0" y="115.0" type="line"/>
+      <point x="251.0" y="223.0" type="line"/>
+      <point x="181.0" y="650.0" type="line"/>
+      <point x="45.0" y="650.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>2</integer>
+        <key>height</key>
+        <integer>87</integer>
+        <key>weight</key>
+        <integer>2</integer>
+        <key>width</key>
+        <integer>96</integer>
+      </dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 30 values pushed */
+2 1 1 0 1 74 3 2 2 0 0 17 75 0 1 1 18 1 76 0 0 0 8 0 8 17 20 4 7 22 
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/15 20:50:25</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

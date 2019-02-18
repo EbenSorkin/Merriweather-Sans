@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hbar.sc" format="2">
+  <advance width="740.0"/>
+  <outline>
+    <contour>
+      <point x="93.0" y="0.0" type="line"/>
+      <point x="203.0" y="0.0" type="line"/>
+      <point x="203.0" y="278.0" type="line"/>
+      <point x="538.0" y="278.0" type="line"/>
+      <point x="538.0" y="0.0" type="line"/>
+      <point x="647.0" y="0.0" type="line"/>
+      <point x="647.0" y="646.0" type="line"/>
+      <point x="538.0" y="646.0" type="line"/>
+      <point x="538.0" y="361.0" type="line"/>
+      <point x="203.0" y="361.0" type="line"/>
+      <point x="203.0" y="646.0" type="line"/>
+      <point x="93.0" y="646.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="7.0" y="449.0" type="line"/>
+      <point x="735.0" y="449.0" type="line"/>
+      <point x="735.0" y="517.0" type="line"/>
+      <point x="7.0" y="517.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>2</integer>
+        <key>height</key>
+        <integer>87</integer>
+        <key>weight</key>
+        <integer>1</integer>
+        <key>width</key>
+        <integer>96</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/14 16:39:24</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

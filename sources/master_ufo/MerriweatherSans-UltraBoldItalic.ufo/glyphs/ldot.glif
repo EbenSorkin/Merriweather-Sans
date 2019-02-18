@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ldot" format="2">
+  <advance width="437.0"/>
+  <unicode hex="0140"/>
+  <note>
+ldot
+</note>
+  <anchor x="130.0" y="0.0" name="bottom"/>
+  <anchor x="191.0" y="492.0" name="center"/>
+  <anchor x="232.0" y="784.0" name="top"/>
+  <anchor x="357.0" y="711.0" name="topright"/>
+  <outline>
+    <component base="l"/>
+    <component base="period" xOffset="295.0" yOffset="319.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/14 16:46:02</string>
+    </dict>
+  </lib>
+</glyph>

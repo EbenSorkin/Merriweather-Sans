@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>Ezh</key>
+    <string>E_zh.glif</string>
+    <key>Schwa</key>
+    <string>S_chwa.glif</string>
+    <key>dblgravecomb.case</key>
+    <string>dblgravecomb.case.glif</string>
+    <key>four</key>
+    <string>four.glif</string>
+    <key>four.dnom</key>
+    <string>four.dnom.glif</string>
+    <key>four.lf</key>
+    <string>four.lf.glif</string>
+    <key>four.sc</key>
+    <string>four.sc.glif</string>
+    <key>four.tf</key>
+    <string>four.tf.glif</string>
+    <key>hookabovecomb</key>
+    <string>hookabovecomb.glif</string>
+    <key>hookabovecomb.case</key>
+    <string>hookabovecomb.case.glif</string>
+    <key>one.dnom</key>
+    <string>one.dnom.glif</string>
+    <key>one.tf</key>
+    <string>one.tf.glif</string>
+    <key>schwa.sc</key>
+    <string>schwa.sc.glif</string>
+    <key>three</key>
+    <string>three.glif</string>
+    <key>three.dnom</key>
+    <string>three.dnom.glif</string>
+    <key>three.lf</key>
+    <string>three.lf.glif</string>
+    <key>three.sc</key>
+    <string>three.sc.glif</string>
+    <key>three.tf</key>
+    <string>three.tf.glif</string>
+    <key>upBlackTriangle</key>
+    <string>upB_lackT_riangle.glif</string>
+  </dict>
+</plist>

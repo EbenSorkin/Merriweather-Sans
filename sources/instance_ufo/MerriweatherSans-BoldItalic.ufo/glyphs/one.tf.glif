@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.tf" format="2">
+  <advance width="589.0"/>
+  <outline>
+    <contour>
+      <point x="84.0" y="0.0" type="line"/>
+      <point x="491.0" y="0.0" type="line"/>
+      <point x="498.0" y="56.0" type="line"/>
+      <point x="330.0" y="56.0" type="line"/>
+      <point x="433.0" y="739.0" type="line"/>
+      <point x="400.0" y="747.0" type="line"/>
+      <point x="399.0" y="747.0" type="line"/>
+      <point x="350.0" y="712.0"/>
+      <point x="208.0" y="648.0"/>
+      <point x="140.0" y="633.0" type="curve"/>
+      <point x="148.0" y="585.0" type="line"/>
+      <point x="203.0" y="597.0"/>
+      <point x="309.0" y="633.0"/>
+      <point x="344.0" y="647.0" type="curve"/>
+      <point x="255.0" y="56.0" type="line"/>
+      <point x="91.0" y="56.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/14 16:46:03</string>
+    </dict>
+  </lib>
+</glyph>

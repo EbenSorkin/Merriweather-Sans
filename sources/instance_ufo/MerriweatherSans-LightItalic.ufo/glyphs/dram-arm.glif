@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dram-arm" format="2">
+  <advance width="750.0"/>
+  <unicode hex="058F"/>
+  <anchor x="315.0" y="-83.0" name="btm"/>
+  <anchor x="314.0" y="830.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="414.0" y="-7.0" type="line"/>
+      <point x="490.0" y="-7.0" type="line"/>
+      <point x="550.0" y="421.0" type="line" smooth="yes"/>
+      <point x="580.0" y="635.0"/>
+      <point x="511.0" y="744.0"/>
+      <point x="343.0" y="744.0" type="curve" smooth="yes"/>
+      <point x="162.0" y="744.0"/>
+      <point x="69.0" y="631.0"/>
+      <point x="40.0" y="422.0" type="curve" smooth="yes"/>
+      <point x="32.0" y="369.0" type="line"/>
+      <point x="109.0" y="369.0" type="line"/>
+      <point x="113.0" y="402.0" type="line" smooth="yes"/>
+      <point x="144.0" y="618.0"/>
+      <point x="220.0" y="679.0"/>
+      <point x="336.0" y="679.0" type="curve" smooth="yes"/>
+      <point x="444.0" y="679.0"/>
+      <point x="502.0" y="615.0"/>
+      <point x="472.0" y="402.0" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="254.0" y="126.0" type="line"/>
+      <point x="683.0" y="126.0" type="line"/>
+      <point x="690.0" y="180.0" type="line"/>
+      <point x="262.0" y="180.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="294.0" y="308.0" type="line"/>
+      <point x="704.0" y="308.0" type="line"/>
+      <point x="711.0" y="361.0" type="line"/>
+      <point x="301.0" y="361.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/15 20:49:16</string>
+    </dict>
+  </lib>
+</glyph>

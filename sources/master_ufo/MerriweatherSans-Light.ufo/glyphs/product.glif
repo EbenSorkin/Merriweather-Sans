@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="product" format="2">
+  <advance width="795.0"/>
+  <unicode hex="220F"/>
+  <outline>
+    <contour>
+      <point x="249.0" y="-83.0" type="line"/>
+      <point x="249.0" y="687.0" type="line"/>
+      <point x="244.0" y="681.0" type="line"/>
+      <point x="552.0" y="681.0" type="line"/>
+      <point x="547.0" y="687.0" type="line"/>
+      <point x="547.0" y="-83.0" type="line"/>
+      <point x="630.0" y="-83.0" type="line"/>
+      <point x="630.0" y="687.0" type="line"/>
+      <point x="625.0" y="682.0" type="line"/>
+      <point x="732.0" y="682.0" type="line"/>
+      <point x="732.0" y="743.0" type="line"/>
+      <point x="63.0" y="743.0" type="line"/>
+      <point x="63.0" y="682.0" type="line"/>
+      <point x="170.0" y="682.0" type="line"/>
+      <point x="166.0" y="689.0" type="line"/>
+      <point x="166.0" y="-83.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/01/21 06:08:13</string>
+    </dict>
+  </lib>
+</glyph>

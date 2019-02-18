@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="x.sc" format="2">
+  <advance width="662.0"/>
+  <anchor x="331.0" y="0.0" name="bottom"/>
+  <anchor x="325.0" y="-72.0" name="btm"/>
+  <anchor x="325.0" y="722.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="7.0" y="0.0" type="line"/>
+      <point x="204.0" y="0.0" type="line"/>
+      <point x="298.0" y="157.0" type="line"/>
+      <point x="344.0" y="245.0" type="line"/>
+      <point x="306.0" y="245.0" type="line"/>
+      <point x="353.0" y="157.0" type="line"/>
+      <point x="450.0" y="0.0" type="line"/>
+      <point x="657.0" y="0.0" type="line"/>
+      <point x="434.0" y="335.0" type="line"/>
+      <point x="429.0" y="294.0" type="line"/>
+      <point x="650.0" y="646.0" type="line"/>
+      <point x="454.0" y="646.0" type="line"/>
+      <point x="363.0" y="488.0" type="line"/>
+      <point x="324.0" y="423.0" type="line"/>
+      <point x="355.0" y="423.0" type="line"/>
+      <point x="314.0" y="488.0" type="line"/>
+      <point x="218.0" y="647.0" type="line"/>
+      <point x="13.0" y="646.0" type="line"/>
+      <point x="229.0" y="311.0" type="line"/>
+      <point x="233.0" y="359.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>2</integer>
+        <key>height</key>
+        <integer>87</integer>
+        <key>weight</key>
+        <integer>1</integer>
+        <key>width</key>
+        <integer>96</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/16 05:39:16</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

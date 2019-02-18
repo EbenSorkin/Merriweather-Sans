@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="E" format="2">
+  <advance width="588.0"/>
+  <unicode hex="0045"/>
+  <note>
+E
+</note>
+  <anchor x="288.0" y="0.0" name="bottom"/>
+  <anchor x="494.0" y="10.0" name="ogonek"/>
+  <anchor x="374.0" y="747.0" name="top"/>
+  <anchor x="82.0" y="747.0" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="35.0" y="0.0" type="line"/>
+      <point x="518.0" y="0.0" type="line"/>
+      <point x="536.0" y="137.0" type="line"/>
+      <point x="227.0" y="132.0" type="line"/>
+      <point x="254.0" y="321.0" type="line"/>
+      <point x="459.0" y="317.0" type="line"/>
+      <point x="477.0" y="452.0" type="line"/>
+      <point x="272.0" y="449.0" type="line"/>
+      <point x="296.0" y="614.0" type="line"/>
+      <point x="570.0" y="613.0" type="line"/>
+      <point x="588.0" y="747.0" type="line"/>
+      <point x="142.0" y="747.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 44 values pushed */
+0 1 0 2 3 1 2 97 0 0 0 5 89 6 1 5 5 17 75 0 3 3 4 89 0 4 4 18 4 76 0 0 0 11 0 11 17 17 17 17 17 7 7 25 
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/15 20:43:17</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quoteleft" format="2">
+  <advance width="257.3777777777778"/>
+  <unicode hex="2018"/>
+  <outline>
+    <contour>
+      <point x="145.86666666666667" y="467.22222222222223" type="curve"/>
+      <point x="206.66666666666666" y="529.0444444444445" type="line"/>
+      <point x="206.66666666666666" y="559.7555555555556" type="line"/>
+      <point x="181.73333333333332" y="571.4"/>
+      <point x="152.79999999999998" y="615.4"/>
+      <point x="152.79999999999998" y="667.1111111111111" type="curve" smooth="yes"/>
+      <point x="152.79999999999998" y="712.9333333333334"/>
+      <point x="170.73333333333332" y="774.7555555555556"/>
+      <point x="198.3111111111111" y="799.5777777777778" type="curve"/>
+      <point x="198.3111111111111" y="814.4" type="line"/>
+      <point x="148.46666666666667" y="846.3555555555556" type="line"/>
+      <point x="111.53333333333333" y="822.3555555555556"/>
+      <point x="47.644444444444446" y="747.6444444444444"/>
+      <point x="47.644444444444446" y="643.6222222222223" type="curve" smooth="yes"/>
+      <point x="47.644444444444446" y="554.4444444444445"/>
+      <point x="89.64444444444445" y="487.68888888888887"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/15 20:51:05</string>
+    </dict>
+  </lib>
+</glyph>

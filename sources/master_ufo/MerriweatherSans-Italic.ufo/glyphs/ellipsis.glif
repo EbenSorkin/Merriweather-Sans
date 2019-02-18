@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ellipsis" format="2">
+  <advance width="771.0"/>
+  <unicode hex="2026"/>
+  <note>
+ellipsis
+</note>
+  <outline>
+    <component base="period"/>
+    <component base="period" xOffset="257.0" yOffset="1.0"/>
+    <component base="period" xOffset="513.0" yOffset="1.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 52 values pushed */
+36 20 4 3 0 1 1 74 8 5 7 3 6 5 1 1 0 91 4 2 2 0 0 26 0 76 32 32 16 16 0 0 32 47 32 46 41 39 16 31 16 30 25 23 0 15 0 14 39 9 7 21 
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/14 16:46:03</string>
+    </dict>
+  </lib>
+</glyph>

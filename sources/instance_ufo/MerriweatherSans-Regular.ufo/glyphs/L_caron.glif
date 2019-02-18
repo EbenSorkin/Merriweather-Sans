@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lcaron" format="2">
+  <advance width="530.5555555555555"/>
+  <unicode hex="013D"/>
+  <anchor x="265.77777777777777" y="0.0" name="bottom"/>
+  <anchor x="294.7111111111111" y="-83.0" name="btm"/>
+  <anchor x="265.77777777777777" y="372.0" name="center"/>
+  <anchor x="152.73333333333332" y="830.0" name="top"/>
+  <anchor x="510.55555555555554" y="743.0" name="topright"/>
+  <outline>
+    <component base="L"/>
+    <component base="caronvertical" xOffset="333.5111111111111"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/01/21 06:08:13</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

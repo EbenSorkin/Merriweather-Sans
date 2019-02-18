@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="N" format="2">
+  <advance width="765.5111111111111"/>
+  <unicode hex="004E"/>
+  <anchor x="382.84444444444443" y="0.0" name="bottom"/>
+  <anchor x="365.84444444444443" y="-83.0" name="btm"/>
+  <anchor x="388.6" y="830.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="93.64444444444445" y="0.0" type="line"/>
+      <point x="201.46666666666664" y="0.0" type="line"/>
+      <point x="201.46666666666664" y="446.6888888888889" type="line"/>
+      <point x="189.44444444444443" y="672.0666666666667" type="line"/>
+      <point x="145.97777777777776" y="672.0666666666667" type="line"/>
+      <point x="260.73333333333335" y="462.7555555555556" type="line"/>
+      <point x="560.2666666666667" y="0.0" type="line"/>
+      <point x="671.8666666666667" y="0.0" type="line"/>
+      <point x="671.8666666666667" y="743.0" type="line"/>
+      <point x="563.2222222222222" y="743.0" type="line"/>
+      <point x="563.2222222222222" y="285.19999999999993" type="line"/>
+      <point x="575.6444444444444" y="77.44444444444441" type="line"/>
+      <point x="611.3333333333334" y="77.44444444444441" type="line"/>
+      <point x="512.1777777777778" y="261.59999999999997" type="line"/>
+      <point x="201.46666666666664" y="743.0" type="line"/>
+      <point x="93.64444444444445" y="743.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/16 05:39:16</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="increment" format="2">
+  <advance width="773.9111111111112"/>
+  <unicode hex="2206"/>
+  <outline>
+    <contour>
+      <point x="35.95555555555555" y="0.0" type="line"/>
+      <point x="736.9555555555555" y="0.0" type="line"/>
+      <point x="744.9555555555555" y="13.0" type="line"/>
+      <point x="379.9555555555556" y="736.0" type="line"/>
+      <point x="364.9555555555556" y="736.0" type="line"/>
+      <point x="28.95555555555555" y="11.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="175.77777777777774" y="91.75555555555553" type="line"/>
+      <point x="376.4222222222222" y="536.088888888889" type="line"/>
+      <point x="588.7111111111111" y="91.75555555555553" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/07 16:39:52</string>
+    </dict>
+  </lib>
+</glyph>

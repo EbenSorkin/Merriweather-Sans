@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gcaron" format="2">
+  <advance width="601.6444444444444"/>
+  <unicode hex="01E7"/>
+  <anchor x="300.9111111111111" y="-273.0" name="bottom"/>
+  <anchor x="282.3333333333333" y="1020.4888888888889" name="top"/>
+  <outline>
+    <component base="g"/>
+    <component base="caroncomb" xOffset="282.3333333333333" yOffset="0.1777777777777773"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/14 06:18:47</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.sc" format="2">
+  <advance width="455.46666666666664"/>
+  <outline>
+    <contour>
+      <point x="186.06666666666666" y="0.0" type="line"/>
+      <point x="305.2444444444444" y="0.0" type="line"/>
+      <point x="305.4222222222222" y="743.6444444444444" type="line"/>
+      <point x="252.44444444444443" y="752.8222222222222" type="line"/>
+      <point x="222.84444444444443" y="726.7555555555556"/>
+      <point x="127.0" y="675.4"/>
+      <point x="62.82222222222222" y="656.7555555555556" type="curve"/>
+      <point x="75.82222222222222" y="588.1333333333333" type="line"/>
+      <point x="113.0" y="595.1333333333333"/>
+      <point x="147.88888888888889" y="603.6"/>
+      <point x="186.06666666666666" y="613.6" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/15 20:51:05</string>
+    </dict>
+  </lib>
+</glyph>

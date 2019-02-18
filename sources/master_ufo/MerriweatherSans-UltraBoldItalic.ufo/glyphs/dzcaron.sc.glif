@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dzcaron.sc" format="2">
+  <advance width="1216.0"/>
+  <anchor x="906.0" y="0.0" name="bottom"/>
+  <anchor x="950.0" y="325.0" name="center"/>
+  <anchor x="1052.0" y="880.0" name="top"/>
+  <outline>
+    <component base="dz.sc"/>
+    <component base="caroncomb" xOffset="985.0" yOffset="92.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/14 16:46:03</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ruble" format="2">
+  <advance width="620.0"/>
+  <unicode hex="20BD"/>
+  <anchor x="338.0" y="-83.0" name="btm"/>
+  <anchor x="338.0" y="830.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="95.0" y="0.0" type="line"/>
+      <point x="204.0" y="0.0" type="line"/>
+      <point x="204.0" y="267.0" type="line"/>
+      <point x="223.0" y="267.0"/>
+      <point x="252.0" y="265.0"/>
+      <point x="300.0" y="265.0" type="curve" smooth="yes"/>
+      <point x="485.0" y="265.0"/>
+      <point x="584.0" y="359.0"/>
+      <point x="584.0" y="520.0" type="curve" smooth="yes"/>
+      <point x="584.0" y="679.0"/>
+      <point x="485.0" y="751.0"/>
+      <point x="325.0" y="751.0" type="curve" smooth="yes"/>
+      <point x="259.0" y="751.0"/>
+      <point x="203.0" y="743.0"/>
+      <point x="146.0" y="743.0" type="curve" smooth="yes"/>
+      <point x="95.0" y="743.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="204.0" y="350.0" type="curve"/>
+      <point x="204.0" y="664.0" type="line"/>
+      <point x="231.0" y="670.0"/>
+      <point x="262.0" y="672.0"/>
+      <point x="292.0" y="673.0" type="curve" smooth="yes"/>
+      <point x="411.0" y="677.0"/>
+      <point x="476.0" y="628.0"/>
+      <point x="476.0" y="519.0" type="curve" smooth="yes"/>
+      <point x="476.0" y="373.0"/>
+      <point x="389.0" y="345.0"/>
+      <point x="293.0" y="345.0" type="curve" smooth="yes"/>
+      <point x="265.0" y="345.0"/>
+      <point x="236.0" y="345.0"/>
+    </contour>
+    <contour>
+      <point x="8.0" y="99.0" type="line"/>
+      <point x="433.0" y="99.0" type="line"/>
+      <point x="433.0" y="186.0" type="line"/>
+      <point x="8.0" y="186.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/01/21 06:08:13</string>
+    </dict>
+  </lib>
+</glyph>

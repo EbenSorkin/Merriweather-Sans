@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eng.sc" format="2">
+  <advance width="748.0"/>
+  <outline>
+    <contour>
+      <point x="200.0" y="0.0" type="line"/>
+      <point x="200.0" y="371.0" type="line"/>
+      <point x="190.0" y="575.0" type="line"/>
+      <point x="146.0" y="575.0" type="line"/>
+      <point x="251.0" y="396.0" type="line"/>
+      <point x="540.0" y="15.0" type="line"/>
+      <point x="540.0" y="-44.0"/>
+      <point x="440.0" y="-109.0"/>
+      <point x="361.0" y="-130.0" type="curve"/>
+      <point x="387.0" y="-178.0" type="line"/>
+      <point x="487.0" y="-170.0"/>
+      <point x="618.0" y="-100.0"/>
+      <point x="644.0" y="6.0" type="curve" smooth="yes"/>
+      <point x="658.0" y="65.0"/>
+      <point x="656.0" y="118.0"/>
+      <point x="656.0" y="208.0" type="curve" smooth="yes"/>
+      <point x="656.0" y="646.0" type="line"/>
+      <point x="548.0" y="646.0" type="line"/>
+      <point x="548.0" y="266.0" type="line"/>
+      <point x="561.0" y="80.0" type="line"/>
+      <point x="597.0" y="80.0" type="line"/>
+      <point x="504.0" y="235.0" type="line"/>
+      <point x="194.0" y="646.0" type="line"/>
+      <point x="92.0" y="646.0" type="line"/>
+      <point x="93.0" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>2</integer>
+        <key>height</key>
+        <integer>87</integer>
+        <key>weight</key>
+        <integer>1</integer>
+        <key>width</key>
+        <integer>96</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/14 16:08:59</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

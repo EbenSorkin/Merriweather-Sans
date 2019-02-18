@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ohorngrave.sc" format="2">
+  <advance width="743.1333333333333"/>
+  <anchor x="372.06666666666666" y="0.0" name="bottom"/>
+  <anchor x="370.8888888888889" y="-72.0" name="btm"/>
+  <anchor x="313.22222222222223" y="914.9555555555555" name="top"/>
+  <outline>
+    <component base="ohorn.sc"/>
+    <component base="gravecomb" xOffset="382.0" yOffset="41.82222222222222"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/15 20:51:56</string>
+    </dict>
+  </lib>
+</glyph>

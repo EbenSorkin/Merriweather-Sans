@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.dnom" format="2">
+  <outline>
+    <contour>
+      <point x="246.0" y="0.0" type="line"/>
+      <point x="331.0" y="0.0" type="line"/>
+      <point x="331.0" y="743.0" type="line"/>
+      <point x="293.0" y="754.0" type="line"/>
+      <point x="266.0" y="731.0"/>
+      <point x="173.0" y="676.0"/>
+      <point x="108.0" y="656.0" type="curve"/>
+      <point x="118.0" y="607.0" type="line"/>
+      <point x="161.0" y="617.0"/>
+      <point x="205.0" y="634.0"/>
+      <point x="246.0" y="651.0" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

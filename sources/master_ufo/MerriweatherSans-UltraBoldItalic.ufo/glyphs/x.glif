@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="x" format="2">
+  <advance width="514.0"/>
+  <unicode hex="0078"/>
+  <note>
+x
+</note>
+  <anchor x="220.0" y="0.0" name="bottom"/>
+  <anchor x="294.0" y="557.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="-51.0" y="0.0" type="line"/>
+      <point x="128.0" y="0.0" type="line"/>
+      <point x="234.0" y="162.0" type="line"/>
+      <point x="305.0" y="0.0" type="line"/>
+      <point x="504.0" y="0.0" type="line"/>
+      <point x="347.0" y="273.0" type="line"/>
+      <point x="553.0" y="557.0" type="line"/>
+      <point x="379.0" y="557.0" type="line"/>
+      <point x="284.0" y="403.0" type="line"/>
+      <point x="222.0" y="557.0" type="line"/>
+      <point x="22.0" y="557.0" type="line"/>
+      <point x="169.0" y="293.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 28 values pushed */
+9 6 3 3 0 2 1 74 3 1 2 2 20 75 1 1 0 0 18 0 76 18 18 18 17 4 7 24 
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/14 16:46:03</string>
+    </dict>
+  </lib>
+</glyph>

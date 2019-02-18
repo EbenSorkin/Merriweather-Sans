@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bulletoperator" format="2">
+  <advance width="297.3777777777778"/>
+  <unicode hex="2219"/>
+  <outline>
+    <contour>
+      <point x="143.77777777777777" y="261.6666666666667" type="curve" smooth="yes"/>
+      <point x="196.73333333333332" y="261.6666666666667"/>
+      <point x="243.44444444444443" y="307.44444444444446"/>
+      <point x="241.6222222222222" y="366.3333333333333" type="curve" smooth="yes"/>
+      <point x="240.79999999999998" y="416.2888888888889"/>
+      <point x="210.2" y="458.17777777777775"/>
+      <point x="152.95555555555555" y="458.17777777777775" type="curve" smooth="yes"/>
+      <point x="102.46666666666667" y="458.17777777777775"/>
+      <point x="53.93333333333334" y="410.75555555555553"/>
+      <point x="55.75555555555556" y="353.68888888888887" type="curve" smooth="yes"/>
+      <point x="56.57777777777778" y="300.0888888888889"/>
+      <point x="97.28888888888889" y="261.6666666666667"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/01/21 06:08:13</string>
+    </dict>
+  </lib>
+</glyph>

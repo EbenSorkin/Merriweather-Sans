@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="daggerdbl" format="2">
+  <advance width="501.8888888888889"/>
+  <unicode hex="2021"/>
+  <outline>
+    <contour>
+      <point x="207.04444444444445" y="-174.0" type="line"/>
+      <point x="293.4888888888889" y="-174.0" type="line"/>
+      <point x="301.02222222222224" y="229.55555555555557" type="line"/>
+      <point x="442.31111111111113" y="227.73333333333335" type="line"/>
+      <point x="442.31111111111113" y="312.0" type="line"/>
+      <point x="301.02222222222224" y="311.1777777777778" type="line"/>
+      <point x="301.02222222222224" y="546.5555555555555" type="line"/>
+      <point x="442.4888888888889" y="544.7333333333333" type="line"/>
+      <point x="442.4888888888889" y="629.0" type="line"/>
+      <point x="301.02222222222224" y="627.1777777777778" type="line"/>
+      <point x="302.6666666666667" y="810.0" type="line"/>
+      <point x="198.22222222222223" y="810.0" type="line"/>
+      <point x="199.86666666666667" y="627.1777777777778" type="line"/>
+      <point x="59.57777777777778" y="629.0" type="line"/>
+      <point x="59.400000000000006" y="544.7333333333333" type="line"/>
+      <point x="199.86666666666667" y="546.5555555555555" type="line"/>
+      <point x="199.86666666666667" y="311.1777777777778" type="line"/>
+      <point x="59.400000000000006" y="312.0" type="line"/>
+      <point x="59.400000000000006" y="227.73333333333335" type="line"/>
+      <point x="199.86666666666667" y="229.55555555555557" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/01/21 06:08:13</string>
+    </dict>
+  </lib>
+</glyph>

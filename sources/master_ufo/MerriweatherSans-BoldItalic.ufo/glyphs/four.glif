@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four" format="2">
+  <advance width="621.0"/>
+  <unicode hex="0034"/>
+  <outline>
+    <contour>
+      <point x="312.0" y="0.0" type="line"/>
+      <point x="438.0" y="0.0" type="line"/>
+      <point x="457.0" y="150.0" type="line"/>
+      <point x="569.0" y="150.0" type="line"/>
+      <point x="584.0" y="258.0" type="line"/>
+      <point x="471.0" y="251.0" type="line"/>
+      <point x="499.0" y="475.0" type="line"/>
+      <point x="373.0" y="457.0" type="line"/>
+      <point x="345.0" y="247.0" type="line"/>
+      <point x="151.0" y="239.0" type="line"/>
+      <point x="192.0" y="290.0" type="line"/>
+      <point x="463.0" y="712.0" type="line"/>
+      <point x="417.0" y="747.0" type="line"/>
+      <point x="305.0" y="747.0" type="line"/>
+      <point x="206.0" y="551.0"/>
+      <point x="106.0" y="369.0"/>
+      <point x="8.0" y="215.0" type="curve"/>
+      <point x="37.0" y="150.0" type="line"/>
+      <point x="331.0" y="150.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/14 16:46:03</string>
+      <key>com.schriftgestaltung.Glyphs.nodeUserData.0.16</key>
+      <dict>
+        <key>name</key>
+        <string>hr00</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

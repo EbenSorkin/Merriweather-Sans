@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="naira" format="2">
+  <advance width="823.0"/>
+  <unicode hex="20A6"/>
+  <anchor x="406.0" y="0.0" name="bottom"/>
+  <anchor x="393.0" y="-83.0" name="btm"/>
+  <anchor x="411.0" y="830.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="36.0" y="171.0" type="line"/>
+      <point x="192.0" y="171.0" type="line"/>
+      <point x="191.0" y="242.0" type="line"/>
+      <point x="35.0" y="242.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="185.0" y="557.0" type="line"/>
+      <point x="30.0" y="557.0" type="line"/>
+      <point x="31.0" y="482.0" type="line"/>
+      <point x="186.0" y="482.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="634.0" y="170.0" type="line"/>
+      <point x="793.0" y="170.0" type="line"/>
+      <point x="792.0" y="241.0" type="line"/>
+      <point x="633.0" y="241.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="786.0" y="556.0" type="line"/>
+      <point x="628.0" y="556.0" type="line"/>
+      <point x="629.0" y="481.0" type="line"/>
+      <point x="787.0" y="481.0" type="line"/>
+    </contour>
+    <component base="N" xOffset="27.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/15 17:35:45</string>
+    </dict>
+  </lib>
+</glyph>

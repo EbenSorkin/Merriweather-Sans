@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="abrevegrave" format="2">
+  <advance width="559.0"/>
+  <unicode hex="1EB1"/>
+  <anchor x="274.0" y="830.0" name="_top"/>
+  <anchor x="274.0" y="983.0" name="top"/>
+  <anchor x="280.0" y="0.0" name="bottom"/>
+  <anchor x="281.0" y="-100.0" name="btm"/>
+  <anchor x="503.0" y="25.0" name="ogonek"/>
+  <outline>
+    <component base="a"/>
+    <component base="brevecomb_gravecomb" xOffset="274.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/14 06:18:47</string>
+    </dict>
+  </lib>
+</glyph>

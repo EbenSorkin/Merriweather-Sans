@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four.tosf" format="2">
+  <advance width="677.0"/>
+  <outline>
+    <contour>
+      <point x="86.28888888888889" y="0.0" type="line"/>
+      <point x="641.8444444444444" y="0.0" type="line"/>
+      <point x="641.8444444444444" y="88.51111111111109" type="line"/>
+      <point x="185.5111111111111" y="88.51111111111109" type="line"/>
+      <point x="227.44444444444443" y="160.37777777777777" type="line"/>
+      <point x="299.79999999999995" y="304.1333333333333"/>
+      <point x="387.6" y="449.8888888888889"/>
+      <point x="459.9555555555555" y="593.6444444444444" type="curve"/>
+      <point x="383.8888888888889" y="638.0222222222222" type="line"/>
+      <point x="346.24444444444447" y="638.0222222222222" type="line"/>
+      <point x="257.0666666666667" y="444.66666666666663"/>
+      <point x="147.51111111111112" y="246.84444444444443"/>
+      <point x="58.33333333333334" y="53.48888888888888" type="curve"/>
+    </contour>
+    <contour>
+      <point x="410.8" y="-184.0" type="line"/>
+      <point x="525.7333333333333" y="-184.0" type="line"/>
+      <point x="525.7333333333333" y="297.55555555555554" type="line"/>
+      <point x="421.5777777777778" y="297.55555555555554" type="line"/>
+      <point x="410.8" y="88.51111111111109" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>monoWidth</key>
+        <integer>677</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/14 06:18:47</string>
+    </dict>
+  </lib>
+</glyph>

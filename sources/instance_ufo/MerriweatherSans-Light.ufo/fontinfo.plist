@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>ascender</key>
+    <integer>983</integer>
+    <key>capHeight</key>
+    <integer>743</integer>
+    <key>copyright</key>
+    <string>Copyright (c) 2013-2016, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name 'Merriweather'</string>
+    <key>descender</key>
+    <integer>-273</integer>
+    <key>familyName</key>
+    <string>Merriweather Sans</string>
+    <key>guidelines</key>
+    <array/>
+    <key>italicAngle</key>
+    <integer>0</integer>
+    <key>openTypeHeadCreated</key>
+    <string>2019/01/16 02:11:27</string>
+    <key>openTypeHheaAscender</key>
+    <integer>984</integer>
+    <key>openTypeHheaDescender</key>
+    <integer>-273</integer>
+    <key>openTypeHheaLineGap</key>
+    <integer>0</integer>
+    <key>openTypeNameDesigner</key>
+    <string>Eben Sorkin</string>
+    <key>openTypeNameDesignerURL</key>
+    <string>sorkintype.com</string>
+    <key>openTypeNameLicense</key>
+    <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
+    <key>openTypeNameLicenseURL</key>
+    <string>http://scripts.sil.org/OFL</string>
+    <key>openTypeNameManufacturer</key>
+    <string>Eben Sorkin</string>
+    <key>openTypeNameManufacturerURL</key>
+    <string>sorkintype.com</string>
+    <key>openTypeOS2Type</key>
+    <array/>
+    <key>openTypeOS2TypoAscender</key>
+    <integer>984</integer>
+    <key>openTypeOS2TypoDescender</key>
+    <integer>-273</integer>
+    <key>openTypeOS2TypoLineGap</key>
+    <integer>0</integer>
+    <key>openTypeOS2VendorID</key>
+    <string>STC</string>
+    <key>openTypeOS2WeightClass</key>
+    <integer>300</integer>
+    <key>openTypeOS2WidthClass</key>
+    <integer>5</integer>
+    <key>openTypeOS2WinAscent</key>
+    <integer>1150</integer>
+    <key>openTypeOS2WinDescent</key>
+    <integer>300</integer>
+    <key>postscriptBlueValues</key>
+    <array>
+      <integer>-14</integer>
+      <integer>0</integer>
+      <integer>557</integer>
+      <integer>570</integer>
+      <integer>646</integer>
+      <integer>654</integer>
+      <integer>743</integer>
+      <integer>756</integer>
+      <integer>983</integer>
+      <integer>999</integer>
+    </array>
+    <key>postscriptFamilyBlues</key>
+    <array/>
+    <key>postscriptFamilyOtherBlues</key>
+    <array/>
+    <key>postscriptOtherBlues</key>
+    <array>
+      <integer>-289</integer>
+      <integer>-273</integer>
+      <integer>-273</integer>
+      <integer>-266</integer>
+      <integer>-252</integer>
+      <integer>-240</integer>
+      <integer>798</integer>
+      <integer>830</integer>
+      <integer>972</integer>
+      <integer>977</integer>
+    </array>
+    <key>postscriptStemSnapH</key>
+    <array/>
+    <key>postscriptStemSnapV</key>
+    <array/>
+    <key>postscriptUnderlinePosition</key>
+    <integer>-122</integer>
+    <key>postscriptUnderlineThickness</key>
+    <integer>55</integer>
+    <key>styleMapFamilyName</key>
+    <string>Merriweather Sans Light</string>
+    <key>styleMapStyleName</key>
+    <string>regular</string>
+    <key>styleName</key>
+    <string>Light</string>
+    <key>trademark</key>
+    <string>Merriweather is a trademark of Sorkin Type Co.</string>
+    <key>unitsPerEm</key>
+    <integer>1000</integer>
+    <key>versionMajor</key>
+    <integer>1</integer>
+    <key>versionMinor</key>
+    <integer>6</integer>
+    <key>xHeight</key>
+    <integer>557</integer>
+  </dict>
+</plist>

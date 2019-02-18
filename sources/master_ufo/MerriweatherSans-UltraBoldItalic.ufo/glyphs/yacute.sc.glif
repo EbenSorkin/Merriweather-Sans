@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yacute.sc" format="2">
+  <advance width="554.0"/>
+  <anchor x="240.0" y="0.0" name="bottom"/>
+  <anchor x="254.0" y="839.0" name="top"/>
+  <anchor x="70.0" y="649.0" name="topleft"/>
+  <outline>
+    <component base="y.sc"/>
+    <component base="acutecomb" xOffset="259.0" yOffset="92.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/14 16:46:03</string>
+    </dict>
+  </lib>
+</glyph>

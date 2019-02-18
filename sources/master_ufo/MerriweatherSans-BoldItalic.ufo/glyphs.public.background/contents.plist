@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>Ezh</key>
+    <string>E_zh.glif</string>
+    <key>commaturnedabovecomb.case</key>
+    <string>commaturnedabovecomb.case.glif</string>
+    <key>ezh</key>
+    <string>ezh.glif</string>
+    <key>ezh.sc</key>
+    <string>ezh.sc.glif</string>
+    <key>ij_acutecomb</key>
+    <string>ij_acutecomb.glif</string>
+    <key>kip</key>
+    <string>kip.glif</string>
+    <key>question</key>
+    <string>question.glif</string>
+  </dict>
+</plist>

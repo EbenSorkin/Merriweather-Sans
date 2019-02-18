@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb_acutecomb" format="2">
+  <anchor x="0.0" y="830.0" name="_top"/>
+  <anchor x="0.0" y="1057.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="-130.0" y="616.0" type="line"/>
+      <point x="0.0" y="715.0" type="line"/>
+      <point x="125.0" y="617.0" type="line"/>
+      <point x="181.0" y="644.0" type="line"/>
+      <point x="47.0" y="794.0" type="line"/>
+      <point x="-42.0" y="794.0" type="line"/>
+      <point x="-181.0" y="644.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="178.0" y="793.0" type="line"/>
+      <point x="213.0" y="807.0"/>
+      <point x="298.0" y="885.0"/>
+      <point x="322.0" y="926.0" type="curve"/>
+      <point x="250.0" y="986.0" type="line"/>
+      <point x="223.0" y="944.0"/>
+      <point x="186.0" y="898.0"/>
+      <point x="130.0" y="837.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/15 20:51:28</string>
+    </dict>
+  </lib>
+</glyph>

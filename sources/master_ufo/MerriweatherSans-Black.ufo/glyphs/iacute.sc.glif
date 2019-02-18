@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iacute.sc" format="2">
+  <advance width="363.0"/>
+  <anchor x="182.0" y="0.0" name="bottom"/>
+  <anchor x="181.0" y="-72.0" name="btm"/>
+  <anchor x="327.0" y="10.0" name="ogonek"/>
+  <anchor x="85.0" y="1090.0" name="top"/>
+  <outline>
+    <component base="i.sc"/>
+    <component base="acutecomb" xOffset="182.0" yOffset="61.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/14 16:39:37</string>
+    </dict>
+  </lib>
+</glyph>

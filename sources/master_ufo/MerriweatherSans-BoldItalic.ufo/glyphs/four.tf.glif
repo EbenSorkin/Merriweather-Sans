@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four.tf" format="2">
+  <advance width="591.0"/>
+  <outline>
+    <contour>
+      <point x="307.0" y="0.0" type="line"/>
+      <point x="437.0" y="0.0" type="line"/>
+      <point x="457.0" y="168.0" type="line"/>
+      <point x="570.0" y="168.0" type="line"/>
+      <point x="584.0" y="277.0" type="line"/>
+      <point x="471.0" y="270.0" type="line"/>
+      <point x="498.0" y="474.0" type="line"/>
+      <point x="368.0" y="457.0" type="line"/>
+      <point x="341.0" y="266.0" type="line"/>
+      <point x="142.0" y="257.0" type="line"/>
+      <point x="180.0" y="309.0" type="line"/>
+      <point x="441.0" y="704.0" type="line"/>
+      <point x="388.0" y="748.0" type="line"/>
+      <point x="297.0" y="748.0" type="line"/>
+      <point x="198.0" y="551.0"/>
+      <point x="103.0" y="412.0"/>
+      <point x="1.0" y="233.0" type="curve"/>
+      <point x="30.0" y="168.0" type="line"/>
+      <point x="328.0" y="168.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/14 16:46:03</string>
+      <key>com.schriftgestaltung.Glyphs.nodeUserData.0.16</key>
+      <dict>
+        <key>name</key>
+        <string>hr00</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

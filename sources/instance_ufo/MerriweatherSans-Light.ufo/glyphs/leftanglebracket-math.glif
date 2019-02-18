@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="leftanglebracket-math" format="2">
+  <advance width="406.0"/>
+  <unicode hex="27E8"/>
+  <outline>
+    <contour>
+      <point x="301.0" y="901.0" type="line"/>
+      <point x="40.0" y="314.0" type="line"/>
+      <point x="307.0" y="-257.0" type="line"/>
+      <point x="366.0" y="-257.0" type="line"/>
+      <point x="107.0" y="312.0" type="line"/>
+      <point x="366.0" y="901.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/15 20:51:05</string>
+    </dict>
+  </lib>
+</glyph>

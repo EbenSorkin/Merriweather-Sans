@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="m.sc" format="2">
+  <advance width="903.2888888888889"/>
+  <anchor x="451.64444444444445" y="0.0" name="bottom"/>
+  <anchor x="454.53333333333336" y="-72.0" name="btm"/>
+  <anchor x="454.53333333333336" y="722.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="56.20000000000002" y="0.0" type="line"/>
+      <point x="169.13333333333333" y="0.0" type="line"/>
+      <point x="205.7111111111111" y="374.4222222222222" type="line"/>
+      <point x="220.06666666666666" y="558.3111111111111" type="line"/>
+      <point x="272.06666666666666" y="373.7111111111111" type="line"/>
+      <point x="414.9555555555556" y="-5.644444444444446" type="line"/>
+      <point x="490.3333333333333" y="-5.644444444444446" type="line"/>
+      <point x="625.8666666666667" y="373.7111111111111" type="line"/>
+      <point x="675.2222222222222" y="558.3111111111111" type="line"/>
+      <point x="688.0444444444445" y="374.4222222222222" type="line"/>
+      <point x="729.4444444444445" y="0.0" type="line"/>
+      <point x="847.0888888888888" y="0.0" type="line"/>
+      <point x="760.9111111111112" y="646.0" type="line"/>
+      <point x="601.7111111111111" y="646.0" type="line"/>
+      <point x="487.46666666666664" y="293.44444444444446" type="line"/>
+      <point x="454.53333333333336" y="151.66666666666666" type="line"/>
+      <point x="418.06666666666666" y="293.44444444444446" type="line"/>
+      <point x="296.2888888888889" y="646.0" type="line"/>
+      <point x="130.0888888888889" y="646.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>2</integer>
+        <key>height</key>
+        <integer>87</integer>
+        <key>weight</key>
+        <integer>1</integer>
+        <key>width</key>
+        <integer>96</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/16 05:39:16</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

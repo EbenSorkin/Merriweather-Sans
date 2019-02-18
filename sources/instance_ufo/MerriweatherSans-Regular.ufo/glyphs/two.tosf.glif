@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="two.tosf" format="2">
+  <advance width="677.0"/>
+  <outline>
+    <contour>
+      <point x="98.93333333333334" y="0.0" type="line"/>
+      <point x="595.8888888888889" y="0.0" type="line"/>
+      <point x="595.8888888888889" y="93.64444444444442" type="line"/>
+      <point x="193.99999999999997" y="88.68888888888887" type="line"/>
+      <point x="193.99999999999997" y="46.622222222222206" type="line"/>
+      <point x="406.5111111111111" y="147.6222222222222"/>
+      <point x="560.9555555555555" y="336.2"/>
+      <point x="560.9555555555555" y="480.55555555555554" type="curve" smooth="yes"/>
+      <point x="560.9555555555555" y="613.9111111111112"/>
+      <point x="493.84444444444443" y="691.8222222222222"/>
+      <point x="329.64444444444445" y="691.8222222222222" type="curve" smooth="yes"/>
+      <point x="214.75555555555556" y="691.8222222222222"/>
+      <point x="132.51111111111112" y="638.2888888888889"/>
+      <point x="91.6888888888889" y="597.2888888888889" type="curve"/>
+      <point x="139.0" y="531.1333333333333" type="line"/>
+      <point x="177.57777777777778" y="566.4222222222222"/>
+      <point x="247.6888888888889" y="599.6"/>
+      <point x="316.15555555555557" y="599.6" type="curve" smooth="yes"/>
+      <point x="391.62222222222226" y="599.6"/>
+      <point x="442.0666666666667" y="571.2222222222223"/>
+      <point x="442.0666666666667" y="470.64444444444445" type="curve" smooth="yes"/>
+      <point x="442.0666666666667" y="334.2444444444444"/>
+      <point x="255.44444444444449" y="152.4"/>
+      <point x="82.04444444444445" y="58.73333333333332" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>monoWidth</key>
+        <integer>677</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/15 17:11:35</string>
+    </dict>
+  </lib>
+</glyph>

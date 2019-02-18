@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pdotaccent.sc" format="2">
+  <advance width="611.2888888888889"/>
+  <anchor x="305.73333333333335" y="0.0" name="bottom"/>
+  <anchor x="327.8888888888889" y="-72.0" name="btm"/>
+  <anchor x="334.44444444444446" y="882.5555555555555" name="top"/>
+  <outline>
+    <component base="p.sc"/>
+    <component base="dotaccentcomb" xOffset="334.44444444444446" yOffset="-108.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/14 16:07:59</string>
+    </dict>
+  </lib>
+</glyph>

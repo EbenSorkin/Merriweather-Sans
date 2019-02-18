@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kip" format="2">
+  <advance width="722.0"/>
+  <unicode hex="20AD"/>
+  <anchor x="306.0" y="0.0" name="bottom"/>
+  <anchor x="405.0" y="747.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="51.0" y="0.0" type="line"/>
+      <point x="224.0" y="0.0" type="line"/>
+      <point x="275.0" y="356.0" type="line"/>
+      <point x="293.0" y="324.0" type="line"/>
+      <point x="459.0" y="0.0" type="line"/>
+      <point x="656.0" y="0.0" type="line"/>
+      <point x="421.0" y="389.0" type="line"/>
+      <point x="739.0" y="747.0" type="line"/>
+      <point x="541.0" y="747.0" type="line"/>
+      <point x="285.0" y="424.0" type="line"/>
+      <point x="331.0" y="747.0" type="line"/>
+      <point x="158.0" y="747.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="35.0" y="314.0" type="line"/>
+      <point x="626.0" y="314.0" type="line"/>
+      <point x="643.0" y="424.0" type="line"/>
+      <point x="51.0" y="424.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/15 20:49:16</string>
+    </dict>
+  </lib>
+</glyph>

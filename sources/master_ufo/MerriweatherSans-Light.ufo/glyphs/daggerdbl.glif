@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="daggerdbl" format="2">
+  <advance width="501.0"/>
+  <unicode hex="2021"/>
+  <outline>
+    <contour>
+      <point x="219.0" y="-174.0" type="line"/>
+      <point x="281.0" y="-174.0" type="line"/>
+      <point x="287.0" y="244.0" type="line"/>
+      <point x="439.0" y="243.0" type="line"/>
+      <point x="439.0" y="304.0" type="line"/>
+      <point x="287.0" y="303.0" type="line"/>
+      <point x="287.0" y="561.0" type="line"/>
+      <point x="439.0" y="560.0" type="line"/>
+      <point x="439.0" y="621.0" type="line"/>
+      <point x="287.0" y="620.0" type="line"/>
+      <point x="289.0" y="810.0" type="line"/>
+      <point x="212.0" y="810.0" type="line"/>
+      <point x="213.0" y="620.0" type="line"/>
+      <point x="62.0" y="621.0" type="line"/>
+      <point x="62.0" y="560.0" type="line"/>
+      <point x="213.0" y="561.0" type="line"/>
+      <point x="213.0" y="303.0" type="line"/>
+      <point x="62.0" y="304.0" type="line"/>
+      <point x="62.0" y="243.0" type="line"/>
+      <point x="213.0" y="244.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/01/21 06:08:13</string>
+    </dict>
+  </lib>
+</glyph>

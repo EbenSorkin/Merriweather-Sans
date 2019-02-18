@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="j" format="2">
+  <advance width="304.0"/>
+  <unicode hex="006A"/>
+  <note>
+j
+</note>
+  <anchor x="79.0" y="-273.0" name="bottom"/>
+  <anchor x="189.0" y="557.0" name="top"/>
+  <outline>
+    <component base="jdotless"/>
+    <component base="dotaccent" xOffset="124.0" yOffset="1.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/14 16:46:02</string>
+    </dict>
+  </lib>
+</glyph>

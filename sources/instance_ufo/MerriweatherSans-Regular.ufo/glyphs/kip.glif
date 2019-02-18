@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kip" format="2">
+  <advance width="675.4"/>
+  <unicode hex="20AD"/>
+  <outline>
+    <contour>
+      <point x="27.53333333333333" y="336.4666666666667" type="line"/>
+      <point x="555.0444444444444" y="336.4666666666667" type="line"/>
+      <point x="555.0444444444444" y="422.4888888888889" type="line"/>
+      <point x="27.53333333333333" y="422.4888888888889" type="line"/>
+    </contour>
+    <contour>
+      <point x="95.28888888888889" y="0.0" type="line"/>
+      <point x="211.64444444444442" y="0.0" type="line"/>
+      <point x="211.64444444444442" y="360.0" type="line"/>
+      <point x="191.28888888888886" y="257.44444444444446" type="line"/>
+      <point x="280.5777777777778" y="338.11111111111114" type="line"/>
+      <point x="293.66666666666663" y="351.9555555555556" type="line"/>
+      <point x="640.3555555555555" y="743.0" type="line"/>
+      <point x="499.77777777777777" y="743.0" type="line"/>
+      <point x="211.64444444444442" y="416.0" type="line"/>
+      <point x="211.64444444444442" y="743.0" type="line"/>
+      <point x="95.28888888888889" y="743.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="510.0" y="0.0" type="line"/>
+      <point x="652.8222222222222" y="0.0" type="line"/>
+      <point x="293.66666666666663" y="440.0444444444444" type="line"/>
+      <point x="233.0" y="375.0" type="line"/>
+      <point x="211.64444444444442" y="360.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/15 17:24:34</string>
+    </dict>
+  </lib>
+</glyph>

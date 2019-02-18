@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ydieresis.sc" format="2">
+  <advance width="514.0"/>
+  <anchor x="221.0" y="0.0" name="bottom"/>
+  <anchor x="332.0" y="844.0" name="top"/>
+  <anchor x="70.0" y="651.0" name="topleft"/>
+  <outline>
+    <component base="y.sc"/>
+    <component base="dieresiscomb" xOffset="270.0" yOffset="94.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/14 17:15:44</string>
+    </dict>
+  </lib>
+</glyph>

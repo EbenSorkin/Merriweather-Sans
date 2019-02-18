@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="A" format="2">
+  <advance width="687.0"/>
+  <unicode hex="0041"/>
+  <anchor x="344.0" y="0.0" name="bottom"/>
+  <anchor x="332.0" y="-83.0" name="btm"/>
+  <anchor x="618.0" y="10.0" name="ogonek"/>
+  <anchor x="343.0" y="830.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="125.0" y="0.0" type="line"/>
+      <point x="326.0" y="566.0" type="line"/>
+      <point x="348.0" y="636.0" type="line"/>
+      <point x="369.0" y="566.0" type="line"/>
+      <point x="559.0" y="0.0" type="line"/>
+      <point x="677.0" y="0.0" type="line"/>
+      <point x="399.0" y="751.0" type="line"/>
+      <point x="294.0" y="751.0" type="line"/>
+      <point x="10.0" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="147.0" y="188.0" type="line"/>
+      <point x="529.0" y="188.0" type="line"/>
+      <point x="508.0" y="269.0" type="line"/>
+      <point x="167.0" y="269.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/16 05:39:16</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

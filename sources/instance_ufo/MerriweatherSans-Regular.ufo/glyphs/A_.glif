@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="A" format="2">
+  <advance width="688.2444444444444"/>
+  <unicode hex="0041"/>
+  <anchor x="344.5333333333333" y="0.0" name="bottom"/>
+  <anchor x="332.0" y="-83.0" name="btm"/>
+  <anchor x="619.2444444444444" y="10.0" name="ogonek"/>
+  <anchor x="343.7111111111111" y="830.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="131.2222222222222" y="0.0" type="line"/>
+      <point x="325.46666666666664" y="558.5333333333333" type="line"/>
+      <point x="347.46666666666664" y="629.7777777777778" type="line"/>
+      <point x="368.46666666666664" y="558.5333333333333" type="line"/>
+      <point x="554.2" y="0.0" type="line"/>
+      <point x="681.2666666666667" y="0.0" type="line"/>
+      <point x="403.44444444444446" y="751.0" type="line"/>
+      <point x="289.2" y="751.0" type="line"/>
+      <point x="6.977777777777787" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="146.82222222222222" y="182.4888888888889" type="line"/>
+      <point x="528.8222222222222" y="182.4888888888889" type="line"/>
+      <point x="508.0" y="269.0" type="line"/>
+      <point x="167.0" y="269.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/16 05:39:16</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb_acutecomb" format="2">
+  <anchor x="0.0" y="830.0" name="_top"/>
+  <anchor x="2.0" y="1010.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="2.0" y="640.0" type="curve" smooth="yes"/>
+      <point x="115.0" y="640.0"/>
+      <point x="177.0" y="721.0"/>
+      <point x="169.0" y="809.0" type="curve"/>
+      <point x="94.0" y="809.0" type="line"/>
+      <point x="94.0" y="797.0"/>
+      <point x="95.0" y="724.0"/>
+      <point x="2.0" y="724.0" type="curve" smooth="yes"/>
+      <point x="-91.0" y="724.0"/>
+      <point x="-92.0" y="797.0"/>
+      <point x="-92.0" y="809.0" type="curve"/>
+      <point x="-165.0" y="809.0" type="line"/>
+      <point x="-173.0" y="721.0"/>
+      <point x="-105.0" y="640.0"/>
+    </contour>
+    <contour>
+      <point x="-14.0" y="819.0" type="line"/>
+      <point x="21.0" y="833.0"/>
+      <point x="106.0" y="911.0"/>
+      <point x="130.0" y="952.0" type="curve"/>
+      <point x="58.0" y="1010.0" type="line"/>
+      <point x="31.0" y="968.0"/>
+      <point x="-9.0" y="924.0"/>
+      <point x="-65.0" y="863.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/02/16 05:39:16</string>
+    </dict>
+  </lib>
+</glyph>

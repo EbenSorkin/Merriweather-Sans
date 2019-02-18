@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="approxequal" format="2">
+  <advance width="696.0"/>
+  <unicode hex="2248"/>
+  <outline>
+    <component base="asciitilde" xOffset="-3.0" yOffset="-172.0"/>
+    <component base="asciitilde" xOffset="-3.0" yOffset="50.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/01/21 06:08:13</string>
+    </dict>
+  </lib>
+</glyph>
