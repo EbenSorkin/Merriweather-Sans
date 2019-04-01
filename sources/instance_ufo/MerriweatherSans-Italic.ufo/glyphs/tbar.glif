@@ -7,14 +7,14 @@ tbar
 </note>
   <anchor x="147.9" y="0.0" name="bottom"/>
   <anchor x="184.9" y="279.0" name="center"/>
-  <anchor x="218.47500000000002" y="655.275" name="top"/>
+  <anchor x="218.475" y="655.275" name="top"/>
   <anchor x="386.8" y="557.0" name="topright"/>
   <outline>
     <contour>
       <point x="340.55" y="364.45" type="line"/>
       <point x="45.325" y="364.45" type="line"/>
-      <point x="34.300000000000004" y="289.25" type="line"/>
-      <point x="329.52500000000003" y="289.25" type="line"/>
+      <point x="34.3" y="289.25" type="line"/>
+      <point x="329.525" y="289.25" type="line"/>
     </contour>
     <component base="t"/>
   </outline>
@@ -38,7 +38,7 @@ NPUSHB[ ]	/* 20 values pushed */
 0 0 0 38 0 38 37 36 17 17 17 17 21 38 39 17 17 12 7 29 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 17:18:10</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

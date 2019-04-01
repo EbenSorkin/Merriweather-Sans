@@ -5,22 +5,22 @@
 Z
 </note>
   <anchor x="237.0" y="0.0" name="bottom"/>
-  <anchor x="280.0" y="325.5897435897436" name="center"/>
-  <anchor x="344.7435897435897" y="650.1794871794872" name="top"/>
+  <anchor x="280.0" y="325.59" name="center"/>
+  <anchor x="344.744" y="650.179" name="top"/>
   <outline>
     <contour>
-      <point x="-11.2051282051282" y="0.0" type="line"/>
-      <point x="470.5897435897436" y="0.0" type="line"/>
-      <point x="489.2307692307692" y="125.30769230769229" type="line"/>
-      <point x="187.17948717948718" y="121.30769230769229" type="line"/>
-      <point x="230.07692307692307" y="151.9230769230769" type="line"/>
-      <point x="575.3846153846154" y="613.0" type="line"/>
-      <point x="563.7948717948718" y="650.0" type="line"/>
+      <point x="-11.204999999999998" y="0.0" type="line"/>
+      <point x="470.59" y="0.0" type="line"/>
+      <point x="489.231" y="125.308" type="line"/>
+      <point x="187.179" y="121.308" type="line"/>
+      <point x="230.077" y="151.923" type="line"/>
+      <point x="575.385" y="613.0" type="line"/>
+      <point x="563.795" y="650.0" type="line"/>
       <point x="113.0" y="650.0" type="line"/>
-      <point x="95.53846153846155" y="528.1025641025641" type="line"/>
-      <point x="379.28205128205127" y="532.1025641025641" type="line"/>
-      <point x="332.38461538461536" y="504.12820512820514" type="line"/>
-      <point x="-24.205128205128197" y="37.0" type="line"/>
+      <point x="95.538" y="528.103" type="line"/>
+      <point x="379.282" y="532.103" type="line"/>
+      <point x="332.385" y="504.128" type="line"/>
+      <point x="-24.205" y="37.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -43,7 +43,7 @@ CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:50:25</string>
+      <string>2019/02/18 20:31:10</string>
       <key>public.markColor</key>
       <string>0,0.67,0.91,1</string>
     </dict>

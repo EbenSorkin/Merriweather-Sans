@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="radical" format="2">
-  <advance width="797.5128205128206"/>
+  <advance width="797.51282"/>
   <unicode hex="221A"/>
   <note>
 radical
 </note>
   <outline>
     <contour>
-      <point x="266.4102564102564" y="-173.0" type="line"/>
-      <point x="400.1794871794872" y="-173.0" type="line"/>
-      <point x="891.3076923076923" y="913.0" type="line"/>
-      <point x="734.3076923076923" y="913.0" type="line"/>
-      <point x="356.0769230769231" y="12.820512820512803" type="line"/>
-      <point x="283.87179487179486" y="350.0" type="line"/>
-      <point x="167.48717948717947" y="350.0" type="line"/>
-      <point x="33.82051282051282" y="285.12820512820514" type="line"/>
-      <point x="73.87179487179486" y="167.5897435897436" type="line"/>
-      <point x="154.97435897435898" y="206.23076923076923" type="line"/>
+      <point x="266.41" y="-173.0" type="line"/>
+      <point x="400.179" y="-173.0" type="line"/>
+      <point x="891.308" y="913.0" type="line"/>
+      <point x="734.308" y="913.0" type="line"/>
+      <point x="356.077" y="12.820999999999998" type="line"/>
+      <point x="283.872" y="350.0" type="line"/>
+      <point x="167.487" y="350.0" type="line"/>
+      <point x="33.821" y="285.128" type="line"/>
+      <point x="73.872" y="167.59" type="line"/>
+      <point x="154.974" y="206.231" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -26,7 +26,7 @@ radical
 5 3 1 48 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:16</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

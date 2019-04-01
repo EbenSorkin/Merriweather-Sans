@@ -8,15 +8,15 @@ Euro
   <outline>
     <contour>
       <point x="344.825" y="-7.325" type="curve" smooth="yes"/>
-      <point x="446.52500000000003" y="-7.325"/>
-      <point x="528.85" y="23.699999999999996"/>
-      <point x="564.175" y="56.275000000000006" type="curve"/>
-      <point x="535.2" y="128.47500000000002" type="line"/>
-      <point x="483.52500000000003" y="91.47500000000001"/>
+      <point x="446.525" y="-7.325"/>
+      <point x="528.85" y="23.7"/>
+      <point x="564.175" y="56.275" type="curve"/>
+      <point x="535.2" y="128.475" type="line"/>
+      <point x="483.525" y="91.475"/>
       <point x="438.175" y="71.5"/>
       <point x="362.425" y="71.5" type="curve" smooth="yes"/>
       <point x="277.05" y="71.5"/>
-      <point x="231.375" y="136.57500000000002"/>
+      <point x="231.375" y="136.575"/>
       <point x="224.375" y="268.4" type="curve"/>
       <point x="478.45" y="268.4" type="line"/>
       <point x="487.125" y="339.975" type="line"/>
@@ -26,9 +26,9 @@ Euro
       <point x="233.375" y="434.075" type="curve"/>
       <point x="499.8" y="434.075" type="line"/>
       <point x="508.8" y="505.65" type="line"/>
-      <point x="250.32500000000002" y="505.65" type="line"/>
+      <point x="250.325" y="505.65" type="line"/>
       <point x="283.3" y="614.15"/>
-      <point x="346.65000000000003" y="674.55"/>
+      <point x="346.65" y="674.55"/>
       <point x="437.1" y="674.55" type="curve" smooth="yes"/>
       <point x="487.725" y="674.55"/>
       <point x="562.2" y="662.6"/>
@@ -60,7 +60,7 @@ Euro
 39 1 11 10 40 1 0 11 17 16 2 4 3 3 74 9 1 0 8 1 1 2 0 1 97 7 1 2 6 1 3 4 2 3 97 12 1 11 11 10 91 0 10 10 25 75 0 4 4 5 91 0 5 5 26 5 76 0 0 0 43 0 42 37 35 32 31 18 17 19 37 34 17 18 17 18 13 7 29 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:16</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

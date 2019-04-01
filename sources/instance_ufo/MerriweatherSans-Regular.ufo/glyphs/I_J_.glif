@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="IJ" format="2">
-  <advance width="675.5777777777778"/>
+  <advance width="676.0"/>
   <unicode hex="0132"/>
-  <anchor x="159.73333333333332" y="830.0" name="top"/>
-  <anchor x="509.9111111111111" y="830.0" name="top_"/>
-  <anchor x="160.55555555555554" y="0.0" name="bottom_1"/>
-  <anchor x="497.84444444444443" y="0.0" name="bottom_2"/>
+  <anchor x="159.733" y="830.0" name="top"/>
+  <anchor x="509.911" y="830.0" name="top_"/>
+  <anchor x="160.556" y="0.0" name="bottom_1"/>
+  <anchor x="497.733" y="0.0" name="bottom_2"/>
   <anchor x="163.2" y="-83.0" name="btm_1"/>
-  <anchor x="451.8222222222222" y="-83.0" name="btm_2"/>
-  <anchor x="259.64444444444445" y="10.0" name="ogonek"/>
+  <anchor x="451.711" y="-83.0" name="btm_2"/>
+  <anchor x="259.644" y="10.0" name="ogonek"/>
   <anchor x="20.0" y="743.0" name="topleft"/>
   <outline>
     <component base="I"/>
-    <component base="J" xOffset="320.1111111111111"/>
+    <component base="J" xOffset="320.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 17:41:47</string>
+      <string>2019/02/18 20:30:31</string>
     </dict>
   </lib>
 </glyph>

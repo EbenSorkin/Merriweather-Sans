@@ -8,17 +8,17 @@ Lslash
     <contour>
       <point x="49.4" y="0.0" type="line"/>
       <point x="418.225" y="0.0" type="line"/>
-      <point x="429.85" y="91.75000000000001" type="line"/>
-      <point x="170.70000000000002" y="88.42500000000001" type="line"/>
+      <point x="429.85" y="91.75" type="line"/>
+      <point x="170.7" y="88.425" type="line"/>
       <point x="196.375" y="279.975" type="line"/>
       <point x="394.3" y="351.025" type="line"/>
       <point x="375.35" y="415.55" type="line"/>
-      <point x="205.35000000000002" y="354.15000000000003" type="line"/>
-      <point x="244.35000000000002" y="646.325" type="line"/>
+      <point x="205.35" y="354.15" type="line"/>
+      <point x="244.35" y="646.325" type="line"/>
       <point x="133.675" y="646.325" type="line"/>
       <point x="89.025" y="308.9" type="line"/>
-      <point x="-24.699999999999996" y="267.5" type="line"/>
-      <point x="-4.074999999999996" y="206.975" type="line"/>
+      <point x="-24.7" y="267.5" type="line"/>
+      <point x="-4.075" y="206.975" type="line"/>
       <point x="80.05" y="235.725" type="line"/>
     </contour>
   </outline>
@@ -42,7 +42,7 @@ CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:50:34</string>
+      <string>2019/02/18 20:31:10</string>
       <key>public.markColor</key>
       <string>0,0.67,0.91,1</string>
     </dict>

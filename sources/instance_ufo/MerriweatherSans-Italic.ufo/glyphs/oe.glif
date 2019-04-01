@@ -8,7 +8,7 @@ oe
   <anchor x="241.95" y="0.0" name="bottom_1"/>
   <anchor x="601.8" y="0.0" name="bottom_2"/>
   <anchor x="278.95" y="279.0" name="center"/>
-  <anchor x="332.77500000000003" y="10.0" name="ogonek_1"/>
+  <anchor x="332.775" y="10.0" name="ogonek_1"/>
   <anchor x="679.625" y="10.0" name="ogonek_2"/>
   <anchor x="325.95" y="557.0" name="top_1"/>
   <anchor x="689.05" y="557.0" name="top_2"/>
@@ -28,7 +28,7 @@ CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>e</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:03</string>
+      <string>2019/02/18 20:31:10</string>
       <key>com.schriftgestaltung.componentsAlignment</key>
       <array>
         <integer>0</integer>

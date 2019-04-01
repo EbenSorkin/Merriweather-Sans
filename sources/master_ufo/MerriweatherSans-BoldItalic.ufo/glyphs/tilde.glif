@@ -1,56 +1,46 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tilde" format="2">
-  <advance width="403.0"/>
+  <advance width="410.79487"/>
   <unicode hex="02DC"/>
   <note>
 tilde
 </note>
-  <anchor x="236.0" y="557.0" name="_top"/>
-  <anchor x="262.0" y="751.0" name="top"/>
+  <anchor x="240.513" y="557.0" name="_top"/>
+  <anchor x="266.923" y="754.282" name="top"/>
   <outline>
     <contour>
-      <point x="328.0" y="626.0" type="curve" smooth="yes"/>
-      <point x="375.0" y="626.0"/>
-      <point x="427.0" y="674.0"/>
-      <point x="441.0" y="722.0" type="curve"/>
-      <point x="398.0" y="779.0" type="line"/>
-      <point x="387.0" y="761.0"/>
-      <point x="365.0" y="726.0"/>
-      <point x="330.0" y="726.0" type="curve" smooth="yes"/>
-      <point x="313.0" y="726.0"/>
-      <point x="301.0" y="735.0"/>
-      <point x="283.0" y="755.0" type="curve" smooth="yes"/>
-      <point x="262.0" y="778.0"/>
-      <point x="227.0" y="797.0"/>
-      <point x="198.0" y="797.0" type="curve" smooth="yes"/>
-      <point x="152.0" y="797.0"/>
-      <point x="96.0" y="752.0"/>
-      <point x="77.0" y="708.0" type="curve"/>
-      <point x="119.0" y="654.0" type="line"/>
-      <point x="139.0" y="677.0"/>
-      <point x="156.0" y="698.0"/>
-      <point x="183.0" y="698.0" type="curve" smooth="yes"/>
-      <point x="205.0" y="698.0"/>
-      <point x="216.0" y="688.0"/>
-      <point x="237.0" y="668.0" type="curve" smooth="yes"/>
-      <point x="260.0" y="646.0"/>
-      <point x="290.0" y="626.0"/>
+      <point x="334.564" y="625.59" type="curve" smooth="yes"/>
+      <point x="382.385" y="625.59"/>
+      <point x="433.564" y="676.051"/>
+      <point x="449.205" y="724.051" type="curve"/>
+      <point x="402.103" y="786.795" type="line"/>
+      <point x="388.641" y="759.359"/>
+      <point x="365.821" y="730.923"/>
+      <point x="333.282" y="730.923" type="curve" smooth="yes"/>
+      <point x="315.462" y="730.923"/>
+      <point x="303.872" y="741.154"/>
+      <point x="285.872" y="761.564" type="curve" smooth="yes"/>
+      <point x="264.051" y="786.205"/>
+      <point x="231.923" y="802.744"/>
+      <point x="198.41" y="802.744" type="curve" smooth="yes"/>
+      <point x="152.0" y="802.744"/>
+      <point x="100.923" y="763.487"/>
+      <point x="77.821" y="714.154" type="curve"/>
+      <point x="121.872" y="655.231" type="line"/>
+      <point x="144.333" y="683.974"/>
+      <point x="160.513" y="698.821"/>
+      <point x="187.103" y="698.821" type="curve" smooth="yes"/>
+      <point x="210.333" y="698.821"/>
+      <point x="221.333" y="688.41"/>
+      <point x="241.513" y="668.0" type="curve" smooth="yes"/>
+      <point x="264.513" y="644.769"/>
+      <point x="294.513" y="625.59"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>assembly</key>
-      <string>PUSHB[ ]	/* 2 values pushed */
-6 100 
-WCVTP[ ]	/* WriteCVTInPixels */
-NPUSHB[ ]	/* 42 values pushed */
-31 15 2 3 1 30 1 2 3 2 74 0 1 3 2 1 87 0 0 0 3 2 0 3 99 0 1 1 2 91 0 2 1 2 79 37 39 37 34 4 7 24 
-CALL[ ]	/* CallFunction */
-PUSHB[ ]	/* 2 values pushed */
-6 0 
-WCVTP[ ]	/* WriteCVTInPixels */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:12</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

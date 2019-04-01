@@ -1,30 +1,30 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="k" format="2">
-  <advance width="572.4615384615385"/>
+  <advance width="572.46154"/>
   <unicode hex="006B"/>
   <note>
 k
 </note>
-  <anchor x="249.43589743589743" y="0.0" name="bottom"/>
-  <anchor x="379.43589743589746" y="983.0" name="top"/>
+  <anchor x="249.436" y="0.0" name="bottom"/>
+  <anchor x="379.436" y="983.0" name="top"/>
   <outline>
     <contour>
-      <point x="39.769230769230774" y="0.0" type="line"/>
-      <point x="187.35897435897436" y="0.0" type="line"/>
-      <point x="293.5897435897436" y="798.5897435897435" type="line"/>
-      <point x="145.4102564102564" y="798.5897435897435" type="line"/>
+      <point x="39.769" y="0.0" type="line"/>
+      <point x="187.359" y="0.0" type="line"/>
+      <point x="293.59" y="798.59" type="line"/>
+      <point x="145.41" y="798.59" type="line"/>
     </contour>
     <contour>
-      <point x="381.28205128205127" y="0.5897435897435899" type="line"/>
-      <point x="554.3333333333333" y="0.5897435897435899" type="line"/>
-      <point x="390.4358974358974" y="301.05128205128204" type="line"/>
-      <point x="477.2051282051282" y="345.6923076923077"/>
-      <point x="565.4615384615385" y="461.3076923076923"/>
-      <point x="571.2307692307693" y="557.0" type="curve"/>
-      <point x="422.8205128205128" y="557.0" type="line"/>
-      <point x="397.64102564102564" y="467.0769230769231"/>
-      <point x="320.38461538461536" y="352.0769230769231"/>
-      <point x="244.94871794871796" y="308.5897435897436" type="curve"/>
+      <point x="381.282" y="0.59" type="line"/>
+      <point x="554.333" y="0.59" type="line"/>
+      <point x="390.436" y="301.051" type="line"/>
+      <point x="477.205" y="345.692"/>
+      <point x="565.462" y="461.308"/>
+      <point x="571.231" y="557.0" type="curve"/>
+      <point x="422.821" y="557.0" type="line"/>
+      <point x="397.641" y="467.077"/>
+      <point x="320.385" y="352.077"/>
+      <point x="244.949" y="308.59" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -34,7 +34,7 @@ k
 9 6 2 0 3 1 74 4 1 1 1 19 75 0 3 3 20 75 2 1 0 0 18 0 76 0 0 17 16 8 7 0 3 0 3 17 5 7 21 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:02</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

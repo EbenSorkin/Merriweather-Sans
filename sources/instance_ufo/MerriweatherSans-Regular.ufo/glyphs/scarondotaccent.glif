@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="scarondotaccent" format="2">
-  <advance width="483.22222222222223"/>
+  <advance width="483.0"/>
   <unicode hex="1E67"/>
-  <anchor x="242.0222222222222" y="0.0" name="bottom"/>
-  <anchor x="244.55555555555554" y="-83.0" name="btm"/>
-  <anchor x="247.55555555555554" y="1180.6888888888889" name="top"/>
+  <anchor x="242.022" y="0.0" name="bottom"/>
+  <anchor x="244.556" y="-83.0" name="btm"/>
+  <anchor x="248.0" y="1180.556" name="top"/>
   <outline>
     <component base="s"/>
-    <component base="caroncomb" xOffset="247.55555555555554"/>
-    <component base="dotaccentcomb" xOffset="247.55555555555554" yOffset="190.13333333333333"/>
+    <component base="caroncomb" xOffset="248.0"/>
+    <component base="dotaccentcomb" xOffset="248.0" yOffset="190.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 06:27:28</string>
+      <string>2019/02/18 20:30:31</string>
     </dict>
   </lib>
 </glyph>

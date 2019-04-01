@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="guillemetright.case" format="2">
-  <advance width="958.3076923076923"/>
+  <advance width="958.30769"/>
   <note>
 guillemotright
 </note>
   <outline>
     <contour>
-      <point x="514.1794871794872" y="134.12820512820514" type="line"/>
-      <point x="869.1025641025641" y="327.12820512820514" type="line"/>
-      <point x="883.9230769230769" y="416.0" type="line"/>
-      <point x="572.9487179487179" y="607.0512820512821" type="line"/>
-      <point x="525.2564102564103" y="531.8974358974359" type="line"/>
-      <point x="710.3333333333334" y="377.8205128205128" type="line"/>
-      <point x="489.12820512820514" y="221.15384615384613" type="line"/>
+      <point x="514.179" y="134.128" type="line"/>
+      <point x="869.103" y="327.128" type="line"/>
+      <point x="883.923" y="416.0" type="line"/>
+      <point x="572.949" y="607.051" type="line"/>
+      <point x="525.256" y="531.897" type="line"/>
+      <point x="710.333" y="377.821" type="line"/>
+      <point x="489.128" y="221.154" type="line"/>
     </contour>
     <contour>
-      <point x="139.05128205128204" y="134.12820512820514" type="line"/>
-      <point x="494.97435897435895" y="327.12820512820514" type="line"/>
-      <point x="508.79487179487177" y="416.0" type="line"/>
-      <point x="198.23076923076923" y="607.0512820512821" type="line"/>
-      <point x="150.71794871794873" y="531.8974358974359" type="line"/>
-      <point x="335.20512820512823" y="377.8205128205128" type="line"/>
-      <point x="114.0" y="221.15384615384613" type="line"/>
+      <point x="139.051" y="134.128" type="line"/>
+      <point x="494.974" y="327.128" type="line"/>
+      <point x="508.795" y="416.0" type="line"/>
+      <point x="198.231" y="607.051" type="line"/>
+      <point x="150.718" y="531.897" type="line"/>
+      <point x="335.205" y="377.821" type="line"/>
+      <point x="114.0" y="221.154" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -35,7 +35,7 @@ CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>guillemetright</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 19:06:46</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

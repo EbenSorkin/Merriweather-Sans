@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ordmasculine" format="2">
-  <advance width="404.70000000000005"/>
+  <advance width="404.7"/>
   <unicode hex="00BA"/>
   <note>
 ordmasculine
@@ -13,7 +13,7 @@ ordmasculine
       <point x="432.375" y="594.625" type="curve" smooth="yes"/>
       <point x="432.375" y="696.575"/>
       <point x="370.45" y="776.0"/>
-      <point x="267.15000000000003" y="776.0" type="curve" smooth="yes"/>
+      <point x="267.15" y="776.0" type="curve" smooth="yes"/>
       <point x="145.6" y="776.0"/>
       <point x="48.0" y="670.3"/>
       <point x="48.0" y="537.075" type="curve" smooth="yes"/>
@@ -22,11 +22,11 @@ ordmasculine
     </contour>
     <contour>
       <point x="216.875" y="420.95" type="curve" smooth="yes"/>
-      <point x="171.47500000000002" y="420.95"/>
-      <point x="146.45000000000002" y="478.675"/>
-      <point x="146.45000000000002" y="547.675" type="curve" smooth="yes"/>
-      <point x="146.45000000000002" y="632.0"/>
-      <point x="194.82500000000002" y="714.75"/>
+      <point x="171.475" y="420.95"/>
+      <point x="146.45" y="478.675"/>
+      <point x="146.45" y="547.675" type="curve" smooth="yes"/>
+      <point x="146.45" y="632.0"/>
+      <point x="194.825" y="714.75"/>
       <point x="261.85" y="714.75" type="curve" smooth="yes"/>
       <point x="309.55" y="714.75"/>
       <point x="333.6" y="665.975"/>
@@ -42,7 +42,7 @@ ordmasculine
 25 17 10 2 2 48 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:03</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

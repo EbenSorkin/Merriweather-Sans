@@ -12,14 +12,14 @@ a
     <contour>
       <point x="192.3" y="-8.0" type="curve" smooth="yes"/>
       <point x="263.625" y="-8.0"/>
-      <point x="323.65" y="38.275000000000006"/>
-      <point x="363.35" y="97.22500000000001" type="curve"/>
+      <point x="323.65" y="38.275"/>
+      <point x="363.35" y="97.225" type="curve"/>
       <point x="355.675" y="0.0" type="line"/>
       <point x="451.375" y="0.0" type="line"/>
       <point x="528.7" y="564.0" type="line"/>
       <point x="467.175" y="547.025" type="line"/>
       <point x="433.525" y="556.675"/>
-      <point x="388.52500000000003" y="564.0"/>
+      <point x="388.525" y="564.0"/>
       <point x="355.225" y="564.0" type="curve" smooth="yes"/>
       <point x="163.625" y="564.0"/>
       <point x="39.025" y="399.3"/>
@@ -28,8 +28,8 @@ a
       <point x="89.7" y="-8.0"/>
     </contour>
     <contour>
-      <point x="216.45000000000002" y="73.15" type="curve" smooth="yes"/>
-      <point x="163.70000000000002" y="73.15"/>
+      <point x="216.45" y="73.15" type="curve" smooth="yes"/>
+      <point x="163.7" y="73.15"/>
       <point x="150.675" y="144.25"/>
       <point x="150.675" y="214.35" type="curve" smooth="yes"/>
       <point x="150.675" y="298.35"/>
@@ -42,7 +42,7 @@ a
       <point x="388.3" y="486.45"/>
       <point x="410.375" y="478.75" type="curve"/>
       <point x="371.3" y="203.925" type="line"/>
-      <point x="333.575" y="135.35000000000002"/>
+      <point x="333.575" y="135.35"/>
       <point x="279.575" y="73.15"/>
     </contour>
   </outline>
@@ -66,7 +66,7 @@ NPUSHB[ ]	/* 13 values pushed */
 18 18 18 33 18 32 42 37 36 17 6 7 24 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 17:09:24</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

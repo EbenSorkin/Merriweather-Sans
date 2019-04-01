@@ -10,7 +10,7 @@ T
   <anchor x="337.3" y="747.975" name="top"/>
   <outline>
     <contour>
-      <point x="180.79999999999998" y="0.0" type="line"/>
+      <point x="180.8" y="0.0" type="line"/>
       <point x="290.475" y="0.0" type="line"/>
       <point x="376.125" y="666.575" type="line"/>
       <point x="575.925" y="660.9" type="line"/>
@@ -27,7 +27,7 @@ T
 4 3 2 1 1 0 89 0 0 0 17 75 0 2 2 18 2 76 0 0 0 7 0 7 17 17 17 5 7 23 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:02</string>
+      <string>2019/02/18 20:31:10</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

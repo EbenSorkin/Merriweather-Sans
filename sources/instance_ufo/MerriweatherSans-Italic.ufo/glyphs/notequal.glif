@@ -24,7 +24,7 @@ notequal
       <point x="80.675" y="410.75" type="line"/>
       <point x="263.075" y="410.75" type="line"/>
       <point x="187.975" y="247.525" type="line"/>
-      <point x="58.275000000000006" y="247.525" type="line"/>
+      <point x="58.275" y="247.525" type="line"/>
       <point x="47.65" y="164.05" type="line"/>
       <point x="149.05" y="164.05" type="line"/>
     </contour>
@@ -36,7 +36,7 @@ notequal
 15 5 1 48 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:16</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

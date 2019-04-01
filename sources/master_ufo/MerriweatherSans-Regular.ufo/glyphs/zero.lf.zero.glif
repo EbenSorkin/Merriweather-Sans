@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="zero.lf.zero" format="2">
-  <advance width="677.0"/>
+  <advance width="682.15556"/>
   <outline>
     <contour>
       <point x="214.0" y="63.0" type="line"/>
@@ -17,12 +17,16 @@
       <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
       <string>zero.lf</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:40:59</string>
+      <string>2019/02/18 20:30:01</string>
       <key>com.schriftgestaltung.Glyphs.nodeUserData.0.3</key>
       <dict>
         <key>name</key>
         <string>hr00</string>
       </dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
     </dict>
   </lib>
 </glyph>

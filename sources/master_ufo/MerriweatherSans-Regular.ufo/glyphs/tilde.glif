@@ -1,36 +1,36 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tilde" format="2">
-  <advance width="453.0"/>
+  <advance width="453.88889"/>
   <unicode hex="02DC"/>
-  <anchor x="228.0" y="830.0" name="_top"/>
+  <anchor x="228.889" y="830.178" name="_top"/>
   <outline>
     <contour>
-      <point x="64.0" y="676.0" type="line"/>
-      <point x="84.0" y="697.0"/>
-      <point x="115.0" y="724.0"/>
-      <point x="154.0" y="724.0" type="curve" smooth="yes"/>
-      <point x="205.0" y="724.0"/>
-      <point x="215.0" y="656.0"/>
+      <point x="66.311" y="675.111" type="line"/>
+      <point x="85.956" y="696.467"/>
+      <point x="116.6" y="723.467"/>
+      <point x="153.644" y="723.467" type="curve" smooth="yes"/>
+      <point x="205.533" y="723.467"/>
+      <point x="215.711" y="656.0"/>
       <point x="298.0" y="656.0" type="curve" smooth="yes"/>
-      <point x="358.0" y="656.0"/>
-      <point x="405.0" y="698.0"/>
-      <point x="430.0" y="750.0" type="curve"/>
-      <point x="388.0" y="786.0" type="line"/>
-      <point x="368.0" y="764.0"/>
-      <point x="343.0" y="738.0"/>
-      <point x="299.0" y="738.0" type="curve" smooth="yes"/>
-      <point x="249.0" y="738.0"/>
-      <point x="233.0" y="805.0"/>
-      <point x="155.0" y="805.0" type="curve" smooth="yes"/>
-      <point x="96.0" y="805.0"/>
-      <point x="45.0" y="758.0"/>
-      <point x="23.0" y="709.0" type="curve"/>
+      <point x="360.667" y="656.0"/>
+      <point x="407.844" y="699.067"/>
+      <point x="432.311" y="753.2" type="curve"/>
+      <point x="386.933" y="792.044" type="line"/>
+      <point x="367.289" y="769.511"/>
+      <point x="342.289" y="742.978"/>
+      <point x="300.244" y="742.978" type="curve" smooth="yes"/>
+      <point x="250.244" y="742.978"/>
+      <point x="235.489" y="809.444"/>
+      <point x="156.422" y="809.444" type="curve" smooth="yes"/>
+      <point x="94.578" y="809.444"/>
+      <point x="43.578" y="762.089"/>
+      <point x="21.756" y="710.778" type="curve"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:51:28</string>
+      <string>2019/02/18 20:30:01</string>
     </dict>
   </lib>
 </glyph>

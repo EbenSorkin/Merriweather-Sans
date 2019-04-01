@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="omacronacute.sc" format="2">
-  <advance width="651.625"/>
+  <advance width="652.0"/>
   <anchor x="288.975" y="0.0" name="bottom"/>
   <anchor x="332.975" y="326.0" name="center"/>
   <anchor x="394.2" y="9.0" name="ogonek"/>
-  <anchor x="345.20000000000005" y="973.3" name="top"/>
+  <anchor x="345.175" y="973.725" name="top"/>
   <anchor x="70.325" y="651.0" name="topleft"/>
   <anchor x="679.625" y="651.0" name="topright"/>
   <outline>
     <component base="o.sc"/>
-    <component base="macroncomb" xOffset="336.275" yOffset="94.0"/>
-    <component base="acutecomb" xOffset="337.02500000000003" yOffset="248.57500000000002"/>
+    <component base="macroncomb" xOffset="336.0" yOffset="94.0"/>
+    <component base="acutecomb" xOffset="337.0" yOffset="249.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:03</string>
+      <string>2019/02/18 20:31:35</string>
     </dict>
   </lib>
 </glyph>

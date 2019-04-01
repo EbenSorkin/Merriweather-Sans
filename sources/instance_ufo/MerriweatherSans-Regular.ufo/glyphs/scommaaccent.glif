@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="scommaaccent" format="2">
-  <advance width="483.22222222222223"/>
+  <advance width="483.0"/>
   <unicode hex="0219"/>
-  <anchor x="242.0222222222222" y="-273.0" name="bottom"/>
-  <anchor x="244.55555555555554" y="-83.0" name="btm"/>
-  <anchor x="247.55555555555554" y="830.0" name="top"/>
+  <anchor x="242.022" y="-273.0" name="bottom"/>
+  <anchor x="244.556" y="-83.0" name="btm"/>
+  <anchor x="247.556" y="830.0" name="top"/>
   <outline>
     <component base="s"/>
     <component base="commaaccentcomb" xOffset="157.0"/>
@@ -12,7 +12,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/16 05:40:25</string>
+      <string>2019/02/18 20:30:31</string>
     </dict>
   </lib>
 </glyph>

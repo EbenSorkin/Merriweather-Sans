@@ -1,25 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Lslash" format="2">
-  <advance width="527.0"/>
+  <advance width="530.55556"/>
   <unicode hex="0141"/>
-  <anchor x="264.0" y="0.0" name="bottom"/>
-  <anchor x="294.0" y="-83.0" name="btm"/>
-  <anchor x="264.0" y="372.0" name="center"/>
-  <anchor x="149.0" y="830.0" name="top"/>
-  <anchor x="507.0" y="743.0" name="topright"/>
+  <anchor x="265.778" y="0.0" name="bottom"/>
+  <anchor x="294.711" y="-83.0" name="btm"/>
+  <anchor x="265.778" y="372.0" name="center"/>
+  <anchor x="152.733" y="830.0" name="top"/>
+  <anchor x="510.556" y="743.0" name="topright"/>
   <outline>
     <contour>
-      <point x="9.0" y="344.0" type="line"/>
-      <point x="35.0" y="277.0" type="line"/>
-      <point x="422.0" y="419.0" type="line"/>
-      <point x="396.0" y="487.0" type="line"/>
+      <point x="9.533" y="346.844" type="line"/>
+      <point x="36.6" y="277.0" type="line"/>
+      <point x="423.778" y="419.0" type="line"/>
+      <point x="396.711" y="489.844" type="line"/>
     </contour>
     <component base="L"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/01/21 06:08:13</string>
+      <string>2019/02/18 20:30:01</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>

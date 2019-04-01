@@ -7,7 +7,7 @@ uni2206
 </note>
   <outline>
     <contour>
-      <point x="-11.950000000000003" y="0.0" type="line"/>
+      <point x="-11.95" y="0.0" type="line"/>
       <point x="640.375" y="0.0" type="line"/>
       <point x="648.7" y="13.0" type="line"/>
       <point x="371.375" y="736.0" type="line"/>
@@ -15,9 +15,9 @@ uni2206
       <point x="-17.625" y="11.0" type="line"/>
     </contour>
     <contour>
-      <point x="147.45000000000002" y="92.42500000000001" type="line"/>
+      <point x="147.45" y="92.425" type="line"/>
       <point x="351.075" y="510.025" type="line"/>
-      <point x="502.625" y="92.42500000000001" type="line"/>
+      <point x="502.625" y="92.425" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -27,7 +27,7 @@ uni2206
 7 6 2 0 2 48 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:16</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

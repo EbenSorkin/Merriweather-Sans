@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Racute" format="2">
-  <advance width="667.0"/>
+  <advance width="673.04444"/>
   <unicode hex="0154"/>
-  <anchor x="334.0" y="0.0" name="bottom"/>
-  <anchor x="336.0" y="-83.0" name="btm"/>
-  <anchor x="317.0" y="1020.0" name="top"/>
+  <anchor x="337.022" y="0.0" name="bottom"/>
+  <anchor x="339.911" y="-83.0" name="btm"/>
+  <anchor x="321.0" y="1024.089" name="top"/>
   <outline>
     <component base="R"/>
-    <component base="acutecomb.case" xOffset="317.0"/>
+    <component base="acutecomb.case" xOffset="321.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 06:18:47</string>
+      <string>2019/02/18 20:30:31</string>
     </dict>
   </lib>
 </glyph>

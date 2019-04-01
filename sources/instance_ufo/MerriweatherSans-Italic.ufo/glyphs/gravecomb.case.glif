@@ -10,8 +10,8 @@ grave
       <point x="117.35" y="817.0" type="curve"/>
       <point x="161.6" y="853.275" type="line"/>
       <point x="17.025" y="1053.175" type="line"/>
-      <point x="-61.85000000000001" y="980.975" type="line"/>
-      <point x="-37.85000000000001" y="938.65"/>
+      <point x="-61.85" y="980.975" type="line"/>
+      <point x="-37.85" y="938.65"/>
       <point x="71.0" y="835.35"/>
     </contour>
   </outline>
@@ -22,7 +22,7 @@ grave
 2 0 1 48 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:12</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

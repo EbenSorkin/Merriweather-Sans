@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="odotbelow" format="2">
-  <advance width="592.0"/>
+  <advance width="599.0"/>
   <unicode hex="1ECD"/>
-  <anchor x="296.0" y="-211.0" name="bottom"/>
-  <anchor x="293.0" y="-83.0" name="btm"/>
-  <anchor x="296.0" y="279.0" name="center"/>
-  <anchor x="320.0" y="25.0" name="ogonek"/>
-  <anchor x="301.0" y="830.0" name="top"/>
-  <anchor x="572.0" y="557.0" name="topright"/>
+  <anchor x="299.467" y="-215.089" name="bottom"/>
+  <anchor x="296.556" y="-83.0" name="btm"/>
+  <anchor x="299.556" y="279.0" name="center"/>
+  <anchor x="323.2" y="25.0" name="ogonek"/>
+  <anchor x="304.378" y="830.0" name="top"/>
+  <anchor x="579.111" y="557.0" name="topright"/>
   <outline>
     <component base="o"/>
-    <component base="dotbelowcomb" xOffset="296.0"/>
+    <component base="dotbelowcomb" xOffset="300.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/16 05:40:25</string>
+      <string>2019/02/18 20:30:31</string>
     </dict>
   </lib>
 </glyph>

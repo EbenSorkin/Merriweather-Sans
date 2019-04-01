@@ -10,9 +10,9 @@ uni20B2
       <point x="298.0" y="-126.0" type="line"/>
       <point x="387.6" y="-126.0" type="line"/>
       <point x="404.95" y="-3.0" type="line"/>
-      <point x="446.525" y="2.6749999999999994"/>
-      <point x="487.225" y="13.674999999999999"/>
-      <point x="539.55" y="29.349999999999998" type="curve" smooth="yes"/>
+      <point x="446.525" y="2.675"/>
+      <point x="487.225" y="13.675"/>
+      <point x="539.55" y="29.35" type="curve" smooth="yes"/>
       <point x="568.6" y="38.025"/>
       <point x="589.95" y="43.025"/>
       <point x="603.95" y="44.025" type="curve"/>
@@ -20,11 +20,11 @@ uni20B2
       <point x="422.875" y="368.075" type="line"/>
       <point x="411.9" y="278.0" type="line"/>
       <point x="526.2" y="278.0" type="line"/>
-      <point x="504.2" y="110.85000000000001" type="line"/>
-      <point x="459.05" y="90.12500000000001"/>
-      <point x="401.0" y="79.10000000000001"/>
-      <point x="358.6" y="79.10000000000001" type="curve" smooth="yes"/>
-      <point x="245.82500000000002" y="79.10000000000001"/>
+      <point x="504.2" y="110.85" type="line"/>
+      <point x="459.05" y="90.125"/>
+      <point x="401.0" y="79.1"/>
+      <point x="358.6" y="79.1" type="curve" smooth="yes"/>
+      <point x="245.825" y="79.1"/>
       <point x="199.525" y="186.025"/>
       <point x="199.525" y="320.425" type="curve" smooth="yes"/>
       <point x="199.525" y="492.5"/>
@@ -43,7 +43,7 @@ uni20B2
       <point x="206.1" y="726.0"/>
       <point x="84.85" y="536.025"/>
       <point x="84.85" y="313.075" type="curve" smooth="yes"/>
-      <point x="84.85" y="150.79999999999998"/>
+      <point x="84.85" y="150.8"/>
       <point x="156.775" y="8.0"/>
       <point x="315.35" y="-7.0" type="curve"/>
     </contour>
@@ -77,7 +77,7 @@ NPUSHB[ ]	/* 11 values pushed */
 17 24 17 22 38 34 17 24 8 7 28 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:16</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

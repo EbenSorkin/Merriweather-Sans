@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="oogonek.sc" format="2">
-  <advance width="651.625"/>
+  <advance width="652.0"/>
   <anchor x="288.975" y="0.0" name="bottom"/>
   <anchor x="332.975" y="326.0" name="center"/>
   <anchor x="394.2" y="9.0" name="ogonek"/>
@@ -9,14 +9,14 @@
   <anchor x="679.625" y="651.0" name="topright"/>
   <outline>
     <component base="o.sc"/>
-    <component base="ogonekcomb" xOffset="430.2" yOffset="-1.0"/>
+    <component base="ogonekcomb" xOffset="430.0" yOffset="-1.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:03</string>
+      <string>2019/02/18 20:31:35</string>
     </dict>
   </lib>
 </glyph>

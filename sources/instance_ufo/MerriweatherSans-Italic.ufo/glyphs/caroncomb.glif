@@ -10,10 +10,10 @@ caron
     <contour>
       <point x="6.699999999999999" y="638.125" type="line"/>
       <point x="93.025" y="638.125" type="line"/>
-      <point x="250.57500000000002" y="794.325" type="line"/>
+      <point x="250.575" y="794.325" type="line"/>
       <point x="205.375" y="835.025" type="line"/>
-      <point x="56.300000000000004" y="720.25" type="line"/>
-      <point x="-63.77499999999999" y="835.025" type="line"/>
+      <point x="56.3" y="720.25" type="line"/>
+      <point x="-63.775" y="835.025" type="line"/>
       <point x="-109.7" y="793.325" type="line"/>
     </contour>
   </outline>
@@ -30,7 +30,7 @@ PUSHB[ ]	/* 2 values pushed */
 6 0 
 WCVTP[ ]	/* WriteCVTInPixels */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:12</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

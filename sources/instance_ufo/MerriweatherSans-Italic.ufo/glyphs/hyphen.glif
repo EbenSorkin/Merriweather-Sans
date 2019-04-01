@@ -8,7 +8,7 @@ hyphen
   <outline>
     <contour>
       <point x="106.65" y="314.75" type="line"/>
-      <point x="504.59999999999997" y="314.75" type="line"/>
+      <point x="504.6" y="314.75" type="line"/>
       <point x="515.225" y="399.575" type="line"/>
       <point x="116.95" y="399.575" type="line"/>
     </contour>
@@ -20,7 +20,7 @@ hyphen
 2 1 1 0 0 1 85 2 1 1 1 0 89 0 0 1 0 77 0 0 0 3 0 3 17 3 7 21 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 19:32:43</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

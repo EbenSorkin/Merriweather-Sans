@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uhorndotbelow" format="2">
-  <advance width="616.5777777777778"/>
+  <advance width="617.0"/>
   <unicode hex="1EF1"/>
-  <anchor x="308.3777777777778" y="-215.08888888888887" name="bottom"/>
-  <anchor x="296.9111111111111" y="-83.0" name="btm"/>
-  <anchor x="554.8666666666667" y="10.0" name="ogonek"/>
-  <anchor x="308.3777777777778" y="557.0" name="top"/>
-  <anchor x="596.5777777777778" y="557.0" name="topright"/>
+  <anchor x="308.467" y="-215.089" name="bottom"/>
+  <anchor x="296.911" y="-83.0" name="btm"/>
+  <anchor x="554.867" y="10.0" name="ogonek"/>
+  <anchor x="308.378" y="557.0" name="top"/>
+  <anchor x="596.0889999999999" y="557.0" name="topright"/>
   <outline>
     <component base="uhorn"/>
-    <component base="dotbelowcomb" xOffset="308.9111111111111"/>
+    <component base="dotbelowcomb" xOffset="309.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:06:30</string>
+      <string>2019/02/18 20:30:31</string>
       <key>public.markColor</key>
       <string>0.85,0.26,0.06,1</string>
     </dict>

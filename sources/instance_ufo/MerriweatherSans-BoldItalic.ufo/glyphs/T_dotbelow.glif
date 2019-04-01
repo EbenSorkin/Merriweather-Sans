@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Tdotbelow" format="2">
-  <advance width="558.8717948717949"/>
+  <advance width="559.0"/>
   <unicode hex="1E6C"/>
-  <anchor x="216.64102564102564" y="-199.0" name="bottom"/>
-  <anchor x="292.64102564102564" y="374.5897435897436" name="center"/>
-  <anchor x="341.64102564102564" y="748.7692307692307" name="top"/>
+  <anchor x="217.0" y="-199.0" name="bottom"/>
+  <anchor x="292.641" y="374.59" name="center"/>
+  <anchor x="341.641" y="748.769" name="top"/>
   <outline>
     <component base="T"/>
-    <component base="dotbelowcomb.case" xOffset="242.64102564102564"/>
+    <component base="dotbelowcomb.case" xOffset="243.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:02</string>
+      <string>2019/02/18 20:31:35</string>
     </dict>
   </lib>
 </glyph>

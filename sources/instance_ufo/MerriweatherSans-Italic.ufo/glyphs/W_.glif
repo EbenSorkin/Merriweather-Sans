@@ -9,26 +9,26 @@ W
   <anchor x="496.3" y="747.975" name="top"/>
   <outline>
     <contour>
-      <point x="168.825" y="-4.024999999999999" type="line"/>
-      <point x="281.8" y="-4.024999999999999" type="line"/>
+      <point x="168.825" y="-4.025" type="line"/>
+      <point x="281.8" y="-4.025" type="line"/>
       <point x="433.075" y="390.95" type="line"/>
-      <point x="460.725" y="474.97499999999997" type="line"/>
+      <point x="460.725" y="474.975" type="line"/>
       <point x="467.05" y="390.95" type="line"/>
-      <point x="510.8" y="-4.024999999999999" type="line"/>
-      <point x="626.7" y="-4.024999999999999" type="line"/>
+      <point x="510.8" y="-4.025" type="line"/>
+      <point x="626.7" y="-4.025" type="line"/>
       <point x="931.1" y="747.0" type="line"/>
       <point x="820.1" y="747.0" type="line"/>
       <point x="623.275" y="221.425" type="line"/>
       <point x="588.55" y="115.775" type="line"/>
-      <point x="580.575" y="222.10000000000002" type="line"/>
+      <point x="580.575" y="222.1" type="line"/>
       <point x="528.8" y="747.0" type="line"/>
       <point x="423.775" y="747.0" type="line"/>
       <point x="436.075" y="631.25" type="line"/>
       <point x="275.575" y="221.425" type="line"/>
       <point x="244.925" y="115.775" type="line"/>
-      <point x="230.9" y="222.10000000000002" type="line"/>
+      <point x="230.9" y="222.1" type="line"/>
       <point x="168.4" y="747.0" type="line"/>
-      <point x="59.724999999999994" y="747.0" type="line"/>
+      <point x="59.725" y="747.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -38,7 +38,7 @@ W
 17 11 4 3 0 2 1 74 5 4 3 3 2 2 17 75 1 1 0 0 18 0 76 0 0 0 19 0 19 21 17 20 17 6 7 24 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:02</string>
+      <string>2019/02/18 20:31:10</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

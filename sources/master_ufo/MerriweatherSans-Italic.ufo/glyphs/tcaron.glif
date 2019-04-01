@@ -1,39 +1,39 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tcaron" format="2">
-  <advance width="362.0"/>
+  <advance width="369.8"/>
   <unicode hex="0165"/>
   <note>
 tcaron
 </note>
-  <anchor x="144.0" y="0.0" name="bottom"/>
-  <anchor x="181.0" y="279.0" name="center"/>
-  <anchor x="211.0" y="653.0" name="top"/>
-  <anchor x="379.0" y="557.0" name="topright"/>
+  <anchor x="147.9" y="0.0" name="bottom"/>
+  <anchor x="184.9" y="279.0" name="center"/>
+  <anchor x="218.475" y="655.275" name="top"/>
+  <anchor x="386.8" y="557.0" name="topright"/>
   <outline>
     <contour>
-      <point x="369.0" y="608.0" type="line"/>
-      <point x="404.0" y="660.0"/>
-      <point x="427.0" y="746.0"/>
-      <point x="427.0" y="811.0" type="curve" smooth="yes"/>
-      <point x="427.0" y="864.0"/>
-      <point x="424.0" y="898.0"/>
-      <point x="413.0" y="923.0" type="curve"/>
-      <point x="326.0" y="901.0" type="line"/>
-      <point x="322.0" y="885.0" type="line"/>
-      <point x="331.0" y="870.0"/>
-      <point x="337.0" y="831.0"/>
-      <point x="337.0" y="792.0" type="curve" smooth="yes"/>
-      <point x="337.0" y="747.0"/>
-      <point x="330.0" y="697.0"/>
-      <point x="317.0" y="640.0" type="curve"/>
-      <point x="320.0" y="628.0" type="line"/>
+      <point x="382.975" y="608.325" type="line"/>
+      <point x="419.275" y="659.35"/>
+      <point x="443.25" y="746.975"/>
+      <point x="443.25" y="814.575" type="curve" smooth="yes"/>
+      <point x="443.25" y="866.275"/>
+      <point x="439.275" y="900.275"/>
+      <point x="428.275" y="923.325" type="curve"/>
+      <point x="337.375" y="901.0" type="line"/>
+      <point x="332.4" y="884.35" type="line"/>
+      <point x="341.4" y="870.0"/>
+      <point x="347.075" y="830.025"/>
+      <point x="347.075" y="790.375" type="curve" smooth="yes"/>
+      <point x="347.075" y="743.425"/>
+      <point x="339.425" y="690.825"/>
+      <point x="327.075" y="639.35" type="curve"/>
+      <point x="330.075" y="627.025" type="line"/>
     </contour>
     <component base="t"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 21:04:38</string>
+      <string>2019/02/18 20:31:10</string>
       <key>com.schriftgestaltung.componentsAlignment</key>
       <array>
         <integer>-1</integer>

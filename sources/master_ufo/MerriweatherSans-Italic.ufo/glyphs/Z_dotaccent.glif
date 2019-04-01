@@ -6,16 +6,16 @@
 Zdotaccent
 </note>
   <anchor x="246.0" y="0.0" name="bottom"/>
-  <anchor x="296.0" y="374.0" name="center"/>
-  <anchor x="380.0" y="939.0" name="top"/>
+  <anchor x="296.0" y="374.325" name="center"/>
+  <anchor x="381.0" y="940.0" name="top"/>
   <outline>
     <component base="Z"/>
-    <component base="dotaccentcomb.case" xOffset="293.0"/>
+    <component base="dotaccentcomb.case" xOffset="294.0" yOffset="1.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:02</string>
+      <string>2019/02/18 20:31:35</string>
     </dict>
   </lib>
 </glyph>

@@ -1,41 +1,34 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="four.tf" format="2">
-  <advance width="627.0"/>
+  <advance width="632.51111"/>
   <outline>
     <contour>
-      <point x="75.0" y="146.0" type="line"/>
-      <point x="599.0" y="146.0" type="line"/>
-      <point x="599.0" y="229.0" type="line"/>
-      <point x="167.0" y="229.0" type="line"/>
-      <point x="208.0" y="303.0" type="line"/>
-      <point x="281.0" y="448.0"/>
-      <point x="320.0" y="571.0"/>
-      <point x="393.0" y="716.0" type="curve"/>
-      <point x="324.0" y="757.0" type="line"/>
-      <point x="288.0" y="757.0" type="line"/>
-      <point x="198.0" y="563.0"/>
-      <point x="140.0" y="391.0"/>
-      <point x="49.0" y="197.0" type="curve"/>
+      <point x="74.111" y="146.178" type="line"/>
+      <point x="604.511" y="146.178" type="line"/>
+      <point x="604.511" y="234.689" type="line"/>
+      <point x="172.333" y="234.689" type="line"/>
+      <point x="212.978" y="306.556" type="line"/>
+      <point x="285.622" y="450.489"/>
+      <point x="326.044" y="567.8"/>
+      <point x="398.689" y="711.556" type="curve"/>
+      <point x="321.511" y="755.933" type="line"/>
+      <point x="285.156" y="755.933" type="line"/>
+      <point x="196.4" y="561.756"/>
+      <point x="137.333" y="394.378"/>
+      <point x="46.156" y="199.667" type="curve"/>
     </contour>
     <contour>
-      <point x="383.0" y="0.0" type="line"/>
-      <point x="490.0" y="0.0" type="line"/>
-      <point x="490.0" y="479.0" type="line"/>
-      <point x="393.0" y="479.0" type="line"/>
-      <point x="383.0" y="229.0" type="line"/>
+      <point x="381.756" y="0.0" type="line"/>
+      <point x="495.689" y="0.0" type="line"/>
+      <point x="495.689" y="482.556" type="line"/>
+      <point x="393.178" y="482.556" type="line"/>
+      <point x="381.756" y="241.267" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>RMXScaler</key>
-      <dict>
-        <key>keepStroke</key>
-        <integer>90</integer>
-        <key>monoWidth</key>
-        <integer>627</integer>
-      </dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/01/17 06:41:26</string>
+      <string>2019/02/18 20:30:01</string>
     </dict>
   </lib>
 </glyph>

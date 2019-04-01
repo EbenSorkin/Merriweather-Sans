@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="twoinferior" format="2">
-  <advance width="493.5333333333333"/>
+  <advance width="494.0"/>
   <unicode hex="2082"/>
   <outline>
     <component base="two.dnom"/>
@@ -8,7 +8,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 16:39:19</string>
+      <string>2019/02/18 20:30:31</string>
     </dict>
   </lib>
 </glyph>

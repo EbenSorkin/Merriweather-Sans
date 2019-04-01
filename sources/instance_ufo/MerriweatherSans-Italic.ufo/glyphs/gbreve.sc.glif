@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gbreve.sc" format="2">
-  <advance width="641.825"/>
+  <advance width="642.0"/>
   <anchor x="283.575" y="0.0" name="bottom"/>
-  <anchor x="400.25" y="882.0" name="top"/>
+  <anchor x="400.0" y="882.0" name="top"/>
   <outline>
     <component base="g.sc"/>
-    <component base="brevecomb" xOffset="333.25" yOffset="94.0"/>
+    <component base="brevecomb" xOffset="333.0" yOffset="94.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:03</string>
+      <string>2019/02/18 20:31:35</string>
     </dict>
   </lib>
 </glyph>

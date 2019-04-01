@@ -1,32 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="guilsinglright.case" format="2">
-  <advance width="582.0"/>
+  <advance width="581.675"/>
   <note>
 guilsinglright
 </note>
   <outline>
     <contour>
-      <point x="114.0" y="144.0" type="line"/>
-      <point x="452.0" y="338.0" type="line"/>
-      <point x="463.0" y="416.0" type="line"/>
-      <point x="177.0" y="600.0" type="line"/>
-      <point x="142.0" y="546.0" type="line"/>
-      <point x="344.0" y="374.0" type="line"/>
-      <point x="95.0" y="200.0" type="line"/>
+      <point x="118.225" y="141.725" type="line"/>
+      <point x="460.125" y="335.4" type="line"/>
+      <point x="471.775" y="416.0" type="line"/>
+      <point x="180.25" y="601.625" type="line"/>
+      <point x="142.325" y="542.75" type="line"/>
+      <point x="340.425" y="374.975" type="line"/>
+      <point x="97.925" y="204.875" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>assembly</key>
-      <string>PUSHB[ ]	/* 4 values pushed */
-4 0 1 48 
-CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>guilsinglright</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>guilsinglright</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 19:07:47</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

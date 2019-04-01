@@ -1,45 +1,30 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="t.sc" format="2">
-  <advance width="540.0"/>
+  <advance width="542.46154"/>
   <note>
 T
 </note>
-  <anchor x="233.0" y="0.0" name="bottom"/>
-  <anchor x="276.0" y="326.0" name="center"/>
-  <anchor x="319.0" y="651.0" name="top"/>
+  <anchor x="234.231" y="0.0" name="bottom"/>
+  <anchor x="277.641" y="325.59" name="center"/>
+  <anchor x="320.641" y="650.179" name="top"/>
   <outline>
     <contour>
-      <point x="161.0" y="0.0" type="line"/>
-      <point x="299.0" y="0.0" type="line"/>
-      <point x="375.0" y="545.0" type="line"/>
-      <point x="553.0" y="541.0" type="line"/>
-      <point x="567.0" y="647.0" type="line"/>
-      <point x="71.0" y="647.0" type="line"/>
-      <point x="56.0" y="541.0" type="line"/>
-      <point x="237.0" y="545.0" type="line"/>
+      <point x="153.615" y="0.0" type="line"/>
+      <point x="308.026" y="0.0" type="line"/>
+      <point x="384.846" y="533.513" type="line"/>
+      <point x="556.282" y="529.103" type="line"/>
+      <point x="571.923" y="647.0" type="line"/>
+      <point x="73.872" y="647.0" type="line"/>
+      <point x="56.41" y="529.103" type="line"/>
+      <point x="230.846" y="533.513" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>RMXScaler</key>
-      <dict>
-        <key>adjustSpace</key>
-        <integer>2</integer>
-        <key>height</key>
-        <integer>87</integer>
-        <key>weight</key>
-        <integer>2</integer>
-        <key>width</key>
-        <integer>96</integer>
-      </dict>
-      <key>assembly</key>
-      <string>NPUSHB[ ]	/* 30 values pushed */
-4 3 2 1 1 0 89 0 0 0 17 75 0 2 2 18 2 76 0 0 0 7 0 7 17 17 17 5 7 23 
-CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:50:25</string>
+      <string>2019/02/18 20:31:10</string>
       <key>public.markColor</key>
       <string>0,0.67,0.91,1</string>
     </dict>

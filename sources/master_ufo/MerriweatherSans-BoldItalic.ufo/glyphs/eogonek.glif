@@ -1,38 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="eogonek" format="2">
-  <advance width="524.0"/>
+  <advance width="532.0"/>
   <unicode hex="0119"/>
   <note>
 eogonek
 </note>
-  <anchor x="245.0" y="0.0" name="bottom"/>
-  <anchor x="337.0" y="10.0" name="ogonek"/>
-  <anchor x="339.0" y="557.0" name="top"/>
+  <anchor x="249.103" y="0.0" name="bottom"/>
+  <anchor x="364.487" y="10.0" name="ogonek"/>
+  <anchor x="343.103" y="557.0" name="top"/>
   <outline>
     <component base="e"/>
-    <component base="ogonekcomb" xOffset="373.0"/>
+    <component base="ogonekcomb" xOffset="400.0"/>
   </outline>
   <lib>
     <dict>
-      <key>assembly</key>
-      <string>NPUSHB[ ]	/* 20 values pushed */
-42 3 2 3 4 5 26 1 2 4 15 1 0 2 16 1 1 0 4 74 
-MPPEM[ ]	/* MeasurePixelPerEm */
-PUSHB[ ]	/* 1 value pushed */
-38 
-LT[ ]	/* LessThan */
-IF[ ]	/* If */
-NPUSHB[ ]	/* 41 values pushed */
-0 5 6 4 6 5 4 112 8 1 6 6 3 91 0 3 3 28 75 7 1 4 4 2 92 0 2 2 26 75 0 0 0 1 91 0 1 1 22 1 76 
-ELSE[ ]	/* Else */
-NPUSHB[ ]	/* 38 values pushed */
-0 5 6 4 6 5 4 112 0 0 0 1 0 1 95 8 1 6 6 3 91 0 3 3 28 75 7 1 4 4 2 92 0 2 2 26 2 76 
-EIF[ ]	/* EndIf */
-NPUSHB[ ]	/* 21 values pushed */
-45 45 0 0 45 55 45 54 49 48 0 44 0 43 38 39 37 43 9 7 24 
-CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 17:11:22</string>
+      <string>2019/02/18 20:31:35</string>
     </dict>
   </lib>
 </glyph>

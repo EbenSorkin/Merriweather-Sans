@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ij_acutecomb" format="2">
-  <advance width="581.325"/>
+  <advance width="582.0"/>
   <note>
 ij_acutecomb
 </note>
   <anchor x="109.25" y="0.0" name="bottom_1"/>
-  <anchor x="363.75" y="-273.0" name="bottom_2"/>
-  <anchor x="187.85000000000002" y="10.0" name="ogonek"/>
+  <anchor x="364.25" y="-273.0" name="bottom_2"/>
+  <anchor x="187.85" y="10.0" name="ogonek"/>
   <anchor x="134.175" y="724.725" name="top_1"/>
-  <anchor x="473.75" y="557.0" name="top_2"/>
+  <anchor x="474.25" y="557.0" name="top_2"/>
   <outline>
     <component base="iacute"/>
-    <component base="jdotless" xOffset="291.5"/>
-    <component base="acutecomb" xOffset="416.5"/>
+    <component base="jdotless" xOffset="292.0"/>
+    <component base="acutecomb" xOffset="417.0"/>
   </outline>
   <lib>
     <dict>
@@ -23,7 +23,7 @@ CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
       <string>ij</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:02</string>
+      <string>2019/02/18 20:31:35</string>
     </dict>
   </lib>
 </glyph>

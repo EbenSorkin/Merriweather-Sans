@@ -8,15 +8,15 @@ radical
   <outline>
     <contour>
       <point x="264.65" y="-173.0" type="line"/>
-      <point x="360.02500000000003" y="-173.0" type="line"/>
+      <point x="360.025" y="-173.0" type="line"/>
       <point x="858.075" y="913.0" type="line"/>
       <point x="742.725" y="913.0" type="line"/>
-      <point x="327.45" y="-31.674999999999983" type="line"/>
-      <point x="233.95000000000002" y="350.0" type="line"/>
+      <point x="327.45" y="-31.674999999999997" type="line"/>
+      <point x="233.95" y="350.0" type="line"/>
       <point x="136.425" y="350.0" type="line"/>
       <point x="30.975" y="292.725" type="line"/>
-      <point x="65.60000000000001" y="210.99999999999997" type="line"/>
-      <point x="136.525" y="245.97499999999997" type="line"/>
+      <point x="65.6" y="211.0" type="line"/>
+      <point x="136.525" y="245.975" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -26,7 +26,7 @@ radical
 5 3 1 48 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:16</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

@@ -61,7 +61,7 @@
       <integer>557</integer>
       <integer>565</integer>
       <integer>747</integer>
-      <real>755.025</real>
+      <integer>755</integer>
       <integer>983</integer>
       <integer>999</integer>
     </array>
@@ -76,13 +76,13 @@
     </array>
     <key>postscriptStemSnapH</key>
     <array>
-      <real>108.35000000000002</real>
-      <real>109.35000000000002</real>
+      <integer>108</integer>
+      <integer>109</integer>
     </array>
     <key>postscriptStemSnapV</key>
     <array>
-      <real>78.17500000000001</real>
-      <real>86.42500000000001</real>
+      <integer>78</integer>
+      <integer>86</integer>
     </array>
     <key>postscriptUnderlinePosition</key>
     <integer>-122</integer>
@@ -97,7 +97,7 @@
     <key>trademark</key>
     <string>Merriweather is a trademark of Sorkin Type Co.</string>
     <key>unitsPerEm</key>
-    <real>1000.0</real>
+    <integer>1000</integer>
     <key>versionMajor</key>
     <integer>1</integer>
     <key>versionMinor</key>

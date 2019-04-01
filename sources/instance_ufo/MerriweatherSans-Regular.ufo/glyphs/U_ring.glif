@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Uring" format="2">
-  <advance width="719.5111111111111"/>
+  <advance width="720.0"/>
   <unicode hex="016E"/>
-  <anchor x="359.84444444444443" y="0.0" name="bottom"/>
-  <anchor x="364.9555555555556" y="-83.0" name="btm"/>
-  <anchor x="647.9777777777778" y="10.0" name="ogonek"/>
-  <anchor x="433.55555555555554" y="970.0" name="top"/>
-  <anchor x="699.5111111111111" y="743.0" name="topright"/>
+  <anchor x="359.844" y="0.0" name="bottom"/>
+  <anchor x="364.956" y="-83.0" name="btm"/>
+  <anchor x="647.978" y="10.0" name="ogonek"/>
+  <anchor x="433.6" y="970.467" name="top"/>
+  <anchor x="699.511" y="743.0" name="topright"/>
   <outline>
     <component base="U"/>
-    <component base="ringcomb.case" xOffset="365.9555555555556" yOffset="42.53333333333333"/>
+    <component base="ringcomb.case" xOffset="366.0" yOffset="43.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 17:42:49</string>
+      <string>2019/02/18 20:30:31</string>
     </dict>
   </lib>
 </glyph>

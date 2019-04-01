@@ -6,34 +6,34 @@ Thorn
 </note>
   <outline>
     <contour>
-      <point x="48.074999999999996" y="0.0" type="line"/>
-      <point x="158.72500000000002" y="0.0" type="line"/>
+      <point x="48.075" y="0.0" type="line"/>
+      <point x="158.725" y="0.0" type="line"/>
       <point x="174.05" y="117.35" type="line"/>
       <point x="194.3" y="115.35"/>
-      <point x="221.62500000000003" y="113.025"/>
+      <point x="221.625" y="113.025"/>
       <point x="256.45" y="113.025" type="curve" smooth="yes"/>
       <point x="373.725" y="113.025"/>
       <point x="464.35" y="160.35"/>
       <point x="511.675" y="239.675" type="curve" smooth="yes"/>
       <point x="533.325" y="275.65"/>
-      <point x="545.6750000000001" y="320.3"/>
+      <point x="545.675" y="320.3"/>
       <point x="545.025" y="371.35" type="curve" smooth="yes"/>
       <point x="544.7" y="489.025"/>
       <point x="466.8" y="549.35"/>
       <point x="319.85" y="549.35" type="curve" smooth="yes"/>
       <point x="300.575" y="549.35"/>
-      <point x="249.27500000000003" y="547.0"/>
+      <point x="249.275" y="547.0"/>
       <point x="229.025" y="545.0" type="curve"/>
       <point x="243.025" y="650.0" type="line"/>
       <point x="132.025" y="650.0" type="line"/>
     </contour>
     <contour>
-      <point x="255.07500000000002" y="196.8" type="curve" smooth="yes"/>
+      <point x="255.075" y="196.8" type="curve" smooth="yes"/>
       <point x="233.75" y="196.8"/>
       <point x="199.375" y="198.8"/>
-      <point x="184.35000000000002" y="202.8" type="curve"/>
-      <point x="219.72500000000002" y="464.84999999999997" type="line"/>
-      <point x="246.32500000000002" y="467.875"/>
+      <point x="184.35" y="202.8" type="curve"/>
+      <point x="219.725" y="464.85" type="line"/>
+      <point x="246.325" y="467.875"/>
       <point x="275.275" y="470.55"/>
       <point x="302.25" y="470.55" type="curve" smooth="yes"/>
       <point x="389.25" y="470.55"/>
@@ -76,7 +76,7 @@ CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:50:25</string>
+      <string>2019/02/18 20:31:10</string>
       <key>public.markColor</key>
       <string>0,0.67,0.91,1</string>
     </dict>

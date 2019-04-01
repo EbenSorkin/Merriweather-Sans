@@ -4,13 +4,13 @@
   <unicode hex="215E"/>
   <outline>
     <component base="seven.numr"/>
-    <component base="fraction" xOffset="383.5897435897436"/>
-    <component base="eight.dnom" xOffset="599.6923076923077"/>
+    <component base="fraction" xOffset="384.0"/>
+    <component base="eight.dnom" xOffset="600.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:45:50</string>
+      <string>2019/02/18 20:31:35</string>
     </dict>
   </lib>
 </glyph>

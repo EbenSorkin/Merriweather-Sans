@@ -1,60 +1,50 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ring" format="2">
-  <advance width="354.0"/>
+  <advance width="354.82051"/>
   <unicode hex="02DA"/>
   <note>
 ring
 </note>
   <outline>
     <contour>
-      <point x="182.0" y="612.0" type="curve" smooth="yes"/>
-      <point x="243.0" y="612.0"/>
-      <point x="300.0" y="633.0"/>
-      <point x="333.0" y="676.0" type="curve" smooth="yes"/>
-      <point x="349.0" y="697.0"/>
-      <point x="357.0" y="723.0"/>
-      <point x="357.0" y="754.0" type="curve" smooth="yes"/>
-      <point x="357.0" y="833.0"/>
-      <point x="302.0" y="876.0"/>
-      <point x="215.0" y="876.0" type="curve" smooth="yes"/>
-      <point x="159.0" y="876.0"/>
-      <point x="99.0" y="858.0"/>
-      <point x="63.0" y="815.0" type="curve" smooth="yes"/>
-      <point x="45.0" y="793.0"/>
-      <point x="36.0" y="766.0"/>
-      <point x="36.0" y="734.0" type="curve" smooth="yes"/>
-      <point x="36.0" y="657.0"/>
-      <point x="90.0" y="612.0"/>
+      <point x="180.359" y="612.0" type="curve" smooth="yes"/>
+      <point x="242.179" y="612.0"/>
+      <point x="300.821" y="633.41"/>
+      <point x="335.051" y="678.051" type="curve" smooth="yes"/>
+      <point x="351.872" y="699.872"/>
+      <point x="360.282" y="726.692"/>
+      <point x="360.282" y="758.513" type="curve" smooth="yes"/>
+      <point x="360.282" y="836.282"/>
+      <point x="304.051" y="878.051"/>
+      <point x="215.41" y="878.051" type="curve" smooth="yes"/>
+      <point x="158.179" y="878.051"/>
+      <point x="97.359" y="860.051"/>
+      <point x="59.718" y="816.231" type="curve" smooth="yes"/>
+      <point x="40.897" y="793.821"/>
+      <point x="31.487" y="766.0"/>
+      <point x="31.487" y="732.769" type="curve" smooth="yes"/>
+      <point x="31.487" y="656.179"/>
+      <point x="87.128" y="612.0"/>
     </contour>
     <contour>
-      <point x="188.0" y="673.0" type="curve" smooth="yes"/>
-      <point x="151.0" y="673.0"/>
-      <point x="117.0" y="702.0"/>
-      <point x="117.0" y="739.0" type="curve" smooth="yes"/>
-      <point x="117.0" y="794.0"/>
-      <point x="157.0" y="816.0"/>
-      <point x="206.0" y="816.0" type="curve" smooth="yes"/>
-      <point x="245.0" y="816.0"/>
-      <point x="275.0" y="788.0"/>
-      <point x="275.0" y="751.0" type="curve" smooth="yes"/>
-      <point x="275.0" y="699.0"/>
-      <point x="246.0" y="673.0"/>
+      <point x="188.41" y="676.692" type="curve" smooth="yes"/>
+      <point x="152.641" y="676.692"/>
+      <point x="118.641" y="704.872"/>
+      <point x="118.641" y="740.231" type="curve" smooth="yes"/>
+      <point x="118.641" y="792.359"/>
+      <point x="157.821" y="814.769"/>
+      <point x="205.179" y="814.769" type="curve" smooth="yes"/>
+      <point x="242.128" y="814.769"/>
+      <point x="272.949" y="787.179"/>
+      <point x="272.949" y="751.0" type="curve" smooth="yes"/>
+      <point x="272.949" y="699.41"/>
+      <point x="241.077" y="676.692"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>assembly</key>
-      <string>PUSHB[ ]	/* 2 values pushed */
-6 100 
-WCVTP[ ]	/* WriteCVTInPixels */
-NPUSHB[ ]	/* 31 values pushed */
-0 0 0 2 3 0 2 99 0 3 1 1 3 87 0 3 3 1 91 0 1 3 1 79 37 36 37 34 4 7 24 
-CALL[ ]	/* CallFunction */
-PUSHB[ ]	/* 2 values pushed */
-6 0 
-WCVTP[ ]	/* WriteCVTInPixels */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:12</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

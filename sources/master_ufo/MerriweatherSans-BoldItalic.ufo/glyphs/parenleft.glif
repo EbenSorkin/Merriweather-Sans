@@ -7,30 +7,26 @@ parenleft
 </note>
   <outline>
     <contour>
-      <point x="251.0" y="-164.0" type="curve"/>
-      <point x="329.0" y="-122.0" type="line"/>
-      <point x="250.0" y="-30.0"/>
-      <point x="210.0" y="115.0"/>
-      <point x="210.0" y="251.0" type="curve" smooth="yes"/>
-      <point x="210.0" y="467.0"/>
-      <point x="292.0" y="676.0"/>
-      <point x="449.0" y="819.0" type="curve"/>
-      <point x="384.0" y="862.0" type="line"/>
-      <point x="199.0" y="766.0"/>
-      <point x="82.0" y="481.0"/>
-      <point x="82.0" y="255.0" type="curve" smooth="yes"/>
-      <point x="82.0" y="93.0"/>
-      <point x="140.0" y="-74.0"/>
+      <point x="245.667" y="-166.872" type="curve"/>
+      <point x="330.231" y="-121.179" type="line"/>
+      <point x="257.795" y="-29.59"/>
+      <point x="213.692" y="102.282"/>
+      <point x="213.692" y="251.41" type="curve" smooth="yes"/>
+      <point x="213.692" y="473.564"/>
+      <point x="289.128" y="663.692"/>
+      <point x="449.821" y="817.769" type="curve"/>
+      <point x="375.795" y="867.333" type="line"/>
+      <point x="188.333" y="767.231"/>
+      <point x="74.205" y="493.718"/>
+      <point x="74.205" y="258.692" type="curve" smooth="yes"/>
+      <point x="74.205" y="95.462"/>
+      <point x="134.256" y="-77.282"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>assembly</key>
-      <string>PUSHB[ ]	/* 4 values pushed */
-14 3 1 48 
-CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:03</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

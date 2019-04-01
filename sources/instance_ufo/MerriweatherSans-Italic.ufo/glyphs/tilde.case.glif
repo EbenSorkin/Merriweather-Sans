@@ -13,21 +13,21 @@ tilde.cap
       <point x="276.875" y="900.1" type="curve"/>
       <point x="232.275" y="947.65" type="line"/>
       <point x="202.55" y="908.55"/>
-      <point x="189.57500000000002" y="894.325"/>
+      <point x="189.575" y="894.325"/>
       <point x="160.0" y="894.325" type="curve" smooth="yes"/>
       <point x="142.025" y="894.325"/>
       <point x="130.675" y="902.65"/>
       <point x="109.375" y="921.975" type="curve" smooth="yes"/>
       <point x="81.375" y="948.325"/>
       <point x="59.375" y="962.65"/>
-      <point x="22.399999999999995" y="962.65" type="curve" smooth="yes"/>
-      <point x="-32.77500000000001" y="962.65"/>
+      <point x="22.4" y="962.65" type="curve" smooth="yes"/>
+      <point x="-32.775" y="962.65"/>
       <point x="-93.875" y="920.35"/>
       <point x="-116.2" y="877.7" type="curve"/>
       <point x="-71.575" y="832.475" type="line"/>
-      <point x="-44.17500000000001" y="863.5749999999999"/>
-      <point x="-29.925000000000004" y="877.15"/>
-      <point x="-3.6250000000000018" y="877.15" type="curve" smooth="yes"/>
+      <point x="-44.175" y="863.575"/>
+      <point x="-29.925" y="877.15"/>
+      <point x="-3.625" y="877.15" type="curve" smooth="yes"/>
       <point x="19.0" y="877.15"/>
       <point x="33.35" y="867.475"/>
       <point x="55.0" y="847.825" type="curve" smooth="yes"/>
@@ -42,7 +42,7 @@ tilde.cap
 14 13 2 3 0 29 28 2 2 1 2 74 0 0 0 3 1 0 3 99 0 1 2 2 1 87 0 1 1 2 91 0 2 1 2 79 36 39 36 34 4 7 24 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:12</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

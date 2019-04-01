@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="aringacute" format="2">
-  <advance width="559.1111111111111"/>
+  <advance width="559.0"/>
   <unicode hex="01FB"/>
-  <anchor x="279.55555555555554" y="0.0" name="bottom"/>
-  <anchor x="279.31111111111113" y="-100.0" name="btm"/>
-  <anchor x="493.84444444444443" y="25.0" name="ogonek"/>
-  <anchor x="295.1333333333333" y="1201.2444444444445" name="top"/>
+  <anchor x="279.556" y="0.0" name="bottom"/>
+  <anchor x="279.311" y="-100.0" name="btm"/>
+  <anchor x="493.844" y="25.0" name="ogonek"/>
+  <anchor x="295.578" y="1201.422" name="top"/>
   <outline>
     <component base="a"/>
-    <component base="ringcomb" xOffset="272.73333333333335"/>
-    <component base="acutecomb" xOffset="355.55555555555554" yOffset="206.82222222222222"/>
+    <component base="ringcomb" xOffset="273.0"/>
+    <component base="acutecomb" xOffset="356.0" yOffset="207.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 06:18:47</string>
+      <string>2019/02/18 20:30:31</string>
     </dict>
   </lib>
 </glyph>

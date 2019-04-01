@@ -688,9 +688,9 @@ table GDEF {
     [IJ_acutecomb ij_acutecomb f_f f_f_i f_f_l fi fl ij_acutecomb.sc], # Liga
     [dieresiscomb dotaccentcomb gravecomb acutecomb hungarumlautcomb caroncomb.alt circumflexcomb caroncomb brevecomb ringcomb tildecomb macroncomb hookabovecomb dblgravecomb breveinvertedcomb commaturnedabovecomb horncomb dotbelowcomb dieresisbelowcomb commaaccentcomb cedillacomb ogonekcomb brevebelowcomb macronbelowcomb strokeshortcomb strokelongcomb slashshortcomb slashlongcomb dieresiscomb.case dotaccentcomb.case gravecomb.case acutecomb.case hungarumlautcomb.case circumflexcomb.case caroncomb.case brevecomb.case ringcomb.case tildecomb.case macroncomb.case hookabovecomb.case dblgravecomb.case breveinvertedcomb.case commaturnedabovecomb.case horncomb.case dotbelowcomb.case dieresisbelowcomb.case commaaccentcomb.case cedillacomb.case ogonekcomb.case brevebelowcomb.case macronbelowcomb.case brevecomb_acutecomb brevecomb_gravecomb brevecomb_hookabovecomb brevecomb_tildecomb circumflexcomb_acutecomb circumflexcomb_gravecomb circumflexcomb_hookabovecomb circumflexcomb_tildecomb brevecomb_acutecomb.case brevecomb_gravecomb.case brevecomb_hookabovecomb.case brevecomb_tildecomb.case circumflexcomb_acutecomb.case circumflexcomb_gravecomb.case circumflexcomb_hookabovecomb.case circumflexcomb_tildecomb.case], # Mark
     ;
-  LigatureCaretByPos f_f 396;
-  LigatureCaretByPos f_f_i 363 725;
-  LigatureCaretByPos f_f_l 364 727;
-  LigatureCaretByPos fi 346;
-  LigatureCaretByPos fl 348;
+  LigatureCaretByPos f_f 400;
+  LigatureCaretByPos f_f_i 366 733;
+  LigatureCaretByPos f_f_l 367 734;
+  LigatureCaretByPos fi 349;
+  LigatureCaretByPos fl 351;
 } GDEF;

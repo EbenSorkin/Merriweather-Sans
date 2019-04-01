@@ -6,22 +6,22 @@
 Z
 </note>
   <anchor x="246.0" y="0.0" name="bottom"/>
-  <anchor x="296.0" y="374.5897435897436" name="center"/>
-  <anchor x="364.7435897435897" y="748.7692307692307" name="top"/>
+  <anchor x="296.0" y="374.59" name="center"/>
+  <anchor x="364.744" y="748.769" name="top"/>
   <outline>
     <contour>
-      <point x="-8.205128205128197" y="0.0" type="line"/>
-      <point x="489.5897435897436" y="0.0" type="line"/>
-      <point x="509.64102564102564" y="125.30769230769229" type="line"/>
-      <point x="188.17948717948718" y="119.7179487179487" type="line"/>
-      <point x="235.07692307692307" y="166.33333333333331" type="line"/>
-      <point x="603.3846153846154" y="705.0" type="line"/>
-      <point x="591.7948717948718" y="747.0" type="line"/>
+      <point x="-8.204999999999998" y="0.0" type="line"/>
+      <point x="489.59" y="0.0" type="line"/>
+      <point x="509.641" y="125.308" type="line"/>
+      <point x="188.179" y="119.718" type="line"/>
+      <point x="235.077" y="166.333" type="line"/>
+      <point x="603.385" y="705.0" type="line"/>
+      <point x="591.795" y="747.0" type="line"/>
       <point x="126.0" y="747.0" type="line"/>
-      <point x="107.53846153846155" y="625.1025641025641" type="line"/>
-      <point x="408.87179487179486" y="630.6923076923077" type="line"/>
-      <point x="357.38461538461536" y="584.1282051282051" type="line"/>
-      <point x="-21.205128205128197" y="43.0" type="line"/>
+      <point x="107.538" y="625.103" type="line"/>
+      <point x="408.872" y="630.692" type="line"/>
+      <point x="357.385" y="584.128" type="line"/>
+      <point x="-21.205" y="43.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -31,7 +31,7 @@ Z
 0 0 0 1 89 0 1 1 17 75 0 2 2 3 89 0 3 3 18 3 76 17 19 17 17 4 7 24 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:02</string>
+      <string>2019/02/18 20:31:10</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

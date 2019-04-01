@@ -1,31 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="quotereversed" format="2">
-  <advance width="257.3777777777778"/>
+  <advance width="257.37778"/>
   <unicode hex="201B"/>
   <outline>
     <contour>
-      <point x="145.86666666666667" y="842.2444444444444" type="line"/>
-      <point x="89.64444444444445" y="821.9555555555555"/>
-      <point x="47.644444444444446" y="759.1333333333333"/>
-      <point x="47.644444444444446" y="669.1333333333333" type="curve" smooth="yes"/>
-      <point x="47.644444444444446" y="565.9333333333334"/>
-      <point x="111.53333333333333" y="491.22222222222223"/>
-      <point x="148.46666666666667" y="467.22222222222223" type="curve"/>
-      <point x="198.3111111111111" y="499.17777777777775" type="line"/>
-      <point x="198.3111111111111" y="513.8222222222222" type="line"/>
-      <point x="170.73333333333332" y="538.8222222222222"/>
-      <point x="152.79999999999998" y="600.6444444444444"/>
-      <point x="152.79999999999998" y="646.4666666666667" type="curve" smooth="yes"/>
-      <point x="152.79999999999998" y="698.1777777777778"/>
-      <point x="181.73333333333332" y="742.0"/>
-      <point x="206.66666666666666" y="753.6444444444445" type="curve"/>
-      <point x="206.66666666666666" y="784.5333333333333" type="line"/>
+      <point x="145.867" y="842.244" type="line"/>
+      <point x="89.644" y="821.956"/>
+      <point x="47.644" y="759.133"/>
+      <point x="47.644" y="669.133" type="curve" smooth="yes"/>
+      <point x="47.644" y="565.933"/>
+      <point x="111.533" y="491.222"/>
+      <point x="148.467" y="467.222" type="curve"/>
+      <point x="198.311" y="499.178" type="line"/>
+      <point x="198.311" y="513.822" type="line"/>
+      <point x="170.733" y="538.822"/>
+      <point x="152.8" y="600.644"/>
+      <point x="152.8" y="646.467" type="curve" smooth="yes"/>
+      <point x="152.8" y="698.178"/>
+      <point x="181.733" y="742.0"/>
+      <point x="206.667" y="753.644" type="curve"/>
+      <point x="206.667" y="784.533" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:51:05</string>
+      <string>2019/02/18 20:30:01</string>
     </dict>
   </lib>
 </glyph>

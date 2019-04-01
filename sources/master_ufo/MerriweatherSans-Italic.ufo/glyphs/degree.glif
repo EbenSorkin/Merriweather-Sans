@@ -1,66 +1,56 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="degree" format="2">
-  <advance width="439.0"/>
+  <advance width="443.55"/>
   <unicode hex="00B0"/>
   <note>
 degree
 </note>
   <outline>
     <contour>
-      <point x="226.0" y="466.0" type="curve" smooth="yes"/>
-      <point x="289.0" y="466.0"/>
-      <point x="342.0" y="496.0"/>
-      <point x="371.0" y="545.0" type="curve" smooth="yes"/>
-      <point x="386.0" y="570.0"/>
-      <point x="393.0" y="597.0"/>
-      <point x="393.0" y="627.0" type="curve" smooth="yes"/>
-      <point x="393.0" y="683.0"/>
-      <point x="363.0" y="733.0"/>
-      <point x="315.0" y="761.0" type="curve" smooth="yes"/>
-      <point x="291.0" y="774.0"/>
-      <point x="264.0" y="781.0"/>
-      <point x="235.0" y="781.0" type="curve" smooth="yes"/>
-      <point x="172.0" y="781.0"/>
-      <point x="120.0" y="751.0"/>
-      <point x="92.0" y="703.0" type="curve" smooth="yes"/>
-      <point x="77.0" y="678.0"/>
-      <point x="70.0" y="651.0"/>
-      <point x="70.0" y="621.0" type="curve" smooth="yes"/>
-      <point x="70.0" y="565.0"/>
-      <point x="99.0" y="515.0"/>
-      <point x="147.0" y="487.0" type="curve" smooth="yes"/>
-      <point x="170.0" y="473.0"/>
-      <point x="197.0" y="466.0"/>
+      <point x="233.8" y="463.075" type="curve" smooth="yes"/>
+      <point x="298.1" y="463.075"/>
+      <point x="351.75" y="493.4"/>
+      <point x="381.4" y="543.375" type="curve" smooth="yes"/>
+      <point x="396.4" y="568.7"/>
+      <point x="403.725" y="596.35"/>
+      <point x="403.725" y="627.0" type="curve" smooth="yes"/>
+      <point x="403.725" y="683.975"/>
+      <point x="373.4" y="734.95"/>
+      <point x="324.75" y="763.275" type="curve" smooth="yes"/>
+      <point x="300.425" y="776.925"/>
+      <point x="272.775" y="783.925"/>
+      <point x="243.125" y="783.925" type="curve" smooth="yes"/>
+      <point x="179.475" y="783.925"/>
+      <point x="126.175" y="753.275"/>
+      <point x="97.2" y="704.3" type="curve" smooth="yes"/>
+      <point x="82.2" y="678.975"/>
+      <point x="74.875" y="651.325"/>
+      <point x="74.875" y="621.0" type="curve" smooth="yes"/>
+      <point x="74.875" y="563.7"/>
+      <point x="104.2" y="512.4"/>
+      <point x="153.175" y="484.4" type="curve" smooth="yes"/>
+      <point x="176.825" y="470.075"/>
+      <point x="204.15" y="463.075"/>
     </contour>
     <contour>
-      <point x="229.0" y="525.0" type="curve" smooth="yes"/>
-      <point x="178.0" y="525.0"/>
-      <point x="139.0" y="569.0"/>
-      <point x="139.0" y="622.0" type="curve" smooth="yes"/>
-      <point x="139.0" y="679.0"/>
-      <point x="178.0" y="722.0"/>
-      <point x="233.0" y="722.0" type="curve" smooth="yes"/>
-      <point x="284.0" y="722.0"/>
-      <point x="324.0" y="678.0"/>
-      <point x="324.0" y="626.0" type="curve" smooth="yes"/>
-      <point x="324.0" y="570.0"/>
-      <point x="285.0" y="525.0"/>
+      <point x="237.125" y="527.275" type="curve" smooth="yes"/>
+      <point x="187.1" y="527.275"/>
+      <point x="148.75" y="569.975"/>
+      <point x="148.75" y="622.0" type="curve" smooth="yes"/>
+      <point x="148.75" y="677.375"/>
+      <point x="187.425" y="719.725"/>
+      <point x="240.8" y="719.725" type="curve" smooth="yes"/>
+      <point x="291.15" y="719.725"/>
+      <point x="329.85" y="677.025"/>
+      <point x="329.85" y="625.675" type="curve" smooth="yes"/>
+      <point x="329.85" y="570.975"/>
+      <point x="291.5" y="527.275"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>assembly</key>
-      <string>PUSHB[ ]	/* 2 values pushed */
-6 100 
-WCVTP[ ]	/* WriteCVTInPixels */
-NPUSHB[ ]	/* 31 values pushed */
-0 0 0 2 3 0 2 99 0 3 1 1 3 87 0 3 3 1 91 0 1 3 1 79 38 38 38 34 4 7 24 
-CALL[ ]	/* CallFunction */
-PUSHB[ ]	/* 2 values pushed */
-6 0 
-WCVTP[ ]	/* WriteCVTInPixels */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:16</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

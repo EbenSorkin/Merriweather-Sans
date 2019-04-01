@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="zacute.sc" format="2">
   <advance width="546.0"/>
-  <anchor x="236.0" y="0.0" name="bottom"/>
+  <anchor x="236.325" y="0.0" name="bottom"/>
   <anchor x="280.0" y="326.0" name="center"/>
-  <anchor x="281.0" y="821.0" name="top"/>
+  <anchor x="286.175" y="818.725" name="top"/>
   <outline>
     <component base="z.sc"/>
-    <component base="acutecomb" xOffset="266.0" yOffset="94.0"/>
+    <component base="acutecomb" xOffset="278.0" yOffset="94.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:03</string>
+      <string>2019/02/18 20:31:35</string>
     </dict>
   </lib>
 </glyph>

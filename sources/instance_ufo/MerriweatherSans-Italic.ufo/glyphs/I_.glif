@@ -6,13 +6,13 @@
 I
 </note>
   <anchor x="109.875" y="0.0" name="bottom"/>
-  <anchor x="229.10000000000002" y="10.0" name="ogonek"/>
+  <anchor x="229.1" y="10.0" name="ogonek"/>
   <anchor x="211.85" y="747.0" name="top"/>
   <anchor x="82.0" y="747.975" name="topleft"/>
   <outline>
     <contour>
-      <point x="59.724999999999994" y="0.0" type="line"/>
-      <point x="169.07500000000002" y="0.0" type="line"/>
+      <point x="59.725" y="0.0" type="line"/>
+      <point x="169.075" y="0.0" type="line"/>
       <point x="265.35" y="747.0" type="line"/>
       <point x="156.0" y="747.0" type="line"/>
     </contour>
@@ -24,7 +24,7 @@ I
 2 1 1 1 17 75 0 0 0 18 0 76 0 0 0 3 0 3 17 3 7 21 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:02</string>
+      <string>2019/02/18 20:31:10</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

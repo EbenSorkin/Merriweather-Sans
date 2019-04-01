@@ -7,7 +7,7 @@ yen
 </note>
   <outline>
     <contour>
-      <point x="281.59999999999997" y="0.0" type="line"/>
+      <point x="281.6" y="0.0" type="line"/>
       <point x="382.875" y="0.0" type="line"/>
       <point x="404.2" y="179.775" type="line"/>
       <point x="608.2" y="179.775" type="line"/>
@@ -26,12 +26,12 @@ yen
       <point x="150.2" y="747.0" type="line"/>
       <point x="300.325" y="421.0" type="line"/>
       <point x="133.6" y="421.0" type="line"/>
-      <point x="124.92499999999998" y="353.1" type="line"/>
-      <point x="323.59999999999997" y="353.1" type="line"/>
+      <point x="124.925" y="353.1" type="line"/>
+      <point x="323.6" y="353.1" type="line"/>
       <point x="311.25" y="247.0" type="line"/>
-      <point x="111.24999999999999" y="247.0" type="line"/>
-      <point x="102.24999999999999" y="179.775" type="line"/>
-      <point x="302.59999999999997" y="179.775" type="line"/>
+      <point x="111.25" y="247.0" type="line"/>
+      <point x="102.25" y="179.775" type="line"/>
+      <point x="302.6" y="179.775" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -41,7 +41,7 @@ yen
 21 1 0 9 1 74 8 1 0 7 1 1 2 0 1 98 6 1 2 5 1 3 4 2 3 97 10 1 9 9 17 75 0 4 4 18 4 76 24 23 19 18 17 17 17 17 17 17 17 17 16 11 7 29 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:16</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

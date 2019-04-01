@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="odieresis" format="2">
-  <advance width="599.1111111111111"/>
+  <advance width="599.0"/>
   <unicode hex="00F6"/>
-  <anchor x="299.55555555555554" y="0.0" name="bottom"/>
-  <anchor x="296.55555555555554" y="-83.0" name="btm"/>
-  <anchor x="299.55555555555554" y="279.0" name="center"/>
+  <anchor x="299.556" y="0.0" name="bottom"/>
+  <anchor x="296.556" y="-83.0" name="btm"/>
+  <anchor x="299.556" y="279.0" name="center"/>
   <anchor x="323.2" y="25.0" name="ogonek"/>
-  <anchor x="304.3777777777778" y="1014.7777777777778" name="top"/>
-  <anchor x="579.1111111111111" y="557.0" name="topright"/>
+  <anchor x="304.0" y="1014.778" name="top"/>
+  <anchor x="579.111" y="557.0" name="topright"/>
   <outline>
     <component base="o"/>
-    <component base="dieresiscomb" xOffset="304.3777777777778"/>
+    <component base="dieresiscomb" xOffset="304.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 06:18:47</string>
+      <string>2019/02/18 20:30:20</string>
     </dict>
   </lib>
 </glyph>

@@ -1,26 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="H" format="2">
-  <advance width="719.025641025641"/>
+  <advance width="719.02564"/>
   <unicode hex="0048"/>
   <note>
 H
 </note>
-  <anchor x="320.46153846153845" y="0.0" name="bottom"/>
-  <anchor x="416.28205128205127" y="747.0" name="top"/>
+  <anchor x="320.462" y="0.0" name="bottom"/>
+  <anchor x="416.282" y="747.0" name="top"/>
   <outline>
     <contour>
-      <point x="36.66666666666667" y="0.0" type="line"/>
-      <point x="186.66666666666666" y="0.0" type="line"/>
-      <point x="230.66666666666666" y="314.02564102564105" type="line"/>
-      <point x="490.43589743589746" y="314.02564102564105" type="line"/>
-      <point x="447.43589743589746" y="0.0" type="line"/>
-      <point x="598.4358974358975" y="0.0" type="line"/>
-      <point x="701.8974358974359" y="747.0" type="line"/>
-      <point x="549.8974358974359" y="747.0" type="line"/>
-      <point x="505.0769230769231" y="419.46153846153845" type="line"/>
-      <point x="244.7179487179487" y="419.46153846153845" type="line"/>
-      <point x="290.12820512820514" y="747.0" type="line"/>
-      <point x="139.53846153846155" y="747.0" type="line"/>
+      <point x="36.667" y="0.0" type="line"/>
+      <point x="186.667" y="0.0" type="line"/>
+      <point x="230.667" y="314.026" type="line"/>
+      <point x="490.436" y="314.026" type="line"/>
+      <point x="447.436" y="0.0" type="line"/>
+      <point x="598.436" y="0.0" type="line"/>
+      <point x="701.897" y="747.0" type="line"/>
+      <point x="549.897" y="747.0" type="line"/>
+      <point x="505.077" y="419.462" type="line"/>
+      <point x="244.718" y="419.462" type="line"/>
+      <point x="290.128" y="747.0" type="line"/>
+      <point x="139.538" y="747.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -30,7 +30,7 @@ H
 0 4 0 1 0 4 1 98 6 5 2 3 3 17 75 2 1 0 0 18 0 76 0 0 0 11 0 11 17 17 17 17 17 7 7 25 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:02</string>
+      <string>2019/02/18 20:31:10</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

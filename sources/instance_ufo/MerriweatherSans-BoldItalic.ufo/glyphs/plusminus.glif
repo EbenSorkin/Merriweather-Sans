@@ -1,38 +1,38 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="plusminus" format="2">
-  <advance width="663.7692307692307"/>
+  <advance width="663.76923"/>
   <unicode hex="00B1"/>
   <note>
 plusminus
 </note>
   <outline>
     <contour>
-      <point x="251.25641025641025" y="128.4871794871795" type="line"/>
-      <point x="370.6923076923077" y="128.4871794871795" type="line"/>
-      <point x="386.5128205128205" y="258.1794871794872" type="line"/>
-      <point x="390.1025641025641" y="328.8974358974359" type="line"/>
-      <point x="439.46153846153845" y="324.8974358974359" type="line"/>
-      <point x="570.5128205128206" y="324.8974358974359" type="line"/>
-      <point x="585.1538461538462" y="438.56410256410254" type="line"/>
-      <point x="453.6923076923077" y="438.56410256410254" type="line"/>
-      <point x="403.7435897435897" y="433.56410256410254" type="line"/>
-      <point x="416.3333333333333" y="504.1025641025641" type="line"/>
-      <point x="429.3333333333333" y="633.6153846153846" type="line"/>
-      <point x="309.8974358974359" y="633.6153846153846" type="line"/>
-      <point x="295.4871794871795" y="504.1025641025641" type="line"/>
-      <point x="290.3076923076923" y="432.56410256410254" type="line"/>
-      <point x="230.35897435897436" y="438.56410256410254" type="line"/>
-      <point x="111.8974358974359" y="438.56410256410254" type="line"/>
-      <point x="97.84615384615384" y="324.8974358974359" type="line"/>
-      <point x="215.30769230769232" y="324.8974358974359" type="line"/>
-      <point x="278.6666666666667" y="328.8974358974359" type="line"/>
-      <point x="266.0769230769231" y="258.1794871794872" type="line"/>
+      <point x="251.256" y="128.487" type="line"/>
+      <point x="370.692" y="128.487" type="line"/>
+      <point x="386.513" y="258.179" type="line"/>
+      <point x="390.103" y="328.897" type="line"/>
+      <point x="439.462" y="324.897" type="line"/>
+      <point x="570.513" y="324.897" type="line"/>
+      <point x="585.154" y="438.564" type="line"/>
+      <point x="453.692" y="438.564" type="line"/>
+      <point x="403.744" y="433.564" type="line"/>
+      <point x="416.333" y="504.103" type="line"/>
+      <point x="429.333" y="633.615" type="line"/>
+      <point x="309.897" y="633.615" type="line"/>
+      <point x="295.487" y="504.103" type="line"/>
+      <point x="290.308" y="432.564" type="line"/>
+      <point x="230.359" y="438.564" type="line"/>
+      <point x="111.897" y="438.564" type="line"/>
+      <point x="97.846" y="324.897" type="line"/>
+      <point x="215.308" y="324.897" type="line"/>
+      <point x="278.667" y="328.897" type="line"/>
+      <point x="266.077" y="258.179" type="line"/>
     </contour>
     <contour>
-      <point x="81.17948717948718" y="4.1282051282051295" type="line"/>
-      <point x="517.8717948717949" y="4.1282051282051295" type="line"/>
-      <point x="525.8717948717949" y="97.46153846153845" type="line"/>
-      <point x="89.17948717948718" y="97.46153846153845" type="line"/>
+      <point x="81.179" y="4.128" type="line"/>
+      <point x="517.872" y="4.128" type="line"/>
+      <point x="525.872" y="97.462" type="line"/>
+      <point x="89.179" y="97.462" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -55,7 +55,7 @@ NPUSHB[ ]	/* 16 values pushed */
 27 27 27 30 27 30 19 21 33 34 22 33 32 9 7 27 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:16</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

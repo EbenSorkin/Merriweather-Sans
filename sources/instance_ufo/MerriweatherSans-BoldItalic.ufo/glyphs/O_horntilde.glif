@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ohorntilde" format="2">
-  <advance width="678.6410256410256"/>
+  <advance width="679.0"/>
   <unicode hex="1EE0"/>
-  <anchor x="302.8205128205128" y="0.0" name="bottom"/>
-  <anchor x="352.8205128205128" y="374.5897435897436" name="center"/>
-  <anchor x="428.35897435897436" y="10.0" name="ogonek"/>
-  <anchor x="406.8974358974359" y="976.0" name="top"/>
-  <anchor x="82.0" y="748.7692307692307" name="topleft"/>
-  <anchor x="720.6410256410256" y="748.7692307692307" name="topright"/>
+  <anchor x="302.821" y="0.0" name="bottom"/>
+  <anchor x="352.821" y="374.59" name="center"/>
+  <anchor x="428.359" y="10.0" name="ogonek"/>
+  <anchor x="407.0" y="976.0" name="top"/>
+  <anchor x="82.0" y="748.769" name="topleft"/>
+  <anchor x="720.641" y="748.769" name="topright"/>
   <outline>
     <component base="Ohorn"/>
-    <component base="tildecomb.case" xOffset="312.8974358974359"/>
+    <component base="tildecomb.case" xOffset="313.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:48:08</string>
+      <string>2019/02/18 20:31:35</string>
     </dict>
   </lib>
 </glyph>

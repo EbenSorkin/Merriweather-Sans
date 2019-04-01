@@ -1,67 +1,56 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="germandbls.sc" format="2">
-  <advance width="706.0"/>
-  <anchor x="353.0" y="0.0" name="bottom"/>
-  <anchor x="353.0" y="646.0" name="top"/>
+  <advance width="707.95556"/>
+  <anchor x="354.067" y="0.0" name="bottom"/>
+  <anchor x="354.067" y="646.0" name="top"/>
   <outline>
     <contour>
-      <point x="51.0" y="0.0" type="line"/>
-      <point x="165.0" y="0.0" type="line"/>
-      <point x="165.0" y="369.0" type="line" smooth="yes"/>
-      <point x="165.0" y="506.0"/>
-      <point x="260.0" y="573.0"/>
-      <point x="381.0" y="573.0" type="curve" smooth="yes"/>
-      <point x="420.0" y="573.0"/>
-      <point x="458.0" y="564.0"/>
-      <point x="482.0" y="550.0" type="curve"/>
-      <point x="362.0" y="374.0" type="line"/>
-      <point x="357.0" y="325.0" type="line"/>
-      <point x="509.0" y="325.0"/>
-      <point x="560.0" y="289.0"/>
-      <point x="560.0" y="196.0" type="curve" smooth="yes"/>
-      <point x="560.0" y="112.0"/>
-      <point x="493.0" y="73.0"/>
-      <point x="426.0" y="73.0" type="curve" smooth="yes"/>
-      <point x="378.0" y="73.0"/>
-      <point x="320.0" y="91.0"/>
-      <point x="298.0" y="109.0" type="curve"/>
-      <point x="259.0" y="26.0" type="line"/>
-      <point x="294.0" y="8.0"/>
-      <point x="339.0" y="-10.0"/>
-      <point x="442.0" y="-10.0" type="curve" smooth="yes"/>
-      <point x="590.0" y="-10.0"/>
-      <point x="669.0" y="85.0"/>
-      <point x="669.0" y="200.0" type="curve" smooth="yes"/>
-      <point x="669.0" y="327.0"/>
-      <point x="577.0" y="386.0"/>
-      <point x="482.0" y="386.0" type="curve"/>
-      <point x="604.0" y="547.0" type="line"/>
-      <point x="605.0" y="614.0" type="line"/>
-      <point x="557.0" y="614.0"/>
-      <point x="505.0" y="653.0"/>
-      <point x="378.0" y="653.0" type="curve" smooth="yes"/>
-      <point x="158.0" y="653.0"/>
-      <point x="51.0" y="525.0"/>
-      <point x="51.0" y="320.0" type="curve" smooth="yes"/>
+      <point x="50.822" y="0.0" type="line"/>
+      <point x="173.889" y="0.0" type="line"/>
+      <point x="173.889" y="369.0" type="line" smooth="yes"/>
+      <point x="173.889" y="502.444"/>
+      <point x="263.911" y="568.022"/>
+      <point x="384.733" y="568.022" type="curve" smooth="yes"/>
+      <point x="424.089" y="568.022"/>
+      <point x="460.489" y="559.378"/>
+      <point x="483.778" y="546.267" type="curve"/>
+      <point x="361.289" y="375.6" type="line"/>
+      <point x="356.644" y="320.556" type="line"/>
+      <point x="505.444" y="320.556"/>
+      <point x="556.8" y="285.089"/>
+      <point x="556.8" y="195.467" type="curve" smooth="yes"/>
+      <point x="556.8" y="114.311"/>
+      <point x="491.222" y="77.622"/>
+      <point x="427.244" y="77.622" type="curve" smooth="yes"/>
+      <point x="378.711" y="77.622"/>
+      <point x="323.556" y="95.978"/>
+      <point x="302.267" y="112.378" type="curve"/>
+      <point x="262.911" y="25.644" type="line"/>
+      <point x="297.733" y="8.0"/>
+      <point x="343.089" y="-10.0"/>
+      <point x="445.733" y="-10.0" type="curve" smooth="yes"/>
+      <point x="593.733" y="-10.0"/>
+      <point x="676.111" y="82.867"/>
+      <point x="676.111" y="201.067" type="curve" smooth="yes"/>
+      <point x="676.111" y="326.289"/>
+      <point x="581.444" y="384.756"/>
+      <point x="491.956" y="384.756" type="curve"/>
+      <point x="613.244" y="536.156" type="line"/>
+      <point x="614.244" y="613.644" type="line"/>
+      <point x="566.244" y="613.644"/>
+      <point x="508.911" y="653.0"/>
+      <point x="381.733" y="653.0" type="curve" smooth="yes"/>
+      <point x="160.489" y="653.0"/>
+      <point x="50.822" y="525.356"/>
+      <point x="50.822" y="320.0" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>RMXScaler</key>
-      <dict>
-        <key>adjustSpace</key>
-        <integer>2</integer>
-        <key>height</key>
-        <integer>87</integer>
-        <key>weight</key>
-        <integer>1</integer>
-        <key>width</key>
-        <integer>96</integer>
-      </dict>
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/16 05:39:16</string>
+      <string>2019/02/18 20:30:01</string>
       <key>com.schriftgestaltung.Glyphs.nodeUserData.0.25</key>
       <dict>
         <key>name</key>

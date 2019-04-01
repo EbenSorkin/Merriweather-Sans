@@ -16,8 +16,8 @@ greaterequal
       <point x="108.325" y="223.775" type="line"/>
     </contour>
     <contour>
-      <point x="70.625" y="-0.6749999999999995" type="line"/>
-      <point x="533.625" y="-0.6749999999999995" type="line"/>
+      <point x="70.625" y="-0.675" type="line"/>
+      <point x="533.625" y="-0.675" type="line"/>
       <point x="542.975" y="76.875" type="line"/>
       <point x="80.3" y="76.875" type="line"/>
     </contour>
@@ -29,7 +29,7 @@ greaterequal
 9 7 5 1 2 48 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:16</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

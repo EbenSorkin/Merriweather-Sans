@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tdotaccent" format="2">
-  <advance width="420.5111111111111"/>
+  <advance width="421.0"/>
   <unicode hex="1E6B"/>
-  <anchor x="210.66666666666666" y="0.0" name="bottom"/>
-  <anchor x="242.3111111111111" y="-83.0" name="btm"/>
-  <anchor x="210.66666666666666" y="279.0" name="center"/>
-  <anchor x="188.79999999999998" y="1073.3777777777777" name="top"/>
-  <anchor x="400.5111111111111" y="557.0" name="topright"/>
+  <anchor x="210.667" y="0.0" name="bottom"/>
+  <anchor x="242.311" y="-83.0" name="btm"/>
+  <anchor x="210.667" y="279.0" name="center"/>
+  <anchor x="189.0" y="1073.556" name="top"/>
+  <anchor x="400.511" y="557.0" name="topright"/>
   <outline>
     <component base="t"/>
-    <component base="dotaccentcomb" xOffset="188.79999999999998" yOffset="82.82222222222222"/>
+    <component base="dotaccentcomb" xOffset="189.0" yOffset="83.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 06:18:47</string>
+      <string>2019/02/18 20:30:31</string>
     </dict>
   </lib>
 </glyph>

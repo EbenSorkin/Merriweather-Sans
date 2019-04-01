@@ -8,9 +8,9 @@ quoteleft
   <outline>
     <contour>
       <point x="182.625" y="449.75" type="curve"/>
-      <point x="247.82500000000002" y="509.0" type="line"/>
+      <point x="247.825" y="509.0" type="line"/>
       <point x="250.15" y="529.0" type="line"/>
-      <point x="223.10000000000002" y="552.375"/>
+      <point x="223.1" y="552.375"/>
       <point x="207.425" y="591.65"/>
       <point x="207.425" y="630.975" type="curve" smooth="yes"/>
       <point x="207.425" y="697.65"/>
@@ -22,7 +22,7 @@ quoteleft
       <point x="93.625" y="729.45"/>
       <point x="93.625" y="609.35" type="curve" smooth="yes"/>
       <point x="93.625" y="537.775"/>
-      <point x="138.57500000000002" y="468.4"/>
+      <point x="138.575" y="468.4"/>
     </contour>
   </outline>
   <lib>
@@ -32,7 +32,7 @@ quoteleft
 13 2 1 48 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 19:32:43</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

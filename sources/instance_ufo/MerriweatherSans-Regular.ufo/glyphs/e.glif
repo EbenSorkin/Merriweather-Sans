@@ -1,50 +1,50 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="e" format="2">
-  <advance width="553.8666666666667"/>
+  <advance width="553.86667"/>
   <unicode hex="0065"/>
-  <anchor x="277.02222222222224" y="0.0" name="bottom"/>
-  <anchor x="297.6666666666667" y="-83.0" name="btm"/>
+  <anchor x="277.022" y="0.0" name="bottom"/>
+  <anchor x="297.667" y="-83.0" name="btm"/>
   <anchor x="402.0" y="25.0" name="ogonek"/>
-  <anchor x="295.2" y="830.1777777777778" name="top"/>
+  <anchor x="295.2" y="830.178" name="top"/>
   <outline>
     <contour>
-      <point x="296.6666666666667" y="-8.0" type="curve" smooth="yes"/>
-      <point x="367.22222222222223" y="-8.0"/>
-      <point x="451.0444444444444" y="13.066666666666665"/>
-      <point x="488.0444444444444" y="43.06666666666666" type="curve"/>
-      <point x="466.3333333333333" y="109.33333333333331" type="line"/>
-      <point x="438.8" y="92.51111111111109"/>
-      <point x="364.8" y="78.68888888888887"/>
-      <point x="327.44444444444446" y="78.68888888888887" type="curve" smooth="yes"/>
-      <point x="236.79999999999998" y="78.68888888888887"/>
-      <point x="166.64444444444442" y="120.39999999999998"/>
-      <point x="161.17777777777775" y="246.06666666666666" type="curve" smooth="yes"/>
-      <point x="154.88888888888886" y="424.8"/>
-      <point x="215.15555555555554" y="482.31111111111113"/>
-      <point x="293.2" y="482.31111111111113" type="curve" smooth="yes"/>
-      <point x="385.8666666666667" y="482.31111111111113"/>
-      <point x="403.5777777777778" y="406.35555555555555"/>
-      <point x="398.5777777777778" y="326.0" type="curve"/>
-      <point x="124.02222222222221" y="326.0" type="line"/>
-      <point x="114.02222222222221" y="252.6888888888889" type="line"/>
-      <point x="501.68888888888887" y="252.6888888888889" type="line"/>
-      <point x="506.5111111111111" y="277.68888888888887"/>
-      <point x="506.8666666666667" y="311.4"/>
-      <point x="506.8666666666667" y="352.5777777777778" type="curve" smooth="yes"/>
-      <point x="503.22222222222223" y="496.4888888888889"/>
-      <point x="410.73333333333335" y="565.8222222222222"/>
-      <point x="299.02222222222224" y="564.0" type="curve" smooth="yes"/>
-      <point x="134.6" y="562.1777777777778"/>
-      <point x="46.82222222222222" y="441.1777777777778"/>
-      <point x="46.82222222222222" y="279.1777777777778" type="curve" smooth="yes"/>
-      <point x="46.82222222222222" y="99.17777777777778"/>
-      <point x="136.53333333333333" y="-8.0"/>
+      <point x="296.667" y="-8.0" type="curve" smooth="yes"/>
+      <point x="367.222" y="-8.0"/>
+      <point x="451.044" y="13.067"/>
+      <point x="488.044" y="43.067" type="curve"/>
+      <point x="466.333" y="109.333" type="line"/>
+      <point x="438.8" y="92.511"/>
+      <point x="364.8" y="78.689"/>
+      <point x="327.444" y="78.689" type="curve" smooth="yes"/>
+      <point x="236.8" y="78.689"/>
+      <point x="166.644" y="120.4"/>
+      <point x="161.178" y="246.067" type="curve" smooth="yes"/>
+      <point x="154.889" y="424.8"/>
+      <point x="215.156" y="482.311"/>
+      <point x="293.2" y="482.311" type="curve" smooth="yes"/>
+      <point x="385.867" y="482.311"/>
+      <point x="403.578" y="406.356"/>
+      <point x="398.578" y="326.0" type="curve"/>
+      <point x="124.022" y="326.0" type="line"/>
+      <point x="114.022" y="252.689" type="line"/>
+      <point x="501.689" y="252.689" type="line"/>
+      <point x="506.511" y="277.689"/>
+      <point x="506.867" y="311.4"/>
+      <point x="506.867" y="352.578" type="curve" smooth="yes"/>
+      <point x="503.222" y="496.489"/>
+      <point x="410.733" y="565.822"/>
+      <point x="299.022" y="564.0" type="curve" smooth="yes"/>
+      <point x="134.6" y="562.178"/>
+      <point x="46.822" y="441.178"/>
+      <point x="46.822" y="279.178" type="curve" smooth="yes"/>
+      <point x="46.822" y="99.178"/>
+      <point x="136.533" y="-8.0"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/16 05:39:16</string>
+      <string>2019/02/18 20:30:01</string>
     </dict>
   </lib>
 </glyph>

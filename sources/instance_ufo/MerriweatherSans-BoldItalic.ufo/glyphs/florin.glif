@@ -7,30 +7,30 @@ florin
 </note>
   <outline>
     <contour>
-      <point x="89.61538461538461" y="-173.5897435897436" type="line"/>
-      <point x="237.7948717948718" y="-173.5897435897436" type="line"/>
-      <point x="322.61538461538464" y="460.2564102564103" type="line"/>
-      <point x="428.5897435897436" y="460.2564102564103" type="line"/>
-      <point x="438.8205128205128" y="557.4102564102565" type="line"/>
-      <point x="335.025641025641" y="557.4102564102565" type="line"/>
-      <point x="347.025641025641" y="632.8205128205128" type="line" smooth="yes"/>
-      <point x="357.2051282051282" y="696.4871794871794"/>
-      <point x="383.8461538461538" y="720.025641025641"/>
-      <point x="427.64102564102564" y="720.025641025641" type="curve" smooth="yes"/>
-      <point x="455.35897435897436" y="720.025641025641"/>
-      <point x="474.2307692307692" y="708.3846153846154"/>
-      <point x="486.7692307692308" y="699.3846153846154" type="curve"/>
-      <point x="509.6923076923077" y="805.3589743589744" type="line"/>
-      <point x="491.05128205128204" y="812.7692307692307"/>
-      <point x="463.2307692307692" y="816.1794871794872"/>
-      <point x="426.2307692307692" y="816.1794871794872" type="curve" smooth="yes"/>
-      <point x="304.12820512820514" y="816.1794871794872"/>
-      <point x="219.7948717948718" y="734.7692307692307"/>
-      <point x="196.84615384615387" y="605.6410256410256" type="curve" smooth="yes"/>
-      <point x="188.25641025641028" y="557.4102564102565" type="line"/>
-      <point x="100.82051282051282" y="538.8717948717949" type="line"/>
-      <point x="91.0" y="460.2564102564103" type="line"/>
-      <point x="175.43589743589743" y="460.2564102564103" type="line"/>
+      <point x="89.615" y="-173.59" type="line"/>
+      <point x="237.795" y="-173.59" type="line"/>
+      <point x="322.615" y="460.256" type="line"/>
+      <point x="428.59" y="460.256" type="line"/>
+      <point x="438.821" y="557.41" type="line"/>
+      <point x="335.026" y="557.41" type="line"/>
+      <point x="347.026" y="632.821" type="line" smooth="yes"/>
+      <point x="357.205" y="696.487"/>
+      <point x="383.846" y="720.026"/>
+      <point x="427.641" y="720.026" type="curve" smooth="yes"/>
+      <point x="455.359" y="720.026"/>
+      <point x="474.231" y="708.385"/>
+      <point x="486.769" y="699.385" type="curve"/>
+      <point x="509.692" y="805.359" type="line"/>
+      <point x="491.051" y="812.769"/>
+      <point x="463.231" y="816.179"/>
+      <point x="426.231" y="816.179" type="curve" smooth="yes"/>
+      <point x="304.128" y="816.179"/>
+      <point x="219.795" y="734.769"/>
+      <point x="196.846" y="605.641" type="curve" smooth="yes"/>
+      <point x="188.256" y="557.41" type="line"/>
+      <point x="100.821" y="538.872" type="line"/>
+      <point x="91.0" y="460.256" type="line"/>
+      <point x="175.436" y="460.256" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -53,7 +53,7 @@ NPUSHB[ ]	/* 14 values pushed */
 0 0 0 24 0 24 17 17 20 36 38 7 7 25 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:16</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

@@ -1,64 +1,64 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="b.sc" format="2">
-  <advance width="628.0769230769231"/>
+  <advance width="628.07692"/>
   <note>
 B
 </note>
-  <anchor x="277.3333333333333" y="0.0" name="bottom"/>
-  <anchor x="363.3333333333333" y="650.1794871794872" name="top"/>
+  <anchor x="277.333" y="0.0" name="bottom"/>
+  <anchor x="363.333" y="650.179" name="top"/>
   <outline>
     <contour>
-      <point x="243.3846153846154" y="-7.0" type="curve" smooth="yes"/>
-      <point x="457.53846153846155" y="-7.0"/>
-      <point x="581.9487179487179" y="55.230769230769226"/>
-      <point x="581.9487179487179" y="201.46153846153845" type="curve" smooth="yes"/>
-      <point x="581.9487179487179" y="271.0"/>
-      <point x="532.0" y="321.35897435897436"/>
-      <point x="447.1794871794872" y="338.0" type="curve"/>
-      <point x="537.4102564102564" y="354.35897435897436"/>
-      <point x="587.1794871794872" y="416.1794871794872"/>
-      <point x="587.1794871794872" y="501.7692307692308" type="curve" smooth="yes"/>
-      <point x="587.1794871794872" y="601.6410256410256"/>
-      <point x="513.8974358974359" y="652.0"/>
-      <point x="351.43589743589746" y="652.0" type="curve" smooth="yes"/>
-      <point x="336.8205128205128" y="652.0"/>
-      <point x="216.5128205128205" y="646.0"/>
-      <point x="199.15384615384616" y="646.0" type="curve" smooth="yes"/>
-      <point x="128.76923076923077" y="646.0" type="line"/>
-      <point x="37.30769230769231" y="0.0" type="line"/>
-      <point x="104.46153846153845" y="0.0" type="line" smooth="yes"/>
-      <point x="114.28205128205128" y="0.0"/>
-      <point x="232.9230769230769" y="-7.0"/>
+      <point x="243.385" y="-7.0" type="curve" smooth="yes"/>
+      <point x="457.538" y="-7.0"/>
+      <point x="581.949" y="55.231"/>
+      <point x="581.949" y="201.462" type="curve" smooth="yes"/>
+      <point x="581.949" y="271.0"/>
+      <point x="532.0" y="321.359"/>
+      <point x="447.179" y="338.0" type="curve"/>
+      <point x="537.41" y="354.359"/>
+      <point x="587.179" y="416.179"/>
+      <point x="587.179" y="501.769" type="curve" smooth="yes"/>
+      <point x="587.179" y="601.641"/>
+      <point x="513.897" y="652.0"/>
+      <point x="351.436" y="652.0" type="curve" smooth="yes"/>
+      <point x="336.821" y="652.0"/>
+      <point x="216.513" y="646.0"/>
+      <point x="199.154" y="646.0" type="curve" smooth="yes"/>
+      <point x="128.769" y="646.0" type="line"/>
+      <point x="37.308" y="0.0" type="line"/>
+      <point x="104.462" y="0.0" type="line" smooth="yes"/>
+      <point x="114.282" y="0.0"/>
+      <point x="232.923" y="-7.0"/>
     </contour>
     <contour>
-      <point x="264.2051282051282" y="100.25641025641025" type="curve" smooth="yes"/>
-      <point x="241.7948717948718" y="100.25641025641025"/>
-      <point x="218.30769230769232" y="100.84615384615384"/>
-      <point x="203.1282051282051" y="102.43589743589743" type="curve"/>
-      <point x="229.89743589743588" y="278.0769230769231" type="line"/>
-      <point x="247.7948717948718" y="279.0769230769231"/>
-      <point x="267.3333333333333" y="279.6666666666667"/>
-      <point x="289.46153846153845" y="279.6666666666667" type="curve" smooth="yes"/>
-      <point x="377.5897435897436" y="279.6666666666667"/>
-      <point x="420.53846153846155" y="262.1794871794872"/>
-      <point x="420.53846153846155" y="197.28205128205127" type="curve" smooth="yes"/>
-      <point x="420.53846153846155" y="138.17948717948718"/>
-      <point x="378.64102564102564" y="100.25641025641025"/>
+      <point x="264.205" y="100.256" type="curve" smooth="yes"/>
+      <point x="241.795" y="100.256"/>
+      <point x="218.308" y="100.846"/>
+      <point x="203.128" y="102.436" type="curve"/>
+      <point x="229.897" y="278.077" type="line"/>
+      <point x="247.795" y="279.077"/>
+      <point x="267.333" y="279.667"/>
+      <point x="289.462" y="279.667" type="curve" smooth="yes"/>
+      <point x="377.59" y="279.667"/>
+      <point x="420.538" y="262.179"/>
+      <point x="420.538" y="197.282" type="curve" smooth="yes"/>
+      <point x="420.538" y="138.179"/>
+      <point x="378.641" y="100.256"/>
     </contour>
     <contour>
-      <point x="242.94871794871796" y="382.1025641025641" type="curve"/>
-      <point x="268.71794871794873" y="545.7435897435897" type="line"/>
-      <point x="300.71794871794873" y="547.5128205128206"/>
-      <point x="315.71794871794873" y="547.3333333333334"/>
-      <point x="324.79487179487177" y="547.3333333333334" type="curve" smooth="yes"/>
-      <point x="402.0" y="547.3333333333334"/>
-      <point x="431.35897435897436" y="530.8461538461538"/>
-      <point x="431.35897435897436" y="484.71794871794873" type="curve" smooth="yes"/>
-      <point x="431.35897435897436" y="413.0"/>
-      <point x="381.6923076923077" y="380.1025641025641"/>
-      <point x="292.7435897435897" y="380.1025641025641" type="curve" smooth="yes"/>
-      <point x="271.3076923076923" y="380.1025641025641"/>
-      <point x="255.76923076923077" y="381.1025641025641"/>
+      <point x="242.949" y="382.103" type="curve"/>
+      <point x="268.718" y="545.744" type="line"/>
+      <point x="300.718" y="547.513"/>
+      <point x="315.718" y="547.333"/>
+      <point x="324.795" y="547.333" type="curve" smooth="yes"/>
+      <point x="402.0" y="547.333"/>
+      <point x="431.359" y="530.846"/>
+      <point x="431.359" y="484.718" type="curve" smooth="yes"/>
+      <point x="431.359" y="413.0"/>
+      <point x="381.692" y="380.103"/>
+      <point x="292.744" y="380.103" type="curve" smooth="yes"/>
+      <point x="271.308" y="380.103"/>
+      <point x="255.769" y="381.103"/>
     </contour>
   </outline>
   <lib>
@@ -103,7 +103,7 @@ CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 17:31:32</string>
+      <string>2019/02/18 20:31:10</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

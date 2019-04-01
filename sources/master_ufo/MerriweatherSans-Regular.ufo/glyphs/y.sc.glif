@@ -1,45 +1,34 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="y.sc" format="2">
-  <advance width="594.0"/>
-  <anchor x="297.0" y="0.0" name="bottom"/>
-  <anchor x="302.0" y="-72.0" name="btm"/>
-  <anchor x="301.0" y="892.0" name="top"/>
+  <advance width="593.46667"/>
+  <anchor x="296.822" y="0.0" name="bottom"/>
+  <anchor x="301.289" y="-72.0" name="btm"/>
+  <anchor x="300.644" y="892.0" name="top"/>
   <anchor x="20.0" y="646.0" name="topleft"/>
   <outline>
     <contour>
-      <point x="243.0" y="0.0" type="line"/>
-      <point x="355.0" y="0.0" type="line"/>
-      <point x="355.0" y="271.0" type="line"/>
-      <point x="338.0" y="214.0" type="line"/>
-      <point x="586.0" y="646.0" type="line"/>
-      <point x="471.0" y="646.0" type="line"/>
-      <point x="318.0" y="378.0" type="line"/>
-      <point x="293.0" y="311.0" type="line"/>
-      <point x="311.0" y="311.0" type="line"/>
-      <point x="281.0" y="378.0" type="line"/>
-      <point x="126.0" y="646.0" type="line"/>
-      <point x="8.0" y="646.0" type="line"/>
-      <point x="260.0" y="215.0" type="line"/>
-      <point x="243.0" y="273.0" type="line"/>
+      <point x="238.2" y="0.0" type="line"/>
+      <point x="358.378" y="0.0" type="line"/>
+      <point x="358.378" y="268.689" type="line"/>
+      <point x="341.733" y="211.333" type="line"/>
+      <point x="590.8" y="646.0" type="line"/>
+      <point x="466.378" y="646.0" type="line"/>
+      <point x="317.822" y="387.422" type="line"/>
+      <point x="292.289" y="315.089" type="line"/>
+      <point x="310.467" y="315.089" type="line"/>
+      <point x="279.756" y="387.422" type="line"/>
+      <point x="130.267" y="646.0" type="line"/>
+      <point x="2.667" y="646.0" type="line"/>
+      <point x="254.844" y="212.333" type="line"/>
+      <point x="238.2" y="270.511" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>RMXScaler</key>
-      <dict>
-        <key>adjustSpace</key>
-        <integer>2</integer>
-        <key>height</key>
-        <integer>87</integer>
-        <key>weight</key>
-        <integer>1</integer>
-        <key>width</key>
-        <integer>96</integer>
-      </dict>
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/16 05:39:16</string>
+      <string>2019/02/18 20:30:01</string>
       <key>public.markColor</key>
       <string>0.98,0.36,0.67,1</string>
     </dict>

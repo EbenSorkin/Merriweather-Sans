@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="oneinferior" format="2">
-  <advance width="359.0"/>
+  <advance width="363.08889"/>
   <unicode hex="2081"/>
   <outline>
     <component base="one.dnom"/>
@@ -8,7 +8,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 16:44:41</string>
+      <string>2019/02/18 20:30:01</string>
     </dict>
   </lib>
 </glyph>

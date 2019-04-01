@@ -12,7 +12,7 @@ guilsinglleft
       <point x="492.625" y="539.125" type="line"/>
       <point x="473.0" y="602.6" type="line"/>
       <point x="131.1" y="409.275" type="line"/>
-      <point x="119.44999999999999" y="329.0" type="line"/>
+      <point x="119.45" y="329.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -26,7 +26,7 @@ CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>guilsinglleft</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 19:07:18</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

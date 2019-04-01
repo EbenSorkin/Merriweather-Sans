@@ -1,47 +1,30 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="lslash" format="2">
-  <advance width="305.0"/>
+  <advance width="313.20513"/>
   <unicode hex="0142"/>
   <note>
 lslash
 </note>
   <outline>
     <contour>
-      <point x="51.0" y="1.0" type="line"/>
-      <point x="186.0" y="1.0" type="line"/>
-      <point x="246.0" y="440.0" type="line"/>
-      <point x="333.0" y="475.0" type="line"/>
-      <point x="333.0" y="561.0" type="line"/>
-      <point x="258.0" y="530.0" type="line"/>
-      <point x="294.0" y="799.0" type="line"/>
-      <point x="159.0" y="799.0" type="line"/>
-      <point x="115.0" y="471.0" type="line"/>
-      <point x="20.0" y="433.0" type="line"/>
-      <point x="20.0" y="351.0" type="line"/>
-      <point x="103.0" y="384.0" type="line"/>
+      <point x="46.897" y="0.59" type="line"/>
+      <point x="197.897" y="0.59" type="line"/>
+      <point x="256.667" y="431.385" type="line"/>
+      <point x="349.0" y="468.026" type="line"/>
+      <point x="349.0" y="560.59" type="line"/>
+      <point x="269.487" y="527.538" type="line"/>
+      <point x="305.897" y="798.59" type="line"/>
+      <point x="154.487" y="798.59" type="line"/>
+      <point x="109.256" y="461.974" type="line"/>
+      <point x="13.846" y="423.564" type="line"/>
+      <point x="13.846" y="335.41" type="line"/>
+      <point x="96.436" y="368.41" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>assembly</key>
-      <string>NPUSHB[ ]	/* 11 values pushed */
-11 10 6 5 4 0 6 0 1 1 74 
-MPPEM[ ]	/* MeasurePixelPerEm */
-PUSHB[ ]	/* 1 value pushed */
-49 
-LT[ ]	/* LessThan */
-IF[ ]	/* If */
-NPUSHB[ ]	/* 11 values pushed */
-0 1 1 19 75 0 0 0 18 0 76 
-ELSE[ ]	/* Else */
-NPUSHB[ ]	/* 11 values pushed */
-0 1 1 0 89 0 0 0 18 0 76 
-EIF[ ]	/* EndIf */
-PUSHB[ ]	/* 5 values pushed */
-21 18 2 7 22 
-CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:02</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

@@ -13,19 +13,19 @@ comma
       <point x="165.275" y="-118.675" type="curve" smooth="yes"/>
       <point x="178.275" y="-87.675"/>
       <point x="184.275" y="-54.35"/>
-      <point x="184.275" y="-19.349999999999998" type="curve" smooth="yes"/>
+      <point x="184.275" y="-19.35" type="curve" smooth="yes"/>
       <point x="184.275" y="41.325"/>
-      <point x="157.975" y="106.60000000000001"/>
+      <point x="157.975" y="106.6"/>
       <point x="90.625" y="131.6" type="curve"/>
-      <point x="34.724999999999994" y="64.725" type="line"/>
+      <point x="34.725" y="64.725" type="line"/>
       <point x="31.4" y="38.4" type="line"/>
       <point x="58.425" y="29.4"/>
       <point x="77.75" y="-9.975000000000001"/>
       <point x="77.75" y="-53.65" type="curve" smooth="yes"/>
       <point x="77.75" y="-111.375"/>
-      <point x="42.724999999999994" y="-164.7"/>
-      <point x="-5.625000000000003" y="-189.375" type="curve"/>
-      <point x="-7.625000000000003" y="-199.375" type="line"/>
+      <point x="42.725" y="-164.7"/>
+      <point x="-5.625" y="-189.375" type="curve"/>
+      <point x="-7.625" y="-199.375" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -35,7 +35,7 @@ comma
 8 1 1 48 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:03</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

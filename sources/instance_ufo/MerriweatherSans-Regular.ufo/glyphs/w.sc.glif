@@ -1,33 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="w.sc" format="2">
-  <advance width="912.2666666666667"/>
-  <anchor x="456.1333333333333" y="0.0" name="bottom"/>
-  <anchor x="453.8888888888889" y="-72.0" name="btm"/>
-  <anchor x="453.8888888888889" y="722.0" name="top"/>
+  <advance width="912.26667"/>
+  <anchor x="456.133" y="0.0" name="bottom"/>
+  <anchor x="453.889" y="-72.0" name="btm"/>
+  <anchor x="453.889" y="722.0" name="top"/>
   <outline>
     <contour>
-      <point x="204.51111111111112" y="-6.644444444444446" type="line"/>
-      <point x="310.93333333333334" y="-6.644444444444446" type="line"/>
-      <point x="437.8888888888889" y="382.8666666666667" type="line"/>
-      <point x="473.31111111111113" y="597.0888888888888" type="line"/>
-      <point x="437.7111111111111" y="597.9111111111112" type="line"/>
-      <point x="473.6666666666667" y="382.8666666666667" type="line"/>
-      <point x="598.8" y="-6.644444444444446" type="line"/>
-      <point x="716.6888888888889" y="-6.644444444444446" type="line"/>
-      <point x="902.0444444444445" y="646.0" type="line"/>
-      <point x="783.2222222222222" y="646.0" type="line"/>
-      <point x="684.4888888888889" y="249.28888888888886" type="line"/>
-      <point x="653.9555555555555" y="66.06666666666666" type="line"/>
-      <point x="672.4888888888889" y="66.06666666666666" type="line"/>
-      <point x="631.6666666666666" y="249.28888888888886" type="line"/>
-      <point x="503.46666666666664" y="646.0" type="line"/>
-      <point x="410.15555555555557" y="646.0" type="line"/>
-      <point x="285.31111111111113" y="249.28888888888886" type="line"/>
-      <point x="251.6" y="66.24444444444444" type="line"/>
-      <point x="268.77777777777777" y="66.24444444444444" type="line"/>
-      <point x="236.6" y="249.28888888888886" type="line"/>
-      <point x="131.04444444444442" y="646.0" type="line"/>
-      <point x="10.222222222222227" y="646.0" type="line"/>
+      <point x="204.511" y="-6.644" type="line"/>
+      <point x="310.933" y="-6.644" type="line"/>
+      <point x="437.889" y="382.867" type="line"/>
+      <point x="473.311" y="597.089" type="line"/>
+      <point x="437.711" y="597.911" type="line"/>
+      <point x="473.667" y="382.867" type="line"/>
+      <point x="598.8" y="-6.644" type="line"/>
+      <point x="716.689" y="-6.644" type="line"/>
+      <point x="902.044" y="646.0" type="line"/>
+      <point x="783.222" y="646.0" type="line"/>
+      <point x="684.489" y="249.289" type="line"/>
+      <point x="653.956" y="66.067" type="line"/>
+      <point x="672.489" y="66.067" type="line"/>
+      <point x="631.667" y="249.289" type="line"/>
+      <point x="503.467" y="646.0" type="line"/>
+      <point x="410.156" y="646.0" type="line"/>
+      <point x="285.311" y="249.289" type="line"/>
+      <point x="251.6" y="66.244" type="line"/>
+      <point x="268.778" y="66.244" type="line"/>
+      <point x="236.6" y="249.289" type="line"/>
+      <point x="131.044" y="646.0" type="line"/>
+      <point x="10.222" y="646.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -46,7 +46,7 @@
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/16 05:39:16</string>
+      <string>2019/02/18 20:30:01</string>
       <key>public.markColor</key>
       <string>0.98,0.36,0.67,1</string>
     </dict>

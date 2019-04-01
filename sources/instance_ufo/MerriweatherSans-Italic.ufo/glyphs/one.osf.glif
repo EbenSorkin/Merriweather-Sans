@@ -7,7 +7,7 @@ one
   <outline>
     <contour>
       <point x="153.675" y="0.0" type="line"/>
-      <point x="264.02500000000003" y="0.0" type="line"/>
+      <point x="264.025" y="0.0" type="line"/>
       <point x="343.0" y="558.65" type="line"/>
       <point x="289.65" y="567.0" type="line"/>
       <point x="228.0" y="526.0"/>
@@ -26,7 +26,7 @@ one
 8 3 2 0 72 0 0 0 18 0 76 25 1 7 21 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:03</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

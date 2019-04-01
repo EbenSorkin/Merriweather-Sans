@@ -1,30 +1,30 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="one.tf" format="2">
-  <advance width="632.5111111111111"/>
+  <advance width="632.51111"/>
   <outline>
     <contour>
-      <point x="80.22222222222223" y="89.9111111111111" type="line"/>
-      <point x="80.22222222222223" y="0.0" type="line"/>
-      <point x="595.2888888888889" y="0.0" type="line"/>
-      <point x="595.2888888888889" y="89.9111111111111" type="line"/>
-      <point x="419.2444444444444" y="89.9111111111111" type="line"/>
-      <point x="419.4222222222222" y="741.0444444444445" type="line"/>
-      <point x="359.77777777777777" y="754.1777777777778" type="line"/>
-      <point x="359.77777777777777" y="752.5333333333333" type="line"/>
-      <point x="329.2888888888889" y="723.6888888888889"/>
-      <point x="210.20000000000002" y="658.0888888888888"/>
-      <point x="83.73333333333335" y="637.7333333333333" type="curve"/>
-      <point x="98.15555555555557" y="558.0" type="line"/>
-      <point x="190.28888888888892" y="564.4666666666667"/>
-      <point x="253.15555555555557" y="581.4666666666667"/>
-      <point x="290.8666666666667" y="593.8888888888889" type="curve"/>
-      <point x="290.8666666666667" y="89.9111111111111" type="line"/>
+      <point x="80.222" y="89.911" type="line"/>
+      <point x="80.222" y="0.0" type="line"/>
+      <point x="595.289" y="0.0" type="line"/>
+      <point x="595.289" y="89.911" type="line"/>
+      <point x="419.244" y="89.911" type="line"/>
+      <point x="419.422" y="741.044" type="line"/>
+      <point x="359.778" y="754.178" type="line"/>
+      <point x="359.778" y="752.533" type="line"/>
+      <point x="329.289" y="723.689"/>
+      <point x="210.2" y="658.089"/>
+      <point x="83.733" y="637.733" type="curve"/>
+      <point x="98.156" y="558.0" type="line"/>
+      <point x="190.289" y="564.467"/>
+      <point x="253.156" y="581.467"/>
+      <point x="290.867" y="593.889" type="curve"/>
+      <point x="290.867" y="89.911" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/01/17 06:41:26</string>
+      <string>2019/02/18 20:30:01</string>
       <key>com.schriftgestaltung.Glyphs.nodeUserData.0.15</key>
       <dict>
         <key>name</key>

@@ -22,23 +22,23 @@
       <point x="221.9" y="649.65"/>
       <point x="134.075" y="624.375" type="curve"/>
       <point x="139.45" y="525.35" type="line"/>
-      <point x="170.42499999999998" y="543.325"/>
-      <point x="234.75000000000003" y="568.275"/>
+      <point x="170.425" y="543.325"/>
+      <point x="234.75" y="568.275"/>
       <point x="297.65" y="568.275" type="curve" smooth="yes"/>
       <point x="457.05" y="568.275"/>
-      <point x="496.15" y="425.84999999999997"/>
+      <point x="496.15" y="425.85"/>
       <point x="454.125" y="275.075" type="curve" smooth="yes"/>
       <point x="422.45" y="161.35"/>
-      <point x="358.275" y="77.10000000000001"/>
-      <point x="244.3" y="77.10000000000001" type="curve" smooth="yes"/>
-      <point x="153.375" y="77.10000000000001"/>
-      <point x="114.12500000000001" y="166.62500000000003"/>
-      <point x="137.85000000000002" y="259.4" type="curve"/>
+      <point x="358.275" y="77.1"/>
+      <point x="244.3" y="77.1" type="curve" smooth="yes"/>
+      <point x="153.375" y="77.1"/>
+      <point x="114.125" y="166.625"/>
+      <point x="137.85" y="259.4" type="curve"/>
       <point x="507.625" y="259.4" type="line"/>
       <point x="518.925" y="340.55" type="line"/>
       <point x="55.65" y="340.55" type="line"/>
-      <point x="-5.400000000000013" y="151.2"/>
-      <point x="57.80000000000001" y="-7.0"/>
+      <point x="-5.399999999999999" y="151.2"/>
+      <point x="57.8" y="-7.0"/>
     </contour>
   </outline>
   <lib>
@@ -61,7 +61,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>o.sc</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 17:41:09</string>
+      <string>2019/02/18 20:31:10</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

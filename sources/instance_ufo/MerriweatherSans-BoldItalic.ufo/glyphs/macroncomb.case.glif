@@ -4,13 +4,13 @@
 macron
 </note>
   <anchor x="62.0" y="747.0" name="_top"/>
-  <anchor x="82.76923076923077" y="912.4102564102564" name="top"/>
+  <anchor x="82.769" y="912.41" name="top"/>
   <outline>
     <contour>
-      <point x="-62.56410256410256" y="817.0" type="line"/>
-      <point x="213.1025641025641" y="817.0" type="line"/>
-      <point x="219.74358974358975" y="912.2051282051282" type="line"/>
-      <point x="-55.92307692307692" y="912.2051282051282" type="line"/>
+      <point x="-62.564" y="817.0" type="line"/>
+      <point x="213.103" y="817.0" type="line"/>
+      <point x="219.744" y="912.205" type="line"/>
+      <point x="-55.923" y="912.205" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -26,7 +26,7 @@ PUSHB[ ]	/* 2 values pushed */
 6 0 
 WCVTP[ ]	/* WriteCVTInPixels */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:12</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

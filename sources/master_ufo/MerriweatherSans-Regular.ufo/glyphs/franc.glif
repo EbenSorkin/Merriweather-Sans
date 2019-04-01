@@ -1,33 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="franc" format="2">
-  <advance width="534.0"/>
+  <advance width="548.93333"/>
   <unicode hex="20A3"/>
   <outline>
     <contour>
-      <point x="-5.0" y="119.0" type="line"/>
-      <point x="95.0" y="119.0" type="line"/>
-      <point x="95.0" y="0.0" type="line"/>
-      <point x="209.0" y="0.0" type="line"/>
-      <point x="209.0" y="119.0" type="line"/>
-      <point x="332.0" y="119.0" type="line"/>
-      <point x="332.0" y="198.0" type="line"/>
-      <point x="209.0" y="198.0" type="line"/>
-      <point x="209.0" y="329.0" type="line"/>
-      <point x="446.0" y="329.0" type="line"/>
-      <point x="446.0" y="416.0" type="line"/>
-      <point x="209.0" y="416.0" type="line"/>
-      <point x="209.0" y="656.0" type="line"/>
-      <point x="524.0" y="656.0" type="line"/>
-      <point x="524.0" y="743.0" type="line"/>
-      <point x="95.0" y="743.0" type="line"/>
-      <point x="95.0" y="198.0" type="line"/>
-      <point x="-5.0" y="198.0" type="line"/>
+      <point x="0.689" y="116.689" type="line"/>
+      <point x="97.667" y="116.689" type="line"/>
+      <point x="97.667" y="0.0" type="line"/>
+      <point x="222.689" y="0.0" type="line"/>
+      <point x="222.689" y="116.689" type="line"/>
+      <point x="347.111" y="116.689" type="line"/>
+      <point x="347.111" y="199.067" type="line"/>
+      <point x="222.689" y="199.067" type="line"/>
+      <point x="222.689" y="322.244" type="line"/>
+      <point x="456.489" y="322.244" type="line"/>
+      <point x="456.489" y="416.889" type="line"/>
+      <point x="222.689" y="416.889" type="line"/>
+      <point x="222.689" y="648.178" type="line"/>
+      <point x="531.822" y="648.178" type="line"/>
+      <point x="531.822" y="743.0" type="line"/>
+      <point x="97.667" y="743.0" type="line"/>
+      <point x="97.667" y="199.067" type="line"/>
+      <point x="0.689" y="199.067" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 17:24:04</string>
+      <string>2019/02/18 20:30:01</string>
       <key>com.schriftgestaltung.Glyphs.nodeUserData.0.17</key>
       <dict>
         <key>name</key>

@@ -8,10 +8,10 @@ uni0326
   <outline>
     <contour>
       <point x="90.0" y="1068.35" type="line"/>
-      <point x="29.20000000000001" y="1030.8"/>
-      <point x="10.449999999999992" y="979.8"/>
-      <point x="10.449999999999992" y="926.4" type="curve" smooth="yes"/>
-      <point x="10.449999999999992" y="880.475"/>
+      <point x="29.2" y="1030.8"/>
+      <point x="10.45" y="979.8"/>
+      <point x="10.45" y="926.4" type="curve" smooth="yes"/>
+      <point x="10.45" y="880.475"/>
       <point x="33.975" y="843.1"/>
       <point x="71.325" y="817.0" type="curve"/>
       <point x="136.0" y="859.325" type="line"/>
@@ -32,7 +32,7 @@ uni0326
 8 1 1 48 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:12</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

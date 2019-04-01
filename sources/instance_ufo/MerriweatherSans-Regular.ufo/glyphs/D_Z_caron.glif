@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="DZcaron" format="2">
-  <advance width="1359.1777777777777"/>
+  <advance width="1359.0"/>
   <unicode hex="01C4"/>
-  <anchor x="363.55555555555554" y="0.0" name="bottom_1"/>
-  <anchor x="1042.6444444444444" y="0.0" name="bottom_2"/>
-  <anchor x="323.73333333333335" y="-83.0" name="btm_1"/>
-  <anchor x="1039.7555555555555" y="-83.0" name="btm_2"/>
-  <anchor x="363.55555555555554" y="372.0" name="center_1"/>
-  <anchor x="1042.6444444444444" y="372.0" name="center_2"/>
-  <anchor x="680.0888888888888" y="924.8888888888889" name="top"/>
+  <anchor x="363.556" y="0.0" name="bottom_1"/>
+  <anchor x="1042.533" y="0.0" name="bottom_2"/>
+  <anchor x="323.733" y="-83.0" name="btm_1"/>
+  <anchor x="1039.644" y="-83.0" name="btm_2"/>
+  <anchor x="363.556" y="372.0" name="center_1"/>
+  <anchor x="1042.533" y="372.0" name="center_2"/>
+  <anchor x="680.0" y="924.889" name="top"/>
   <outline>
     <component base="DZ"/>
-    <component base="caroncomb.case" xOffset="680.0888888888888" yOffset="-87.0"/>
+    <component base="caroncomb.case" xOffset="680.0" yOffset="-87.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/16 05:40:25</string>
+      <string>2019/02/18 20:30:31</string>
     </dict>
   </lib>
 </glyph>

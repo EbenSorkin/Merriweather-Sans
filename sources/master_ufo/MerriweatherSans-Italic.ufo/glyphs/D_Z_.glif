@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="DZ" format="2">
-  <advance width="1237.0"/>
+  <advance width="1240.9"/>
   <unicode hex="01F1"/>
-  <anchor x="299.0" y="0.0" name="bottom_1"/>
-  <anchor x="918.0" y="0.0" name="bottom_2"/>
-  <anchor x="349.0" y="374.0" name="center_1"/>
-  <anchor x="968.0" y="374.0" name="center_2"/>
-  <anchor x="398.0" y="747.0" name="top_1"/>
-  <anchor x="1027.0" y="747.0" name="top_2"/>
+  <anchor x="300.95" y="0.0" name="bottom_1"/>
+  <anchor x="922.0" y="0.0" name="bottom_2"/>
+  <anchor x="350.95" y="374.325" name="center_1"/>
+  <anchor x="972.0" y="374.325" name="center_2"/>
+  <anchor x="399.95" y="747.975" name="top_1"/>
+  <anchor x="1032.3" y="747.975" name="top_2"/>
   <outline>
     <component base="D"/>
-    <component base="Z" xOffset="672.0"/>
+    <component base="Z" xOffset="676.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:02</string>
+      <string>2019/02/18 20:31:35</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

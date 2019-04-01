@@ -1,32 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="radical" format="2">
-  <advance width="793.0"/>
+  <advance width="797.51282"/>
   <unicode hex="221A"/>
   <note>
 radical
 </note>
   <outline>
     <contour>
-      <point x="266.0" y="-173.0" type="line"/>
-      <point x="385.0" y="-173.0" type="line"/>
-      <point x="879.0" y="913.0" type="line"/>
-      <point x="738.0" y="913.0" type="line"/>
-      <point x="345.0" y="-4.0" type="line"/>
-      <point x="265.0" y="350.0" type="line"/>
-      <point x="156.0" y="350.0" type="line"/>
-      <point x="33.0" y="288.0" type="line"/>
-      <point x="71.0" y="184.0" type="line"/>
-      <point x="148.0" y="221.0" type="line"/>
+      <point x="266.41" y="-173.0" type="line"/>
+      <point x="400.179" y="-173.0" type="line"/>
+      <point x="891.308" y="913.0" type="line"/>
+      <point x="734.308" y="913.0" type="line"/>
+      <point x="356.077" y="12.821" type="line"/>
+      <point x="283.872" y="350.0" type="line"/>
+      <point x="167.487" y="350.0" type="line"/>
+      <point x="33.821" y="285.128" type="line"/>
+      <point x="73.872" y="167.59" type="line"/>
+      <point x="154.974" y="206.231" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>assembly</key>
-      <string>PUSHB[ ]	/* 4 values pushed */
-5 3 1 48 
-CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:16</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

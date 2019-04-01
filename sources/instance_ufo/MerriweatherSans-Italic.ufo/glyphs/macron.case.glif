@@ -7,10 +7,10 @@ macron.cap
   <anchor x="87.0" y="939.0" name="top"/>
   <outline>
     <contour>
-      <point x="-49.25000000000001" y="842.375" type="line"/>
+      <point x="-49.25" y="842.375" type="line"/>
       <point x="204.6" y="842.375" type="line"/>
-      <point x="208.57500000000002" y="919.925" type="line"/>
-      <point x="-46.275000000000006" y="919.925" type="line"/>
+      <point x="208.575" y="919.925" type="line"/>
+      <point x="-46.275" y="919.925" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -20,7 +20,7 @@ macron.cap
 2 1 1 0 0 1 85 2 1 1 1 0 89 0 0 1 0 77 0 0 0 3 0 3 17 3 7 21 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:12</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

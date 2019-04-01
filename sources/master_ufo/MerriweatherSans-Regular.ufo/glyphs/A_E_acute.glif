@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="AEacute" format="2">
-  <advance width="908.0"/>
+  <advance width="914.93333"/>
   <unicode hex="01FC"/>
-  <anchor x="454.0" y="0.0" name="bottom"/>
-  <anchor x="675.0" y="-83.0" name="btm"/>
-  <anchor x="498.0" y="1020.0" name="top"/>
+  <anchor x="457.556" y="0.0" name="bottom"/>
+  <anchor x="676.956" y="-83.0" name="btm"/>
+  <anchor x="500.0" y="1024.089" name="top"/>
   <outline>
     <component base="AE"/>
-    <component base="acutecomb.case" xOffset="498.0"/>
+    <component base="acutecomb.case" xOffset="500.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 06:18:10</string>
+      <string>2019/02/18 20:30:31</string>
     </dict>
   </lib>
 </glyph>

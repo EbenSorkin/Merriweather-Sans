@@ -1,28 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="E" format="2">
-  <advance width="578.5641025641025"/>
+  <advance width="578.5641"/>
   <unicode hex="0045"/>
   <note>
 E
 </note>
   <anchor x="288.0" y="0.0" name="bottom"/>
-  <anchor x="485.7435897435897" y="10.0" name="ogonek"/>
-  <anchor x="362.2051282051282" y="747.0" name="top"/>
-  <anchor x="82.0" y="748.7692307692307" name="topleft"/>
+  <anchor x="485.744" y="10.0" name="ogonek"/>
+  <anchor x="362.205" y="747.0" name="top"/>
+  <anchor x="82.0" y="748.769" name="topleft"/>
   <outline>
     <contour>
-      <point x="40.30769230769231" y="0.0" type="line"/>
-      <point x="510.9230769230769" y="0.0" type="line"/>
-      <point x="525.974358974359" y="120.48717948717947" type="line"/>
-      <point x="206.94871794871796" y="114.89743589743588" type="line"/>
-      <point x="236.3076923076923" y="328.6666666666667" type="line"/>
-      <point x="444.8461538461538" y="323.4871794871795" type="line"/>
-      <point x="459.3076923076923" y="442.56410256410254" type="line"/>
-      <point x="251.94871794871796" y="439.56410256410254" type="line"/>
-      <point x="278.3076923076923" y="631.6923076923077" type="line"/>
-      <point x="555.2564102564103" y="630.1025641025641" type="line"/>
-      <point x="569.1282051282051" y="747.0" type="line"/>
-      <point x="143.76923076923077" y="747.0" type="line"/>
+      <point x="40.308" y="0.0" type="line"/>
+      <point x="510.923" y="0.0" type="line"/>
+      <point x="525.974" y="120.487" type="line"/>
+      <point x="206.949" y="114.897" type="line"/>
+      <point x="236.308" y="328.667" type="line"/>
+      <point x="444.846" y="323.487" type="line"/>
+      <point x="459.308" y="442.564" type="line"/>
+      <point x="251.949" y="439.564" type="line"/>
+      <point x="278.308" y="631.692" type="line"/>
+      <point x="555.256" y="630.103" type="line"/>
+      <point x="569.128" y="747.0" type="line"/>
+      <point x="143.769" y="747.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -32,7 +32,7 @@ E
 0 1 0 2 3 1 2 97 0 0 0 5 89 6 1 5 5 17 75 0 3 3 4 89 0 4 4 18 4 76 0 0 0 11 0 11 17 17 17 17 17 7 7 25 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:43:17</string>
+      <string>2019/02/18 20:31:10</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

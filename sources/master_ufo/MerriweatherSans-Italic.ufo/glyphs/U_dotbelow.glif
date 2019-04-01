@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Udotbelow" format="2">
-  <advance width="666.0"/>
+  <advance width="672.0"/>
   <unicode hex="1EE4"/>
-  <anchor x="270.0" y="-199.0" name="bottom"/>
-  <anchor x="381.0" y="0.0" name="ogonek"/>
-  <anchor x="400.0" y="747.0" name="top"/>
-  <anchor x="708.0" y="747.0" name="topright"/>
+  <anchor x="273.0" y="-199.0" name="bottom"/>
+  <anchor x="387.5" y="0.0" name="ogonek"/>
+  <anchor x="404.55" y="747.975" name="top"/>
+  <anchor x="714.175" y="747.975" name="topright"/>
   <outline>
     <component base="U"/>
-    <component base="dotbelowcomb.case" xOffset="296.0"/>
+    <component base="dotbelowcomb.case" xOffset="299.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:02</string>
+      <string>2019/02/18 20:31:35</string>
     </dict>
   </lib>
 </glyph>

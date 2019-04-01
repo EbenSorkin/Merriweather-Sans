@@ -8,26 +8,26 @@ W
   <anchor x="468.3" y="651.0" name="top"/>
   <outline>
     <contour>
-      <point x="159.825" y="-2.349999999999999" type="line"/>
-      <point x="274.125" y="-2.349999999999999" type="line"/>
-      <point x="410.4" y="311.97499999999997" type="line"/>
+      <point x="159.825" y="-2.35" type="line"/>
+      <point x="274.125" y="-2.35" type="line"/>
+      <point x="410.4" y="311.975" type="line"/>
       <point x="436.05" y="384.325" type="line"/>
-      <point x="443.375" y="311.97499999999997" type="line"/>
-      <point x="488.8" y="-2.349999999999999" type="line"/>
-      <point x="607.025" y="-2.349999999999999" type="line"/>
+      <point x="443.375" y="311.975" type="line"/>
+      <point x="488.8" y="-2.35" type="line"/>
+      <point x="607.025" y="-2.35" type="line"/>
       <point x="889.425" y="650.0" type="line"/>
       <point x="777.1" y="650.0" type="line"/>
       <point x="597.275" y="203.75" type="line"/>
-      <point x="565.55" y="111.10000000000001" type="line"/>
+      <point x="565.55" y="111.1" type="line"/>
       <point x="556.575" y="204.425" type="line"/>
       <point x="502.45" y="650.0" type="line"/>
       <point x="396.45" y="650.0" type="line"/>
       <point x="410.075" y="537.925" type="line"/>
       <point x="263.575" y="203.75" type="line"/>
-      <point x="234.925" y="111.10000000000001" type="line"/>
+      <point x="234.925" y="111.1" type="line"/>
       <point x="220.9" y="204.425" type="line"/>
-      <point x="157.72500000000002" y="650.0" type="line"/>
-      <point x="47.724999999999994" y="650.0" type="line"/>
+      <point x="157.725" y="650.0" type="line"/>
+      <point x="47.725" y="650.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -50,7 +50,7 @@ CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:50:25</string>
+      <string>2019/02/18 20:31:10</string>
       <key>public.markColor</key>
       <string>0,0.67,0.91,1</string>
     </dict>

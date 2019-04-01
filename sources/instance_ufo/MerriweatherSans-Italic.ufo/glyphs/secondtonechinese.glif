@@ -5,8 +5,8 @@
   <anchor x="66.0" y="780.0" name="top"/>
   <outline>
     <contour>
-      <point x="-3.1499999999999915" y="625.175" type="line"/>
-      <point x="33.15000000000001" y="640.15"/>
+      <point x="-3.1500000000000004" y="625.175" type="line"/>
+      <point x="33.15" y="640.15"/>
       <point x="161.8" y="753.275"/>
       <point x="187.425" y="802.725" type="curve"/>
       <point x="101.325" y="874.9" type="line"/>
@@ -18,7 +18,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:12</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

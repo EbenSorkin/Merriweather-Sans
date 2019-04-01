@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="multiply" format="2">
-  <advance width="678.4615384615385"/>
+  <advance width="678.46154"/>
   <unicode hex="00D7"/>
   <note>
 multiply
 </note>
   <outline>
     <contour>
-      <point x="354.71794871794873" y="130.43589743589743" type="line"/>
-      <point x="478.51282051282055" y="246.87179487179486" type="line"/>
-      <point x="448.7692307692308" y="270.7948717948718" type="line"/>
-      <point x="602.0769230769231" y="403.2564102564103" type="line"/>
-      <point x="498.1538461538462" y="517.7179487179487" type="line"/>
-      <point x="468.99999999999994" y="482.79487179487177" type="line"/>
-      <point x="352.1538461538461" y="626.8461538461538" type="line"/>
-      <point x="227.30769230769226" y="510.0" type="line"/>
-      <point x="257.51282051282055" y="487.07692307692304" type="line"/>
-      <point x="104.7948717948718" y="354.2051282051282" type="line"/>
-      <point x="207.07692307692307" y="239.74358974358972" type="line"/>
-      <point x="236.69230769230774" y="274.4871794871795" type="line"/>
+      <point x="354.718" y="130.436" type="line"/>
+      <point x="478.513" y="246.872" type="line"/>
+      <point x="448.769" y="270.795" type="line"/>
+      <point x="602.077" y="403.256" type="line"/>
+      <point x="498.154" y="517.718" type="line"/>
+      <point x="469.0" y="482.795" type="line"/>
+      <point x="352.154" y="626.846" type="line"/>
+      <point x="227.308" y="510.0" type="line"/>
+      <point x="257.513" y="487.077" type="line"/>
+      <point x="104.795" y="354.205" type="line"/>
+      <point x="207.077" y="239.744" type="line"/>
+      <point x="236.692" y="274.487" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -28,7 +28,7 @@ multiply
 10 4 1 48 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:16</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

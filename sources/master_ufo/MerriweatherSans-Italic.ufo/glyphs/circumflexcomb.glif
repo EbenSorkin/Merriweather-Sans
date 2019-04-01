@@ -8,29 +8,19 @@ circumflex
   <anchor x="67.0" y="788.0" name="top"/>
   <outline>
     <contour>
-      <point x="-88.0" y="635.0" type="line"/>
-      <point x="65.0" y="768.0" type="line"/>
-      <point x="168.0" y="639.0" type="line"/>
-      <point x="214.0" y="673.0" type="line"/>
-      <point x="121.0" y="855.0" type="line"/>
-      <point x="34.0" y="855.0" type="line"/>
-      <point x="-126.0" y="673.0" type="line"/>
+      <point x="-87.025" y="634.025" type="line"/>
+      <point x="64.025" y="759.225" type="line"/>
+      <point x="164.75" y="637.375" type="line"/>
+      <point x="215.3" y="671.05" type="line"/>
+      <point x="120.675" y="853.375" type="line"/>
+      <point x="33.675" y="853.375" type="line"/>
+      <point x="-129.575" y="671.05" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>assembly</key>
-      <string>PUSHB[ ]	/* 2 values pushed */
-6 100 
-WCVTP[ ]	/* WriteCVTInPixels */
-NPUSHB[ ]	/* 16 values pushed */
-6 5 4 3 2 5 0 71 0 0 0 105 16 1 7 21 
-CALL[ ]	/* CallFunction */
-PUSHB[ ]	/* 2 values pushed */
-6 0 
-WCVTP[ ]	/* WriteCVTInPixels */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:12</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

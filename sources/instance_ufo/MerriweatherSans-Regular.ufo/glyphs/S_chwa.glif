@@ -1,43 +1,43 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Schwa" format="2">
-  <advance width="747.7111111111111"/>
+  <advance width="747.71111"/>
   <unicode hex="018F"/>
-  <anchor x="374.35555555555555" y="0.0" name="bottom"/>
+  <anchor x="374.356" y="0.0" name="bottom"/>
   <anchor x="361.0" y="-83.0" name="btm"/>
   <anchor x="357.0" y="831.0" name="top"/>
   <outline>
     <contour>
-      <point x="342.8888888888889" y="-8.0" type="curve" smooth="yes"/>
-      <point x="575.8888888888889" y="-8.0"/>
-      <point x="698.8888888888889" y="140.0"/>
-      <point x="698.8888888888889" y="372.0" type="curve" smooth="yes"/>
-      <point x="698.8888888888889" y="624.9555555555555"/>
-      <point x="544.2888888888889" y="753.4666666666667"/>
-      <point x="361.64444444444445" y="752.0" type="curve" smooth="yes"/>
-      <point x="239.86666666666667" y="751.3555555555556"/>
-      <point x="143.22222222222223" y="716.0444444444445"/>
-      <point x="85.53333333333333" y="660.6666666666666" type="curve"/>
-      <point x="113.42222222222222" y="567.6888888888889" type="line"/>
-      <point x="169.35555555555555" y="624.8888888888889"/>
-      <point x="251.17777777777778" y="659.2444444444444"/>
-      <point x="359.64444444444445" y="659.2444444444444" type="curve" smooth="yes"/>
-      <point x="486.6222222222222" y="659.2444444444444"/>
-      <point x="578.6" y="556.5555555555555"/>
+      <point x="342.889" y="-8.0" type="curve" smooth="yes"/>
+      <point x="575.889" y="-8.0"/>
+      <point x="698.889" y="140.0"/>
+      <point x="698.889" y="372.0" type="curve" smooth="yes"/>
+      <point x="698.889" y="624.956"/>
+      <point x="544.289" y="753.467"/>
+      <point x="361.644" y="752.0" type="curve" smooth="yes"/>
+      <point x="239.867" y="751.356"/>
+      <point x="143.222" y="716.044"/>
+      <point x="85.533" y="660.667" type="curve"/>
+      <point x="113.422" y="567.689" type="line"/>
+      <point x="169.356" y="624.889"/>
+      <point x="251.178" y="659.244"/>
+      <point x="359.644" y="659.244" type="curve" smooth="yes"/>
+      <point x="486.622" y="659.244"/>
+      <point x="578.6" y="556.556"/>
       <point x="578.6" y="381.0" type="curve" smooth="yes"/>
-      <point x="578.6" y="212.9111111111111"/>
-      <point x="508.44444444444446" y="81.39999999999998"/>
-      <point x="355.5333333333333" y="81.93333333333331" type="curve" smooth="yes"/>
-      <point x="209.19999999999996" y="82.28888888888886"/>
-      <point x="156.28888888888886" y="203.0"/>
-      <point x="162.28888888888886" y="313.0" type="curve"/>
-      <point x="613.9333333333334" y="313.0" type="line"/>
-      <point x="626.9333333333334" y="405.9111111111111" type="line"/>
-      <point x="55.82222222222222" y="405.9111111111111" type="line"/>
-      <point x="51.82222222222222" y="374.9111111111111"/>
-      <point x="48.82222222222222" y="354.9111111111111"/>
-      <point x="48.82222222222222" y="300.9111111111111" type="curve" smooth="yes"/>
-      <point x="48.82222222222222" y="86.71111111111111"/>
-      <point x="191.88888888888889" y="-8.0"/>
+      <point x="578.6" y="212.911"/>
+      <point x="508.444" y="81.4"/>
+      <point x="355.533" y="81.933" type="curve" smooth="yes"/>
+      <point x="209.2" y="82.289"/>
+      <point x="156.289" y="203.0"/>
+      <point x="162.289" y="313.0" type="curve"/>
+      <point x="613.933" y="313.0" type="line"/>
+      <point x="626.933" y="405.911" type="line"/>
+      <point x="55.822" y="405.911" type="line"/>
+      <point x="51.822" y="374.911"/>
+      <point x="48.822" y="354.911"/>
+      <point x="48.822" y="300.911" type="curve" smooth="yes"/>
+      <point x="48.822" y="86.711"/>
+      <point x="191.889" y="-8.0"/>
     </contour>
   </outline>
   <lib>
@@ -47,7 +47,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>O</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/16 05:39:16</string>
+      <string>2019/02/18 20:30:01</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>

@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="acaron.sc" format="2">
-  <advance width="665.0"/>
-  <anchor x="333.0" y="0.0" name="bottom"/>
-  <anchor x="336.0" y="-109.0" name="btm"/>
-  <anchor x="599.0" y="10.0" name="ogonek"/>
-  <anchor x="339.0" y="1084.0" name="top"/>
+  <advance width="667.0"/>
+  <anchor x="333.889" y="0.0" name="bottom"/>
+  <anchor x="335.289" y="-109.0" name="btm"/>
+  <anchor x="600.6" y="10.0" name="ogonek"/>
+  <anchor x="339.0" y="1086.3110000000001" name="top"/>
   <outline>
     <component base="a.sc"/>
     <component base="caroncomb" xOffset="339.0" yOffset="66.0"/>
@@ -14,7 +14,7 @@
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:32:40</string>
+      <string>2019/02/18 20:30:31</string>
     </dict>
   </lib>
 </glyph>

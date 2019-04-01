@@ -8,7 +8,7 @@ F
   <anchor x="299.0" y="651.0" name="top"/>
   <outline>
     <contour>
-      <point x="46.77499999999999" y="0.0" type="line"/>
+      <point x="46.775" y="0.0" type="line"/>
       <point x="156.775" y="0.0" type="line"/>
       <point x="194.775" y="282.525" type="line"/>
       <point x="412.875" y="276.5" type="line"/>
@@ -42,7 +42,7 @@ CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>h.sc</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 17:33:37</string>
+      <string>2019/02/18 20:31:10</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

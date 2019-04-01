@@ -6,49 +6,34 @@ Eng
 </note>
   <outline>
     <contour>
-      <point x="331.0" y="-142.0" type="line"/>
-      <point x="433.0" y="-128.0"/>
-      <point x="506.0" y="-81.0"/>
-      <point x="542.0" y="0.0" type="curve"/>
-      <point x="625.0" y="646.0" type="line"/>
-      <point x="533.0" y="646.0" type="line"/>
-      <point x="482.0" y="231.0" type="line"/>
-      <point x="474.0" y="124.0" type="line"/>
-      <point x="443.0" y="217.0" type="line"/>
-      <point x="234.0" y="646.0" type="line"/>
+      <point x="330.675" y="-150.125" type="line"/>
+      <point x="440.8" y="-137.425"/>
+      <point x="520.3" y="-85.225"/>
+      <point x="552.725" y="0.0" type="curve"/>
+      <point x="638.0" y="646.0" type="line"/>
+      <point x="533.325" y="646.0" type="line"/>
+      <point x="483.95" y="249.85" type="line"/>
+      <point x="476.6" y="141.875" type="line"/>
+      <point x="444.3" y="239.1" type="line"/>
+      <point x="242.125" y="646.0" type="line"/>
       <point x="134.0" y="646.0" type="line"/>
-      <point x="52.0" y="0.0" type="line"/>
-      <point x="143.0" y="0.0" type="line"/>
-      <point x="196.0" y="411.0" type="line"/>
-      <point x="206.0" y="535.0" type="line"/>
-      <point x="234.0" y="433.0" type="line"/>
-      <point x="445.0" y="12.0" type="line"/>
-      <point x="423.0" y="-39.0"/>
-      <point x="376.0" y="-80.0"/>
-      <point x="314.0" y="-101.0" type="curve"/>
+      <point x="49.725" y="0.0" type="line"/>
+      <point x="153.4" y="0.0" type="line"/>
+      <point x="205.75" y="396.375" type="line"/>
+      <point x="213.475" y="518.75" type="line"/>
+      <point x="245.05" y="413.175" type="line"/>
+      <point x="446.3" y="13.625" type="line"/>
+      <point x="427.225" y="-41.6"/>
+      <point x="378.6" y="-84.225"/>
+      <point x="311.725" y="-105.875" type="curve"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>RMXScaler</key>
-      <dict>
-        <key>adjustSpace</key>
-        <integer>2</integer>
-        <key>height</key>
-        <integer>87</integer>
-        <key>weight</key>
-        <integer>1</integer>
-        <key>width</key>
-        <integer>96</integer>
-      </dict>
-      <key>assembly</key>
-      <string>NPUSHB[ ]	/* 37 values pushed */
-18 11 9 3 0 1 1 74 6 5 2 0 71 3 2 2 1 1 17 75 0 0 0 18 0 76 0 0 0 20 0 20 17 29 4 7 22 
-CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:50:34</string>
+      <string>2019/02/18 20:31:10</string>
       <key>public.markColor</key>
       <string>0,0.67,0.91,1</string>
     </dict>

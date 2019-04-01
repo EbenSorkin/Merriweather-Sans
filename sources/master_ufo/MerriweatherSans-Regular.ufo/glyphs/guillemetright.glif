@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="guillemetright" format="2">
-  <advance width="945.0"/>
+  <advance width="950.51111"/>
   <unicode hex="00BB"/>
   <outline>
     <contour>
-      <point x="825.0" y="253.0" type="line"/>
-      <point x="825.0" y="343.0" type="line"/>
-      <point x="521.0" y="553.0" type="line"/>
-      <point x="494.0" y="474.0" type="line"/>
-      <point x="747.0" y="280.0" type="line"/>
-      <point x="747.0" y="320.0" type="line"/>
-      <point x="494.0" y="128.0" type="line"/>
-      <point x="521.0" y="51.0" type="line"/>
+      <point x="762.422" y="250.689" type="line"/>
+      <point x="762.422" y="345.844" type="line"/>
+      <point x="455.578" y="555.133" type="line"/>
+      <point x="426.8" y="471.333" type="line"/>
+      <point x="678.556" y="278.756" type="line"/>
+      <point x="678.556" y="321.244" type="line"/>
+      <point x="426.8" y="130.489" type="line"/>
+      <point x="455.578" y="48.511" type="line"/>
     </contour>
     <contour>
-      <point x="468.0" y="253.0" type="line"/>
-      <point x="468.0" y="343.0" type="line"/>
-      <point x="154.0" y="553.0" type="line"/>
-      <point x="127.0" y="474.0" type="line"/>
-      <point x="390.0" y="280.0" type="line"/>
-      <point x="390.0" y="320.0" type="line"/>
-      <point x="127.0" y="128.0" type="line"/>
-      <point x="154.0" y="51.0" type="line"/>
+      <point x="536.978" y="250.689" type="line"/>
+      <point x="536.978" y="345.844" type="line"/>
+      <point x="223.689" y="555.133" type="line"/>
+      <point x="194.911" y="471.333" type="line"/>
+      <point x="453.111" y="278.756" type="line"/>
+      <point x="453.111" y="321.244" type="line"/>
+      <point x="194.911" y="130.489" type="line"/>
+      <point x="223.689" y="48.511" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -31,7 +31,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>guilsinglright</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:51:05</string>
+      <string>2019/02/18 20:30:01</string>
     </dict>
   </lib>
 </glyph>

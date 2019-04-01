@@ -1,50 +1,50 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="circumflexcomb_hookabovecomb.case" format="2">
-  <anchor x="0.0" y="830.0" name="_top"/>
+  <anchor x="-0.178" y="830.178" name="_top"/>
   <anchor x="165.0" y="1141.0" name="top"/>
   <outline>
     <contour>
-      <point x="-108.0" y="797.0" type="line"/>
-      <point x="0.0" y="896.0" type="line"/>
-      <point x="106.0" y="797.0" type="line"/>
-      <point x="176.0" y="826.0" type="line"/>
-      <point x="48.0" y="972.0" type="line"/>
-      <point x="-48.0" y="972.0" type="line"/>
-      <point x="-175.0" y="825.0" type="line"/>
+      <point x="-108.178" y="790.778" type="line"/>
+      <point x="-0.178" y="889.422" type="line"/>
+      <point x="106.178" y="790.778" type="line"/>
+      <point x="178.133" y="822.622" type="line"/>
+      <point x="48.889" y="969.333" type="line"/>
+      <point x="-49.067" y="969.333" type="line"/>
+      <point x="-177.311" y="821.622" type="line"/>
     </contour>
     <contour>
-      <point x="142.0" y="935.0" type="curve"/>
-      <point x="190.0" y="935.0" type="line"/>
-      <point x="182.0" y="960.0"/>
-      <point x="194.0" y="987.0"/>
-      <point x="202.0" y="994.0" type="curve" smooth="yes"/>
-      <point x="230.0" y="1019.0"/>
-      <point x="267.0" y="1033.0"/>
-      <point x="267.0" y="1089.0" type="curve" smooth="yes"/>
-      <point x="267.0" y="1147.0"/>
-      <point x="219.0" y="1183.0"/>
-      <point x="154.0" y="1183.0" type="curve" smooth="yes"/>
-      <point x="129.0" y="1183.0"/>
-      <point x="88.0" y="1177.0"/>
-      <point x="66.0" y="1162.0" type="curve"/>
-      <point x="68.0" y="1099.0" type="line"/>
-      <point x="80.0" y="1106.0"/>
-      <point x="108.0" y="1115.0"/>
-      <point x="132.0" y="1115.0" type="curve" smooth="yes"/>
-      <point x="166.0" y="1115.0"/>
-      <point x="185.0" y="1103.0"/>
-      <point x="185.0" y="1076.0" type="curve"/>
-      <point x="185.0" y="1033.0"/>
-      <point x="130.0" y="1030.0"/>
-      <point x="130.0" y="981.0" type="curve"/>
-      <point x="130.0" y="963.0"/>
-      <point x="136.0" y="949.0"/>
+      <point x="140.222" y="933.4" type="curve"/>
+      <point x="191.6" y="933.4" type="line"/>
+      <point x="183.6" y="959.111"/>
+      <point x="194.889" y="985.933"/>
+      <point x="204.844" y="994.356" type="curve" smooth="yes"/>
+      <point x="231.956" y="1018.111"/>
+      <point x="267.889" y="1035.311"/>
+      <point x="267.889" y="1089.0" type="curve" smooth="yes"/>
+      <point x="267.889" y="1146.111"/>
+      <point x="219.711" y="1182.822"/>
+      <point x="149.733" y="1182.822" type="curve" smooth="yes"/>
+      <point x="123.311" y="1182.822"/>
+      <point x="83.556" y="1176.289"/>
+      <point x="61.733" y="1162.356" type="curve"/>
+      <point x="63.733" y="1097.222" type="line"/>
+      <point x="75.556" y="1104.4"/>
+      <point x="103.911" y="1113.222"/>
+      <point x="127.022" y="1113.222" type="curve" smooth="yes"/>
+      <point x="162.267" y="1113.222"/>
+      <point x="181.8" y="1100.511"/>
+      <point x="181.8" y="1073.511" type="curve"/>
+      <point x="181.8" y="1031.4"/>
+      <point x="128.044" y="1029.644"/>
+      <point x="128.044" y="979.044" type="curve"/>
+      <point x="128.044" y="960.689"/>
+      <point x="133.867" y="947.4"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:51:28</string>
+      <string>2019/02/18 20:30:01</string>
     </dict>
   </lib>
 </glyph>

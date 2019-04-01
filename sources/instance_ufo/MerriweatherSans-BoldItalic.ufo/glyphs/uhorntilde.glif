@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uhorntilde" format="2">
-  <advance width="613.8974358974359"/>
+  <advance width="614.0"/>
   <unicode hex="1EEF"/>
-  <anchor x="270.15384615384613" y="0.0" name="bottom"/>
-  <anchor x="512.5384615384615" y="10.0" name="ogonek"/>
-  <anchor x="372.48717948717945" y="748.7948717948718" name="top"/>
-  <anchor x="630.8974358974359" y="557.0" name="topright"/>
+  <anchor x="270.154" y="0.0" name="bottom"/>
+  <anchor x="512.538" y="10.0" name="ogonek"/>
+  <anchor x="372.821" y="748.795" name="top"/>
+  <anchor x="630.897" y="557.0" name="topright"/>
   <outline>
     <component base="uhorn"/>
-    <component base="tildecomb" xOffset="310.66666666666663"/>
+    <component base="tildecomb" xOffset="311.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:03</string>
+      <string>2019/02/18 20:31:35</string>
     </dict>
   </lib>
 </glyph>

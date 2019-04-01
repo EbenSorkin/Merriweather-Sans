@@ -5,11 +5,11 @@
   <note>
 uni20A6
 </note>
-  <anchor x="334.225" y="0.0" name="bottom"/>
-  <anchor x="433.225" y="747.975" name="top"/>
+  <anchor x="334.22499999999997" y="0.0" name="bottom"/>
+  <anchor x="433.22499999999997" y="747.975" name="top"/>
   <outline>
     <contour>
-      <point x="10.674999999999999" y="187.75" type="line"/>
+      <point x="10.675" y="187.75" type="line"/>
       <point x="189.675" y="187.75" type="line"/>
       <point x="201.325" y="272.0" type="line"/>
       <point x="22.325" y="272.0" type="line"/>
@@ -41,7 +41,7 @@ uni20A6
 29 1 8 9 43 1 2 1 2 74 20 14 12 10 4 8 18 16 13 3 7 0 8 7 98 17 15 6 3 0 19 5 3 3 1 2 0 1 97 11 1 9 9 17 75 4 1 2 2 18 2 76 28 28 41 40 39 38 37 36 35 34 33 32 28 31 28 31 27 26 25 24 23 22 21 20 19 18 17 17 17 17 17 17 17 17 16 21 7 29 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:16</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

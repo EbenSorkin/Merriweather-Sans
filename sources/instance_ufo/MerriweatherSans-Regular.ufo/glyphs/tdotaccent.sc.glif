@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tdotaccent.sc" format="2">
-  <advance width="608.0888888888888"/>
-  <anchor x="304.0444444444444" y="0.0" name="bottom"/>
+  <advance width="608.08889"/>
+  <anchor x="304.044" y="0.0" name="bottom"/>
   <anchor x="300.4" y="-72.0" name="btm"/>
-  <anchor x="304.0444444444444" y="323.0" name="center"/>
-  <anchor x="300.4" y="882.3777777777777" name="top"/>
+  <anchor x="304.044" y="323.0" name="center"/>
+  <anchor x="300.0" y="882.556" name="top"/>
   <outline>
     <component base="t.sc"/>
-    <component base="dotaccentcomb" xOffset="300.4" yOffset="-108.17777777777778"/>
+    <component base="dotaccentcomb" xOffset="300.0" yOffset="-108.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:05:25</string>
+      <string>2019/02/18 20:30:31</string>
     </dict>
   </lib>
 </glyph>

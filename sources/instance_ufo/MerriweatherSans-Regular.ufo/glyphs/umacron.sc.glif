@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="umacron.sc" format="2">
-  <advance width="697.3333333333334"/>
-  <anchor x="348.6666666666667" y="0.0" name="bottom"/>
-  <anchor x="352.9555555555556" y="-72.0" name="btm"/>
+  <advance width="697.0"/>
+  <anchor x="348.667" y="0.0" name="bottom"/>
+  <anchor x="352.956" y="-72.0" name="btm"/>
   <anchor x="627.8" y="10.0" name="ogonek"/>
-  <anchor x="353.9555555555556" y="880.5555555555555" name="top"/>
-  <anchor x="677.3333333333334" y="646.0" name="topright"/>
+  <anchor x="354.0" y="880.733" name="top"/>
+  <anchor x="677.333" y="646.0" name="topright"/>
   <outline>
     <component base="u.sc"/>
-    <component base="macroncomb" xOffset="353.9555555555556" yOffset="-108.17777777777778"/>
+    <component base="macroncomb" xOffset="354.0" yOffset="-108.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:06:22</string>
+      <string>2019/02/18 20:30:31</string>
     </dict>
   </lib>
 </glyph>

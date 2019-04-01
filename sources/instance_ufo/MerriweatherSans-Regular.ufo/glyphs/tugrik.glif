@@ -1,30 +1,30 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tugrik" format="2">
-  <advance width="631.3777777777777"/>
+  <advance width="631.37778"/>
   <unicode hex="20AE"/>
-  <anchor x="315.68888888888887" y="0.0" name="bottom"/>
-  <anchor x="312.0444444444444" y="-83.0" name="btm"/>
-  <anchor x="315.68888888888887" y="372.0" name="center"/>
-  <anchor x="312.0444444444444" y="830.0" name="top"/>
+  <anchor x="315.689" y="0.0" name="bottom"/>
+  <anchor x="312.044" y="-83.0" name="btm"/>
+  <anchor x="315.689" y="372.0" name="center"/>
+  <anchor x="312.044" y="830.0" name="top"/>
   <outline>
     <contour>
-      <point x="101.04444444444445" y="317.84444444444443" type="line"/>
-      <point x="532.0444444444445" y="457.84444444444443" type="line"/>
-      <point x="534.0444444444445" y="543.0" type="line"/>
-      <point x="103.04444444444445" y="402.0" type="line"/>
+      <point x="101.044" y="317.844" type="line"/>
+      <point x="532.044" y="457.844" type="line"/>
+      <point x="534.044" y="543.0" type="line"/>
+      <point x="103.044" y="402.0" type="line"/>
     </contour>
     <contour>
-      <point x="97.04444444444445" y="114.11111111111113" type="line"/>
-      <point x="528.0444444444445" y="254.11111111111114" type="line"/>
-      <point x="530.0444444444445" y="338.9111111111111" type="line"/>
-      <point x="99.04444444444445" y="198.91111111111113" type="line"/>
+      <point x="97.044" y="114.111" type="line"/>
+      <point x="528.044" y="254.111" type="line"/>
+      <point x="530.044" y="338.911" type="line"/>
+      <point x="99.044" y="198.911" type="line"/>
     </contour>
     <component base="T"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/01/21 06:08:13</string>
+      <string>2019/02/18 20:30:01</string>
     </dict>
   </lib>
 </glyph>

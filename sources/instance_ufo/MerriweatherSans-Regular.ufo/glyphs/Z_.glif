@@ -1,31 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Z" format="2">
-  <advance width="633.0666666666667"/>
+  <advance width="633.06667"/>
   <unicode hex="005A"/>
-  <anchor x="316.53333333333336" y="0.0" name="bottom"/>
-  <anchor x="313.64444444444445" y="-83.0" name="btm"/>
-  <anchor x="316.53333333333336" y="372.0" name="center"/>
-  <anchor x="331.64444444444445" y="830.0" name="top"/>
+  <anchor x="316.533" y="0.0" name="bottom"/>
+  <anchor x="313.644" y="-83.0" name="btm"/>
+  <anchor x="316.533" y="372.0" name="center"/>
+  <anchor x="331.644" y="830.0" name="top"/>
   <outline>
     <contour>
-      <point x="61.622222222222234" y="0.0" type="line"/>
-      <point x="568.3777777777777" y="0.0" type="line"/>
-      <point x="568.3777777777777" y="90.86666666666665" type="line"/>
-      <point x="196.2444444444444" y="90.86666666666665" type="line"/>
-      <point x="232.2444444444444" y="133.57777777777775" type="line"/>
+      <point x="61.622" y="0.0" type="line"/>
+      <point x="568.378" y="0.0" type="line"/>
+      <point x="568.378" y="90.867" type="line"/>
+      <point x="196.244" y="90.867" type="line"/>
+      <point x="232.244" y="133.578" type="line"/>
       <point x="595.6" y="704.0" type="line"/>
-      <point x="573.3111111111111" y="743.0" type="line"/>
-      <point x="81.0888888888889" y="743.0" type="line"/>
-      <point x="81.0888888888889" y="651.3777777777777" type="line"/>
-      <point x="440.15555555555557" y="651.3777777777777" type="line"/>
-      <point x="411.9777777777778" y="616.4888888888889" type="line"/>
-      <point x="39.97777777777779" y="41.0" type="line"/>
+      <point x="573.311" y="743.0" type="line"/>
+      <point x="81.089" y="743.0" type="line"/>
+      <point x="81.089" y="651.378" type="line"/>
+      <point x="440.156" y="651.378" type="line"/>
+      <point x="411.978" y="616.489" type="line"/>
+      <point x="39.978" y="41.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/16 05:39:16</string>
+      <string>2019/02/18 20:30:01</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>

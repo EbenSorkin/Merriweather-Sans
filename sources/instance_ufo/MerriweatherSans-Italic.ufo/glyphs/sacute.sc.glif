@@ -2,17 +2,17 @@
 <glyph name="sacute.sc" format="2">
   <advance width="494.975"/>
   <anchor x="210.65" y="0.0" name="bottom"/>
-  <anchor x="252.5" y="817.725" name="top"/>
+  <anchor x="252.175" y="817.725" name="top"/>
   <outline>
     <component base="s.sc"/>
-    <component base="acutecomb" xOffset="244.32500000000002" yOffset="93.0"/>
+    <component base="acutecomb" xOffset="244.0" yOffset="93.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:03</string>
+      <string>2019/02/18 20:31:35</string>
     </dict>
   </lib>
 </glyph>

@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="secondtonechinese" format="2">
   <unicode hex="02CA"/>
-  <anchor x="0.0" y="830.0" name="_top"/>
+  <anchor x="0.178" y="830.178" name="_top"/>
   <anchor x="0.0" y="983.0" name="top"/>
   <outline>
     <contour>
-      <point x="-9.0" y="632.0" type="line"/>
-      <point x="26.0" y="646.0"/>
-      <point x="154.0" y="764.0"/>
-      <point x="178.0" y="805.0" type="curve"/>
-      <point x="101.0" y="871.0" type="line"/>
-      <point x="54.0" y="803.0"/>
-      <point x="-8.0" y="737.0"/>
-      <point x="-64.0" y="676.0" type="curve"/>
+      <point x="-5.8" y="628.267" type="line"/>
+      <point x="29.911" y="642.8"/>
+      <point x="158.267" y="758.133"/>
+      <point x="183.156" y="803.756" type="curve"/>
+      <point x="101.178" y="873.133" type="line"/>
+      <point x="53.822" y="802.822"/>
+      <point x="-8.178" y="735.756"/>
+      <point x="-64.0" y="676.356" type="curve"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:51:28</string>
+      <string>2019/02/18 20:30:01</string>
     </dict>
   </lib>
 </glyph>

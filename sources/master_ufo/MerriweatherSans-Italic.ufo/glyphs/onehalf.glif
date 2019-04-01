@@ -1,29 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="onehalf" format="2">
-  <advance width="1057.0"/>
+  <advance width="1064.0"/>
   <unicode hex="00BD"/>
   <note>
 onehalf
 </note>
   <outline>
     <component base="one.numr"/>
-    <component base="fraction" xOffset="350.0"/>
-    <component base="two.dnom" xOffset="552.0"/>
+    <component base="fraction" xOffset="348.0"/>
+    <component base="two.dnom" xOffset="553.0"/>
   </outline>
   <lib>
     <dict>
-      <key>assembly</key>
-      <string>PUSHB[ ]	/* 2 values pushed */
-6 100 
-WCVTP[ ]	/* WriteCVTInPixels */
-NPUSHB[ ]	/* 87 values pushed */
-9 1 0 3 4 2 24 23 2 0 3 40 1 1 5 3 74 6 5 2 2 72 7 1 2 4 2 114 0 0 3 5 3 0 5 112 0 1 5 6 5 1 6 112 0 4 0 3 0 4 3 99 0 5 1 6 5 85 0 5 5 6 89 0 6 5 6 77 10 10 39 38 37 36 29 27 21 19 10 13 10 13 19 23 8 7 22 
-CALL[ ]	/* CallFunction */
-PUSHB[ ]	/* 2 values pushed */
-6 0 
-WCVTP[ ]	/* WriteCVTInPixels */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:45:50</string>
+      <string>2019/02/18 20:31:35</string>
     </dict>
   </lib>
 </glyph>

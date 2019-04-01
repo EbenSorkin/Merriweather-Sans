@@ -1,41 +1,41 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="bitcoin" format="2">
-  <advance width="661.1111111111111"/>
+  <advance width="661.11111"/>
   <unicode hex="20BF"/>
-  <anchor x="330.55555555555554" y="0.0" name="bottom"/>
+  <anchor x="330.556" y="0.0" name="bottom"/>
   <anchor x="355.0" y="-83.0" name="btm"/>
-  <anchor x="326.0888888888889" y="830.1777777777778" name="top"/>
+  <anchor x="326.089" y="830.178" name="top"/>
   <outline>
     <contour>
-      <point x="217.48888888888888" y="713.0" type="line"/>
-      <point x="273.4888888888889" y="713.0" type="line"/>
-      <point x="276.4888888888889" y="852.0" type="line"/>
-      <point x="220.48888888888888" y="852.0" type="line"/>
+      <point x="217.489" y="713.0" type="line"/>
+      <point x="273.489" y="713.0" type="line"/>
+      <point x="276.489" y="852.0" type="line"/>
+      <point x="220.489" y="852.0" type="line"/>
     </contour>
     <contour>
-      <point x="361.4888888888889" y="713.0" type="line"/>
-      <point x="417.4888888888889" y="713.0" type="line"/>
-      <point x="420.4888888888889" y="852.0" type="line"/>
-      <point x="364.4888888888889" y="852.0" type="line"/>
+      <point x="361.489" y="713.0" type="line"/>
+      <point x="417.489" y="713.0" type="line"/>
+      <point x="420.489" y="852.0" type="line"/>
+      <point x="364.489" y="852.0" type="line"/>
     </contour>
     <contour>
-      <point x="195.48888888888888" y="-92.0" type="line"/>
-      <point x="251.48888888888888" y="-92.0" type="line"/>
-      <point x="254.48888888888888" y="47.0" type="line"/>
-      <point x="198.48888888888888" y="47.0" type="line"/>
+      <point x="195.489" y="-92.0" type="line"/>
+      <point x="251.489" y="-92.0" type="line"/>
+      <point x="254.489" y="47.0" type="line"/>
+      <point x="198.489" y="47.0" type="line"/>
     </contour>
     <contour>
-      <point x="339.4888888888889" y="-92.0" type="line"/>
-      <point x="395.4888888888889" y="-92.0" type="line"/>
-      <point x="398.4888888888889" y="47.0" type="line"/>
-      <point x="342.4888888888889" y="47.0" type="line"/>
+      <point x="339.489" y="-92.0" type="line"/>
+      <point x="395.489" y="-92.0" type="line"/>
+      <point x="398.489" y="47.0" type="line"/>
+      <point x="342.489" y="47.0" type="line"/>
     </contour>
     <component base="B"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/01/21 06:08:13</string>
+      <string>2019/02/18 20:30:01</string>
     </dict>
   </lib>
 </glyph>

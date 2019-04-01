@@ -8,12 +8,12 @@ grave
   <anchor x="67.0" y="788.0" name="top"/>
   <outline>
     <contour>
-      <point x="85.30769230769232" y="641.7179487179487" type="curve"/>
-      <point x="140.4102564102564" y="685.5897435897435" type="line"/>
-      <point x="-16.102564102564102" y="898.1025641025641" type="line"/>
-      <point x="-110.84615384615384" y="809.3589743589744" type="line"/>
-      <point x="-88.89743589743588" y="768.0"/>
-      <point x="37.43589743589744" y="659.5384615384615"/>
+      <point x="85.308" y="641.718" type="curve"/>
+      <point x="140.41" y="685.59" type="line"/>
+      <point x="-16.103" y="898.103" type="line"/>
+      <point x="-110.846" y="809.359" type="line"/>
+      <point x="-88.897" y="768.0"/>
+      <point x="37.436" y="659.538"/>
     </contour>
   </outline>
   <lib>
@@ -23,7 +23,7 @@ grave
 2 0 1 48 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:12</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

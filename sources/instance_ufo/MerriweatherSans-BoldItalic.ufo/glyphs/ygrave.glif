@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ygrave" format="2">
-  <advance width="544.025641025641"/>
+  <advance width="544.02564"/>
   <unicode hex="1EF3"/>
   <note>
 ygrave
 </note>
-  <anchor x="430.7435897435897" y="0.0" name="bottom"/>
-  <anchor x="319.5128205128205" y="788.0" name="top"/>
+  <anchor x="430.744" y="0.0" name="bottom"/>
+  <anchor x="320.0" y="788.0" name="top"/>
   <outline>
     <component base="y"/>
-    <component base="gravecomb" xOffset="252.5128205128205"/>
+    <component base="gravecomb" xOffset="253.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:03</string>
+      <string>2019/02/18 20:31:35</string>
     </dict>
   </lib>
 </glyph>

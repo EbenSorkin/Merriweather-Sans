@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ohorn" format="2">
-  <advance width="766.0"/>
+  <advance width="768.0"/>
   <unicode hex="01A0"/>
-  <anchor x="383.0" y="0.0" name="bottom"/>
-  <anchor x="383.0" y="743.0" name="top"/>
-  <anchor x="382.0" y="-83.0" name="btm"/>
-  <anchor x="383.0" y="372.0" name="center"/>
-  <anchor x="689.0" y="10.0" name="ogonek"/>
+  <anchor x="384.244" y="0.0" name="bottom"/>
+  <anchor x="384.244" y="743.0" name="top"/>
+  <anchor x="383.067" y="-83.0" name="btm"/>
+  <anchor x="384.244" y="372.0" name="center"/>
+  <anchor x="691.133" y="10.0" name="ogonek"/>
   <anchor x="20.0" y="743.0" name="topleft"/>
-  <anchor x="555.0" y="743.0" name="topright"/>
+  <anchor x="563.178" y="743.0" name="topright"/>
   <outline>
     <component base="O"/>
-    <component base="horncomb.case" xOffset="472.0" yOffset="186.0"/>
+    <component base="horncomb.case" xOffset="476.089" yOffset="186.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:05:25</string>
+      <string>2019/02/18 20:30:31</string>
       <key>com.schriftgestaltung.componentsAlignment</key>
       <array>
         <integer>0</integer>

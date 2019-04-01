@@ -5,22 +5,22 @@
   <anchor x="66.0" y="780.0" name="top"/>
   <outline>
     <contour>
-      <point x="40.0" y="643.0" type="line"/>
-      <point x="106.0" y="689.0"/>
-      <point x="115.0" y="740.0"/>
-      <point x="115.0" y="783.0" type="curve" smooth="yes"/>
-      <point x="115.0" y="826.0"/>
-      <point x="97.0" y="865.0"/>
-      <point x="59.0" y="895.0" type="curve"/>
-      <point x="-6.0" y="853.0" type="line"/>
-      <point x="-10.0" y="819.0" type="line"/>
-      <point x="11.0" y="815.0"/>
-      <point x="28.0" y="783.0"/>
-      <point x="28.0" y="752.0" type="curve" smooth="yes"/>
-      <point x="28.0" y="730.0"/>
-      <point x="23.0" y="707.0"/>
-      <point x="-2.0" y="687.0" type="curve"/>
-      <point x="-4.0" y="673.0" type="line"/>
+      <point x="37.4" y="644.625" type="line"/>
+      <point x="98.2" y="682.175"/>
+      <point x="116.95" y="733.175"/>
+      <point x="116.95" y="786.575" type="curve" smooth="yes"/>
+      <point x="116.95" y="832.5"/>
+      <point x="93.425" y="869.875"/>
+      <point x="56.075" y="895.975" type="curve"/>
+      <point x="-8.6" y="853.65" type="line"/>
+      <point x="-12.6" y="819.975" type="line"/>
+      <point x="8.075" y="816.3"/>
+      <point x="24.75" y="786.575"/>
+      <point x="24.75" y="754.925" type="curve" smooth="yes"/>
+      <point x="24.75" y="730.325"/>
+      <point x="19.425" y="707.65"/>
+      <point x="-5.25" y="688.95" type="curve"/>
+      <point x="-7.25" y="675.275" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -28,7 +28,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
       <string>commaturnedabovecomb</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:03</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

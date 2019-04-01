@@ -1,38 +1,38 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Hbar" format="2">
-  <advance width="723.2564102564103"/>
+  <advance width="723.25641"/>
   <unicode hex="0126"/>
   <note>
 Hbar
 </note>
   <outline>
     <contour>
-      <point x="44.53846153846154" y="0.0" type="line"/>
-      <point x="195.12820512820514" y="0.0" type="line"/>
-      <point x="227.89743589743588" y="236.82051282051282" type="line"/>
-      <point x="488.2564102564103" y="236.82051282051282" type="line"/>
-      <point x="454.8974358974359" y="0.0" type="line"/>
-      <point x="606.8974358974359" y="0.0" type="line"/>
-      <point x="670.3076923076923" y="459.7948717948718" type="line"/>
-      <point x="771.4871794871794" y="459.7948717948718" type="line"/>
-      <point x="782.3076923076923" y="567.0512820512821" type="line"/>
-      <point x="685.3589743589744" y="567.0512820512821" type="line"/>
-      <point x="710.3589743589744" y="747.0" type="line"/>
-      <point x="558.3589743589744" y="747.0" type="line"/>
-      <point x="533.9487179487179" y="567.0512820512821" type="line"/>
-      <point x="273.1794871794872" y="567.0512820512821" type="line"/>
-      <point x="298.5897435897436" y="747.0" type="line"/>
+      <point x="44.538" y="0.0" type="line"/>
+      <point x="195.128" y="0.0" type="line"/>
+      <point x="227.897" y="236.821" type="line"/>
+      <point x="488.256" y="236.821" type="line"/>
+      <point x="454.897" y="0.0" type="line"/>
+      <point x="606.897" y="0.0" type="line"/>
+      <point x="670.308" y="459.795" type="line"/>
+      <point x="771.487" y="459.795" type="line"/>
+      <point x="782.308" y="567.051" type="line"/>
+      <point x="685.359" y="567.051" type="line"/>
+      <point x="710.359" y="747.0" type="line"/>
+      <point x="558.359" y="747.0" type="line"/>
+      <point x="533.949" y="567.051" type="line"/>
+      <point x="273.179" y="567.051" type="line"/>
+      <point x="298.59" y="747.0" type="line"/>
       <point x="148.0" y="747.0" type="line"/>
-      <point x="123.58974358974359" y="567.0512820512821" type="line"/>
-      <point x="17.897435897435898" y="567.0512820512821" type="line"/>
-      <point x="7.666666666666671" y="459.7948717948718" type="line"/>
-      <point x="107.94871794871796" y="459.7948717948718" type="line"/>
+      <point x="123.59" y="567.051" type="line"/>
+      <point x="17.897" y="567.051" type="line"/>
+      <point x="7.667000000000002" y="459.795" type="line"/>
+      <point x="107.949" y="459.795" type="line"/>
     </contour>
     <contour>
-      <point x="242.53846153846152" y="345.0769230769231" type="line"/>
-      <point x="258.53846153846155" y="459.7948717948718" type="line"/>
-      <point x="518.3076923076923" y="459.7948717948718" type="line"/>
-      <point x="503.3076923076923" y="345.0769230769231" type="line"/>
+      <point x="242.538" y="345.077" type="line"/>
+      <point x="258.538" y="459.795" type="line"/>
+      <point x="518.308" y="459.795" type="line"/>
+      <point x="503.308" y="345.077" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -42,7 +42,7 @@ Hbar
 0 11 0 2 1 11 2 97 8 1 6 6 17 75 10 4 2 0 0 5 89 9 7 2 5 5 20 75 3 1 1 1 18 1 76 23 22 21 20 19 18 17 17 17 17 17 17 17 17 16 12 7 29 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:02</string>
+      <string>2019/02/18 20:31:10</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

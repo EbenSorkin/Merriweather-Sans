@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="seven.tosf" format="2">
-  <advance width="591.0"/>
+  <advance width="593.6"/>
   <outline>
     <contour>
-      <point x="241.0" y="-157.0" type="line"/>
-      <point x="536.0" y="538.0" type="line"/>
-      <point x="520.0" y="560.0" type="line"/>
-      <point x="83.0" y="560.0" type="line"/>
-      <point x="66.0" y="478.0" type="line"/>
-      <point x="423.0" y="480.0" type="line"/>
-      <point x="151.0" y="-124.0" type="line"/>
+      <point x="248.15" y="-159.275" type="line"/>
+      <point x="544.775" y="535.725" type="line"/>
+      <point x="527.475" y="559.35" type="line"/>
+      <point x="83.0" y="559.35" type="line"/>
+      <point x="66.325" y="468.25" type="line"/>
+      <point x="420.725" y="469.925" type="line"/>
+      <point x="144.825" y="-121.4" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:03</string>
+      <string>2019/02/18 20:31:10</string>
       <key>com.schriftgestaltung.Glyphs.nodeUserData.0.5</key>
       <dict>
         <key>name</key>

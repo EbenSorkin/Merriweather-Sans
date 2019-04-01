@@ -1,35 +1,35 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="AE" format="2">
-  <advance width="878.5500000000001"/>
+  <advance width="878.55"/>
   <unicode hex="00C6"/>
   <note>
 AE
 </note>
-  <anchor x="402.77500000000003" y="0.0" name="bottom"/>
-  <anchor x="501.77500000000003" y="747.975" name="top"/>
+  <anchor x="402.775" y="0.0" name="bottom"/>
+  <anchor x="501.775" y="747.975" name="top"/>
   <outline>
     <contour>
-      <point x="-62.349999999999994" y="0.0" type="line"/>
-      <point x="56.62500000000002" y="0.0" type="line"/>
-      <point x="158.07500000000002" y="193.575" type="line"/>
-      <point x="392.77500000000003" y="193.575" type="line"/>
+      <point x="-62.35" y="0.0" type="line"/>
+      <point x="56.625" y="0.0" type="line"/>
+      <point x="158.075" y="193.575" type="line"/>
+      <point x="392.775" y="193.575" type="line"/>
       <point x="368.425" y="0.0" type="line"/>
       <point x="815.25" y="0.0" type="line"/>
-      <point x="824.2" y="90.10000000000001" type="line"/>
-      <point x="487.40000000000003" y="82.75000000000001" type="line"/>
+      <point x="824.2" y="90.1" type="line"/>
+      <point x="487.4" y="82.75" type="line"/>
       <point x="521.775" y="342.775" type="line"/>
       <point x="736.15" y="335.425" type="line"/>
       <point x="744.1" y="425.2" type="line"/>
       <point x="531.725" y="422.2" type="line"/>
       <point x="563.1" y="664.25" type="line"/>
-      <point x="844.8000000000001" y="660.9" type="line"/>
+      <point x="844.8" y="660.9" type="line"/>
       <point x="850.75" y="747.0" type="line"/>
       <point x="182.875" y="747.0" type="line"/>
       <point x="174.9" y="692.475" type="line"/>
       <point x="313.0" y="681.5" type="line"/>
     </contour>
     <contour>
-      <point x="201.97500000000002" y="275.375" type="line"/>
+      <point x="201.975" y="275.375" type="line"/>
       <point x="410.725" y="670.9" type="line"/>
       <point x="454.075" y="667.575" type="line"/>
       <point x="403.75" y="275.375" type="line"/>
@@ -42,7 +42,7 @@ AE
 0 6 7 8 8 6 104 0 0 0 1 10 0 1 97 0 10 0 4 2 10 4 97 9 11 2 8 8 7 90 0 7 7 17 75 0 2 2 3 89 5 1 3 3 18 3 76 0 0 21 20 19 18 0 17 0 17 17 17 17 17 17 17 17 17 12 7 28 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:02</string>
+      <string>2019/02/18 20:31:10</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

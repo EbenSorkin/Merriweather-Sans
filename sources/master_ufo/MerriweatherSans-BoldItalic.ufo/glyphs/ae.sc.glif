@@ -1,62 +1,47 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ae.sc" format="2">
-  <advance width="893.0"/>
+  <advance width="915.15385"/>
   <note>
 AE
 </note>
-  <anchor x="409.0" y="0.0" name="bottom"/>
-  <anchor x="496.0" y="651.0" name="top"/>
+  <anchor x="420.077" y="0.0" name="bottom"/>
+  <anchor x="507.077" y="650.179" name="top"/>
   <outline>
     <contour>
-      <point x="-58.0" y="0.0" type="line"/>
-      <point x="92.0" y="0.0" type="line"/>
-      <point x="176.0" y="137.0" type="line"/>
-      <point x="398.0" y="137.0" type="line"/>
-      <point x="378.0" y="0.0" type="line"/>
-      <point x="825.0" y="0.0" type="line"/>
-      <point x="837.0" y="109.0" type="line"/>
-      <point x="527.0" y="104.0" type="line"/>
-      <point x="553.0" y="284.0" type="line"/>
-      <point x="755.0" y="280.0" type="line"/>
-      <point x="766.0" y="384.0" type="line"/>
-      <point x="566.0" y="382.0" type="line"/>
-      <point x="590.0" y="541.0" type="line"/>
-      <point x="857.0" y="540.0" type="line"/>
-      <point x="867.0" y="646.0" type="line"/>
-      <point x="180.0" y="646.0" type="line"/>
-      <point x="170.0" y="580.0" type="line"/>
-      <point x="293.0" y="567.0" type="line"/>
+      <point x="-57.179" y="0.0" type="line"/>
+      <point x="110.462" y="0.0" type="line"/>
+      <point x="188.308" y="125.103" type="line"/>
+      <point x="408.667" y="125.103" type="line"/>
+      <point x="389.487" y="0.0" type="line"/>
+      <point x="845.513" y="0.0" type="line"/>
+      <point x="859.154" y="120.487" type="line"/>
+      <point x="556.128" y="115.897" type="line"/>
+      <point x="580.897" y="278.667" type="line"/>
+      <point x="780.436" y="275.487" type="line"/>
+      <point x="793.897" y="390.564" type="line"/>
+      <point x="595.538" y="388.564" type="line"/>
+      <point x="618.308" y="528.692" type="line"/>
+      <point x="883.256" y="528.103" type="line"/>
+      <point x="896.128" y="646.0" type="line"/>
+      <point x="186.564" y="646.0" type="line"/>
+      <point x="174.923" y="573.026" type="line"/>
+      <point x="293.0" y="558.795" type="line"/>
     </contour>
     <contour>
-      <point x="227.0" y="234.0" type="line"/>
-      <point x="415.0" y="549.0" type="line"/>
-      <point x="454.0" y="546.0" type="line"/>
-      <point x="410.0" y="234.0" type="line"/>
+      <point x="245.051" y="231.949" type="line"/>
+      <point x="428.538" y="537.513" type="line"/>
+      <point x="466.718" y="534.513" type="line"/>
+      <point x="422.308" y="231.949" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>RMXScaler</key>
-      <dict>
-        <key>adjustSpace</key>
-        <integer>2</integer>
-        <key>height</key>
-        <integer>87</integer>
-        <key>weight</key>
-        <integer>2</integer>
-        <key>width</key>
-        <integer>96</integer>
-      </dict>
-      <key>assembly</key>
-      <string>NPUSHB[ ]	/* 70 values pushed */
-19 14 13 3 7 6 1 74 0 0 0 1 8 0 1 97 10 1 8 0 4 2 8 4 97 9 1 7 7 6 89 0 6 6 17 75 0 2 2 3 89 5 1 3 3 18 3 76 18 18 0 0 18 21 18 21 0 17 0 17 19 17 17 17 17 17 17 11 7 27 
-CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>e.sc</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 04:48:27</string>
+      <string>2019/02/18 20:31:10</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

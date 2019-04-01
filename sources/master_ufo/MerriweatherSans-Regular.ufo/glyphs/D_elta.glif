@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Delta" format="2">
-  <advance width="770.0"/>
+  <advance width="773.91111"/>
   <unicode hex="0394"/>
   <outline>
     <component base="increment"/>
@@ -8,7 +8,11 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/07 16:34:40</string>
+      <string>2019/02/18 20:30:01</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
     </dict>
   </lib>
 </glyph>

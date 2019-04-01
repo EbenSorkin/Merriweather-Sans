@@ -8,9 +8,9 @@ kgreenlandic
   <outline>
     <contour>
       <point x="374.225" y="0.0" type="line"/>
-      <point x="496.90000000000003" y="0.0" type="line"/>
-      <point x="323.15000000000003" y="293.625" type="line"/>
-      <point x="416.52500000000003" y="340.95"/>
+      <point x="496.9" y="0.0" type="line"/>
+      <point x="323.15" y="293.625" type="line"/>
+      <point x="416.525" y="340.95"/>
       <point x="518.325" y="455.35"/>
       <point x="528.0" y="563.025" type="curve"/>
       <point x="423.675" y="563.025" type="line"/>
@@ -20,8 +20,8 @@ kgreenlandic
     </contour>
     <contour>
       <point x="40.35" y="0.0" type="line"/>
-      <point x="148.35000000000002" y="0.0" type="line"/>
-      <point x="224.35000000000002" y="563.025" type="line"/>
+      <point x="148.35" y="0.0" type="line"/>
+      <point x="224.35" y="563.025" type="line"/>
       <point x="116.35" y="563.025" type="line"/>
     </contour>
   </outline>
@@ -32,7 +32,7 @@ kgreenlandic
 10 7 2 0 1 1 74 3 4 2 1 1 20 75 2 1 0 0 18 0 76 0 0 17 16 9 8 0 3 0 3 17 5 7 21 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:02</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

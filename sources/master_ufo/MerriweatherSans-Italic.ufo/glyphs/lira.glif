@@ -1,84 +1,80 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="lira" format="2">
-  <advance width="733.0"/>
+  <advance width="733.325"/>
   <unicode hex="20A4"/>
   <note>
 lira
 </note>
   <outline>
     <contour>
-      <point x="58.0" y="-10.0" type="curve" smooth="yes"/>
+      <point x="58.975" y="-10.0" type="curve" smooth="yes"/>
       <point x="97.0" y="-10.0"/>
-      <point x="142.0" y="16.0"/>
-      <point x="169.0" y="49.0" type="curve"/>
-      <point x="247.0" y="31.0"/>
-      <point x="333.0" y="-10.0"/>
-      <point x="428.0" y="-10.0" type="curve" smooth="yes"/>
-      <point x="589.0" y="-10.0"/>
-      <point x="670.0" y="49.0"/>
-      <point x="670.0" y="167.0" type="curve" smooth="yes"/>
-      <point x="670.0" y="216.0"/>
-      <point x="642.0" y="267.0"/>
-      <point x="602.0" y="299.0" type="curve"/>
-      <point x="524.0" y="240.0" type="line"/>
-      <point x="548.0" y="227.0"/>
-      <point x="568.0" y="190.0"/>
-      <point x="568.0" y="163.0" type="curve" smooth="yes"/>
-      <point x="568.0" y="98.0"/>
-      <point x="526.0" y="62.0"/>
-      <point x="414.0" y="62.0" type="curve" smooth="yes"/>
-      <point x="366.0" y="62.0"/>
-      <point x="327.0" y="70.0"/>
-      <point x="225.0" y="102.0" type="curve"/>
-      <point x="264.0" y="161.0"/>
-      <point x="279.0" y="197.0"/>
-      <point x="295.0" y="284.0" type="curve"/>
-      <point x="474.0" y="284.0" type="line"/>
-      <point x="483.0" y="352.0" type="line"/>
-      <point x="307.0" y="352.0" type="line"/>
-      <point x="318.0" y="416.0" type="line"/>
-      <point x="503.0" y="416.0" type="line"/>
-      <point x="512.0" y="484.0" type="line"/>
-      <point x="330.0" y="484.0" type="line"/>
-      <point x="351.0" y="599.0"/>
-      <point x="423.0" y="684.0"/>
-      <point x="483.0" y="684.0" type="curve" smooth="yes"/>
-      <point x="529.0" y="684.0"/>
-      <point x="570.0" y="661.0"/>
-      <point x="585.0" y="646.0" type="curve"/>
-      <point x="627.0" y="714.0" type="line"/>
-      <point x="599.0" y="745.0"/>
-      <point x="543.0" y="754.0"/>
-      <point x="498.0" y="754.0" type="curve" smooth="yes"/>
-      <point x="346.0" y="754.0"/>
-      <point x="255.0" y="642.0"/>
-      <point x="229.0" y="484.0" type="curve"/>
-      <point x="117.0" y="484.0" type="line"/>
-      <point x="107.0" y="416.0" type="line"/>
-      <point x="218.0" y="416.0" type="line"/>
-      <point x="207.0" y="352.0" type="line"/>
-      <point x="88.0" y="352.0" type="line"/>
-      <point x="79.0" y="284.0" type="line"/>
-      <point x="195.0" y="284.0" type="line"/>
-      <point x="188.0" y="241.0" type="line"/>
-      <point x="181.0" y="186.0"/>
-      <point x="168.0" y="138.0"/>
-      <point x="139.0" y="115.0" type="curve"/>
-      <point x="60.0" y="100.0"/>
-      <point x="15.0" y="66.0"/>
-      <point x="15.0" y="29.0" type="curve" smooth="yes"/>
-      <point x="15.0" y="4.0"/>
-      <point x="35.0" y="-10.0"/>
+      <point x="142.325" y="15.025"/>
+      <point x="168.675" y="47.7" type="curve"/>
+      <point x="251.55" y="31.0"/>
+      <point x="331.05" y="-10.0"/>
+      <point x="435.475" y="-10.0" type="curve" smooth="yes"/>
+      <point x="605.575" y="-10.0"/>
+      <point x="678.125" y="60.05"/>
+      <point x="678.125" y="171.875" type="curve" smooth="yes"/>
+      <point x="678.125" y="220.875"/>
+      <point x="647.525" y="273.175"/>
+      <point x="605.9" y="303.55" type="curve"/>
+      <point x="523.675" y="240.65" type="line"/>
+      <point x="546.05" y="228.3"/>
+      <point x="566.05" y="193.25"/>
+      <point x="566.05" y="166.9" type="curve" smooth="yes"/>
+      <point x="566.05" y="108.725"/>
+      <point x="518.2" y="71.1"/>
+      <point x="416.925" y="71.1" type="curve" smooth="yes"/>
+      <point x="365.025" y="71.1"/>
+      <point x="314.0" y="79.75"/>
+      <point x="232.15" y="105.575" type="curve"/>
+      <point x="269.2" y="161.0"/>
+      <point x="287.45" y="200.25"/>
+      <point x="302.475" y="284.0" type="curve"/>
+      <point x="469.775" y="284.0" type="line"/>
+      <point x="478.45" y="353.625" type="line"/>
+      <point x="314.15" y="353.625" type="line"/>
+      <point x="325.15" y="420.225" type="line"/>
+      <point x="498.775" y="420.225" type="line"/>
+      <point x="507.45" y="489.525" type="line"/>
+      <point x="336.825" y="489.525" type="line"/>
+      <point x="355.225" y="598.35"/>
+      <point x="419.75" y="674.9"/>
+      <point x="479.75" y="674.9" type="curve" smooth="yes"/>
+      <point x="526.4" y="674.9"/>
+      <point x="568.375" y="648.65"/>
+      <point x="582.725" y="631.375" type="curve"/>
+      <point x="632.2" y="711.075" type="line"/>
+      <point x="604.2" y="740.775"/>
+      <point x="545.925" y="754.0"/>
+      <point x="490.525" y="754.0" type="curve" smooth="yes"/>
+      <point x="341.45" y="754.0"/>
+      <point x="248.5" y="649.8"/>
+      <point x="222.175" y="489.525" type="curve"/>
+      <point x="117.325" y="489.525" type="line"/>
+      <point x="108.3" y="420.225" type="line"/>
+      <point x="211.175" y="420.225" type="line"/>
+      <point x="200.5" y="353.625" type="line"/>
+      <point x="88.65" y="353.625" type="line"/>
+      <point x="79.975" y="284.0" type="line"/>
+      <point x="188.825" y="284.0" type="line"/>
+      <point x="181.5" y="239.7" type="line"/>
+      <point x="174.5" y="186.975"/>
+      <point x="161.175" y="139.95"/>
+      <point x="135.425" y="118.9" type="curve"/>
+      <point x="63.25" y="108.775"/>
+      <point x="9.8" y="74.45"/>
+      <point x="9.8" y="32.575" type="curve" smooth="yes"/>
+      <point x="9.8" y="5.625"/>
+      <point x="30.45" y="-10.0"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>assembly</key>
-      <string>NPUSHB[ ]	/* 90 values pushed */
-7 1 1 0 8 1 2 1 37 1 5 4 36 26 2 6 5 47 1 7 6 5 74 13 12 2 2 11 1 3 4 2 3 97 10 1 4 9 1 5 6 4 5 97 0 1 1 0 91 0 0 0 25 75 0 6 6 7 91 8 1 7 7 26 7 76 0 0 0 66 0 66 65 64 63 62 61 60 38 42 38 17 17 17 19 38 35 14 7 29 
-CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:16</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

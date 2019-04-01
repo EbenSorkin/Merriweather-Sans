@@ -9,13 +9,13 @@ Y
   <anchor x="70.0" y="651.0" name="topleft"/>
   <outline>
     <contour>
-      <point x="171.79999999999998" y="0.0" type="line"/>
+      <point x="171.8" y="0.0" type="line"/>
       <point x="278.45" y="0.0" type="line"/>
       <point x="311.1" y="251.0" type="line"/>
       <point x="584.75" y="650.0" type="line"/>
       <point x="464.8" y="650.0" type="line"/>
       <point x="289.2" y="382.975" type="line"/>
-      <point x="270.575" y="341.77500000000003" type="line"/>
+      <point x="270.575" y="341.775" type="line"/>
       <point x="255.225" y="382.975" type="line"/>
       <point x="148.0" y="650.0" type="line"/>
       <point x="31.0" y="650.0" type="line"/>
@@ -42,7 +42,7 @@ CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:50:25</string>
+      <string>2019/02/18 20:31:10</string>
       <key>public.markColor</key>
       <string>0,0.67,0.91,1</string>
     </dict>

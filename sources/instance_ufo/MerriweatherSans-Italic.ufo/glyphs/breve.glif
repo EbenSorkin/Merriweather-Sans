@@ -17,9 +17,9 @@ breve
       <point x="174.95" y="712.525" type="curve" smooth="yes"/>
       <point x="120.375" y="712.525"/>
       <point x="99.625" y="744.175"/>
-      <point x="94.22500000000001" y="808.275" type="curve"/>
+      <point x="94.225" y="808.275" type="curve"/>
       <point x="24.0" y="808.275" type="line"/>
-      <point x="7.049999999999997" y="716.325"/>
+      <point x="7.050000000000001" y="716.325"/>
       <point x="71.425" y="635.0"/>
     </contour>
   </outline>
@@ -36,7 +36,7 @@ PUSHB[ ]	/* 2 values pushed */
 6 0 
 WCVTP[ ]	/* WriteCVTInPixels */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:12</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

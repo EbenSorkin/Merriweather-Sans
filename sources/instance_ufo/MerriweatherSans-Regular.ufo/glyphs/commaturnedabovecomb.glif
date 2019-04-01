@@ -5,18 +5,18 @@
   <anchor x="0.0" y="990.0" name="top"/>
   <outline>
     <contour>
-      <point x="6.0" y="630.1333333333333" type="curve" smooth="yes"/>
-      <point x="11.0" y="630.1333333333333" type="line" smooth="yes"/>
-      <point x="26.0" y="630.1333333333333"/>
-      <point x="65.0" y="637.1333333333333"/>
-      <point x="65.0" y="678.1333333333333" type="curve" smooth="yes"/>
-      <point x="65.0" y="701.1333333333333"/>
-      <point x="54.0" y="711.1333333333333"/>
-      <point x="42.0" y="719.1333333333333" type="curve" smooth="yes"/>
-      <point x="30.0" y="727.1333333333333"/>
-      <point x="16.0" y="737.1333333333333"/>
-      <point x="16.0" y="759.1333333333333" type="curve" smooth="yes"/>
-      <point x="16.0" y="793.1333333333333"/>
+      <point x="6.0" y="630.133" type="curve" smooth="yes"/>
+      <point x="11.0" y="630.133" type="line" smooth="yes"/>
+      <point x="26.0" y="630.133"/>
+      <point x="65.0" y="637.133"/>
+      <point x="65.0" y="678.133" type="curve" smooth="yes"/>
+      <point x="65.0" y="701.133"/>
+      <point x="54.0" y="711.133"/>
+      <point x="42.0" y="719.133" type="curve" smooth="yes"/>
+      <point x="30.0" y="727.133"/>
+      <point x="16.0" y="737.133"/>
+      <point x="16.0" y="759.133" type="curve" smooth="yes"/>
+      <point x="16.0" y="793.133"/>
       <point x="33.0" y="825.0"/>
       <point x="58.0" y="836.0" type="curve"/>
       <point x="58.0" y="843.0" type="line"/>
@@ -24,15 +24,15 @@
       <point x="23.0" y="864.0" type="line"/>
       <point x="10.0" y="860.0"/>
       <point x="-68.0" y="805.0"/>
-      <point x="-68.0" y="718.1333333333333" type="curve" smooth="yes"/>
-      <point x="-68.0" y="661.1333333333333"/>
-      <point x="-39.0" y="630.1333333333333"/>
+      <point x="-68.0" y="718.133" type="curve" smooth="yes"/>
+      <point x="-68.0" y="661.133"/>
+      <point x="-39.0" y="630.133"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:51:28</string>
+      <string>2019/02/18 20:30:01</string>
     </dict>
   </lib>
 </glyph>

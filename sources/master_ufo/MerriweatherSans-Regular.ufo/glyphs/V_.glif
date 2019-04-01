@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="V" format="2">
-  <advance width="662.0"/>
+  <advance width="664.66667"/>
   <unicode hex="0056"/>
-  <anchor x="331.0" y="0.0" name="bottom"/>
-  <anchor x="332.0" y="-83.0" name="btm"/>
-  <anchor x="332.0" y="830.0" name="top"/>
+  <anchor x="332.422" y="0.0" name="bottom"/>
+  <anchor x="333.244" y="-83.0" name="btm"/>
+  <anchor x="333.244" y="830.178" name="top"/>
   <outline>
     <contour>
-      <point x="289.0" y="-6.0" type="line"/>
-      <point x="380.0" y="-6.0" type="line"/>
-      <point x="651.0" y="743.0" type="line"/>
-      <point x="537.0" y="743.0" type="line"/>
-      <point x="369.0" y="243.0" type="line"/>
-      <point x="335.0" y="128.0" type="line"/>
-      <point x="302.0" y="243.0" type="line"/>
-      <point x="126.0" y="743.0" type="line"/>
-      <point x="11.0" y="743.0" type="line"/>
+      <point x="286.333" y="-5.467" type="line"/>
+      <point x="384.622" y="-5.467" type="line"/>
+      <point x="655.978" y="743.0" type="line"/>
+      <point x="532.911" y="743.0" type="line"/>
+      <point x="371.311" y="259.711" type="line"/>
+      <point x="336.244" y="140.089" type="line"/>
+      <point x="302.178" y="259.711" type="line"/>
+      <point x="132.756" y="743.0" type="line"/>
+      <point x="8.689" y="743.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/16 05:39:16</string>
+      <string>2019/02/18 20:30:01</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>

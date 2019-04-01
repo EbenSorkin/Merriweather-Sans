@@ -4,7 +4,7 @@
   <note>
 hungarumlaut
 </note>
-  <anchor x="43.74999999999999" y="557.0" name="_top"/>
+  <anchor x="43.75" y="557.0" name="_top"/>
   <anchor x="73.75" y="788.0" name="top"/>
   <outline>
     <contour>
@@ -16,12 +16,12 @@ hungarumlaut
       <point x="94.7" y="643.1" type="line"/>
     </contour>
     <contour>
-      <point x="-68.60000000000001" y="614.825" type="line"/>
-      <point x="-24.275000000000006" y="639.85"/>
+      <point x="-68.6" y="614.825" type="line"/>
+      <point x="-24.275" y="639.85"/>
       <point x="55.625" y="741.15"/>
       <point x="75.65" y="790.075" type="curve"/>
-      <point x="-0.22500000000000675" y="849.375" type="line"/>
-      <point x="-117.82500000000002" y="643.1" type="line"/>
+      <point x="-0.22499999999999964" y="849.375" type="line"/>
+      <point x="-117.825" y="643.1" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -31,7 +31,7 @@ hungarumlaut
 11 6 4 0 2 48 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:12</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

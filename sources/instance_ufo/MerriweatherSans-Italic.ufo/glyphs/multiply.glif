@@ -7,18 +7,18 @@ multiply
 </note>
   <outline>
     <contour>
-      <point x="267.97500000000014" y="148.475" type="line"/>
-      <point x="416.7750000000001" y="288.275" type="line"/>
-      <point x="459.84999999999997" y="225.8250000000001" type="line"/>
-      <point x="564.475" y="318.97500000000014" type="line"/>
-      <point x="443.4750000000001" y="452.97500000000014" type="line"/>
-      <point x="510.2249999999999" y="503.74999999999994" type="line"/>
-      <point x="431.97499999999985" y="600.8" type="line"/>
-      <point x="282.82499999999993" y="461.00000000000006" type="line"/>
-      <point x="239.10000000000002" y="523.7749999999999" type="line"/>
-      <point x="134.79999999999998" y="430.6249999999999" type="line"/>
-      <point x="255.79999999999993" y="297.2999999999999" type="line"/>
-      <point x="188.4000000000001" y="245.52500000000003" type="line"/>
+      <point x="267.975" y="148.475" type="line"/>
+      <point x="416.775" y="288.275" type="line"/>
+      <point x="459.85" y="225.825" type="line"/>
+      <point x="564.475" y="318.975" type="line"/>
+      <point x="443.475" y="452.975" type="line"/>
+      <point x="510.225" y="503.75" type="line"/>
+      <point x="431.975" y="600.8" type="line"/>
+      <point x="282.825" y="461.0" type="line"/>
+      <point x="239.1" y="523.775" type="line"/>
+      <point x="134.8" y="430.625" type="line"/>
+      <point x="255.8" y="297.3" type="line"/>
+      <point x="188.4" y="245.525" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -28,7 +28,7 @@ multiply
 10 4 1 48 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:16</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

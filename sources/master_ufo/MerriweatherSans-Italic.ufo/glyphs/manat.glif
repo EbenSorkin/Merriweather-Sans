@@ -1,39 +1,39 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="manat" format="2">
-  <advance width="765.0"/>
+  <advance width="758.5"/>
   <unicode hex="20BC"/>
   <outline>
     <contour>
-      <point x="33.0" y="0.0" type="line"/>
-      <point x="137.0" y="0.0" type="line"/>
-      <point x="184.0" y="344.0" type="line" smooth="yes"/>
-      <point x="201.0" y="474.0"/>
-      <point x="291.0" y="536.0"/>
-      <point x="418.0" y="536.0" type="curve" smooth="yes"/>
-      <point x="549.0" y="536.0"/>
-      <point x="617.0" y="474.0"/>
-      <point x="600.0" y="344.0" type="curve" smooth="yes"/>
-      <point x="553.0" y="2.0" type="line"/>
-      <point x="658.0" y="0.0" type="line"/>
-      <point x="702.0" y="328.0" type="line" smooth="yes"/>
-      <point x="731.0" y="544.0"/>
+      <point x="29.75" y="0.0" type="line"/>
+      <point x="147.075" y="0.0" type="line"/>
+      <point x="193.425" y="344.0" type="line" smooth="yes"/>
+      <point x="211.075" y="478.875"/>
+      <point x="298.475" y="532.425"/>
+      <point x="416.05" y="532.425" type="curve" smooth="yes"/>
+      <point x="536.975" y="532.425"/>
+      <point x="601.075" y="478.875"/>
+      <point x="583.425" y="344.0" type="curve" smooth="yes"/>
+      <point x="536.75" y="2.0" type="line"/>
+      <point x="654.75" y="0.0" type="line"/>
+      <point x="698.75" y="328.0" type="line" smooth="yes"/>
+      <point x="727.75" y="544.0"/>
       <point x="606.0" y="633.0"/>
-      <point x="417.0" y="633.0" type="curve" smooth="yes"/>
-      <point x="265.0" y="633.0"/>
-      <point x="107.0" y="550.0"/>
-      <point x="78.0" y="333.0" type="curve" smooth="yes"/>
+      <point x="413.75" y="633.0" type="curve" smooth="yes"/>
+      <point x="258.5" y="633.0"/>
+      <point x="103.75" y="550.0"/>
+      <point x="74.75" y="333.0" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="312.0" y="138.0" type="line"/>
-      <point x="416.0" y="138.0" type="line"/>
-      <point x="504.0" y="785.0" type="line"/>
-      <point x="399.0" y="785.0" type="line"/>
+      <point x="305.175" y="138.0" type="line"/>
+      <point x="418.6" y="138.0" type="line"/>
+      <point x="506.6" y="785.0" type="line"/>
+      <point x="392.5" y="785.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:16</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

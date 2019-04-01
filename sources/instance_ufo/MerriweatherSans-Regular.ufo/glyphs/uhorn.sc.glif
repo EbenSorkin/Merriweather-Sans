@@ -1,29 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uhorn.sc" format="2">
-  <advance width="697.3333333333334"/>
-  <anchor x="348.6666666666667" y="0.0" name="bottom"/>
-  <anchor x="352.9555555555556" y="-72.0" name="btm"/>
-  <anchor x="353.9555555555556" y="722.0" name="top"/>
+  <advance width="697.33333"/>
+  <anchor x="348.667" y="0.0" name="bottom"/>
+  <anchor x="352.956" y="-72.0" name="btm"/>
+  <anchor x="353.956" y="722.0" name="top"/>
   <outline>
     <contour>
-      <point x="351.77777777777777" y="-7.0" type="curve" smooth="yes"/>
-      <point x="534.6222222222223" y="-7.0"/>
-      <point x="623.2222222222222" y="91.71111111111111"/>
-      <point x="623.2222222222222" y="269.8222222222222" type="curve" smooth="yes"/>
-      <point x="623.2222222222222" y="646.0" type="line"/>
-      <point x="506.0444444444445" y="646.0" type="line"/>
-      <point x="506.0444444444445" y="289.1777777777778" type="line" smooth="yes"/>
-      <point x="506.0444444444445" y="145.33333333333331"/>
-      <point x="461.8222222222222" y="86.75555555555553"/>
-      <point x="354.77777777777777" y="86.75555555555553" type="curve" smooth="yes"/>
-      <point x="239.46666666666664" y="86.75555555555553"/>
-      <point x="193.28888888888886" y="140.48888888888888"/>
-      <point x="193.28888888888886" y="289.1777777777778" type="curve" smooth="yes"/>
-      <point x="193.46666666666664" y="646.0" type="line"/>
-      <point x="75.28888888888889" y="646.0" type="line"/>
-      <point x="75.11111111111111" y="272.0" type="line" smooth="yes"/>
-      <point x="75.11111111111111" y="100.77777777777777"/>
-      <point x="149.86666666666667" y="-7.0"/>
+      <point x="351.778" y="-7.0" type="curve" smooth="yes"/>
+      <point x="534.622" y="-7.0"/>
+      <point x="623.222" y="91.711"/>
+      <point x="623.222" y="269.822" type="curve" smooth="yes"/>
+      <point x="623.222" y="646.0" type="line"/>
+      <point x="506.044" y="646.0" type="line"/>
+      <point x="506.044" y="289.178" type="line" smooth="yes"/>
+      <point x="506.044" y="145.333"/>
+      <point x="461.822" y="86.756"/>
+      <point x="354.778" y="86.756" type="curve" smooth="yes"/>
+      <point x="239.467" y="86.756"/>
+      <point x="193.289" y="140.489"/>
+      <point x="193.289" y="289.178" type="curve" smooth="yes"/>
+      <point x="193.467" y="646.0" type="line"/>
+      <point x="75.289" y="646.0" type="line"/>
+      <point x="75.111" y="272.0" type="line" smooth="yes"/>
+      <point x="75.111" y="100.778"/>
+      <point x="149.867" y="-7.0"/>
     </contour>
   </outline>
   <lib>
@@ -42,7 +42,7 @@
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/16 05:39:16</string>
+      <string>2019/02/18 20:30:01</string>
       <key>public.markColor</key>
       <string>0.98,0.36,0.67,1</string>
     </dict>

@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="j" format="2">
-  <advance width="286.0444444444444"/>
+  <advance width="286.04444"/>
   <unicode hex="006A"/>
-  <anchor x="143.0222222222222" y="-273.0" name="bottom"/>
-  <anchor x="151.95555555555555" y="830.1777777777778" name="top"/>
+  <anchor x="143.022" y="-273.0" name="bottom"/>
+  <anchor x="151.956" y="830.178" name="top"/>
   <outline>
     <component base="jdotless"/>
-    <component base="dotaccent" xOffset="48.866666666666674"/>
+    <component base="dotaccent" xOffset="49.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/01/21 06:08:13</string>
+      <string>2019/02/18 20:30:20</string>
     </dict>
   </lib>
 </glyph>

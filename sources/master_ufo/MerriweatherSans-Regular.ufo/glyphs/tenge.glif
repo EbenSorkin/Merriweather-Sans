@@ -1,31 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tenge" format="2">
-  <advance width="636.0"/>
+  <advance width="631.37778"/>
   <unicode hex="20B8"/>
-  <anchor x="314.0" y="-83.0" name="btm"/>
-  <anchor x="314.0" y="830.0" name="top"/>
+  <anchor x="312.044" y="-83.0" name="btm"/>
+  <anchor x="312.044" y="830.0" name="top"/>
   <outline>
     <contour>
-      <point x="263.0" y="0.0" type="line"/>
-      <point x="373.0" y="0.0" type="line"/>
-      <point x="373.0" y="473.0" type="line"/>
-      <point x="605.0" y="473.0" type="line"/>
-      <point x="605.0" y="557.0" type="line"/>
-      <point x="31.0" y="557.0" type="line"/>
-      <point x="31.0" y="473.0" type="line"/>
-      <point x="263.0" y="473.0" type="line"/>
+      <point x="256.778" y="0.0" type="line"/>
+      <point x="374.956" y="0.0" type="line"/>
+      <point x="374.956" y="466.778" type="line"/>
+      <point x="603.4" y="466.778" type="line"/>
+      <point x="603.4" y="557.0" type="line"/>
+      <point x="28.156" y="557.0" type="line"/>
+      <point x="28.156" y="466.778" type="line"/>
+      <point x="256.778" y="466.778" type="line"/>
     </contour>
     <contour>
-      <point x="31.0" y="659.0" type="line"/>
-      <point x="605.0" y="659.0" type="line"/>
-      <point x="605.0" y="743.0" type="line"/>
-      <point x="31.0" y="743.0" type="line"/>
+      <point x="28.156" y="652.778" type="line"/>
+      <point x="603.4" y="652.778" type="line"/>
+      <point x="603.4" y="743.0" type="line"/>
+      <point x="28.156" y="743.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/01/21 06:08:13</string>
+      <string>2019/02/18 20:30:01</string>
     </dict>
   </lib>
 </glyph>

@@ -6,8 +6,8 @@ ogonek
   <anchor x="-36.675" y="0.0" name="_ogonek"/>
   <outline>
     <contour>
-      <point x="-186.8" y="-218.82500000000002" type="curve" smooth="yes"/>
-      <point x="-131.25" y="-218.82500000000002"/>
+      <point x="-186.8" y="-218.825" type="curve" smooth="yes"/>
+      <point x="-131.25" y="-218.825"/>
       <point x="-89.275" y="-195.55"/>
       <point x="-58.675" y="-168.625" type="curve"/>
       <point x="-82.7" y="-118.65" type="line"/>
@@ -19,14 +19,14 @@ ogonek
       <point x="-178.975" y="-110.275" type="curve" smooth="yes"/>
       <point x="-178.975" y="-78.275"/>
       <point x="-144.025" y="-46.975"/>
-      <point x="-74.39999999999999" y="0.0" type="curve"/>
-      <point x="-108.95" y="26.074999999999996" type="line"/>
-      <point x="-152.675" y="0.6500000000000009" type="line"/>
-      <point x="-232.10000000000002" y="-40.625"/>
-      <point x="-281.125" y="-82.47500000000001"/>
-      <point x="-281.125" y="-142.20000000000002" type="curve" smooth="yes"/>
-      <point x="-281.125" y="-183.82500000000002"/>
-      <point x="-244.125" y="-218.82500000000002"/>
+      <point x="-74.4" y="0.0" type="curve"/>
+      <point x="-108.95" y="26.075" type="line"/>
+      <point x="-152.675" y="0.65" type="line"/>
+      <point x="-232.1" y="-40.625"/>
+      <point x="-281.125" y="-82.475"/>
+      <point x="-281.125" y="-142.2" type="curve" smooth="yes"/>
+      <point x="-281.125" y="-183.825"/>
+      <point x="-244.125" y="-218.825"/>
     </contour>
   </outline>
   <lib>
@@ -42,7 +42,7 @@ PUSHB[ ]	/* 2 values pushed */
 6 0 
 WCVTP[ ]	/* WriteCVTInPixels */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:12</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

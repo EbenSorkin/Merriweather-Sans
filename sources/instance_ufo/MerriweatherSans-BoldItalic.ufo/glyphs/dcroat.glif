@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dcroat" format="2">
-  <advance width="606.0769230769231"/>
+  <advance width="606.07692"/>
   <unicode hex="0111"/>
   <note>
 dcroat
 </note>
-  <anchor x="266.3333333333333" y="0.0" name="bottom"/>
-  <anchor x="303.3333333333333" y="279.0" name="center"/>
+  <anchor x="266.333" y="0.0" name="bottom"/>
+  <anchor x="303.333" y="279.0" name="center"/>
   <anchor x="265.0" y="557.0" name="top"/>
-  <anchor x="623.0769230769231" y="557.0" name="topright"/>
+  <anchor x="623.077" y="557.0" name="topright"/>
   <outline>
     <contour>
-      <point x="311.2307692307692" y="616.0" type="line"/>
-      <point x="650.6410256410256" y="616.0" type="line"/>
-      <point x="658.6410256410256" y="680.0" type="line"/>
-      <point x="319.2307692307692" y="680.0" type="line"/>
+      <point x="311.231" y="616.0" type="line"/>
+      <point x="650.641" y="616.0" type="line"/>
+      <point x="658.641" y="680.0" type="line"/>
+      <point x="319.231" y="680.0" type="line"/>
     </contour>
     <component base="d"/>
   </outline>
@@ -38,7 +38,7 @@ NPUSHB[ ]	/* 18 values pushed */
 25 25 25 39 25 38 39 17 17 17 18 37 35 17 16 11 7 29 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:02</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

@@ -6,32 +6,28 @@
 Z
 </note>
   <anchor x="246.0" y="0.0" name="bottom"/>
-  <anchor x="296.0" y="375.0" name="center"/>
-  <anchor x="359.0" y="750.0" name="top"/>
+  <anchor x="296.0" y="374.59" name="center"/>
+  <anchor x="364.744" y="748.769" name="top"/>
   <outline>
     <contour>
-      <point x="0.0" y="0.0" type="line"/>
-      <point x="490.0" y="0.0" type="line"/>
-      <point x="508.0" y="113.0" type="line"/>
-      <point x="173.0" y="107.0" type="line"/>
-      <point x="224.0" y="161.0" type="line"/>
-      <point x="596.0" y="705.0" type="line"/>
-      <point x="584.0" y="747.0" type="line"/>
+      <point x="-8.205" y="0.0" type="line"/>
+      <point x="489.59" y="0.0" type="line"/>
+      <point x="509.641" y="125.308" type="line"/>
+      <point x="188.179" y="119.718" type="line"/>
+      <point x="235.077" y="166.333" type="line"/>
+      <point x="603.385" y="705.0" type="line"/>
+      <point x="591.795" y="747.0" type="line"/>
       <point x="126.0" y="747.0" type="line"/>
-      <point x="110.0" y="637.0" type="line"/>
-      <point x="422.0" y="643.0" type="line"/>
-      <point x="366.0" y="587.0" type="line"/>
-      <point x="-13.0" y="43.0" type="line"/>
+      <point x="107.538" y="625.103" type="line"/>
+      <point x="408.872" y="630.692" type="line"/>
+      <point x="357.385" y="584.128" type="line"/>
+      <point x="-21.205" y="43.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>assembly</key>
-      <string>NPUSHB[ ]	/* 28 values pushed */
-0 0 0 1 89 0 1 1 17 75 0 2 2 3 89 0 3 3 18 3 76 17 19 17 17 4 7 24 
-CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:02</string>
+      <string>2019/02/18 20:31:10</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

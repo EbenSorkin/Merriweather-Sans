@@ -13,8 +13,8 @@ OE
       <point x="541.0" y="122.475" type="curve"/>
       <point x="525.325" y="0.0" type="line"/>
       <point x="972.475" y="0.0" type="line"/>
-      <point x="981.1" y="90.10000000000001" type="line"/>
-      <point x="644.625" y="82.75000000000001" type="line"/>
+      <point x="981.1" y="90.1" type="line"/>
+      <point x="644.625" y="82.75" type="line"/>
       <point x="679.0" y="342.775" type="line"/>
       <point x="893.375" y="335.425" type="line"/>
       <point x="901.0" y="425.2" type="line"/>
@@ -28,7 +28,7 @@ OE
       <point x="498.325" y="755.0"/>
       <point x="397.65" y="755.0" type="curve" smooth="yes"/>
       <point x="265.4" y="755.0"/>
-      <point x="154.42499999999998" y="670.7"/>
+      <point x="154.425" y="670.7"/>
       <point x="94.425" y="534.075" type="curve" smooth="yes"/>
       <point x="64.425" y="465.425"/>
       <point x="49.425" y="389.1"/>
@@ -40,18 +40,18 @@ OE
       <point x="240.65" y="-8.0"/>
     </contour>
     <contour>
-      <point x="309.3" y="75.10000000000001" type="curve" smooth="yes"/>
-      <point x="211.175" y="75.10000000000001"/>
+      <point x="309.3" y="75.1" type="curve" smooth="yes"/>
+      <point x="211.175" y="75.1"/>
       <point x="165.125" y="148.225"/>
       <point x="162.425" y="313.4" type="curve" smooth="yes"/>
-      <point x="159.72500000000002" y="478.875"/>
+      <point x="159.725" y="478.875"/>
       <point x="241.175" y="669.55"/>
       <point x="382.0" y="669.55" type="curve" smooth="yes"/>
       <point x="485.0" y="669.55"/>
       <point x="527.175" y="591.3"/>
       <point x="529.2" y="433.6" type="curve" smooth="yes"/>
       <point x="530.55" y="265.1"/>
-      <point x="452.45" y="75.10000000000001"/>
+      <point x="452.45" y="75.1"/>
     </contour>
   </outline>
   <lib>
@@ -128,7 +128,7 @@ NPUSHB[ ]	/* 24 values pushed */
 27 27 0 0 27 39 27 38 33 31 0 26 0 26 19 38 35 17 17 17 17 12 7 27 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:02</string>
+      <string>2019/02/18 20:31:10</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

@@ -1,30 +1,30 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="four.osf" format="2">
-  <advance width="631.1025641025641"/>
+  <advance width="631.10256"/>
   <note>
 four
 </note>
   <outline>
     <contour>
-      <point x="305.4102564102564" y="-183.0" type="line"/>
-      <point x="445.94871794871796" y="-183.0" type="line"/>
-      <point x="468.94871794871796" y="0.0" type="line"/>
-      <point x="573.4358974358975" y="0.0" type="line"/>
-      <point x="589.6666666666666" y="114.61538461538461" type="line"/>
-      <point x="484.0" y="108.02564102564102" type="line"/>
-      <point x="509.35897435897436" y="317.0" type="line"/>
-      <point x="370.2307692307692" y="300.0" type="line"/>
-      <point x="344.05128205128204" y="104.02564102564102" type="line"/>
-      <point x="152.66666666666666" y="95.02564102564102" type="line"/>
-      <point x="191.66666666666666" y="148.25641025641025" type="line"/>
-      <point x="453.05128205128204" y="570.0" type="line"/>
-      <point x="404.2051282051282" y="613.0" type="line"/>
-      <point x="295.1794871794872" y="613.0" type="line"/>
-      <point x="219.92307692307693" y="460.6923076923077"/>
-      <point x="116.33333333333334" y="270.5641025641026"/>
-      <point x="2.948717948717949" y="69.97435897435898" type="curve"/>
-      <point x="35.46153846153846" y="0.0" type="line"/>
-      <point x="329.4102564102564" y="0.0" type="line"/>
+      <point x="305.41" y="-183.0" type="line"/>
+      <point x="445.949" y="-183.0" type="line"/>
+      <point x="468.949" y="0.0" type="line"/>
+      <point x="573.436" y="0.0" type="line"/>
+      <point x="589.667" y="114.615" type="line"/>
+      <point x="484.0" y="108.026" type="line"/>
+      <point x="509.359" y="317.0" type="line"/>
+      <point x="370.231" y="300.0" type="line"/>
+      <point x="344.051" y="104.026" type="line"/>
+      <point x="152.667" y="95.026" type="line"/>
+      <point x="191.667" y="148.256" type="line"/>
+      <point x="453.051" y="570.0" type="line"/>
+      <point x="404.205" y="613.0" type="line"/>
+      <point x="295.179" y="613.0" type="line"/>
+      <point x="219.923" y="460.692"/>
+      <point x="116.333" y="270.564"/>
+      <point x="2.949" y="69.974" type="curve"/>
+      <point x="35.462" y="0.0" type="line"/>
+      <point x="329.41" y="0.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -56,7 +56,7 @@ NPUSHB[ ]	/* 14 values pushed */
 0 0 0 17 0 17 17 17 17 19 19 7 7 25 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:03</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

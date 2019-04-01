@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="endash.case" format="2">
-  <advance width="772.0"/>
-  <guideline x="286.0" y="410.0" angle="0.0"/>
-  <guideline x="286.0" y="410.0" angle="0.0"/>
+  <advance width="771.82222"/>
   <outline>
     <component base="endash" yOffset="50.0"/>
   </outline>
@@ -13,7 +11,11 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>hyphen</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:51:05</string>
+      <string>2019/02/18 20:30:01</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
     </dict>
   </lib>
 </glyph>

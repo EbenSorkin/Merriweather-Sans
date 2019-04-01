@@ -1,48 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="y.sc" format="2">
-  <advance width="514.0"/>
+  <advance width="520.825"/>
   <note>
 Y
 </note>
-  <anchor x="221.0" y="0.0" name="bottom"/>
-  <anchor x="307.0" y="651.0" name="top"/>
+  <anchor x="224.25" y="0.0" name="bottom"/>
+  <anchor x="310.25" y="651.0" name="top"/>
   <anchor x="70.0" y="651.0" name="topleft"/>
   <outline>
     <contour>
-      <point x="177.0" y="0.0" type="line"/>
-      <point x="270.0" y="0.0" type="line"/>
-      <point x="302.0" y="251.0" type="line"/>
-      <point x="575.0" y="650.0" type="line"/>
-      <point x="470.0" y="650.0" type="line"/>
-      <point x="284.0" y="369.0" type="line"/>
-      <point x="267.0" y="333.0" type="line"/>
-      <point x="251.0" y="369.0" type="line"/>
-      <point x="135.0" y="650.0" type="line"/>
+      <point x="171.8" y="0.0" type="line"/>
+      <point x="278.45" y="0.0" type="line"/>
+      <point x="311.1" y="251.0" type="line"/>
+      <point x="584.75" y="650.0" type="line"/>
+      <point x="464.8" y="650.0" type="line"/>
+      <point x="289.2" y="382.975" type="line"/>
+      <point x="270.575" y="341.775" type="line"/>
+      <point x="255.225" y="382.975" type="line"/>
+      <point x="148.0" y="650.0" type="line"/>
       <point x="31.0" y="650.0" type="line"/>
-      <point x="209.0" y="251.0" type="line"/>
+      <point x="204.45" y="251.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>RMXScaler</key>
-      <dict>
-        <key>adjustSpace</key>
-        <integer>2</integer>
-        <key>height</key>
-        <integer>87</integer>
-        <key>weight</key>
-        <integer>1</integer>
-        <key>width</key>
-        <integer>96</integer>
-      </dict>
-      <key>assembly</key>
-      <string>NPUSHB[ ]	/* 25 values pushed */
-10 3 2 2 0 1 74 1 1 0 0 17 75 0 2 2 18 2 76 18 20 16 3 7 23 
-CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:50:25</string>
+      <string>2019/02/18 20:31:10</string>
       <key>public.markColor</key>
       <string>0,0.67,0.91,1</string>
     </dict>

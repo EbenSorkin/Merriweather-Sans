@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ntilde" format="2">
-  <advance width="760.0"/>
+  <advance width="766.0"/>
   <unicode hex="00D1"/>
-  <anchor x="380.0" y="0.0" name="bottom"/>
-  <anchor x="363.0" y="-83.0" name="btm"/>
-  <anchor x="387.0" y="1007.0" name="top"/>
+  <anchor x="382.844" y="0.0" name="bottom"/>
+  <anchor x="365.844" y="-83.0" name="btm"/>
+  <anchor x="389.0" y="1013.6220000000001" name="top"/>
   <outline>
     <component base="N"/>
-    <component base="tildecomb.case" xOffset="387.0" yOffset="-14.0"/>
+    <component base="tildecomb.case" xOffset="389.0" yOffset="-12.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 06:18:47</string>
+      <string>2019/02/18 20:30:31</string>
     </dict>
   </lib>
 </glyph>

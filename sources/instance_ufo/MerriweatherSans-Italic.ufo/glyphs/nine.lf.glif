@@ -3,25 +3,25 @@
   <advance width="615.025"/>
   <outline>
     <contour>
-      <point x="153.1" y="-41.925000000000004" type="line"/>
-      <point x="397.675" y="24.424999999999997"/>
+      <point x="153.1" y="-41.925" type="line"/>
+      <point x="397.675" y="24.425"/>
       <point x="564.6" y="244.65"/>
       <point x="564.6" y="493.7" type="curve" smooth="yes"/>
       <point x="564.6" y="628.975"/>
       <point x="500.3" y="747.675"/>
       <point x="347.725" y="747.675" type="curve" smooth="yes"/>
-      <point x="164.54999999999998" y="747.675"/>
+      <point x="164.55" y="747.675"/>
       <point x="73.475" y="598.75"/>
       <point x="73.475" y="456.075" type="curve" smooth="yes"/>
       <point x="73.475" y="355.8"/>
       <point x="136.1" y="247.75"/>
       <point x="267.825" y="247.75" type="curve" smooth="yes"/>
-      <point x="333.97499999999997" y="247.75"/>
-      <point x="388.67499999999995" y="266.8"/>
+      <point x="333.975" y="247.75"/>
+      <point x="388.675" y="266.8"/>
       <point x="419.65" y="296.2" type="curve"/>
-      <point x="381.175" y="191.82500000000002"/>
-      <point x="275.825" y="76.55000000000001"/>
-      <point x="128.17499999999998" y="24.200000000000006" type="curve"/>
+      <point x="381.175" y="191.825"/>
+      <point x="275.825" y="76.55"/>
+      <point x="128.175" y="24.2" type="curve"/>
     </contour>
     <contour>
       <point x="298.675" y="332.225" type="curve" smooth="yes"/>
@@ -35,7 +35,7 @@
       <point x="454.875" y="589.4"/>
       <point x="454.875" y="499.1" type="curve" smooth="yes"/>
       <point x="454.875" y="465.4"/>
-      <point x="452.9" y="436.09999999999997"/>
+      <point x="452.9" y="436.1"/>
       <point x="443.575" y="397.05" type="curve"/>
       <point x="425.55" y="374.675"/>
       <point x="378.525" y="332.225"/>
@@ -44,7 +44,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:03</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

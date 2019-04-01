@@ -4,24 +4,24 @@
   <anchor x="87.0" y="939.0" name="top"/>
   <outline>
     <contour>
-      <point x="70.82051282051282" y="817.0" type="curve" smooth="yes"/>
-      <point x="129.15384615384616" y="817.0"/>
-      <point x="167.97435897435895" y="856.0512820512821"/>
-      <point x="167.97435897435895" y="909.7435897435897" type="curve" smooth="yes"/>
-      <point x="167.97435897435895" y="949.2051282051282"/>
-      <point x="133.5128205128205" y="981.0769230769231"/>
-      <point x="89.64102564102564" y="981.0769230769231" type="curve" smooth="yes"/>
-      <point x="36.71794871794872" y="981.0769230769231"/>
-      <point x="-4.333333333333329" y="940.025641025641"/>
-      <point x="-4.333333333333329" y="889.3333333333334" type="curve" smooth="yes"/>
-      <point x="-4.333333333333329" y="849.8717948717949"/>
-      <point x="31.35897435897436" y="817.0"/>
+      <point x="70.821" y="817.0" type="curve" smooth="yes"/>
+      <point x="129.154" y="817.0"/>
+      <point x="167.974" y="856.051"/>
+      <point x="167.974" y="909.744" type="curve" smooth="yes"/>
+      <point x="167.974" y="949.205"/>
+      <point x="133.513" y="981.077"/>
+      <point x="89.641" y="981.077" type="curve" smooth="yes"/>
+      <point x="36.718" y="981.077"/>
+      <point x="-4.332999999999998" y="940.026"/>
+      <point x="-4.332999999999998" y="889.333" type="curve" smooth="yes"/>
+      <point x="-4.332999999999998" y="849.872"/>
+      <point x="31.359" y="817.0"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:12</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

@@ -2,22 +2,22 @@
 <glyph name="caroncomb" format="2">
   <unicode hex="030C"/>
   <anchor x="0.0" y="830.0" name="_top"/>
-  <anchor x="0.0" y="1020.3111111111111" name="top"/>
+  <anchor x="0.0" y="1020.311" name="top"/>
   <outline>
     <contour>
-      <point x="-184.13333333333333" y="809.7777777777778" type="line"/>
-      <point x="-48.24444444444444" y="643.4" type="line"/>
-      <point x="50.06666666666666" y="643.4" type="line"/>
-      <point x="182.3111111111111" y="808.9555555555555" type="line"/>
+      <point x="-184.133" y="809.778" type="line"/>
+      <point x="-48.244" y="643.4" type="line"/>
+      <point x="50.067" y="643.4" type="line"/>
+      <point x="182.311" y="808.956" type="line"/>
       <point x="114.0" y="839.8" type="line"/>
-      <point x="0.8222222222222226" y="728.6666666666666" type="line"/>
-      <point x="-120.46666666666667" y="839.8" type="line"/>
+      <point x="0.822" y="728.667" type="line"/>
+      <point x="-120.467" y="839.8" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:51:28</string>
+      <string>2019/02/18 20:30:01</string>
     </dict>
   </lib>
 </glyph>

@@ -1,38 +1,38 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="naira" format="2">
-  <advance width="788.2564102564103"/>
+  <advance width="788.25641"/>
   <unicode hex="20A6"/>
   <note>
 uni20A6
 </note>
-  <anchor x="347.5128205128205" y="0.0" name="bottom"/>
-  <anchor x="446.5128205128205" y="748.7692307692307" name="top"/>
+  <anchor x="347.513" y="0.0" name="bottom"/>
+  <anchor x="446.513" y="748.769" name="top"/>
   <outline>
     <contour>
-      <point x="9.589743589743591" y="176.8974358974359" type="line"/>
-      <point x="188.5897435897436" y="176.8974358974359" type="line"/>
-      <point x="201.5897435897436" y="272.0" type="line"/>
-      <point x="22.58974358974359" y="272.0" type="line"/>
+      <point x="9.59" y="176.897" type="line"/>
+      <point x="188.59" y="176.897" type="line"/>
+      <point x="201.59" y="272.0" type="line"/>
+      <point x="22.59" y="272.0" type="line"/>
     </contour>
     <contour>
-      <point x="235.5897435897436" y="557.0" type="line"/>
-      <point x="57.58974358974359" y="557.0" type="line"/>
-      <point x="44.58974358974359" y="462.8974358974359" type="line"/>
-      <point x="222.5897435897436" y="462.8974358974359" type="line"/>
+      <point x="235.59" y="557.0" type="line"/>
+      <point x="57.59" y="557.0" type="line"/>
+      <point x="44.59" y="462.897" type="line"/>
+      <point x="222.59" y="462.897" type="line"/>
     </contour>
     <contour>
-      <point x="585.2820512820513" y="175.8974358974359" type="line"/>
-      <point x="754.2564102564103" y="175.8974358974359" type="line"/>
-      <point x="767.2564102564103" y="271.0" type="line"/>
-      <point x="598.2820512820513" y="271.0" type="line"/>
+      <point x="585.282" y="175.897" type="line"/>
+      <point x="754.256" y="175.897" type="line"/>
+      <point x="767.256" y="271.0" type="line"/>
+      <point x="598.282" y="271.0" type="line"/>
     </contour>
     <contour>
-      <point x="801.2564102564103" y="556.0" type="line"/>
-      <point x="633.2820512820513" y="556.0" type="line"/>
-      <point x="620.2820512820513" y="461.8974358974359" type="line"/>
-      <point x="788.2564102564103" y="461.8974358974359" type="line"/>
+      <point x="801.256" y="556.0" type="line"/>
+      <point x="633.282" y="556.0" type="line"/>
+      <point x="620.282" y="461.897" type="line"/>
+      <point x="788.256" y="461.897" type="line"/>
     </contour>
-    <component base="N" xOffset="25.58974358974359"/>
+    <component base="N" xOffset="25.59"/>
   </outline>
   <lib>
     <dict>
@@ -41,7 +41,7 @@ uni20A6
 29 1 8 9 43 1 2 1 2 74 20 14 12 10 4 8 18 16 13 3 7 0 8 7 98 17 15 6 3 0 19 5 3 3 1 2 0 1 97 11 1 9 9 17 75 4 1 2 2 18 2 76 28 28 41 40 39 38 37 36 35 34 33 32 28 31 28 31 27 26 25 24 23 22 21 20 19 18 17 17 17 17 17 17 17 17 16 21 7 29 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:16</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

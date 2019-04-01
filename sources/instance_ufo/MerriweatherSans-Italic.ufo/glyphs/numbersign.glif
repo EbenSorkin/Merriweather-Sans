@@ -7,14 +7,14 @@ numbersign
 </note>
   <outline>
     <contour>
-      <point x="127.07499999999999" y="0.0" type="line"/>
+      <point x="127.075" y="0.0" type="line"/>
       <point x="212.25" y="0.0" type="line"/>
-      <point x="242.925" y="174.42499999999998" type="line"/>
-      <point x="388.75" y="174.42499999999998" type="line"/>
+      <point x="242.925" y="174.425" type="line"/>
+      <point x="388.75" y="174.425" type="line"/>
       <point x="363.75" y="0.0" type="line"/>
       <point x="448.25" y="0.0" type="line"/>
-      <point x="475.925" y="174.42499999999998" type="line"/>
-      <point x="589.675" y="174.42499999999998" type="line"/>
+      <point x="475.925" y="174.425" type="line"/>
+      <point x="589.675" y="174.425" type="line"/>
       <point x="594.65" y="245.225" type="line"/>
       <point x="486.9" y="245.225" type="line"/>
       <point x="517.6" y="434.425" type="line"/>
@@ -30,11 +30,11 @@ numbersign
       <point x="206.4" y="503.9" type="line"/>
       <point x="96.65" y="503.9" type="line"/>
       <point x="91.675" y="434.425" type="line"/>
-      <point x="196.42499999999998" y="434.425" type="line"/>
+      <point x="196.425" y="434.425" type="line"/>
       <point x="165.725" y="245.225" type="line"/>
       <point x="58.975" y="245.225" type="line"/>
-      <point x="54.0" y="174.42499999999998" type="line"/>
-      <point x="155.42499999999998" y="174.42499999999998" type="line"/>
+      <point x="54.0" y="174.425" type="line"/>
+      <point x="155.425" y="174.425" type="line"/>
     </contour>
     <contour>
       <point x="253.9" y="245.225" type="line"/>
@@ -61,7 +61,7 @@ NPUSHB[ ]	/* 30 values pushed */
 0 0 31 30 29 28 0 27 0 27 26 25 24 23 22 21 20 19 17 17 17 17 17 17 17 17 17 17 7 29 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:03</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

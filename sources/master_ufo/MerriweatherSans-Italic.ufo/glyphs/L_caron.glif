@@ -1,32 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Lcaron" format="2">
-  <advance width="478.0"/>
+  <advance width="485.8"/>
   <unicode hex="013D"/>
   <note>
 Lcaron
 </note>
-  <anchor x="202.0" y="0.0" name="bottom"/>
-  <anchor x="252.0" y="374.0" name="center"/>
-  <anchor x="301.0" y="747.0" name="top"/>
-  <anchor x="520.0" y="747.0" name="topright"/>
+  <anchor x="205.575" y="0.0" name="bottom"/>
+  <anchor x="255.575" y="374.325" name="center"/>
+  <anchor x="304.575" y="747.975" name="top"/>
+  <anchor x="527.15" y="747.975" name="topright"/>
   <outline>
     <contour>
-      <point x="433.0" y="490.0" type="line"/>
-      <point x="468.0" y="542.0"/>
-      <point x="491.0" y="628.0"/>
-      <point x="491.0" y="693.0" type="curve" smooth="yes"/>
-      <point x="491.0" y="746.0"/>
-      <point x="488.0" y="780.0"/>
-      <point x="477.0" y="805.0" type="curve"/>
-      <point x="390.0" y="783.0" type="line"/>
-      <point x="386.0" y="767.0" type="line"/>
-      <point x="395.0" y="752.0"/>
-      <point x="401.0" y="713.0"/>
-      <point x="401.0" y="674.0" type="curve" smooth="yes"/>
-      <point x="401.0" y="629.0"/>
-      <point x="394.0" y="579.0"/>
-      <point x="381.0" y="522.0" type="curve"/>
-      <point x="384.0" y="510.0" type="line"/>
+      <point x="442.1" y="490.325" type="line"/>
+      <point x="478.4" y="541.35"/>
+      <point x="502.375" y="628.975"/>
+      <point x="502.375" y="696.575" type="curve" smooth="yes"/>
+      <point x="502.375" y="748.275"/>
+      <point x="498.4" y="782.275"/>
+      <point x="487.4" y="805.325" type="curve"/>
+      <point x="396.5" y="783.0" type="line"/>
+      <point x="391.525" y="766.35" type="line"/>
+      <point x="400.525" y="752.0"/>
+      <point x="406.2" y="712.025"/>
+      <point x="406.2" y="672.375" type="curve" smooth="yes"/>
+      <point x="406.2" y="625.425"/>
+      <point x="398.55" y="572.825"/>
+      <point x="386.2" y="521.35" type="curve"/>
+      <point x="389.2" y="509.025" type="line"/>
     </contour>
     <component base="L"/>
   </outline>
@@ -35,7 +35,7 @@ Lcaron
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>L</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 21:05:24</string>
+      <string>2019/02/18 20:31:10</string>
       <key>com.schriftgestaltung.componentsAlignment</key>
       <array>
         <integer>-1</integer>

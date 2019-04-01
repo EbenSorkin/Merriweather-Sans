@@ -1,28 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="quoteleft" format="2">
-  <advance width="342.46153846153845"/>
+  <advance width="342.46154"/>
   <unicode hex="2018"/>
   <note>
 quoteleft
 </note>
   <outline>
     <contour>
-      <point x="187.23076923076923" y="438.8974358974359" type="curve"/>
-      <point x="270.61538461538464" y="509.0" type="line"/>
-      <point x="273.61538461538464" y="529.0" type="line"/>
-      <point x="253.48717948717947" y="547.3589743589744"/>
-      <point x="238.48717948717947" y="594.2307692307693"/>
-      <point x="238.48717948717947" y="633.8205128205128" type="curve" smooth="yes"/>
-      <point x="238.48717948717947" y="700.2307692307693"/>
-      <point x="273.8461538461538" y="765.0"/>
-      <point x="314.8461538461538" y="785.0" type="curve"/>
-      <point x="315.8461538461538" y="796.0" type="line"/>
-      <point x="265.3333333333333" y="860.2820512820513" type="line"/>
-      <point x="170.1025641025641" y="819.5128205128206"/>
-      <point x="98.64102564102564" y="737.974358974359"/>
-      <point x="98.64102564102564" y="611.6923076923077" type="curve" smooth="yes"/>
-      <point x="98.64102564102564" y="523.2564102564103"/>
-      <point x="147.23076923076923" y="459.71794871794873"/>
+      <point x="187.231" y="438.897" type="curve"/>
+      <point x="270.615" y="509.0" type="line"/>
+      <point x="273.615" y="529.0" type="line"/>
+      <point x="253.487" y="547.359"/>
+      <point x="238.487" y="594.231"/>
+      <point x="238.487" y="633.821" type="curve" smooth="yes"/>
+      <point x="238.487" y="700.231"/>
+      <point x="273.846" y="765.0"/>
+      <point x="314.846" y="785.0" type="curve"/>
+      <point x="315.846" y="796.0" type="line"/>
+      <point x="265.333" y="860.282" type="line"/>
+      <point x="170.103" y="819.513"/>
+      <point x="98.641" y="737.974"/>
+      <point x="98.641" y="611.692" type="curve" smooth="yes"/>
+      <point x="98.641" y="523.256"/>
+      <point x="147.231" y="459.718"/>
     </contour>
   </outline>
   <lib>
@@ -32,7 +32,7 @@ quoteleft
 13 2 1 48 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 19:32:43</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

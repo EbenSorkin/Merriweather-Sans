@@ -1,57 +1,57 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="brevecomb_hookabovecomb" format="2">
   <anchor x="0.0" y="830.0" name="_top"/>
-  <anchor x="2.0" y="1030.0" name="top"/>
+  <anchor x="3.422" y="1030.889" name="top"/>
   <outline>
     <contour>
-      <point x="2.0" y="640.0" type="curve" smooth="yes"/>
-      <point x="109.0" y="640.0"/>
-      <point x="177.0" y="721.0"/>
-      <point x="169.0" y="809.0" type="curve"/>
+      <point x="3.422" y="638.756" type="curve" smooth="yes"/>
+      <point x="111.844" y="638.756"/>
+      <point x="179.489" y="719.044"/>
+      <point x="172.2" y="809.0" type="curve"/>
       <point x="96.0" y="809.0" type="line"/>
-      <point x="96.0" y="797.0"/>
-      <point x="95.0" y="724.0"/>
-      <point x="2.0" y="724.0" type="curve" smooth="yes"/>
-      <point x="-91.0" y="724.0"/>
-      <point x="-90.0" y="797.0"/>
-      <point x="-90.0" y="809.0" type="curve"/>
-      <point x="-165.0" y="809.0" type="line"/>
-      <point x="-173.0" y="721.0"/>
-      <point x="-111.0" y="640.0"/>
+      <point x="95.644" y="795.044"/>
+      <point x="93.222" y="725.422"/>
+      <point x="3.422" y="725.422" type="curve" smooth="yes"/>
+      <point x="-86.556" y="725.422"/>
+      <point x="-86.8" y="795.044"/>
+      <point x="-87.156" y="809.0" type="curve"/>
+      <point x="-165.533" y="809.0" type="line"/>
+      <point x="-172.644" y="719.044"/>
+      <point x="-111.0" y="638.756"/>
     </contour>
     <contour>
-      <point x="-23.0" y="810.0" type="curve"/>
-      <point x="34.0" y="810.0" type="line"/>
-      <point x="26.0" y="832.0"/>
-      <point x="37.0" y="856.0"/>
-      <point x="45.0" y="862.0" type="curve" smooth="yes"/>
-      <point x="73.0" y="883.0"/>
-      <point x="95.0" y="897.0"/>
-      <point x="95.0" y="947.0" type="curve" smooth="yes"/>
-      <point x="95.0" y="998.0"/>
-      <point x="50.0" y="1030.0"/>
-      <point x="-11.0" y="1030.0" type="curve" smooth="yes"/>
-      <point x="-35.0" y="1030.0"/>
-      <point x="-73.0" y="1025.0"/>
-      <point x="-94.0" y="1011.0" type="curve"/>
-      <point x="-92.0" y="955.0" type="line"/>
-      <point x="-81.0" y="962.0"/>
-      <point x="-55.0" y="970.0"/>
-      <point x="-32.0" y="970.0" type="curve" smooth="yes"/>
-      <point x="0.0" y="970.0"/>
-      <point x="18.0" y="959.0"/>
-      <point x="18.0" y="935.0" type="curve" smooth="yes"/>
-      <point x="18.0" y="897.0"/>
-      <point x="-34.0" y="894.0"/>
-      <point x="-34.0" y="851.0" type="curve" smooth="yes"/>
-      <point x="-34.0" y="835.0"/>
-      <point x="-28.0" y="823.0"/>
+      <point x="-21.4" y="809.822" type="curve"/>
+      <point x="38.622" y="809.822" type="line"/>
+      <point x="30.622" y="832.356"/>
+      <point x="39.489" y="856.178"/>
+      <point x="49.089" y="863.6" type="curve" smooth="yes"/>
+      <point x="75.844" y="883.889"/>
+      <point x="99.089" y="900.2"/>
+      <point x="99.089" y="948.067" type="curve" smooth="yes"/>
+      <point x="99.089" y="998.356"/>
+      <point x="53.911" y="1030.889"/>
+      <point x="-11.711" y="1030.889" type="curve" smooth="yes"/>
+      <point x="-36.956" y="1030.889"/>
+      <point x="-73.889" y="1025.356"/>
+      <point x="-94.711" y="1012.422" type="curve"/>
+      <point x="-92.711" y="954.644" type="line"/>
+      <point x="-81.889" y="961.644"/>
+      <point x="-55.533" y="969.467"/>
+      <point x="-33.422" y="969.467" type="curve" smooth="yes"/>
+      <point x="-1.778" y="969.467"/>
+      <point x="16.578" y="957.933"/>
+      <point x="16.578" y="933.933" type="curve" smooth="yes"/>
+      <point x="16.578" y="896.644"/>
+      <point x="-32.578" y="894.889"/>
+      <point x="-32.578" y="850.467" type="curve" smooth="yes"/>
+      <point x="-32.578" y="834.111"/>
+      <point x="-26.756" y="822.644"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/16 05:39:16</string>
+      <string>2019/02/18 20:30:01</string>
     </dict>
   </lib>
 </glyph>

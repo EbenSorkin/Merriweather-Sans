@@ -1,37 +1,37 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="yen" format="2">
-  <advance width="719.3589743589744"/>
+  <advance width="719.35897"/>
   <unicode hex="00A5"/>
   <note>
 yen
 </note>
   <outline>
     <contour>
-      <point x="247.2820512820513" y="0.0" type="line"/>
-      <point x="399.15384615384613" y="0.0" type="line"/>
-      <point x="421.15384615384613" y="165.66666666666669" type="line"/>
-      <point x="625.5641025641025" y="165.66666666666669" type="line"/>
-      <point x="633.5641025641025" y="247.0" type="line"/>
-      <point x="431.97435897435895" y="247.0" type="line"/>
-      <point x="444.38461538461536" y="339.6666666666667" type="line"/>
-      <point x="646.7435897435897" y="339.6666666666667" type="line"/>
-      <point x="655.1538461538462" y="421.0" type="line"/>
-      <point x="499.48717948717945" y="421.0" type="line"/>
-      <point x="729.7948717948718" y="747.0" type="line"/>
-      <point x="556.8205128205128" y="747.0" type="line"/>
-      <point x="408.84615384615387" y="475.7692307692308" type="line"/>
-      <point x="383.3076923076923" y="421.0" type="line"/>
-      <point x="368.12820512820514" y="474.5897435897436" type="line"/>
-      <point x="274.15384615384613" y="747.0" type="line"/>
-      <point x="123.74358974358975" y="747.0" type="line"/>
-      <point x="258.4102564102564" y="421.0" type="line"/>
-      <point x="99.28205128205128" y="421.0" type="line"/>
-      <point x="90.46153846153847" y="339.6666666666667" type="line"/>
-      <point x="289.28205128205127" y="339.6666666666667" type="line"/>
-      <point x="278.28205128205127" y="247.0" type="line"/>
-      <point x="78.69230769230771" y="247.0" type="line"/>
-      <point x="69.69230769230771" y="165.66666666666669" type="line"/>
-      <point x="267.87179487179486" y="165.66666666666669" type="line"/>
+      <point x="247.282" y="0.0" type="line"/>
+      <point x="399.154" y="0.0" type="line"/>
+      <point x="421.154" y="165.667" type="line"/>
+      <point x="625.564" y="165.667" type="line"/>
+      <point x="633.564" y="247.0" type="line"/>
+      <point x="431.974" y="247.0" type="line"/>
+      <point x="444.385" y="339.667" type="line"/>
+      <point x="646.744" y="339.667" type="line"/>
+      <point x="655.154" y="421.0" type="line"/>
+      <point x="499.487" y="421.0" type="line"/>
+      <point x="729.795" y="747.0" type="line"/>
+      <point x="556.821" y="747.0" type="line"/>
+      <point x="408.846" y="475.769" type="line"/>
+      <point x="383.308" y="421.0" type="line"/>
+      <point x="368.128" y="474.59" type="line"/>
+      <point x="274.154" y="747.0" type="line"/>
+      <point x="123.744" y="747.0" type="line"/>
+      <point x="258.41" y="421.0" type="line"/>
+      <point x="99.282" y="421.0" type="line"/>
+      <point x="90.462" y="339.667" type="line"/>
+      <point x="289.282" y="339.667" type="line"/>
+      <point x="278.282" y="247.0" type="line"/>
+      <point x="78.692" y="247.0" type="line"/>
+      <point x="69.692" y="165.667" type="line"/>
+      <point x="267.872" y="165.667" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -41,7 +41,7 @@ yen
 21 1 0 9 1 74 8 1 0 7 1 1 2 0 1 98 6 1 2 5 1 3 4 2 3 97 10 1 9 9 17 75 0 4 4 18 4 76 24 23 19 18 17 17 17 17 17 17 17 17 16 11 7 29 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:16</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

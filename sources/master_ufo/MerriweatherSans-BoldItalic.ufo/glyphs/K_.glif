@@ -1,44 +1,40 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="K" format="2">
-  <advance width="630.0"/>
+  <advance width="639.4359"/>
   <unicode hex="004B"/>
   <note>
 K
 </note>
-  <anchor x="278.0" y="0.0" name="bottom"/>
-  <anchor x="377.0" y="750.0" name="top"/>
+  <anchor x="282.923" y="0.0" name="bottom"/>
+  <anchor x="381.923" y="748.769" name="top"/>
   <outline>
     <contour>
-      <point x="44.0" y="0.0" type="line"/>
-      <point x="179.0" y="0.0" type="line"/>
-      <point x="209.0" y="224.0" type="line"/>
-      <point x="296.0" y="320.0" type="line"/>
-      <point x="374.0" y="158.0" type="line"/>
-      <point x="411.0" y="82.0"/>
-      <point x="447.0" y="8.0"/>
-      <point x="453.0" y="0.0" type="curve"/>
-      <point x="613.0" y="0.0" type="line"/>
-      <point x="580.0" y="51.0"/>
-      <point x="546.0" y="113.0"/>
-      <point x="505.0" y="190.0" type="curve" smooth="yes"/>
-      <point x="435.0" y="322.0"/>
-      <point x="404.0" y="380.0"/>
-      <point x="383.0" y="417.0" type="curve"/>
-      <point x="681.0" y="747.0" type="line"/>
+      <point x="40.308" y="0.0" type="line"/>
+      <point x="190.897" y="0.0" type="line"/>
+      <point x="220.897" y="217.436" type="line"/>
+      <point x="302.974" y="308.513" type="line"/>
+      <point x="374.41" y="154.308" type="line" smooth="yes"/>
+      <point x="412.231" y="72.564"/>
+      <point x="442.897" y="8.41"/>
+      <point x="448.897" y="0.0" type="curve"/>
+      <point x="626.538" y="0.0" type="line"/>
+      <point x="596.41" y="46.897"/>
+      <point x="563.641" y="106.026"/>
+      <point x="525.103" y="180.564" type="curve" smooth="yes"/>
+      <point x="452.641" y="320.769"/>
+      <point x="421.231" y="381.231"/>
+      <point x="401.051" y="417.41" type="curve"/>
+      <point x="698.231" y="747.0" type="line"/>
       <point x="525.0" y="747.0" type="line"/>
-      <point x="232.0" y="396.0" type="line"/>
-      <point x="280.0" y="747.0" type="line"/>
-      <point x="145.0" y="747.0" type="line"/>
+      <point x="247.179" y="407.487" type="line"/>
+      <point x="294.359" y="747.0" type="line"/>
+      <point x="143.769" y="747.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>assembly</key>
-      <string>NPUSHB[ ]	/* 28 values pushed */
-21 18 12 3 0 2 1 74 3 1 2 2 17 75 1 1 0 0 18 0 76 18 17 25 20 4 7 24 
-CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:02</string>
+      <string>2019/02/18 20:31:10</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

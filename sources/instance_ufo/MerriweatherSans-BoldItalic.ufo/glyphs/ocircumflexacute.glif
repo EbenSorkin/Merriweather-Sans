@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ocircumflexacute" format="2">
-  <advance width="569.9230769230769"/>
+  <advance width="569.92308"/>
   <unicode hex="1ED1"/>
-  <anchor x="248.46153846153845" y="0.0" name="bottom"/>
-  <anchor x="285.46153846153845" y="279.0" name="center"/>
-  <anchor x="364.94871794871796" y="10.0" name="ogonek"/>
-  <anchor x="362.87179487179486" y="788.0" name="top"/>
-  <anchor x="586.9230769230769" y="557.0" name="topright"/>
+  <anchor x="248.462" y="0.0" name="bottom"/>
+  <anchor x="285.462" y="279.0" name="center"/>
+  <anchor x="364.949" y="10.0" name="ogonek"/>
+  <anchor x="363.0" y="788.0" name="top"/>
+  <anchor x="586.923" y="557.0" name="topright"/>
   <outline>
     <component base="o"/>
-    <component base="circumflexcomb_acutecomb" xOffset="295.87179487179486"/>
+    <component base="circumflexcomb_acutecomb" xOffset="296.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 17:12:54</string>
+      <string>2019/02/18 20:31:35</string>
     </dict>
   </lib>
 </glyph>

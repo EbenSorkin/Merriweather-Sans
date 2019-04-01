@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="quotesingle" format="2">
-  <advance width="269.6923076923077"/>
+  <advance width="269.69231"/>
   <unicode hex="0027"/>
   <note>
 quotesingle
 </note>
   <outline>
     <contour>
-      <point x="106.17948717948718" y="472.0" type="line"/>
-      <point x="205.2051282051282" y="472.0" type="line"/>
-      <point x="292.2564102564103" y="824.0" type="line"/>
+      <point x="106.179" y="472.0" type="line"/>
+      <point x="205.205" y="472.0" type="line"/>
+      <point x="292.256" y="824.0" type="line"/>
       <point x="147.0" y="824.0" type="line"/>
     </contour>
   </outline>
@@ -58,7 +58,7 @@ NPUSHB[ ]	/* 10 values pushed */
 0 0 0 3 0 3 17 3 7 21 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:03</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

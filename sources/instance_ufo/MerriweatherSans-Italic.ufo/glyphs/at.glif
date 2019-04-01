@@ -11,14 +11,14 @@ at
       <point x="524.575" y="-215.0"/>
       <point x="604.575" y="-193.0"/>
       <point x="649.575" y="-158.0" type="curve"/>
-      <point x="631.3" y="-105.14999999999999" type="line"/>
-      <point x="595.975" y="-122.14999999999999"/>
+      <point x="631.3" y="-105.15" type="line"/>
+      <point x="595.975" y="-122.15"/>
       <point x="509.8" y="-140.5"/>
       <point x="449.9" y="-140.5" type="curve" smooth="yes"/>
       <point x="251.875" y="-140.5"/>
-      <point x="138.85000000000002" y="-14.424999999999995"/>
-      <point x="138.85000000000002" y="195.625" type="curve" smooth="yes"/>
-      <point x="138.85000000000002" y="450.025"/>
+      <point x="138.85" y="-14.425"/>
+      <point x="138.85" y="195.625" type="curve" smooth="yes"/>
+      <point x="138.85" y="450.025"/>
       <point x="309.225" y="684.8"/>
       <point x="562.275" y="684.8" type="curve" smooth="yes"/>
       <point x="729.65" y="684.8"/>
@@ -59,24 +59,24 @@ at
       <point x="789.55" y="754.0"/>
       <point x="582.25" y="754.0" type="curve" smooth="yes"/>
       <point x="269.3" y="754.0"/>
-      <point x="57.699999999999996" y="512.3"/>
-      <point x="57.699999999999996" y="183.0" type="curve" smooth="yes"/>
-      <point x="57.699999999999996" y="-56.300000000000004"/>
+      <point x="57.7" y="512.3"/>
+      <point x="57.7" y="183.0" type="curve" smooth="yes"/>
+      <point x="57.7" y="-56.3"/>
       <point x="205.625" y="-215.0"/>
     </contour>
     <contour>
-      <point x="417.825" y="88.72500000000002" type="curve" smooth="yes"/>
-      <point x="376.475" y="88.72500000000002"/>
+      <point x="417.825" y="88.725" type="curve" smooth="yes"/>
+      <point x="376.475" y="88.725"/>
       <point x="358.075" y="134.75"/>
       <point x="358.075" y="221.25" type="curve" smooth="yes"/>
       <point x="358.075" y="330.075"/>
-      <point x="415.15000000000003" y="465.5"/>
+      <point x="415.15" y="465.5"/>
       <point x="520.65" y="465.5" type="curve" smooth="yes"/>
       <point x="550.35" y="465.5"/>
       <point x="589.425" y="453.475"/>
       <point x="604.425" y="431.775" type="curve"/>
       <point x="593.425" y="336.65"/>
-      <point x="486.6" y="88.72500000000002"/>
+      <point x="486.6" y="88.725"/>
     </contour>
   </outline>
   <lib>
@@ -117,7 +117,7 @@ NPUSHB[ ]	/* 24 values pushed */
 70 70 0 0 70 83 70 82 77 75 0 69 0 68 38 38 37 43 38 40 38 12 7 27 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:16</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

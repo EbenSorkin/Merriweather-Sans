@@ -7,23 +7,19 @@ guilsinglleft
 </note>
   <outline>
     <contour>
-      <point x="403.0" y="69.0" type="line"/>
-      <point x="447.0" y="139.0" type="line"/>
-      <point x="257.0" y="298.0" type="line"/>
-      <point x="486.0" y="459.0" type="line"/>
-      <point x="463.0" y="538.0" type="line"/>
-      <point x="113.0" y="344.0" type="line"/>
-      <point x="100.0" y="259.0" type="line"/>
+      <point x="403.821" y="66.949" type="line"/>
+      <point x="451.923" y="142.692" type="line"/>
+      <point x="266.846" y="296.769" type="line"/>
+      <point x="488.051" y="453.256" type="line"/>
+      <point x="463.0" y="540.872" type="line"/>
+      <point x="108.077" y="347.282" type="line"/>
+      <point x="93.846" y="259.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>assembly</key>
-      <string>PUSHB[ ]	/* 4 values pushed */
-4 0 1 48 
-CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:03</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

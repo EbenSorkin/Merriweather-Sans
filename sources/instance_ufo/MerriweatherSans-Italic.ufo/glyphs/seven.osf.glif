@@ -10,7 +10,7 @@ seven
       <point x="524.5" y="536.725" type="line"/>
       <point x="507.2" y="559.35" type="line"/>
       <point x="66.325" y="559.35" type="line"/>
-      <point x="47.724999999999994" y="470.9" type="line"/>
+      <point x="47.725" y="470.9" type="line"/>
       <point x="398.875" y="472.575" type="line"/>
       <point x="131.45" y="-123.025" type="line"/>
     </contour>
@@ -22,7 +22,7 @@ seven
 5 1 1 71 2 1 1 1 0 89 0 0 0 20 1 76 0 0 0 6 0 6 17 3 7 21 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:03</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

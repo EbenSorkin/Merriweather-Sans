@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="wacute.sc" format="2">
-  <advance width="846.8717948717949"/>
-  <anchor x="386.2307692307692" y="0.0" name="bottom"/>
-  <anchor x="417.33333333333337" y="824.2564102564103" name="top"/>
+  <advance width="847.0"/>
+  <anchor x="386.231" y="0.0" name="bottom"/>
+  <anchor x="417.41" y="824.077" name="top"/>
   <outline>
     <component base="w.sc"/>
-    <component base="acutecomb" xOffset="422.9230769230769" yOffset="93.17948717948718"/>
+    <component base="acutecomb" xOffset="423.0" yOffset="93.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:03</string>
+      <string>2019/02/18 20:31:35</string>
     </dict>
   </lib>
 </glyph>

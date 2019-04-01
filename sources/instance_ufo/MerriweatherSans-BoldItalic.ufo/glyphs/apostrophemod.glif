@@ -5,22 +5,22 @@
   <anchor x="66.0" y="780.0" name="top"/>
   <outline>
     <contour>
-      <point x="29.94871794871795" y="645.1282051282051" type="line"/>
-      <point x="86.92307692307692" y="668.4102564102565"/>
-      <point x="120.58974358974359" y="722.6923076923077"/>
-      <point x="120.58974358974359" y="790.3076923076923" type="curve" smooth="yes"/>
-      <point x="120.58974358974359" y="842.7179487179487"/>
-      <point x="83.53846153846153" y="884.1025641025641"/>
-      <point x="46.71794871794872" y="898.0" type="curve"/>
-      <point x="-18.1025641025641" y="853.7692307692307" type="line"/>
-      <point x="-22.92307692307692" y="817.0769230769231" type="line"/>
-      <point x="-2.92307692307692" y="814.0769230769231"/>
-      <point x="12.666666666666671" y="787.025641025641"/>
-      <point x="12.666666666666671" y="756.8974358974359" type="curve" smooth="yes"/>
-      <point x="12.666666666666671" y="725.6666666666666"/>
-      <point x="3.794871794871799" y="704.8974358974359"/>
-      <point x="-16.92307692307692" y="691.3589743589744" type="curve"/>
-      <point x="-18.92307692307692" y="678.7692307692307" type="line"/>
+      <point x="29.949" y="645.128" type="line"/>
+      <point x="86.923" y="668.41"/>
+      <point x="120.59" y="722.692"/>
+      <point x="120.59" y="790.308" type="curve" smooth="yes"/>
+      <point x="120.59" y="842.718"/>
+      <point x="83.538" y="884.103"/>
+      <point x="46.718" y="898.0" type="curve"/>
+      <point x="-18.103" y="853.769" type="line"/>
+      <point x="-22.923" y="817.077" type="line"/>
+      <point x="-2.923000000000002" y="814.077"/>
+      <point x="12.667000000000002" y="787.026"/>
+      <point x="12.667000000000002" y="756.897" type="curve" smooth="yes"/>
+      <point x="12.667000000000002" y="725.667"/>
+      <point x="3.7950000000000017" y="704.897"/>
+      <point x="-16.923" y="691.359" type="curve"/>
+      <point x="-18.923" y="678.769" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -28,7 +28,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
       <string>commaturnedabovecomb</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:03</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

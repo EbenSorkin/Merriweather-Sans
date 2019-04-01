@@ -1,71 +1,56 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="c.sc" format="2">
-  <advance width="540.0"/>
+  <advance width="544.55"/>
   <note>
 C
 </note>
-  <anchor x="234.0" y="0.0" name="bottom"/>
-  <anchor x="320.0" y="651.0" name="top"/>
+  <anchor x="235.95" y="0.0" name="bottom"/>
+  <anchor x="321.95" y="651.0" name="top"/>
   <outline>
     <contour>
-      <point x="287.0" y="-7.0" type="curve" smooth="yes"/>
-      <point x="387.0" y="-7.0"/>
-      <point x="454.0" y="16.0"/>
-      <point x="486.0" y="38.0" type="curve"/>
-      <point x="471.0" y="115.0" type="line"/>
-      <point x="446.0" y="96.0"/>
-      <point x="362.0" y="71.0"/>
-      <point x="304.0" y="71.0" type="curve" smooth="yes"/>
-      <point x="194.0" y="71.0"/>
-      <point x="146.0" y="162.0"/>
-      <point x="146.0" y="286.0" type="curve" smooth="yes"/>
-      <point x="146.0" y="378.0"/>
-      <point x="173.0" y="470.0"/>
-      <point x="241.0" y="530.0" type="curve" smooth="yes"/>
-      <point x="277.0" y="562.0"/>
-      <point x="319.0" y="576.0"/>
-      <point x="374.0" y="576.0" type="curve" smooth="yes"/>
-      <point x="440.0" y="576.0"/>
-      <point x="462.0" y="562.0"/>
-      <point x="498.0" y="545.0" type="curve"/>
-      <point x="530.0" y="627.0" type="line"/>
-      <point x="473.0" y="649.0"/>
-      <point x="423.0" y="657.0"/>
-      <point x="377.0" y="657.0" type="curve" smooth="yes"/>
-      <point x="252.0" y="657.0"/>
-      <point x="145.0" y="588.0"/>
-      <point x="88.0" y="473.0" type="curve" smooth="yes"/>
-      <point x="60.0" y="416.0"/>
-      <point x="46.0" y="354.0"/>
-      <point x="46.0" y="282.0" type="curve" smooth="yes"/>
-      <point x="46.0" y="170.0"/>
-      <point x="82.0" y="84.0"/>
-      <point x="148.0" y="34.0" type="curve" smooth="yes"/>
-      <point x="182.0" y="8.0"/>
-      <point x="227.0" y="-7.0"/>
+      <point x="288.3" y="-7.0" type="curve" smooth="yes"/>
+      <point x="380.5" y="-7.0"/>
+      <point x="457.9" y="18.6"/>
+      <point x="489.25" y="40.275" type="curve"/>
+      <point x="472.625" y="124.1" type="line"/>
+      <point x="446.325" y="105.425"/>
+      <point x="368.825" y="81.4"/>
+      <point x="309.85" y="81.4" type="curve" smooth="yes"/>
+      <point x="204.4" y="81.4"/>
+      <point x="157.05" y="161.35"/>
+      <point x="157.05" y="282.75" type="curve" smooth="yes"/>
+      <point x="157.05" y="373.45"/>
+      <point x="182.75" y="462.85"/>
+      <point x="249.775" y="521.225" type="curve" smooth="yes"/>
+      <point x="283.825" y="551.275"/>
+      <point x="324.85" y="564.95"/>
+      <point x="377.9" y="564.95" type="curve" smooth="yes"/>
+      <point x="442.6" y="564.95"/>
+      <point x="469.8" y="549.325"/>
+      <point x="504.175" y="530.7" type="curve"/>
+      <point x="538.775" y="627.325" type="line"/>
+      <point x="474.625" y="649.65"/>
+      <point x="430.8" y="657.0"/>
+      <point x="383.175" y="657.0" type="curve" smooth="yes"/>
+      <point x="254.6" y="657.0"/>
+      <point x="145.0" y="586.375"/>
+      <point x="87.025" y="470.4" type="curve" smooth="yes"/>
+      <point x="57.725" y="411.775"/>
+      <point x="44.05" y="349.125"/>
+      <point x="44.05" y="279.725" type="curve" smooth="yes"/>
+      <point x="44.05" y="170.65"/>
+      <point x="78.1" y="84.325"/>
+      <point x="147.35" y="33.35" type="curve" smooth="yes"/>
+      <point x="182.325" y="7.35"/>
+      <point x="227.975" y="-7.0"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>RMXScaler</key>
-      <dict>
-        <key>adjustSpace</key>
-        <integer>2</integer>
-        <key>height</key>
-        <integer>87</integer>
-        <key>weight</key>
-        <integer>1</integer>
-        <key>width</key>
-        <integer>96</integer>
-      </dict>
-      <key>assembly</key>
-      <string>NPUSHB[ ]	/* 49 values pushed */
-3 1 0 3 20 4 2 1 0 21 1 2 1 3 74 0 0 0 3 91 4 1 3 3 25 75 0 1 1 2 91 0 2 2 26 2 76 0 0 0 32 0 31 38 38 39 5 7 23 
-CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:03</string>
+      <string>2019/02/18 20:31:10</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

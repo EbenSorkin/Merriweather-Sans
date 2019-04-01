@@ -1,26 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="f_f_i" format="2">
-  <advance width="981.5500000000001"/>
+  <advance width="981.55"/>
   <note>
 f_f_i
 </note>
   <anchor x="135.6" y="0.0" name="bottom_1"/>
-  <anchor x="480.125" y="0.0" name="bottom_2"/>
-  <anchor x="798.3000000000001" y="0.0" name="bottom_3"/>
-  <anchor x="876.9" y="10.0" name="ogonek"/>
+  <anchor x="480.6" y="0.0" name="bottom_2"/>
+  <anchor x="798.25" y="0.0" name="bottom_3"/>
+  <anchor x="876.85" y="10.0" name="ogonek"/>
   <anchor x="265.6" y="747.975" name="top_1"/>
-  <anchor x="610.125" y="747.975" name="top_2"/>
-  <anchor x="872.3000000000001" y="557.0" name="top_3"/>
+  <anchor x="610.6" y="747.975" name="top_2"/>
+  <anchor x="872.25" y="557.0" name="top_3"/>
   <outline>
     <component base="f"/>
-    <component base="f" xOffset="344.52500000000003"/>
-    <component base="idotless" xOffset="689.0500000000001"/>
-    <component base="dotaccent" xOffset="813.625" yOffset="1.6749999999999994"/>
+    <component base="f" xOffset="345.0"/>
+    <component base="idotless" xOffset="689.0"/>
+    <component base="dotaccent" xOffset="813.625" yOffset="1.675"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:03</string>
+      <string>2019/02/18 20:31:35</string>
     </dict>
   </lib>
 </glyph>

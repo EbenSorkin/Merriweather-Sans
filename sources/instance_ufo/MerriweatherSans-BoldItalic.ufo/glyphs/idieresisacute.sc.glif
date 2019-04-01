@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="idieresisacute.sc" format="2">
-  <advance width="323.71794871794873"/>
-  <anchor x="125.56410256410257" y="0.0" name="bottom"/>
-  <anchor x="255.48717948717947" y="9.0" name="ogonek"/>
-  <anchor x="188.8974358974359" y="1035.025641025641" name="top"/>
-  <anchor x="70.0" y="650.1794871794872" name="topleft"/>
+  <advance width="324.0"/>
+  <anchor x="125.564" y="0.0" name="bottom"/>
+  <anchor x="255.487" y="9.0" name="ogonek"/>
+  <anchor x="188.41" y="1035.077" name="top"/>
+  <anchor x="70.0" y="650.179" name="topleft"/>
   <outline>
     <component base="i.sc"/>
-    <component base="dieresiscomb" xOffset="179.15384615384616" yOffset="93.0"/>
-    <component base="acutecomb" xOffset="194.4871794871795" yOffset="303.94871794871796"/>
+    <component base="dieresiscomb" xOffset="179.0" yOffset="93.0"/>
+    <component base="acutecomb" xOffset="194.0" yOffset="304.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 17:17:04</string>
+      <string>2019/02/18 20:31:35</string>
     </dict>
   </lib>
 </glyph>

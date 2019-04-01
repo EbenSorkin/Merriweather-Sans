@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ezhcaron.sc" format="2">
   <advance width="498.95"/>
-  <anchor x="335.29999999999995" y="849.0" name="top"/>
+  <anchor x="335.3" y="849.0" name="top"/>
   <outline>
     <contour>
       <point x="116.35" y="-6.0" type="curve" smooth="yes"/>
       <point x="326.7" y="-6.0"/>
-      <point x="447.6" y="78.39999999999999"/>
+      <point x="447.6" y="78.4"/>
       <point x="447.6" y="213.25" type="curve" smooth="yes"/>
       <point x="447.6" y="286.5"/>
       <point x="399.4" y="355.675"/>
@@ -19,28 +19,28 @@
       <point x="310.975" y="505.65" type="line"/>
       <point x="165.675" y="376.2" type="line"/>
       <point x="157.35" y="290.75" type="line"/>
-      <point x="203.14999999999998" y="312.47499999999997" type="line"/>
+      <point x="203.15" y="312.475" type="line"/>
       <point x="275.2" y="314.5"/>
       <point x="346.575" y="283.075"/>
       <point x="346.575" y="210.3" type="curve" smooth="yes"/>
       <point x="346.575" y="132.75"/>
-      <point x="250.025" y="74.80000000000001"/>
-      <point x="117.07499999999999" y="74.80000000000001" type="curve" smooth="yes"/>
-      <point x="93.7" y="74.80000000000001"/>
-      <point x="57.65" y="77.12500000000001"/>
-      <point x="29.300000000000004" y="80.45000000000002" type="curve"/>
-      <point x="21.0" y="-0.02499999999999858" type="line"/>
-      <point x="42.17500000000001" y="-2.0"/>
-      <point x="82.92500000000001" y="-6.0"/>
+      <point x="250.025" y="74.8"/>
+      <point x="117.075" y="74.8" type="curve" smooth="yes"/>
+      <point x="93.7" y="74.8"/>
+      <point x="57.65" y="77.125"/>
+      <point x="29.3" y="80.45" type="curve"/>
+      <point x="21.0" y="-0.02499999999999991" type="line"/>
+      <point x="42.175" y="-2.0"/>
+      <point x="82.925" y="-6.0"/>
     </contour>
     <contour>
       <point x="276.0" y="711.0" type="line"/>
       <point x="359.0" y="711.0" type="line"/>
       <point x="510.55" y="852.525" type="line"/>
-      <point x="464.34999999999997" y="886.9" type="line"/>
+      <point x="464.35" y="886.9" type="line"/>
       <point x="323.275" y="791.45" type="line"/>
-      <point x="208.52499999999998" y="886.9" type="line"/>
-      <point x="163.27499999999998" y="852.525" type="line"/>
+      <point x="208.525" y="886.9" type="line"/>
+      <point x="163.275" y="852.525" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -59,7 +59,7 @@
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 04:49:32</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

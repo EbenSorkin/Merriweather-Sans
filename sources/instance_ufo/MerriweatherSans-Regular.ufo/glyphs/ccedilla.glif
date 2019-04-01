@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ccedilla" format="2">
-  <advance width="492.55555555555554"/>
+  <advance width="493.0"/>
   <unicode hex="00E7"/>
-  <anchor x="246.77777777777777" y="-227.0" name="bottom"/>
-  <anchor x="280.4888888888889" y="-83.0" name="btm"/>
-  <anchor x="301.1333333333333" y="830.1777777777778" name="top"/>
+  <anchor x="247.133" y="-227.0" name="bottom"/>
+  <anchor x="280.489" y="-83.0" name="btm"/>
+  <anchor x="301.133" y="830.178" name="top"/>
   <outline>
     <component base="c"/>
-    <component base="cedillacomb" xOffset="288.64444444444445"/>
+    <component base="cedillacomb" xOffset="289.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/16 05:40:25</string>
+      <string>2019/02/18 20:30:31</string>
     </dict>
   </lib>
 </glyph>

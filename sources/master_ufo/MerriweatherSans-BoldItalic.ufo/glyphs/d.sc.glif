@@ -1,88 +1,60 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="d.sc" format="2">
-  <advance width="660.0"/>
+  <advance width="662.87179"/>
   <note>
 D
 </note>
-  <anchor x="291.0" y="0.0" name="bottom"/>
-  <anchor x="335.0" y="326.0" name="center"/>
-  <anchor x="378.0" y="651.0" name="top"/>
+  <anchor x="291.821" y="0.0" name="bottom"/>
+  <anchor x="335.821" y="325.59" name="center"/>
+  <anchor x="378.821" y="650.179" name="top"/>
   <outline>
     <contour>
-      <point x="260.0" y="-7.0" type="curve" smooth="yes"/>
-      <point x="494.0" y="-7.0"/>
-      <point x="634.0" y="158.0"/>
-      <point x="634.0" y="381.0" type="curve" smooth="yes"/>
-      <point x="634.0" y="561.0"/>
-      <point x="541.0" y="653.0"/>
-      <point x="358.0" y="653.0" type="curve" smooth="yes"/>
-      <point x="295.0" y="653.0"/>
-      <point x="239.0" y="646.0"/>
-      <point x="194.0" y="646.0" type="curve" smooth="yes"/>
-      <point x="127.0" y="646.0" type="line"/>
-      <point x="38.0" y="0.0" type="line"/>
-      <point x="97.0" y="0.0" type="line" smooth="yes"/>
-      <point x="139.0" y="0.0"/>
-      <point x="220.0" y="-7.0"/>
+      <point x="260.821" y="-7.0" type="curve" smooth="yes"/>
+      <point x="501.795" y="-7.0"/>
+      <point x="643.846" y="156.769"/>
+      <point x="643.846" y="384.282" type="curve" smooth="yes"/>
+      <point x="643.846" y="562.231"/>
+      <point x="550.846" y="653.0"/>
+      <point x="367.436" y="653.0" type="curve" smooth="yes"/>
+      <point x="327.821" y="653.0"/>
+      <point x="223.821" y="646.0"/>
+      <point x="194.821" y="646.0" type="curve" smooth="yes"/>
+      <point x="124.128" y="646.0" type="line"/>
+      <point x="32.667" y="0.0" type="line"/>
+      <point x="96.179" y="0.0" type="line" smooth="yes"/>
+      <point x="125.872" y="0.0"/>
+      <point x="214.256" y="-7.0"/>
     </contour>
     <contour>
-      <point x="276.0" y="93.0" type="curve" smooth="yes"/>
-      <point x="242.0" y="93.0"/>
-      <point x="211.0" y="97.0"/>
-      <point x="188.0" y="103.0" type="curve"/>
-      <point x="252.0" y="546.0" type="line"/>
-      <point x="271.0" y="550.0"/>
-      <point x="308.0" y="552.0"/>
-      <point x="328.0" y="552.0" type="curve" smooth="yes"/>
-      <point x="407.0" y="552.0"/>
-      <point x="452.0" y="534.0"/>
-      <point x="474.0" y="489.0" type="curve" smooth="yes"/>
-      <point x="486.0" y="464.0"/>
-      <point x="492.0" y="429.0"/>
-      <point x="492.0" y="382.0" type="curve" smooth="yes"/>
-      <point x="492.0" y="270.0"/>
-      <point x="460.0" y="186.0"/>
-      <point x="398.0" y="135.0" type="curve" smooth="yes"/>
-      <point x="364.0" y="107.0"/>
-      <point x="325.0" y="93.0"/>
+      <point x="279.692" y="104.077" type="curve" smooth="yes"/>
+      <point x="248.974" y="104.077"/>
+      <point x="221.256" y="107.256"/>
+      <point x="199.897" y="112.846" type="curve"/>
+      <point x="262.667" y="535.333" type="line"/>
+      <point x="281.667" y="538.923"/>
+      <point x="316.615" y="540.513"/>
+      <point x="336.615" y="540.513" type="curve" smooth="yes"/>
+      <point x="407.41" y="540.513"/>
+      <point x="449.128" y="525.385"/>
+      <point x="469.487" y="484.487" type="curve" smooth="yes"/>
+      <point x="481.077" y="461.128"/>
+      <point x="486.256" y="430.231"/>
+      <point x="486.256" y="386.513" type="curve" smooth="yes"/>
+      <point x="486.256" y="275.744"/>
+      <point x="456.308" y="192.974"/>
+      <point x="396.769" y="143.615" type="curve" smooth="yes"/>
+      <point x="364.41" y="116.846"/>
+      <point x="325.821" y="104.077"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>RMXScaler</key>
-      <dict>
-        <key>adjustSpace</key>
-        <integer>2</integer>
-        <key>height</key>
-        <integer>87</integer>
-        <key>weight</key>
-        <integer>2</integer>
-        <key>width</key>
-        <integer>96</integer>
-      </dict>
-      <key>assembly</key>
-      <string>PUSHB[ ]	/* 6 values pushed */
-29 1 4 3 1 74 
-MPPEM[ ]	/* MeasurePixelPerEm */
-PUSHB[ ]	/* 1 value pushed */
-45 
-LT[ ]	/* LessThan */
-IF[ ]	/* If */
-NPUSHB[ ]	/* 23 values pushed */
-0 3 3 2 89 0 2 2 17 75 5 1 4 4 0 91 1 1 0 0 26 0 76 
-ELSE[ ]	/* Else */
-NPUSHB[ ]	/* 27 values pushed */
-0 3 3 2 89 0 2 2 17 75 0 1 1 18 75 5 1 4 4 0 91 0 0 0 26 0 76 
-EIF[ ]	/* EndIf */
-NPUSHB[ ]	/* 13 values pushed */
-18 18 18 32 18 31 41 97 49 34 6 7 24 
-CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>h.sc</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 17:33:37</string>
+      <string>2019/02/18 20:31:10</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

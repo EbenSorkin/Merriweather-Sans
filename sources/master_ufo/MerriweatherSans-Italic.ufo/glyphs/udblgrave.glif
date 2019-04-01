@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="udblgrave" format="2">
-  <advance width="573.0"/>
+  <advance width="582.0"/>
   <unicode hex="0215"/>
-  <anchor x="250.0" y="0.0" name="bottom"/>
-  <anchor x="479.0" y="10.0" name="ogonek"/>
-  <anchor x="345.0" y="789.0" name="top"/>
-  <anchor x="590.0" y="557.0" name="topright"/>
+  <anchor x="254.55" y="0.0" name="bottom"/>
+  <anchor x="485.5" y="10.0" name="ogonek"/>
+  <anchor x="352.0" y="789.0" name="top"/>
+  <anchor x="599.425" y="557.0" name="topright"/>
   <outline>
     <component base="u"/>
-    <component base="dblgravecomb" xOffset="277.0"/>
+    <component base="dblgravecomb" xOffset="284.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:03</string>
+      <string>2019/02/18 20:31:35</string>
     </dict>
   </lib>
 </glyph>

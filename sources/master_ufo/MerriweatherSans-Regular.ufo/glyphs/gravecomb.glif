@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gravecomb" format="2">
   <unicode hex="0300"/>
-  <anchor x="0.0" y="830.0" name="_top"/>
-  <anchor x="-67.0" y="871.0" name="top"/>
+  <anchor x="0.0" y="830.178" name="_top"/>
+  <anchor x="-68.778" y="873.133" name="top"/>
   <outline>
     <contour>
-      <point x="54.0" y="676.0" type="line"/>
-      <point x="-1.0" y="738.0"/>
-      <point x="-65.0" y="811.0"/>
-      <point x="-111.0" y="871.0" type="curve"/>
-      <point x="-188.0" y="805.0" type="line"/>
-      <point x="-155.0" y="755.0"/>
-      <point x="-40.0" y="650.0"/>
-      <point x="0.0" y="632.0" type="curve"/>
+      <point x="54.889" y="676.356" type="line"/>
+      <point x="-0.467" y="736.756"/>
+      <point x="-65.533" y="811.356"/>
+      <point x="-110.467" y="873.133" type="curve"/>
+      <point x="-192.444" y="803.756" type="line"/>
+      <point x="-159.444" y="750.022"/>
+      <point x="-42.667" y="646.444"/>
+      <point x="-2.489" y="628.267" type="curve"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/16 05:39:16</string>
+      <string>2019/02/18 20:30:01</string>
     </dict>
   </lib>
 </glyph>

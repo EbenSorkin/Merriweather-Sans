@@ -1,39 +1,39 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dcaron" format="2">
-  <advance width="756.8205128205128"/>
+  <advance width="756.82051"/>
   <unicode hex="010F"/>
   <note>
 dcaron
 </note>
-  <anchor x="266.3333333333333" y="0.0" name="bottom"/>
-  <anchor x="303.3333333333333" y="279.0" name="center"/>
+  <anchor x="266.333" y="0.0" name="bottom"/>
+  <anchor x="303.333" y="279.0" name="center"/>
   <anchor x="265.0" y="557.0" name="top"/>
-  <anchor x="623.0769230769231" y="557.0" name="topright"/>
+  <anchor x="623.077" y="557.0" name="topright"/>
   <outline>
     <contour>
-      <point x="721.9230769230769" y="501.87179487179486" type="line"/>
-      <point x="763.3846153846154" y="550.4615384615385"/>
-      <point x="789.7948717948718" y="642.6923076923077"/>
-      <point x="789.7948717948718" y="718.974358974359" type="curve" smooth="yes"/>
-      <point x="789.7948717948718" y="764.6923076923077"/>
-      <point x="783.3846153846154" y="800.7435897435897"/>
-      <point x="771.9743589743589" y="816.8717948717949" type="curve"/>
-      <point x="667.6410256410256" y="793.8717948717949" type="line"/>
-      <point x="659.8205128205128" y="774.6410256410256" type="line"/>
-      <point x="668.4102564102564" y="762.4615384615385"/>
-      <point x="673.0" y="724.1538461538462"/>
-      <point x="673.0" y="677.8205128205128" type="curve" smooth="yes"/>
-      <point x="673.0" y="625.1794871794872"/>
-      <point x="664.4102564102564" y="566.3589743589744"/>
-      <point x="653.0" y="529.6410256410256" type="curve"/>
-      <point x="656.0" y="517.0512820512821" type="line"/>
+      <point x="721.923" y="501.872" type="line"/>
+      <point x="763.385" y="550.462"/>
+      <point x="789.795" y="642.692"/>
+      <point x="789.795" y="718.974" type="curve" smooth="yes"/>
+      <point x="789.795" y="764.692"/>
+      <point x="783.385" y="800.744"/>
+      <point x="771.974" y="816.872" type="curve"/>
+      <point x="667.641" y="793.872" type="line"/>
+      <point x="659.821" y="774.641" type="line"/>
+      <point x="668.41" y="762.462"/>
+      <point x="673.0" y="724.154"/>
+      <point x="673.0" y="677.821" type="curve" smooth="yes"/>
+      <point x="673.0" y="625.179"/>
+      <point x="664.41" y="566.359"/>
+      <point x="653.0" y="529.641" type="curve"/>
+      <point x="656.0" y="517.051" type="line"/>
     </contour>
     <component base="d"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 21:05:09</string>
+      <string>2019/02/18 20:31:10</string>
       <key>com.schriftgestaltung.componentsAlignment</key>
       <array>
         <integer>-1</integer>

@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ezh.sc" format="2">
-  <advance width="459.0"/>
-  <anchor x="230.0" y="0.0" name="bottom"/>
-  <anchor x="230.0" y="646.0" name="top"/>
+  <advance width="463.0"/>
+  <anchor x="231.778" y="0.0" name="bottom"/>
+  <anchor x="231.778" y="646.0" name="top"/>
   <outline>
     <component base="ezh"/>
   </outline>
@@ -11,7 +11,7 @@
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/16 05:39:16</string>
+      <string>2019/02/18 20:30:31</string>
     </dict>
   </lib>
 </glyph>

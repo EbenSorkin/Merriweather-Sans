@@ -3,37 +3,32 @@
   <advance width="677.0"/>
   <outline>
     <contour>
-      <point x="87.0" y="0.0" type="line"/>
-      <point x="639.0" y="0.0" type="line"/>
-      <point x="639.0" y="83.0" type="line"/>
-      <point x="180.0" y="83.0" type="line"/>
-      <point x="223.0" y="157.0" type="line"/>
-      <point x="295.0" y="302.0"/>
-      <point x="386.0" y="449.0"/>
-      <point x="458.0" y="594.0" type="curve"/>
-      <point x="391.0" y="635.0" type="line"/>
-      <point x="353.0" y="635.0" type="line"/>
-      <point x="264.0" y="442.0"/>
-      <point x="150.0" y="244.0"/>
-      <point x="61.0" y="51.0" type="curve"/>
+      <point x="86.289" y="0.0" type="line"/>
+      <point x="641.844" y="0.0" type="line"/>
+      <point x="641.844" y="88.511" type="line"/>
+      <point x="185.511" y="88.511" type="line"/>
+      <point x="227.444" y="160.378" type="line"/>
+      <point x="299.8" y="304.133"/>
+      <point x="387.6" y="449.889"/>
+      <point x="459.956" y="593.644" type="curve"/>
+      <point x="383.889" y="638.022" type="line"/>
+      <point x="346.244" y="638.022" type="line"/>
+      <point x="257.067" y="444.667"/>
+      <point x="147.511" y="246.844"/>
+      <point x="58.333" y="53.489" type="curve"/>
     </contour>
     <contour>
-      <point x="414.0" y="-184.0" type="line"/>
-      <point x="522.0" y="-184.0" type="line"/>
-      <point x="522.0" y="294.0" type="line"/>
-      <point x="423.0" y="294.0" type="line"/>
-      <point x="414.0" y="83.0" type="line"/>
+      <point x="410.8" y="-184.0" type="line"/>
+      <point x="525.733" y="-184.0" type="line"/>
+      <point x="525.733" y="297.556" type="line"/>
+      <point x="421.578" y="297.556" type="line"/>
+      <point x="410.8" y="88.511" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>RMXScaler</key>
-      <dict>
-        <key>monoWidth</key>
-        <integer>677</integer>
-      </dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 06:18:47</string>
+      <string>2019/02/18 20:30:01</string>
     </dict>
   </lib>
 </glyph>

@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="icircumflex.sc" format="2">
-  <advance width="310.0"/>
-  <anchor x="155.0" y="0.0" name="bottom"/>
-  <anchor x="158.0" y="-72.0" name="btm"/>
-  <anchor x="279.0" y="10.0" name="ogonek"/>
-  <anchor x="154.0" y="1119.0" name="top"/>
+  <advance width="317.0"/>
+  <anchor x="158.378" y="0.0" name="bottom"/>
+  <anchor x="160.844" y="-72.0" name="btm"/>
+  <anchor x="284.867" y="10.0" name="ogonek"/>
+  <anchor x="157.0" y="1119.0" name="top"/>
   <outline>
     <component base="i.sc"/>
-    <component base="circumflexcomb" xOffset="154.0" yOffset="62.0"/>
+    <component base="circumflexcomb" xOffset="157.0" yOffset="62.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:39:37</string>
+      <string>2019/02/18 20:30:31</string>
     </dict>
   </lib>
 </glyph>

@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="idotless.sc" format="2">
-  <advance width="316.5777777777778"/>
-  <anchor x="158.37777777777777" y="0.0" name="bottom"/>
-  <anchor x="284.8666666666667" y="10.0" name="ogonek"/>
-  <anchor x="158.37777777777777" y="646.0" name="top"/>
+  <advance width="317.0"/>
+  <anchor x="158.378" y="0.0" name="bottom"/>
+  <anchor x="284.867" y="10.0" name="ogonek"/>
+  <anchor x="158.378" y="646.0" name="top"/>
   <anchor x="20.0" y="646.0" name="topleft"/>
-  <anchor x="160.84444444444443" y="-72.0" name="btm"/>
+  <anchor x="160.844" y="-72.0" name="btm"/>
   <outline>
     <component base="i.sc"/>
   </outline>
@@ -14,7 +14,7 @@
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/16 05:39:16</string>
+      <string>2019/02/18 20:30:31</string>
     </dict>
   </lib>
 </glyph>

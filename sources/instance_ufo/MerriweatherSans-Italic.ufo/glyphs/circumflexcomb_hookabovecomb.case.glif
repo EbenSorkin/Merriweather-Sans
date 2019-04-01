@@ -8,7 +8,7 @@
       <point x="296.925" y="969.675" type="line"/>
       <point x="292.575" y="993.975"/>
       <point x="305.275" y="1018.65"/>
-      <point x="317.52500000000003" y="1027.25" type="curve" smooth="yes"/>
+      <point x="317.525" y="1027.25" type="curve" smooth="yes"/>
       <point x="345.25" y="1046.275"/>
       <point x="378.925" y="1066.5"/>
       <point x="384.275" y="1114.275" type="curve" smooth="yes"/>
@@ -18,7 +18,7 @@
       <point x="256.55" y="1200.275"/>
       <point x="220.5" y="1194.3"/>
       <point x="199.5" y="1181.925" type="curve"/>
-      <point x="193.17499999999998" y="1120.35" type="line"/>
+      <point x="193.175" y="1120.35" type="line"/>
       <point x="204.85" y="1127.0"/>
       <point x="232.5" y="1135.35"/>
       <point x="252.875" y="1135.35" type="curve" smooth="yes"/>
@@ -37,14 +37,14 @@
       <point x="191.375" y="806.325" type="line"/>
       <point x="241.925" y="840.0" type="line"/>
       <point x="147.3" y="1010.3" type="line"/>
-      <point x="60.300000000000004" y="1010.3" type="line"/>
+      <point x="60.3" y="1010.3" type="line"/>
       <point x="-102.95" y="840.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:12</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

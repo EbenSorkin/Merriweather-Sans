@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hcircumflex.sc" format="2">
-  <advance width="674.15"/>
+  <advance width="674.0"/>
   <anchor x="300.25" y="0.0" name="bottom"/>
-  <anchor x="415.625" y="881.0" name="top"/>
+  <anchor x="416.0" y="881.0" name="top"/>
   <outline>
     <component base="h.sc"/>
-    <component base="circumflexcomb" xOffset="348.625" yOffset="93.0"/>
+    <component base="circumflexcomb" xOffset="349.0" yOffset="93.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:03</string>
+      <string>2019/02/18 20:31:35</string>
     </dict>
   </lib>
 </glyph>

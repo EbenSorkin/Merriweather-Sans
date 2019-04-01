@@ -1,28 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="guillemetright" format="2">
-  <advance width="957.8974358974359"/>
+  <advance width="957.89744"/>
   <unicode hex="00BB"/>
   <note>
 guillemotright
 </note>
   <outline>
     <contour>
-      <point x="504.7692307692308" y="64.12820512820512" type="line"/>
-      <point x="859.6923076923076" y="257.12820512820514" type="line"/>
-      <point x="874.5128205128206" y="346.0" type="line"/>
-      <point x="563.5384615384615" y="537.0512820512821" type="line"/>
-      <point x="515.8461538461538" y="461.8974358974359" type="line"/>
-      <point x="700.9230769230769" y="307.8205128205128" type="line"/>
-      <point x="479.71794871794873" y="151.15384615384613" type="line"/>
+      <point x="504.769" y="64.128" type="line"/>
+      <point x="859.692" y="257.128" type="line"/>
+      <point x="874.513" y="346.0" type="line"/>
+      <point x="563.538" y="537.051" type="line"/>
+      <point x="515.846" y="461.897" type="line"/>
+      <point x="700.923" y="307.821" type="line"/>
+      <point x="479.718" y="151.154" type="line"/>
     </contour>
     <contour>
-      <point x="129.64102564102564" y="64.12820512820512" type="line"/>
-      <point x="485.56410256410254" y="257.12820512820514" type="line"/>
-      <point x="499.38461538461536" y="346.0" type="line"/>
-      <point x="188.82051282051282" y="537.0512820512821" type="line"/>
-      <point x="141.30769230769232" y="461.8974358974359" type="line"/>
-      <point x="325.7948717948718" y="307.8205128205128" type="line"/>
-      <point x="104.58974358974359" y="151.15384615384613" type="line"/>
+      <point x="129.641" y="64.128" type="line"/>
+      <point x="485.564" y="257.128" type="line"/>
+      <point x="499.385" y="346.0" type="line"/>
+      <point x="188.821" y="537.051" type="line"/>
+      <point x="141.308" y="461.897" type="line"/>
+      <point x="325.795" y="307.821" type="line"/>
+      <point x="104.59" y="151.154" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -32,7 +32,7 @@ guillemotright
 11 7 4 0 2 48 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:03</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

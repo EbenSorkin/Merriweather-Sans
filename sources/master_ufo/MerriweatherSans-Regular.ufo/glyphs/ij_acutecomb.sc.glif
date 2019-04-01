@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ij_acutecomb.sc" format="2">
-  <advance width="654.0"/>
-  <anchor x="155.0" y="0.0" name="bottom_1"/>
-  <anchor x="482.0" y="0.0" name="bottom_2"/>
-  <anchor x="158.0" y="-72.0" name="btm_1"/>
-  <anchor x="439.0" y="-72.0" name="btm_2"/>
-  <anchor x="279.0" y="10.0" name="ogonek"/>
-  <anchor x="154.0" y="892.0" name="top_1"/>
-  <anchor x="492.0" y="722.0" name="top_2"/>
+  <advance width="667.0"/>
+  <anchor x="158.378" y="0.0" name="bottom_1"/>
+  <anchor x="492.2" y="0.0" name="bottom_2"/>
+  <anchor x="160.844" y="-72.0" name="btm_1"/>
+  <anchor x="445.467" y="-72.0" name="btm_2"/>
+  <anchor x="284.867" y="10.0" name="ogonek"/>
+  <anchor x="157.378" y="892.0" name="top_1"/>
+  <anchor x="502.733" y="722.178" name="top_2"/>
   <outline>
     <component base="ij.sc"/>
   </outline>
@@ -16,7 +16,7 @@
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:39:45</string>
+      <string>2019/02/18 20:30:31</string>
       <key>public.markColor</key>
       <string>0.98,0.36,0.67,1</string>
     </dict>

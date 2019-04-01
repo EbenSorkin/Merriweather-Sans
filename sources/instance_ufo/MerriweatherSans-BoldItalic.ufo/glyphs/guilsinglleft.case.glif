@@ -6,13 +6,13 @@ guilsinglleft
 </note>
   <outline>
     <contour>
-      <point x="413.8205128205128" y="136.94871794871796" type="line"/>
-      <point x="461.9230769230769" y="212.69230769230768" type="line"/>
-      <point x="276.8461538461538" y="366.7692307692308" type="line"/>
-      <point x="498.05128205128204" y="523.2564102564103" type="line"/>
-      <point x="473.0" y="610.8717948717949" type="line"/>
-      <point x="118.07692307692308" y="417.28205128205127" type="line"/>
-      <point x="103.84615384615384" y="329.0" type="line"/>
+      <point x="413.821" y="136.949" type="line"/>
+      <point x="461.923" y="212.692" type="line"/>
+      <point x="276.846" y="366.769" type="line"/>
+      <point x="498.051" y="523.256" type="line"/>
+      <point x="473.0" y="610.872" type="line"/>
+      <point x="118.077" y="417.282" type="line"/>
+      <point x="103.846" y="329.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -26,7 +26,7 @@ CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>guilsinglleft</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 19:07:18</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

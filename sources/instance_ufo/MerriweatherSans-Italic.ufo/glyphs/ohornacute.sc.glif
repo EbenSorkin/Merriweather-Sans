@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ohornacute.sc" format="2">
-  <advance width="652.3"/>
+  <advance width="652.0"/>
   <anchor x="288.975" y="0.0" name="bottom"/>
   <anchor x="332.975" y="326.0" name="center"/>
   <anchor x="394.2" y="9.0" name="ogonek"/>
-  <anchor x="325.25" y="817.725" name="top"/>
+  <anchor x="325.175" y="817.725" name="top"/>
   <anchor x="70.325" y="651.0" name="topleft"/>
   <anchor x="679.625" y="651.0" name="topright"/>
   <outline>
     <component base="ohorn.sc"/>
-    <component base="acutecomb" xOffset="317.075" yOffset="93.0"/>
+    <component base="acutecomb" xOffset="317.0" yOffset="93.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 17:40:03</string>
+      <string>2019/02/18 20:31:35</string>
     </dict>
   </lib>
 </glyph>

@@ -7,22 +7,18 @@ grave
   <anchor x="93.0" y="976.0" name="top"/>
   <outline>
     <contour>
-      <point x="116.0" y="817.0" type="curve"/>
-      <point x="167.0" y="858.0" type="line"/>
-      <point x="15.0" y="1066.0" type="line"/>
-      <point x="-74.0" y="983.0" type="line"/>
-      <point x="-50.0" y="940.0"/>
-      <point x="71.0" y="834.0"/>
+      <point x="117.641" y="817.0" type="curve"/>
+      <point x="172.744" y="860.872" type="line"/>
+      <point x="16.231" y="1073.385" type="line"/>
+      <point x="-78.513" y="984.641" type="line"/>
+      <point x="-56.564" y="943.282"/>
+      <point x="69.769" y="834.821"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>assembly</key>
-      <string>PUSHB[ ]	/* 4 values pushed */
-2 0 1 48 
-CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:12</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

@@ -7,13 +7,13 @@ caron.cap
   <anchor x="87.0" y="939.0" name="top"/>
   <outline>
     <contour>
-      <point x="11.897435897435898" y="783.3589743589744" type="line"/>
-      <point x="99.3076923076923" y="783.3589743589744" type="line"/>
-      <point x="272.05128205128204" y="945.6923076923077" type="line"/>
-      <point x="209.4871794871795" y="981.2307692307693" type="line"/>
-      <point x="65.35897435897436" y="886.3846153846154" type="line"/>
-      <point x="-34.07692307692308" y="981.2307692307693" type="line"/>
-      <point x="-96.82051282051282" y="941.4615384615385" type="line"/>
+      <point x="11.896999999999998" y="783.359" type="line"/>
+      <point x="99.308" y="783.359" type="line"/>
+      <point x="272.051" y="945.692" type="line"/>
+      <point x="209.487" y="981.231" type="line"/>
+      <point x="65.359" y="886.385" type="line"/>
+      <point x="-34.077" y="981.231" type="line"/>
+      <point x="-96.821" y="941.462" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -23,7 +23,7 @@ caron.cap
 6 3 2 1 4 0 72 0 0 0 105 20 1 7 21 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:12</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

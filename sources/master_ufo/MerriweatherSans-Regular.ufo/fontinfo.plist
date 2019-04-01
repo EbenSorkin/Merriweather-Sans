@@ -130,18 +130,9 @@
       <real>977.0</real>
     </array>
     <key>postscriptStemSnapH</key>
-    <array>
-      <integer>48</integer>
-      <integer>42</integer>
-      <integer>55</integer>
-      <integer>62</integer>
-    </array>
+    <array/>
     <key>postscriptStemSnapV</key>
-    <array>
-      <integer>91</integer>
-      <integer>78</integer>
-      <integer>100</integer>
-    </array>
+    <array/>
     <key>postscriptUnderlinePosition</key>
     <integer>-122</integer>
     <key>postscriptUnderlineThickness</key>

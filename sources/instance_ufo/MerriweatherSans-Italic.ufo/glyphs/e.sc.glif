@@ -10,14 +10,14 @@ E
   <anchor x="69.025" y="651.0" name="topleft"/>
   <outline>
     <contour>
-      <point x="46.77499999999999" y="0.0" type="line"/>
+      <point x="46.775" y="0.0" type="line"/>
       <point x="478.925" y="0.0" type="line"/>
-      <point x="486.875" y="89.42500000000001" type="line"/>
-      <point x="166.4" y="83.07500000000002" type="line"/>
-      <point x="195.10000000000002" y="290.425" type="line"/>
-      <point x="401.15000000000003" y="284.4" type="line"/>
+      <point x="486.875" y="89.425" type="line"/>
+      <point x="166.4" y="83.075" type="line"/>
+      <point x="195.1" y="290.425" type="line"/>
+      <point x="401.15" y="284.4" type="line"/>
       <point x="408.1" y="372.2" type="line"/>
-      <point x="204.72500000000002" y="369.525" type="line"/>
+      <point x="204.725" y="369.525" type="line"/>
       <point x="231.425" y="561.925" type="line"/>
       <point x="501.8" y="560.25" type="line"/>
       <point x="507.075" y="646.0" type="line"/>
@@ -46,7 +46,7 @@ CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>h.sc</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 17:33:37</string>
+      <string>2019/02/18 20:31:10</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

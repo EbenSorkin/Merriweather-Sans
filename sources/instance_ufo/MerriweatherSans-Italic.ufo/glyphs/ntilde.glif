@@ -6,15 +6,15 @@
 ntilde
 </note>
   <anchor x="259.875" y="0.0" name="bottom"/>
-  <anchor x="355.85" y="744.375" name="top"/>
+  <anchor x="355.975" y="744.375" name="top"/>
   <outline>
     <component base="n"/>
-    <component base="tildecomb" xOffset="296.875"/>
+    <component base="tildecomb" xOffset="297.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:02</string>
+      <string>2019/02/18 20:31:35</string>
     </dict>
   </lib>
 </glyph>

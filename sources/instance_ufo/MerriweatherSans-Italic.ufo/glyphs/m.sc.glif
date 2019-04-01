@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="m.sc" format="2">
-  <advance width="865.9250000000001"/>
+  <advance width="865.925"/>
   <note>
 M
 </note>
@@ -12,20 +12,20 @@ M
       <point x="442.5" y="-1.0" type="line"/>
       <point x="640.825" y="460.85" type="line"/>
       <point x="695.95" y="587.4" type="line"/>
-      <point x="686.3000000000001" y="448.75" type="line"/>
+      <point x="686.3" y="448.75" type="line"/>
       <point x="664.375" y="0.0" type="line"/>
       <point x="775.725" y="0.0" type="line"/>
-      <point x="782.4250000000001" y="646.0" type="line"/>
+      <point x="782.425" y="646.0" type="line"/>
       <point x="622.575" y="646.0" type="line"/>
       <point x="435.75" y="200.65" type="line"/>
-      <point x="414.075" y="119.77499999999999" type="line"/>
-      <point x="407.40000000000003" y="200.65" type="line"/>
-      <point x="335.52500000000003" y="646.0" type="line"/>
+      <point x="414.075" y="119.775" type="line"/>
+      <point x="407.4" y="200.65" type="line"/>
+      <point x="335.525" y="646.0" type="line"/>
       <point x="187.75" y="646.0" type="line"/>
-      <point x="13.824999999999992" y="0.0" type="line"/>
-      <point x="123.85000000000001" y="0.0" type="line"/>
-      <point x="230.82500000000002" y="451.77500000000003" type="line"/>
-      <point x="256.52500000000003" y="587.4" type="line"/>
+      <point x="13.825" y="0.0" type="line"/>
+      <point x="123.85" y="0.0" type="line"/>
+      <point x="230.825" y="451.775" type="line"/>
+      <point x="256.525" y="587.4" type="line"/>
       <point x="271.6" y="454.8" type="line"/>
     </contour>
   </outline>
@@ -49,7 +49,7 @@ CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:50:34</string>
+      <string>2019/02/18 20:31:10</string>
       <key>public.markColor</key>
       <string>0,0.67,0.91,1</string>
     </dict>

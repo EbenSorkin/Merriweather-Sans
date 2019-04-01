@@ -1,29 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="summation" format="2">
-  <advance width="766.6222222222223"/>
+  <advance width="766.62222"/>
   <unicode hex="2211"/>
   <outline>
     <contour>
-      <point x="117.42222222222225" y="-83.0" type="line"/>
-      <point x="636.2888888888889" y="-83.0" type="line"/>
-      <point x="636.2888888888889" y="-1.666666666666682" type="line"/>
-      <point x="204.46666666666664" y="-1.666666666666682" type="line"/>
-      <point x="234.88888888888889" y="-45.0" type="line"/>
-      <point x="492.1777777777778" y="333.35555555555555" type="line"/>
-      <point x="221.24444444444444" y="708.0" type="line"/>
-      <point x="178.48888888888885" y="656.4888888888889" type="line"/>
-      <point x="626.9777777777778" y="656.4888888888889" type="line"/>
-      <point x="626.9777777777778" y="743.0" type="line"/>
-      <point x="118.60000000000002" y="743.0" type="line"/>
-      <point x="104.42222222222225" y="704.0" type="line"/>
-      <point x="373.4222222222222" y="330.35555555555555" type="line"/>
-      <point x="104.42222222222225" y="-56.111111111111114" type="line"/>
+      <point x="117.422" y="-83.0" type="line"/>
+      <point x="636.289" y="-83.0" type="line"/>
+      <point x="636.289" y="-1.6670000000000016" type="line"/>
+      <point x="204.467" y="-1.6670000000000016" type="line"/>
+      <point x="234.889" y="-45.0" type="line"/>
+      <point x="492.178" y="333.356" type="line"/>
+      <point x="221.244" y="708.0" type="line"/>
+      <point x="178.489" y="656.489" type="line"/>
+      <point x="626.978" y="656.489" type="line"/>
+      <point x="626.978" y="743.0" type="line"/>
+      <point x="118.6" y="743.0" type="line"/>
+      <point x="104.422" y="704.0" type="line"/>
+      <point x="373.422" y="330.356" type="line"/>
+      <point x="104.422" y="-56.111" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/01/21 06:08:13</string>
+      <string>2019/02/18 20:30:01</string>
     </dict>
   </lib>
 </glyph>

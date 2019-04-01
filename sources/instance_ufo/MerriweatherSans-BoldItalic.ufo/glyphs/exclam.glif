@@ -7,24 +7,24 @@ exclam
 </note>
   <outline>
     <contour>
-      <point x="104.48717948717949" y="240.35897435897436" type="line"/>
-      <point x="216.33333333333331" y="240.35897435897436" type="line"/>
-      <point x="332.38461538461536" y="868.0" type="line"/>
-      <point x="174.43589743589743" y="868.0" type="line"/>
+      <point x="104.487" y="240.359" type="line"/>
+      <point x="216.333" y="240.359" type="line"/>
+      <point x="332.385" y="868.0" type="line"/>
+      <point x="174.436" y="868.0" type="line"/>
     </contour>
     <contour>
       <point x="123.0" y="-9.0" type="curve" smooth="yes"/>
-      <point x="180.69230769230768" y="-9.0"/>
-      <point x="219.9230769230769" y="31.64102564102564"/>
-      <point x="221.69230769230768" y="90.51282051282051" type="curve" smooth="yes"/>
-      <point x="222.87179487179486" y="129.7948717948718"/>
-      <point x="198.64102564102564" y="157.02564102564102"/>
-      <point x="148.5897435897436" y="157.02564102564102" type="curve" smooth="yes"/>
-      <point x="93.3076923076923" y="157.02564102564102"/>
-      <point x="51.8974358974359" y="111.38461538461539"/>
-      <point x="51.30769230769231" y="58.51282051282051" type="curve" smooth="yes"/>
-      <point x="50.717948717948715" y="18.64102564102564"/>
-      <point x="79.71794871794872" y="-9.0"/>
+      <point x="180.692" y="-9.0"/>
+      <point x="219.923" y="31.641"/>
+      <point x="221.692" y="90.513" type="curve" smooth="yes"/>
+      <point x="222.872" y="129.795"/>
+      <point x="198.641" y="157.026"/>
+      <point x="148.59" y="157.026" type="curve" smooth="yes"/>
+      <point x="93.308" y="157.026"/>
+      <point x="51.897" y="111.385"/>
+      <point x="51.308" y="58.513" type="curve" smooth="yes"/>
+      <point x="50.718" y="18.641"/>
+      <point x="79.718" y="-9.0"/>
     </contour>
   </outline>
   <lib>
@@ -34,7 +34,7 @@ exclam
 8 1 2 3 1 74 4 1 1 0 1 114 0 0 3 0 114 5 1 3 3 2 91 0 2 2 26 2 76 4 4 0 0 4 18 4 17 12 10 0 3 0 3 17 6 7 21 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:03</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

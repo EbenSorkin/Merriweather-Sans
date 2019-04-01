@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="cdotaccent" format="2">
-  <advance width="492.55555555555554"/>
+  <advance width="493.0"/>
   <unicode hex="010B"/>
-  <anchor x="246.77777777777777" y="0.0" name="bottom"/>
-  <anchor x="280.4888888888889" y="-83.0" name="btm"/>
-  <anchor x="301.1333333333333" y="990.5555555555555" name="top"/>
+  <anchor x="246.778" y="0.0" name="bottom"/>
+  <anchor x="280.489" y="-83.0" name="btm"/>
+  <anchor x="301.0" y="990.556" name="top"/>
   <outline>
     <component base="c"/>
-    <component base="dotaccentcomb" xOffset="301.1333333333333"/>
+    <component base="dotaccentcomb" xOffset="301.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 06:18:47</string>
+      <string>2019/02/18 20:30:31</string>
     </dict>
   </lib>
 </glyph>

@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="minute" format="2">
-  <advance width="333.8888888888889"/>
+  <advance width="333.88889"/>
   <unicode hex="2032"/>
   <outline>
     <contour>
-      <point x="90.51111111111112" y="581.0" type="line"/>
-      <point x="175.73333333333332" y="581.0" type="line"/>
-      <point x="255.97777777777776" y="878.0222222222222" type="line"/>
-      <point x="137.75555555555556" y="878.0222222222222" type="line"/>
+      <point x="90.511" y="581.0" type="line"/>
+      <point x="175.733" y="581.0" type="line"/>
+      <point x="255.978" y="878.022" type="line"/>
+      <point x="137.756" y="878.022" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/01/21 06:08:13</string>
+      <string>2019/02/18 20:30:01</string>
     </dict>
   </lib>
 </glyph>

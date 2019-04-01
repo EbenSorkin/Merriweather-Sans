@@ -1,25 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tbar" format="2">
-  <advance width="415.0"/>
+  <advance width="420.51111"/>
   <unicode hex="0167"/>
-  <anchor x="208.0" y="0.0" name="bottom"/>
-  <anchor x="240.0" y="-83.0" name="btm"/>
-  <anchor x="208.0" y="279.0" name="center"/>
-  <anchor x="184.0" y="913.0" name="top"/>
-  <anchor x="395.0" y="557.0" name="topright"/>
+  <anchor x="210.667" y="0.0" name="bottom"/>
+  <anchor x="242.311" y="-83.0" name="btm"/>
+  <anchor x="210.667" y="279.0" name="center"/>
+  <anchor x="188.8" y="913.0" name="top"/>
+  <anchor x="400.511" y="557.0" name="topright"/>
   <outline>
     <contour>
-      <point x="40.0" y="291.0" type="line"/>
-      <point x="375.0" y="291.0" type="line"/>
-      <point x="375.0" y="371.0" type="line"/>
-      <point x="40.0" y="371.0" type="line"/>
+      <point x="40.0" y="284.6" type="line"/>
+      <point x="381.222" y="284.6" type="line"/>
+      <point x="381.222" y="369.044" type="line"/>
+      <point x="40.0" y="369.044" type="line"/>
     </contour>
     <component base="t"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/01/21 06:08:13</string>
+      <string>2019/02/18 20:30:01</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
     </dict>
   </lib>
 </glyph>

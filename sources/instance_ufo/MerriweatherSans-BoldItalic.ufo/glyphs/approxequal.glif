@@ -6,13 +6,13 @@
 approxequal
 </note>
   <outline>
-    <component base="asciitilde" xOffset="-39.41025641025641" yOffset="-212.0"/>
-    <component base="asciitilde" xOffset="-7.76923076923077" yOffset="22.92307692307692"/>
+    <component base="asciitilde" xOffset="-39.41" yOffset="-212.0"/>
+    <component base="asciitilde" xOffset="-7.769" yOffset="22.923"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:16</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

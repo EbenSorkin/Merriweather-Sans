@@ -8,13 +8,13 @@ bracketleft
   <outline>
     <contour>
       <point x="130.3" y="-98.525" type="curve" smooth="yes"/>
-      <point x="165.70000000000002" y="-98.525"/>
-      <point x="211.20000000000002" y="-91.525"/>
-      <point x="268.825" y="-74.55000000000001" type="curve"/>
-      <point x="274.8" y="-25.724999999999998" type="line"/>
-      <point x="142.425" y="-25.724999999999998" type="line"/>
-      <point x="250.45000000000002" y="780.375" type="line"/>
-      <point x="383.15000000000003" y="780.375" type="line"/>
+      <point x="165.7" y="-98.525"/>
+      <point x="211.2" y="-91.525"/>
+      <point x="268.825" y="-74.55" type="curve"/>
+      <point x="274.8" y="-25.725" type="line"/>
+      <point x="142.425" y="-25.725" type="line"/>
+      <point x="250.45" y="780.375" type="line"/>
+      <point x="383.15" y="780.375" type="line"/>
       <point x="390.125" y="829.525" type="line"/>
       <point x="370.8" y="835.85"/>
       <point x="289.55" y="852.525"/>
@@ -22,11 +22,11 @@ bracketleft
       <point x="180.55" y="852.525"/>
       <point x="155.3" y="817.9"/>
       <point x="143.65" y="726.275" type="curve" smooth="yes"/>
-      <point x="46.675" y="28.399999999999995" type="line" smooth="yes"/>
-      <point x="44.675" y="10.749999999999995"/>
-      <point x="43.0" y="-7.250000000000005"/>
-      <point x="43.0" y="-25.275000000000002" type="curve" smooth="yes"/>
-      <point x="43.0" y="-79.60000000000001"/>
+      <point x="46.675" y="28.4" type="line" smooth="yes"/>
+      <point x="44.675" y="10.75"/>
+      <point x="43.0" y="-7.25"/>
+      <point x="43.0" y="-25.275" type="curve" smooth="yes"/>
+      <point x="43.0" y="-79.6"/>
       <point x="69.975" y="-98.525"/>
     </contour>
   </outline>
@@ -37,7 +37,7 @@ bracketleft
 0 0 0 1 2 0 1 97 0 2 3 3 2 85 0 2 2 3 91 0 3 2 3 79 35 17 21 34 4 7 24 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:03</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

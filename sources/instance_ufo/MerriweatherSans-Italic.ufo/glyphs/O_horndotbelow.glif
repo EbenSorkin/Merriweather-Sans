@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ohorndotbelow" format="2">
-  <advance width="674.3"/>
+  <advance width="674.0"/>
   <unicode hex="1EE2"/>
-  <anchor x="274.65" y="-199.0" name="bottom"/>
+  <anchor x="275.0" y="-199.0" name="bottom"/>
   <anchor x="350.65" y="374.325" name="center"/>
   <anchor x="407.25" y="10.0" name="ogonek"/>
   <anchor x="379.0" y="747.0" name="top"/>
@@ -10,12 +10,12 @@
   <anchor x="716.3" y="747.975" name="topright"/>
   <outline>
     <component base="Ohorn"/>
-    <component base="dotbelowcomb.case" xOffset="300.65"/>
+    <component base="dotbelowcomb.case" xOffset="301.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:02</string>
+      <string>2019/02/18 20:31:35</string>
     </dict>
   </lib>
 </glyph>

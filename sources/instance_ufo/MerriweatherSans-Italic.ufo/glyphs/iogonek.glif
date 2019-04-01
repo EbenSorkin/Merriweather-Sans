@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="iogonek" format="2">
-  <advance width="291.5"/>
+  <advance width="292.0"/>
   <unicode hex="012F"/>
   <note>
 iogonek
 </note>
   <anchor x="109.25" y="0.0" name="bottom"/>
-  <anchor x="187.85000000000002" y="10.0" name="ogonek"/>
-  <anchor x="209.9" y="768.675" name="top"/>
+  <anchor x="187.85" y="10.0" name="ogonek"/>
+  <anchor x="209.65" y="768.675" name="top"/>
   <outline>
     <component base="idotless"/>
-    <component base="dotaccentcomb" xOffset="146.25"/>
-    <component base="ogonekcomb" xOffset="223.85000000000002"/>
+    <component base="dotaccentcomb" xOffset="146.0"/>
+    <component base="ogonekcomb" xOffset="224.0"/>
   </outline>
   <lib>
     <dict>
@@ -20,7 +20,7 @@ iogonek
 22 1 2 5 23 1 3 2 2 74 0 2 0 3 2 3 95 0 0 0 1 91 6 1 1 1 19 75 0 4 4 20 75 0 5 5 18 5 76 0 0 37 36 35 34 27 25 21 19 0 13 0 12 37 7 7 21 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 17:18:18</string>
+      <string>2019/02/18 20:31:35</string>
     </dict>
   </lib>
 </glyph>

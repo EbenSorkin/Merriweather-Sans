@@ -12,15 +12,15 @@ OE
       <point x="517.325" y="100.8" type="curve"/>
       <point x="503.65" y="0.0" type="line"/>
       <point x="929.8" y="0.0" type="line"/>
-      <point x="937.4250000000001" y="89.42500000000001" type="line"/>
-      <point x="616.95" y="83.07500000000002" type="line"/>
+      <point x="937.425" y="89.425" type="line"/>
+      <point x="616.95" y="83.075" type="line"/>
       <point x="646.325" y="289.45" type="line"/>
       <point x="851.7" y="283.425" type="line"/>
       <point x="858.325" y="372.2" type="line"/>
       <point x="655.275" y="369.525" type="line"/>
       <point x="682.325" y="561.925" type="line"/>
       <point x="952.025" y="560.25" type="line"/>
-      <point x="958.3000000000001" y="646.0" type="line"/>
+      <point x="958.3" y="646.0" type="line"/>
       <point x="587.925" y="646.0" type="line"/>
       <point x="573.25" y="535.5" type="line"/>
       <point x="535.95" y="609.95"/>
@@ -33,18 +33,18 @@ OE
       <point x="130.975" y="-7.0"/>
     </contour>
     <contour>
-      <point x="295.625" y="76.42500000000001" type="curve" smooth="yes"/>
-      <point x="206.15" y="76.42500000000001"/>
-      <point x="159.125" y="135.10000000000002"/>
+      <point x="295.625" y="76.425" type="curve" smooth="yes"/>
+      <point x="206.15" y="76.425"/>
+      <point x="159.125" y="135.1"/>
       <point x="155.75" y="261.35" type="curve" smooth="yes"/>
-      <point x="151.70000000000002" y="402.875"/>
+      <point x="151.7" y="402.875"/>
       <point x="224.8" y="568.225"/>
       <point x="358.325" y="568.225" type="curve" smooth="yes"/>
       <point x="453.4" y="568.225"/>
       <point x="496.5" y="499.9"/>
       <point x="499.2" y="373.9" type="curve" smooth="yes"/>
       <point x="501.9" y="239.15"/>
-      <point x="430.125" y="76.42500000000001"/>
+      <point x="430.125" y="76.425"/>
     </contour>
   </outline>
   <lib>
@@ -138,7 +138,7 @@ CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>e.sc</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:50:25</string>
+      <string>2019/02/18 20:31:10</string>
       <key>public.markColor</key>
       <string>0,0.67,0.91,1</string>
     </dict>

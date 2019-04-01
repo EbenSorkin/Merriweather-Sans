@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="z" format="2">
-  <advance width="477.64102564102564"/>
+  <advance width="477.64103"/>
   <unicode hex="007A"/>
   <note>
 z
 </note>
-  <anchor x="201.82051282051282" y="0.0" name="bottom"/>
-  <anchor x="238.82051282051282" y="279.0" name="center"/>
-  <anchor x="291.7435897435897" y="557.0" name="top"/>
+  <anchor x="201.821" y="0.0" name="bottom"/>
+  <anchor x="238.821" y="279.0" name="center"/>
+  <anchor x="291.744" y="557.0" name="top"/>
   <outline>
     <contour>
-      <point x="0.8974358974358996" y="0.0" type="line"/>
-      <point x="414.7435897435897" y="0.0" type="line"/>
-      <point x="426.38461538461536" y="115.89743589743588" type="line"/>
-      <point x="181.56410256410254" y="115.89743589743588" type="line"/>
-      <point x="219.07692307692307" y="148.5897435897436" type="line"/>
-      <point x="492.15384615384613" y="533.8205128205128" type="line"/>
-      <point x="473.38461538461536" y="557.0" type="line"/>
-      <point x="86.53846153846155" y="557.0" type="line"/>
-      <point x="70.8974358974359" y="442.51282051282055" type="line"/>
-      <point x="297.0" y="442.51282051282055" type="line"/>
-      <point x="254.8974358974359" y="405.05128205128204" type="line"/>
-      <point x="-19.64102564102564" y="23.76923076923077" type="line"/>
+      <point x="0.8970000000000002" y="0.0" type="line"/>
+      <point x="414.744" y="0.0" type="line"/>
+      <point x="426.385" y="115.897" type="line"/>
+      <point x="181.564" y="115.897" type="line"/>
+      <point x="219.077" y="148.59" type="line"/>
+      <point x="492.154" y="533.821" type="line"/>
+      <point x="473.385" y="557.0" type="line"/>
+      <point x="86.538" y="557.0" type="line"/>
+      <point x="70.897" y="442.513" type="line"/>
+      <point x="297.0" y="442.513" type="line"/>
+      <point x="254.897" y="405.051" type="line"/>
+      <point x="-19.641" y="23.769" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -31,7 +31,7 @@ z
 0 2 2 3 89 0 3 3 20 75 0 0 0 1 89 0 1 1 18 1 76 17 19 17 16 4 7 24 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:03</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

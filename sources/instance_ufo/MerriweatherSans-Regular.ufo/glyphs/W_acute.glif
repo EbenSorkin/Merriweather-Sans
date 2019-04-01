@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Wacute" format="2">
-  <advance width="941.6222222222223"/>
+  <advance width="942.0"/>
   <unicode hex="1E82"/>
-  <anchor x="471.31111111111113" y="0.0" name="bottom"/>
-  <anchor x="469.53333333333336" y="-83.0" name="btm"/>
-  <anchor x="469.5333333333333" y="1024.088888888889" name="top"/>
+  <anchor x="471.311" y="0.0" name="bottom"/>
+  <anchor x="469.533" y="-83.0" name="btm"/>
+  <anchor x="470.0" y="1024.089" name="top"/>
   <outline>
     <component base="W"/>
-    <component base="acutecomb.case" xOffset="469.5333333333333"/>
+    <component base="acutecomb.case" xOffset="470.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 06:18:47</string>
+      <string>2019/02/18 20:30:31</string>
     </dict>
   </lib>
 </glyph>

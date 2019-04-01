@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="racute.sc" format="2">
-  <advance width="654.6888888888889"/>
-  <anchor x="327.84444444444443" y="0.0" name="bottom"/>
-  <anchor x="330.55555555555554" y="-72.0" name="btm"/>
-  <anchor x="280.9555555555556" y="886.2444444444444" name="top"/>
+  <advance width="655.0"/>
+  <anchor x="327.844" y="0.0" name="bottom"/>
+  <anchor x="330.556" y="-72.0" name="btm"/>
+  <anchor x="280.578" y="886.422" name="top"/>
   <outline>
     <component base="r.sc"/>
-    <component base="acutecomb" xOffset="341.3777777777778" yOffset="-108.17777777777778"/>
+    <component base="acutecomb" xOffset="341.0" yOffset="-108.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:07:26</string>
+      <string>2019/02/18 20:30:31</string>
     </dict>
   </lib>
 </glyph>

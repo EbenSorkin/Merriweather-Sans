@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="scarondotaccent.sc" format="2">
-  <advance width="539.0"/>
-  <anchor x="270.0" y="0.0" name="bottom"/>
-  <anchor x="266.0" y="-72.0" name="btm"/>
-  <anchor x="291.0" y="1237.0" name="top"/>
+  <advance width="545.0"/>
+  <anchor x="272.844" y="0.0" name="bottom"/>
+  <anchor x="269.556" y="-72.0" name="btm"/>
+  <anchor x="294.0" y="1242.556" name="top"/>
   <outline>
     <component base="s.sc"/>
-    <component base="caroncomb" xOffset="291.0" yOffset="62.0"/>
-    <component base="dotaccentcomb" xOffset="291.0" yOffset="250.0"/>
+    <component base="caroncomb" xOffset="294.0" yOffset="62.0"/>
+    <component base="dotaccentcomb" xOffset="294.0" yOffset="252.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 05:54:57</string>
+      <string>2019/02/18 20:30:31</string>
     </dict>
   </lib>
 </glyph>

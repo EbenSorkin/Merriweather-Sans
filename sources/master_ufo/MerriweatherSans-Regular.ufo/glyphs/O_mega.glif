@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Omega" format="2">
-  <advance width="881.0"/>
+  <advance width="883.66667"/>
   <unicode hex="03A9"/>
-  <anchor x="441.0" y="0.0" name="bottom"/>
+  <anchor x="442.244" y="0.0" name="bottom"/>
   <anchor x="20.0" y="743.0" name="topleft"/>
   <outline>
     <component base="Ohm"/>
@@ -10,7 +10,11 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/16 05:39:16</string>
+      <string>2019/02/18 20:30:01</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
     </dict>
   </lib>
 </glyph>

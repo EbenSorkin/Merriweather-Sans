@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dcaron" format="2">
-  <advance width="805.0"/>
+  <advance width="804.82222"/>
   <unicode hex="010F"/>
-  <anchor x="302.0" y="0.0" name="bottom"/>
-  <anchor x="296.0" y="-83.0" name="btm"/>
-  <anchor x="302.0" y="279.0" name="center"/>
-  <anchor x="176.0" y="830.0" name="top"/>
-  <anchor x="584.0" y="557.0" name="topright"/>
+  <anchor x="306.089" y="0.0" name="bottom"/>
+  <anchor x="299.378" y="-83.0" name="btm"/>
+  <anchor x="306.089" y="279.0" name="center"/>
+  <anchor x="180.622" y="830.178" name="top"/>
+  <anchor x="592.178" y="557.0" name="topright"/>
   <outline>
     <component base="d"/>
-    <component base="caroncomb.alt" xOffset="552.0" yOffset="1.0"/>
+    <component base="caroncomb.alt" xOffset="560.178" yOffset="1.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 19:50:33</string>
+      <string>2019/02/18 20:30:01</string>
       <key>com.schriftgestaltung.componentsAlignment</key>
       <array>
         <integer>-1</integer>
-        <integer>0</integer>
+        <integer>-1</integer>
       </array>
     </dict>
   </lib>

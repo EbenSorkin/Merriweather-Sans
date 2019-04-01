@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="lslash.sc" format="2">
-  <advance width="500.8461538461538"/>
+  <advance width="500.84615"/>
   <note>
 Lslash
 </note>
   <outline>
     <contour>
-      <point x="41.53846153846154" y="0.4102564102564101" type="line"/>
-      <point x="432.3333333333333" y="0.4102564102564101" type="line"/>
-      <point x="449.38461538461536" y="124.30769230769229" type="line"/>
-      <point x="209.35897435897436" y="119.48717948717947" type="line"/>
-      <point x="233.94871794871796" y="283.2307692307692" type="line"/>
-      <point x="441.2307692307692" y="347.7692307692308" type="line"/>
-      <point x="416.1794871794872" y="430.7435897435897" type="line"/>
-      <point x="246.17948717948718" y="377.61538461538464" type="line"/>
-      <point x="285.5897435897436" y="647.0" type="line"/>
-      <point x="133.4102564102564" y="647.0" type="line"/>
-      <point x="86.58974358974359" y="321.5128205128205" type="line"/>
-      <point x="-19.94871794871795" y="288.79487179487177" type="line"/>
-      <point x="6.1025641025641" y="209.82051282051282" type="line"/>
-      <point x="74.35897435897436" y="228.53846153846155" type="line"/>
+      <point x="41.538" y="0.41" type="line"/>
+      <point x="432.333" y="0.41" type="line"/>
+      <point x="449.385" y="124.308" type="line"/>
+      <point x="209.359" y="119.487" type="line"/>
+      <point x="233.949" y="283.231" type="line"/>
+      <point x="441.231" y="347.769" type="line"/>
+      <point x="416.179" y="430.744" type="line"/>
+      <point x="246.179" y="377.615" type="line"/>
+      <point x="285.59" y="647.0" type="line"/>
+      <point x="133.41" y="647.0" type="line"/>
+      <point x="86.59" y="321.513" type="line"/>
+      <point x="-19.949" y="288.795" type="line"/>
+      <point x="6.103" y="209.821" type="line"/>
+      <point x="74.359" y="228.538" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -42,7 +42,7 @@ CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:50:34</string>
+      <string>2019/02/18 20:31:10</string>
       <key>public.markColor</key>
       <string>0,0.67,0.91,1</string>
     </dict>

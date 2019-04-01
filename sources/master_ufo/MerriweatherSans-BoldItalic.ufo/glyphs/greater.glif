@@ -1,29 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="greater" format="2">
-  <advance width="675.0"/>
+  <advance width="677.46154"/>
   <unicode hex="003E"/>
   <note>
 greater
 </note>
   <outline>
     <contour>
-      <point x="123.0" y="88.0" type="line"/>
-      <point x="621.0" y="340.0" type="line"/>
-      <point x="628.0" y="403.0" type="line"/>
-      <point x="189.0" y="654.0" type="line"/>
-      <point x="178.0" y="542.0" type="line"/>
-      <point x="479.0" y="376.0" type="line"/>
-      <point x="138.0" y="211.0" type="line"/>
+      <point x="123.821" y="88.41" type="line"/>
+      <point x="623.462" y="341.231" type="line"/>
+      <point x="630.872" y="404.641" type="line"/>
+      <point x="189.821" y="656.872" type="line"/>
+      <point x="178.41" y="533.795" type="line"/>
+      <point x="465.462" y="378.051" type="line"/>
+      <point x="140.051" y="223.308" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>assembly</key>
-      <string>PUSHB[ ]	/* 4 values pushed */
-4 0 1 48 
-CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:16</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

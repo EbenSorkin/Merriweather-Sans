@@ -20,34 +20,34 @@ B
       <point x="570.025" y="489.35"/>
       <point x="570.025" y="589.025" type="curve" smooth="yes"/>
       <point x="570.025" y="686.325"/>
-      <point x="508.40000000000003" y="755.0"/>
+      <point x="508.4" y="755.0"/>
       <point x="345.475" y="755.0" type="curve" smooth="yes"/>
       <point x="318.475" y="755.0"/>
-      <point x="217.20000000000002" y="747.0"/>
+      <point x="217.2" y="747.0"/>
       <point x="195.525" y="747.0" type="curve" smooth="yes"/>
       <point x="147.025" y="747.0" type="line"/>
       <point x="50.75" y="0.0" type="line"/>
       <point x="100.95" y="0.0" type="line" smooth="yes"/>
-      <point x="127.17499999999998" y="0.0"/>
+      <point x="127.175" y="0.0"/>
       <point x="205.3" y="-7.0"/>
     </contour>
     <contour>
-      <point x="250.5" y="70.45000000000002" type="curve" smooth="yes"/>
-      <point x="226.8" y="70.45000000000002"/>
-      <point x="187.375" y="73.80000000000001"/>
-      <point x="169.72500000000002" y="78.47500000000001" type="curve"/>
-      <point x="204.07500000000002" y="345.775" type="line"/>
+      <point x="250.5" y="70.45" type="curve" smooth="yes"/>
+      <point x="226.8" y="70.45"/>
+      <point x="187.375" y="73.8"/>
+      <point x="169.725" y="78.475" type="curve"/>
+      <point x="204.075" y="345.775" type="line"/>
       <point x="233.775" y="347.775"/>
       <point x="264.85" y="348.775"/>
       <point x="296.275" y="348.775" type="curve" smooth="yes"/>
       <point x="397.325" y="348.775"/>
       <point x="448.725" y="310.025"/>
       <point x="448.725" y="225.3" type="curve" smooth="yes"/>
-      <point x="448.725" y="118.92500000000001"/>
-      <point x="381.35" y="70.45000000000002"/>
+      <point x="448.725" y="118.925"/>
+      <point x="381.35" y="70.45"/>
     </contour>
     <contour>
-      <point x="214.72500000000002" y="425.575" type="curve"/>
+      <point x="214.725" y="425.575" type="curve"/>
       <point x="246.4" y="674.875" type="line"/>
       <point x="270.0" y="677.875"/>
       <point x="302.8" y="679.55"/>
@@ -91,7 +91,7 @@ NPUSHB[ ]	/* 16 values pushed */
 40 40 40 51 40 50 54 53 55 34 33 34 54 9 7 27 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:02</string>
+      <string>2019/02/18 20:31:10</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

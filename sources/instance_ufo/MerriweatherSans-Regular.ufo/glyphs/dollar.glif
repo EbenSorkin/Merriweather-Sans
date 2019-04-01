@@ -2,28 +2,28 @@
 <glyph name="dollar" format="2">
   <advance width="673.2"/>
   <unicode hex="0024"/>
-  <anchor x="330.24444444444447" y="0.0" name="bottom"/>
-  <anchor x="326.9555555555556" y="-83.0" name="btm"/>
-  <anchor x="348.1333333333333" y="830.0" name="top"/>
+  <anchor x="330.24399999999997" y="0.0" name="bottom"/>
+  <anchor x="326.955" y="-83.0" name="btm"/>
+  <anchor x="348.133" y="830.0" name="top"/>
   <outline>
     <contour>
-      <point x="307.4" y="731.5111111111111" type="line"/>
-      <point x="389.1777777777778" y="731.5111111111111" type="line"/>
-      <point x="390.7111111111111" y="860.1777777777778" type="line"/>
-      <point x="308.93333333333334" y="860.1777777777778" type="line"/>
+      <point x="307.4" y="731.511" type="line"/>
+      <point x="389.178" y="731.511" type="line"/>
+      <point x="390.711" y="860.178" type="line"/>
+      <point x="308.933" y="860.178" type="line"/>
     </contour>
     <contour>
-      <point x="286.68888888888887" y="-114.93333333333334" type="line"/>
-      <point x="368.4666666666667" y="-114.93333333333334" type="line"/>
-      <point x="369.8222222222222" y="10.9111111111111" type="line"/>
-      <point x="288.22222222222223" y="10.9111111111111" type="line"/>
+      <point x="286.689" y="-114.933" type="line"/>
+      <point x="368.467" y="-114.933" type="line"/>
+      <point x="369.822" y="10.911" type="line"/>
+      <point x="288.222" y="10.911" type="line"/>
     </contour>
-    <component base="S" xOffset="50.04444444444445"/>
+    <component base="S" xOffset="50.044"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/01/21 06:08:13</string>
+      <string>2019/02/18 20:30:01</string>
     </dict>
   </lib>
 </glyph>

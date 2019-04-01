@@ -7,105 +7,61 @@ uni00B5
 </note>
   <outline>
     <contour>
-      <point x="42.0" y="-182.0" type="line"/>
-      <point x="169.0" y="-182.0" type="line"/>
-      <point x="200.0" y="28.0" type="line"/>
-      <point x="212.0" y="4.0"/>
-      <point x="254.0" y="-9.0"/>
-      <point x="282.0" y="-9.0" type="curve" smooth="yes"/>
-      <point x="343.0" y="-9.0"/>
-      <point x="377.0" y="13.0"/>
+      <point x="35.026" y="-182.0" type="line"/>
+      <point x="176.795" y="-182.0" type="line"/>
+      <point x="208.205" y="28.41" type="line"/>
+      <point x="220.615" y="3.179"/>
+      <point x="262.615" y="-8.59"/>
+      <point x="291.846" y="-8.59" type="curve" smooth="yes"/>
+      <point x="346.282" y="-8.59"/>
+      <point x="381.103" y="13.0"/>
       <point x="414.0" y="60.0" type="curve"/>
-      <point x="420.0" y="14.0"/>
-      <point x="448.0" y="-9.0"/>
-      <point x="499.0" y="-9.0" type="curve" smooth="yes"/>
-      <point x="565.0" y="-9.0"/>
-      <point x="610.0" y="30.0"/>
-      <point x="638.0" y="62.0" type="curve"/>
-      <point x="604.0" y="121.0" type="line"/>
-      <point x="585.0" y="98.0"/>
-      <point x="565.0" y="85.0"/>
-      <point x="548.0" y="85.0" type="curve" smooth="yes"/>
-      <point x="539.0" y="85.0"/>
-      <point x="531.0" y="97.0"/>
-      <point x="531.0" y="116.0" type="curve" smooth="yes"/>
-      <point x="531.0" y="136.0"/>
-      <point x="556.0" y="308.0"/>
-      <point x="586.0" y="557.0" type="curve"/>
-      <point x="453.0" y="557.0" type="line"/>
-      <point x="404.0" y="182.0" type="line"/>
-      <point x="388.0" y="141.0"/>
-      <point x="333.0" y="97.0"/>
-      <point x="295.0" y="97.0" type="curve" smooth="yes"/>
-      <point x="258.0" y="97.0"/>
-      <point x="231.0" y="117.0"/>
-      <point x="231.0" y="170.0" type="curve" smooth="yes"/>
-      <point x="231.0" y="188.0"/>
-      <point x="259.0" y="405.0"/>
-      <point x="268.0" y="465.0" type="curve" smooth="yes"/>
-      <point x="278.0" y="517.0"/>
-      <point x="247.0" y="564.0"/>
+      <point x="422.051" y="11.538"/>
+      <point x="450.872" y="-9.0"/>
+      <point x="503.513" y="-9.0" type="curve" smooth="yes"/>
+      <point x="573.205" y="-9.0"/>
+      <point x="616.154" y="28.359"/>
+      <point x="648.667" y="63.231" type="curve"/>
+      <point x="613.026" y="124.692" type="line"/>
+      <point x="596.897" y="103.333"/>
+      <point x="574.846" y="89.103"/>
+      <point x="557.846" y="89.103" type="curve" smooth="yes"/>
+      <point x="548.846" y="89.103"/>
+      <point x="540.436" y="101.513"/>
+      <point x="541.256" y="119.692" type="curve" smooth="yes"/>
+      <point x="547.41" y="183.59"/>
+      <point x="569.128" y="335.897"/>
+      <point x="595.436" y="557.0" type="curve"/>
+      <point x="446.846" y="557.0" type="line"/>
+      <point x="399.077" y="190.205" type="line" smooth="yes"/>
+      <point x="387.179" y="147.154"/>
+      <point x="334.641" y="105.615"/>
+      <point x="299.513" y="105.615" type="curve" smooth="yes"/>
+      <point x="263.333" y="105.615"/>
+      <point x="240.436" y="126.436"/>
+      <point x="240.436" y="176.154" type="curve" smooth="yes"/>
+      <point x="240.436" y="195.795"/>
+      <point x="271.308" y="428.385"/>
+      <point x="276.615" y="471.154" type="curve" smooth="yes"/>
+      <point x="282.513" y="524.795"/>
+      <point x="246.59" y="564.0"/>
       <point x="185.0" y="564.0" type="curve" smooth="yes"/>
       <point x="125.0" y="564.0"/>
-      <point x="63.0" y="526.0"/>
-      <point x="42.0" y="502.0" type="curve"/>
-      <point x="70.0" y="434.0" type="line"/>
-      <point x="85.0" y="449.0"/>
-      <point x="98.0" y="458.0"/>
-      <point x="114.0" y="458.0" type="curve" smooth="yes"/>
-      <point x="128.0" y="458.0"/>
-      <point x="129.0" y="431.0"/>
-      <point x="126.0" y="403.0" type="curve" smooth="yes"/>
+      <point x="56.846" y="525.59"/>
+      <point x="35.026" y="502.0" type="curve"/>
+      <point x="61.385" y="429.077" type="line"/>
+      <point x="76.385" y="444.077"/>
+      <point x="88.564" y="452.256"/>
+      <point x="104.564" y="452.256" type="curve" smooth="yes"/>
+      <point x="119.385" y="452.256"/>
+      <point x="120.795" y="421.564"/>
+      <point x="117.385" y="398.077" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>assembly</key>
-      <string>MPPEM[ ]	/* MeasurePixelPerEm */
-PUSHB[ ]	/* 1 value pushed */
-21 
-LT[ ]	/* LessThan */
-IF[ ]	/* If */
-NPUSHB[ ]	/* 18 values pushed */
-10 1 0 1 42 34 9 3 2 0 55 49 43 3 5 2 3 74 
-ELSE[ ]	/* Else */
-MPPEM[ ]	/* MeasurePixelPerEm */
-PUSHB[ ]	/* 1 value pushed */
-33 
-LT[ ]	/* LessThan */
-IF[ ]	/* If */
-NPUSHB[ ]	/* 18 values pushed */
-10 1 0 1 42 34 9 3 2 0 55 49 43 3 5 4 3 74 
-ELSE[ ]	/* Else */
-NPUSHB[ ]	/* 18 values pushed */
-10 1 0 3 42 34 9 3 2 0 55 49 43 3 5 4 3 74 
-EIF[ ]	/* EndIf */
-EIF[ ]	/* EndIf */
-MPPEM[ ]	/* MeasurePixelPerEm */
-PUSHB[ ]	/* 1 value pushed */
-21 
-LT[ ]	/* LessThan */
-IF[ ]	/* If */
-NPUSHB[ ]	/* 33 values pushed */
-0 0 1 2 1 0 2 112 4 1 2 2 5 91 6 1 5 5 26 75 8 1 7 7 1 91 3 1 1 1 28 7 76 
-ELSE[ ]	/* Else */
-MPPEM[ ]	/* MeasurePixelPerEm */
-PUSHB[ ]	/* 1 value pushed */
-33 
-LT[ ]	/* LessThan */
-IF[ ]	/* If */
-NPUSHB[ ]	/* 40 values pushed */
-0 0 1 2 1 0 2 112 0 4 2 5 2 4 5 112 0 2 2 5 91 6 1 5 5 26 75 8 1 7 7 1 91 3 1 1 1 28 7 76 
-ELSE[ ]	/* Else */
-NPUSHB[ ]	/* 44 values pushed */
-0 0 3 2 3 0 2 112 0 4 2 5 2 4 5 112 0 3 3 20 75 0 2 2 5 91 6 1 5 5 26 75 8 1 7 7 1 91 0 1 1 28 7 76 
-EIF[ ]	/* EndIf */
-EIF[ ]	/* EndIf */
-NPUSHB[ ]	/* 16 values pushed */
-0 0 0 56 0 56 35 38 37 20 43 38 37 9 7 27 
-CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:16</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="onehalf" format="2">
-  <advance width="1063.5"/>
+  <advance width="1064.0"/>
   <unicode hex="00BD"/>
   <note>
 onehalf
 </note>
   <outline>
     <component base="one.numr"/>
-    <component base="fraction" xOffset="348.05"/>
-    <component base="two.dnom" xOffset="553.3"/>
+    <component base="fraction" xOffset="348.0"/>
+    <component base="two.dnom" xOffset="553.0"/>
   </outline>
   <lib>
     <dict>
@@ -23,7 +23,7 @@ PUSHB[ ]	/* 2 values pushed */
 6 0 
 WCVTP[ ]	/* WriteCVTInPixels */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:45:50</string>
+      <string>2019/02/18 20:31:35</string>
     </dict>
   </lib>
 </glyph>

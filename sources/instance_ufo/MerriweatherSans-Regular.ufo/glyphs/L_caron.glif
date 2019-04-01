@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Lcaron" format="2">
-  <advance width="530.5555555555555"/>
+  <advance width="530.55556"/>
   <unicode hex="013D"/>
-  <anchor x="265.77777777777777" y="0.0" name="bottom"/>
-  <anchor x="294.7111111111111" y="-83.0" name="btm"/>
-  <anchor x="265.77777777777777" y="372.0" name="center"/>
-  <anchor x="152.73333333333332" y="830.0" name="top"/>
-  <anchor x="510.55555555555554" y="743.0" name="topright"/>
+  <anchor x="265.778" y="0.0" name="bottom"/>
+  <anchor x="294.711" y="-83.0" name="btm"/>
+  <anchor x="265.778" y="372.0" name="center"/>
+  <anchor x="152.733" y="830.0" name="top"/>
+  <anchor x="510.556" y="743.0" name="topright"/>
   <outline>
     <component base="L"/>
-    <component base="caroncomb.alt" xOffset="241.66666666666663"/>
+    <component base="caroncomb.alt" xOffset="241.667"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 19:53:16</string>
+      <string>2019/02/18 20:30:01</string>
       <key>com.schriftgestaltung.componentsAlignment</key>
       <array>
         <integer>-1</integer>

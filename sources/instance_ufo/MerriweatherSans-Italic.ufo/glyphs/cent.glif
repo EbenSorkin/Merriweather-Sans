@@ -7,23 +7,23 @@ cent
 </note>
   <outline>
     <contour>
-      <point x="170.79999999999998" y="-109.875" type="line"/>
+      <point x="170.8" y="-109.875" type="line"/>
       <point x="251.625" y="-109.875" type="line"/>
       <point x="270.6" y="-6.675" type="line"/>
-      <point x="341.875" y="-0.6999999999999984"/>
-      <point x="399.875" y="42.300000000000004"/>
+      <point x="341.875" y="-0.7000000000000002"/>
+      <point x="399.875" y="42.3"/>
       <point x="429.9" y="82.625" type="curve"/>
       <point x="396.275" y="139.5" type="line"/>
-      <point x="351.5" y="95.07500000000002"/>
-      <point x="311.225" y="73.45000000000002"/>
-      <point x="270.225" y="73.45000000000002" type="curve" smooth="yes"/>
-      <point x="204.15" y="73.45000000000002"/>
-      <point x="173.425" y="116.47500000000001"/>
+      <point x="351.5" y="95.075"/>
+      <point x="311.225" y="73.45"/>
+      <point x="270.225" y="73.45" type="curve" smooth="yes"/>
+      <point x="204.15" y="73.45"/>
+      <point x="173.425" y="116.475"/>
       <point x="173.425" y="225.25" type="curve" smooth="yes"/>
       <point x="173.425" y="344.7"/>
-      <point x="241.25" y="482.59999999999997"/>
-      <point x="340.7" y="482.59999999999997" type="curve" smooth="yes"/>
-      <point x="376.075" y="482.59999999999997"/>
+      <point x="241.25" y="482.6"/>
+      <point x="340.7" y="482.6" type="curve" smooth="yes"/>
+      <point x="376.075" y="482.6"/>
       <point x="409.0" y="469.7"/>
       <point x="432.675" y="449.7" type="curve"/>
       <point x="460.275" y="545.675" type="line"/>
@@ -36,9 +36,9 @@ cent
       <point x="149.1" y="525.375"/>
       <point x="63.425" y="365.6"/>
       <point x="63.425" y="212.65" type="curve" smooth="yes"/>
-      <point x="63.425" y="100.22500000000001"/>
-      <point x="107.44999999999999" y="23.950000000000003"/>
-      <point x="191.1" y="-0.3499999999999992" type="curve"/>
+      <point x="63.425" y="100.225"/>
+      <point x="107.45" y="23.95"/>
+      <point x="191.1" y="-0.3500000000000001" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -61,7 +61,7 @@ NPUSHB[ ]	/* 14 values pushed */
 0 0 0 33 0 32 17 25 17 21 37 7 7 25 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:16</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

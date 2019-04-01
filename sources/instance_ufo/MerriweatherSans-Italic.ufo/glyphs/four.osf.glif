@@ -7,23 +7,23 @@ four
   <outline>
     <contour>
       <point x="304.325" y="-183.0" type="line"/>
-      <point x="407.70000000000005" y="-183.0" type="line"/>
-      <point x="430.70000000000005" y="0.0" type="line"/>
+      <point x="407.7" y="-183.0" type="line"/>
+      <point x="430.7" y="0.0" type="line"/>
       <point x="549.15" y="0.0" type="line"/>
-      <point x="560.775" y="91.82500000000002" type="line"/>
-      <point x="441.675" y="84.82500000000002" type="line"/>
+      <point x="560.775" y="91.825" type="line"/>
+      <point x="441.675" y="84.825" type="line"/>
       <point x="471.375" y="317.0" type="line"/>
       <point x="366.975" y="300.0" type="line"/>
-      <point x="338.625" y="79.47500000000001" type="line"/>
+      <point x="338.625" y="79.475" type="line"/>
       <point x="123.775" y="71.15" type="line"/>
-      <point x="162.775" y="120.45000000000002" type="line"/>
+      <point x="162.775" y="120.45" type="line"/>
       <point x="446.95" y="570.0" type="line"/>
       <point x="381.825" y="613.0" type="line"/>
-      <point x="339.67499999999995" y="613.0" type="line"/>
+      <point x="339.675" y="613.0" type="line"/>
       <point x="227.625" y="410.425"/>
-      <point x="136.72500000000002" y="256.45000000000005"/>
-      <point x="8.374999999999998" y="51.525000000000006" type="curve"/>
-      <point x="28.950000000000003" y="0.0" type="line"/>
+      <point x="136.725" y="256.45"/>
+      <point x="8.375" y="51.525" type="curve"/>
+      <point x="28.95" y="0.0" type="line"/>
       <point x="328.325" y="0.0" type="line"/>
     </contour>
   </outline>
@@ -56,7 +56,7 @@ NPUSHB[ ]	/* 14 values pushed */
 0 0 0 17 0 17 17 17 17 19 19 7 7 25 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:03</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

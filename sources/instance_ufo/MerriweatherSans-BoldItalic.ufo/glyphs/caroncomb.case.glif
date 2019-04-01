@@ -7,13 +7,13 @@ caron
   <anchor x="93.0" y="976.0" name="top"/>
   <outline>
     <contour>
-      <point x="25.76923076923077" y="817.0" type="line"/>
-      <point x="113.17948717948718" y="817.0" type="line"/>
-      <point x="285.9230769230769" y="990.5641025641025" type="line"/>
-      <point x="223.35897435897436" y="1026.5128205128206" type="line"/>
-      <point x="83.64102564102564" y="925.8461538461538" type="line"/>
-      <point x="-26.256410256410263" y="1026.5128205128206" type="line"/>
-      <point x="-81.94871794871796" y="989.974358974359" type="line"/>
+      <point x="25.769" y="817.0" type="line"/>
+      <point x="113.179" y="817.0" type="line"/>
+      <point x="285.923" y="990.564" type="line"/>
+      <point x="223.359" y="1026.513" type="line"/>
+      <point x="83.641" y="925.846" type="line"/>
+      <point x="-26.256" y="1026.513" type="line"/>
+      <point x="-81.949" y="989.974" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -29,7 +29,7 @@ PUSHB[ ]	/* 2 values pushed */
 6 0 
 WCVTP[ ]	/* WriteCVTInPixels */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:12</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

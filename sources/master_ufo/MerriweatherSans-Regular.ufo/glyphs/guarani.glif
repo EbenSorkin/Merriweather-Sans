@@ -1,51 +1,51 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="guarani" format="2">
-  <advance width="728.0"/>
+  <advance width="731.02222"/>
   <unicode hex="20B2"/>
   <outline>
     <contour>
-      <point x="48.0" y="368.0" type="curve" smooth="yes"/>
-      <point x="48.0" y="172.0"/>
-      <point x="151.0" y="23.0"/>
+      <point x="46.222" y="368.0" type="curve" smooth="yes"/>
+      <point x="46.222" y="169.511"/>
+      <point x="151.533" y="23.0"/>
       <point x="333.0" y="-3.0" type="curve"/>
       <point x="332.0" y="-126.0" type="line"/>
       <point x="433.0" y="-126.0" type="line"/>
-      <point x="434.0" y="-6.0" type="line"/>
-      <point x="556.0" y="1.0"/>
-      <point x="604.0" y="43.0"/>
-      <point x="645.0" y="45.0" type="curve"/>
-      <point x="645.0" y="375.0" type="line"/>
-      <point x="403.0" y="375.0" type="line"/>
-      <point x="403.0" y="293.0" type="line"/>
-      <point x="536.0" y="287.0" type="line"/>
-      <point x="536.0" y="106.0" type="line"/>
-      <point x="508.0" y="87.0"/>
-      <point x="445.0" y="79.0"/>
-      <point x="392.0" y="79.0" type="curve" smooth="yes"/>
-      <point x="238.0" y="79.0"/>
-      <point x="165.0" y="210.0"/>
-      <point x="165.0" y="381.0" type="curve" smooth="yes"/>
-      <point x="165.0" y="558.0"/>
-      <point x="259.0" y="662.0"/>
-      <point x="389.0" y="662.0" type="curve" smooth="yes"/>
-      <point x="497.0" y="662.0"/>
-      <point x="551.0" y="645.0"/>
-      <point x="598.0" y="621.0" type="curve"/>
-      <point x="603.0" y="722.0" type="line"/>
-      <point x="548.0" y="732.0"/>
-      <point x="516.0" y="746.0"/>
-      <point x="439.0" y="750.0" type="curve"/>
-      <point x="439.0" y="860.0" type="line"/>
-      <point x="338.0" y="860.0" type="line"/>
-      <point x="338.0" y="747.0" type="line"/>
-      <point x="172.0" y="724.0"/>
-      <point x="48.0" y="599.0"/>
+      <point x="434.0" y="-6.178" type="line"/>
+      <point x="559.378" y="0.644"/>
+      <point x="605.6" y="42.467"/>
+      <point x="649.8" y="44.467" type="curve"/>
+      <point x="649.8" y="381.4" type="line"/>
+      <point x="402.289" y="381.4" type="line"/>
+      <point x="402.289" y="292.111" type="line"/>
+      <point x="531.733" y="285.578" type="line"/>
+      <point x="531.733" y="112.222" type="line"/>
+      <point x="504.8" y="94.289"/>
+      <point x="445.711" y="86.822"/>
+      <point x="393.6" y="86.822" type="curve" smooth="yes"/>
+      <point x="246.356" y="86.822"/>
+      <point x="174.422" y="213.556"/>
+      <point x="174.422" y="381.0" type="curve" smooth="yes"/>
+      <point x="174.422" y="552.311"/>
+      <point x="265.4" y="653.289"/>
+      <point x="395.222" y="653.289" type="curve" smooth="yes"/>
+      <point x="501.267" y="653.289"/>
+      <point x="557.933" y="635.756"/>
+      <point x="602.978" y="612.467" type="curve"/>
+      <point x="607.978" y="721.822" type="line"/>
+      <point x="554.4" y="731.644"/>
+      <point x="519.556" y="746.178"/>
+      <point x="441.311" y="750.0" type="curve"/>
+      <point x="441.311" y="860.0" type="line"/>
+      <point x="340.311" y="860.0" type="line"/>
+      <point x="340.311" y="747.0" type="line"/>
+      <point x="172.0" y="724.178"/>
+      <point x="46.222" y="601.133"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/01/21 06:08:13</string>
+      <string>2019/02/18 20:30:01</string>
       <key>com.schriftgestaltung.Glyphs.nodeUserData.0.2</key>
       <dict>
         <key>name</key>

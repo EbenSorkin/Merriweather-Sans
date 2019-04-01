@@ -7,27 +7,23 @@ uni2206
 </note>
   <outline>
     <contour>
-      <point x="-16.0" y="0.0" type="line"/>
-      <point x="637.0" y="0.0" type="line"/>
-      <point x="646.0" y="13.0" type="line"/>
-      <point x="368.0" y="736.0" type="line"/>
-      <point x="352.0" y="736.0" type="line"/>
-      <point x="-21.0" y="11.0" type="line"/>
+      <point x="-39.385" y="0.0" type="line"/>
+      <point x="613.615" y="0.0" type="line"/>
+      <point x="623.026" y="13.0" type="line"/>
+      <point x="386.872" y="736.0" type="line"/>
+      <point x="371.282" y="736.0" type="line"/>
+      <point x="-43.564" y="11.0" type="line"/>
     </contour>
     <contour>
-      <point x="165.0" y="112.0" type="line"/>
-      <point x="345.0" y="481.0" type="line"/>
-      <point x="479.0" y="112.0" type="line"/>
+      <point x="162.538" y="123.897" type="line"/>
+      <point x="345.41" y="463.359" type="line"/>
+      <point x="451.103" y="123.897" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>assembly</key>
-      <string>PUSHB[ ]	/* 6 values pushed */
-7 6 2 0 2 48 
-CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:16</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

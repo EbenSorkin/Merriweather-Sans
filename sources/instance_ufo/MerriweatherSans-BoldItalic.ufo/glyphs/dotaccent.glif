@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dotaccent" format="2">
-  <advance width="190.4102564102564"/>
+  <advance width="190.41026"/>
   <unicode hex="02D9"/>
   <note>
 dotaccent
 </note>
   <outline>
     <contour>
-      <point x="83.58974358974359" y="652.2051282051282" type="curve" smooth="yes"/>
-      <point x="141.9230769230769" y="652.2051282051282"/>
-      <point x="180.74358974358972" y="691.2564102564103"/>
-      <point x="180.74358974358972" y="744.9487179487179" type="curve" smooth="yes"/>
-      <point x="180.74358974358972" y="784.4102564102564"/>
-      <point x="146.28205128205127" y="816.2820512820513"/>
-      <point x="102.41025641025641" y="816.2820512820513" type="curve" smooth="yes"/>
-      <point x="49.48717948717949" y="816.2820512820513"/>
-      <point x="8.846153846153847" y="775.2307692307693"/>
-      <point x="8.846153846153847" y="724.5384615384615" type="curve" smooth="yes"/>
-      <point x="8.846153846153847" y="685.0769230769231"/>
-      <point x="44.12820512820513" y="652.2051282051282"/>
+      <point x="83.59" y="652.205" type="curve" smooth="yes"/>
+      <point x="141.923" y="652.205"/>
+      <point x="180.744" y="691.256"/>
+      <point x="180.744" y="744.949" type="curve" smooth="yes"/>
+      <point x="180.744" y="784.41"/>
+      <point x="146.282" y="816.282"/>
+      <point x="102.41" y="816.282" type="curve" smooth="yes"/>
+      <point x="49.487" y="816.282"/>
+      <point x="8.846" y="775.231"/>
+      <point x="8.846" y="724.538" type="curve" smooth="yes"/>
+      <point x="8.846" y="685.077"/>
+      <point x="44.128" y="652.205"/>
     </contour>
   </outline>
   <lib>
@@ -34,7 +34,7 @@ PUSHB[ ]	/* 2 values pushed */
 6 0 
 WCVTP[ ]	/* WriteCVTInPixels */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:12</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

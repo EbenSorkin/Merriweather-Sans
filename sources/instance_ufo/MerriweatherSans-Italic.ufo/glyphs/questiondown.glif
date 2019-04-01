@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="questiondown" format="2">
-  <advance width="439.77500000000003"/>
+  <advance width="439.775"/>
   <unicode hex="00BF"/>
   <note>
 questiondown
@@ -10,31 +10,31 @@ questiondown
       <point x="327.125" y="402.65" type="curve"/>
       <point x="245.125" y="402.65" type="line"/>
       <point x="248.125" y="377.65"/>
-      <point x="249.82500000000002" y="358.55"/>
+      <point x="249.825" y="358.55"/>
       <point x="248.5" y="335.85" type="curve" smooth="yes"/>
-      <point x="245.525" y="286.52500000000003"/>
+      <point x="245.525" y="286.525"/>
       <point x="203.875" y="257.575"/>
       <point x="147.55" y="226.25" type="curve" smooth="yes"/>
-      <point x="42.925000000000004" y="167.95"/>
-      <point x="-16.674999999999997" y="88.775"/>
-      <point x="-16.674999999999997" y="-13.349999999999998" type="curve" smooth="yes"/>
-      <point x="-16.674999999999997" y="-149.3"/>
+      <point x="42.925" y="167.95"/>
+      <point x="-16.675" y="88.775"/>
+      <point x="-16.675" y="-13.350000000000001" type="curve" smooth="yes"/>
+      <point x="-16.675" y="-149.3"/>
       <point x="80.25" y="-208.35"/>
       <point x="224.775" y="-208.35" type="curve" smooth="yes"/>
       <point x="270.175" y="-208.35"/>
       <point x="314.475" y="-196.675"/>
       <point x="328.45" y="-185.05" type="curve"/>
-      <point x="346.425" y="-106.19999999999999" type="line"/>
-      <point x="308.40000000000003" y="-118.54999999999998"/>
+      <point x="346.425" y="-106.2" type="line"/>
+      <point x="308.4" y="-118.55"/>
       <point x="281.75" y="-122.225"/>
       <point x="241.4" y="-122.225" type="curve" smooth="yes"/>
-      <point x="165.10000000000002" y="-122.225"/>
-      <point x="90.12500000000001" y="-82.94999999999999"/>
-      <point x="90.12500000000001" y="-0.34999999999999787" type="curve" smooth="yes"/>
-      <point x="90.12500000000001" y="60.750000000000014"/>
-      <point x="120.05000000000004" y="118.50000000000001"/>
-      <point x="211.37500000000003" y="167.775" type="curve" smooth="yes"/>
-      <point x="299.625" y="215.20000000000002"/>
+      <point x="165.1" y="-122.225"/>
+      <point x="90.125" y="-82.95"/>
+      <point x="90.125" y="-0.3500000000000014" type="curve" smooth="yes"/>
+      <point x="90.125" y="60.75"/>
+      <point x="120.05" y="118.5"/>
+      <point x="211.375" y="167.775" type="curve" smooth="yes"/>
+      <point x="299.625" y="215.2"/>
       <point x="343.1" y="267.925"/>
       <point x="343.1" y="320.675" type="curve" smooth="yes"/>
       <point x="343.1" y="362.5"/>
@@ -64,7 +64,7 @@ CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
       <string>question</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:03</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

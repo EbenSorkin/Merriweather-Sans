@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="T" format="2">
-  <advance width="558.8717948717949"/>
+  <advance width="558.87179"/>
   <unicode hex="0054"/>
   <note>
 T
 </note>
-  <anchor x="242.64102564102564" y="0.0" name="bottom"/>
-  <anchor x="292.64102564102564" y="374.5897435897436" name="center"/>
-  <anchor x="341.64102564102564" y="748.7692307692307" name="top"/>
+  <anchor x="242.641" y="0.0" name="bottom"/>
+  <anchor x="292.641" y="374.59" name="center"/>
+  <anchor x="341.641" y="748.769" name="top"/>
   <outline>
     <contour>
-      <point x="163.02564102564102" y="0.0" type="line"/>
-      <point x="315.43589743589746" y="0.0" type="line"/>
-      <point x="402.8461538461538" y="635.1025641025641" type="line"/>
-      <point x="584.8717948717949" y="630.1025641025641" type="line"/>
-      <point x="601.3333333333334" y="747.0" type="line"/>
-      <point x="83.87179487179488" y="747.0" type="line"/>
-      <point x="65.41025641025641" y="630.1025641025641" type="line"/>
-      <point x="250.84615384615387" y="635.1025641025641" type="line"/>
+      <point x="163.026" y="0.0" type="line"/>
+      <point x="315.436" y="0.0" type="line"/>
+      <point x="402.846" y="635.103" type="line"/>
+      <point x="584.872" y="630.103" type="line"/>
+      <point x="601.333" y="747.0" type="line"/>
+      <point x="83.872" y="747.0" type="line"/>
+      <point x="65.41" y="630.103" type="line"/>
+      <point x="250.846" y="635.103" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -27,7 +27,7 @@ T
 4 3 2 1 1 0 89 0 0 0 17 75 0 2 2 18 2 76 0 0 0 7 0 7 17 17 17 5 7 23 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:02</string>
+      <string>2019/02/18 20:31:10</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

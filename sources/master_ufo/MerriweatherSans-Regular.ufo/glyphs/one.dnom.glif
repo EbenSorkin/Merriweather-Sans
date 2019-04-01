@@ -1,41 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="one.dnom" format="2">
-  <advance width="359.0"/>
+  <advance width="363.08889"/>
   <outline>
     <contour>
-      <point x="161.0" y="0.0" type="line"/>
-      <point x="259.0" y="0.0" type="line"/>
-      <point x="259.0" y="535.0" type="line"/>
-      <point x="203.0" y="551.0" type="line"/>
-      <point x="200.0" y="552.0" type="line"/>
-      <point x="173.0" y="525.0"/>
-      <point x="132.0" y="470.0"/>
-      <point x="30.0" y="453.0" type="curve"/>
-      <point x="44.0" y="397.0" type="line"/>
-      <point x="102.0" y="400.0"/>
-      <point x="124.0" y="404.0"/>
-      <point x="161.0" y="422.0" type="curve"/>
+      <point x="159.933" y="0.0" type="line"/>
+      <point x="262.911" y="0.0" type="line"/>
+      <point x="263.089" y="536.422" type="line"/>
+      <point x="206.378" y="552.422" type="line"/>
+      <point x="203.911" y="553.067" type="line"/>
+      <point x="176.556" y="525.889"/>
+      <point x="131.289" y="471.422"/>
+      <point x="30.0" y="454.422" type="curve"/>
+      <point x="44.0" y="396.289" type="line"/>
+      <point x="102.889" y="399.467"/>
+      <point x="123.822" y="403.822"/>
+      <point x="159.933" y="420.933" type="curve"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>RMXScaler</key>
-      <dict>
-        <key>adjustSpace</key>
-        <integer>2</integer>
-        <key>height</key>
-        <integer>73</integer>
-        <key>keepStroke</key>
-        <integer>90</integer>
-        <key>monoWidth</key>
-        <integer>627</integer>
-        <key>weight</key>
-        <integer>-12</integer>
-        <key>width</key>
-        <integer>78</integer>
-      </dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 17:03:23</string>
+      <string>2019/02/18 20:30:01</string>
     </dict>
   </lib>
 </glyph>

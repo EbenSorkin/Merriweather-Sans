@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Wdieresis" format="2">
-  <advance width="868.275"/>
+  <advance width="868.0"/>
   <unicode hex="1E84"/>
   <note>
 Wdieresis
 </note>
   <anchor x="397.3" y="0.0" name="bottom"/>
-  <anchor x="522.95" y="951.85" name="top"/>
+  <anchor x="522.65" y="951.875" name="top"/>
   <outline>
     <component base="W"/>
-    <component base="dieresiscomb.case" xOffset="434.3" yOffset="0.9750000000000014"/>
+    <component base="dieresiscomb.case" xOffset="434.0" yOffset="1.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:02</string>
+      <string>2019/02/18 20:31:35</string>
     </dict>
   </lib>
 </glyph>

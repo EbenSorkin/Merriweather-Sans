@@ -1,24 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Eth" format="2">
-  <advance width="719.0"/>
+  <advance width="726.11111"/>
   <unicode hex="00D0"/>
-  <anchor x="360.0" y="0.0" name="bottom"/>
-  <anchor x="320.0" y="-83.0" name="btm"/>
-  <anchor x="360.0" y="372.0" name="center"/>
-  <anchor x="356.0" y="830.0" name="top"/>
+  <anchor x="363.556" y="0.0" name="bottom"/>
+  <anchor x="323.733" y="-83.0" name="btm"/>
+  <anchor x="363.556" y="372.0" name="center"/>
+  <anchor x="359.2" y="830.0" name="top"/>
   <outline>
     <contour>
-      <point x="32.0" y="352.0" type="line"/>
-      <point x="396.0" y="352.0" type="line"/>
-      <point x="396.0" y="424.0" type="line"/>
-      <point x="32.0" y="424.0" type="line"/>
+      <point x="32.356" y="349.689" type="line"/>
+      <point x="399.022" y="349.689" type="line"/>
+      <point x="399.022" y="426.311" type="line"/>
+      <point x="32.356" y="426.311" type="line"/>
     </contour>
     <component base="D"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/01/21 06:08:13</string>
+      <string>2019/02/18 20:30:01</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>

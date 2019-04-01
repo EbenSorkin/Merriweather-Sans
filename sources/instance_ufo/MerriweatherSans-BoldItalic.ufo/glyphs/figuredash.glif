@@ -4,10 +4,10 @@
   <unicode hex="2012"/>
   <outline>
     <contour>
-      <point x="108.41025641025641" y="303.0769230769231" type="line"/>
-      <point x="518.7692307692307" y="303.0769230769231" type="line"/>
-      <point x="534.4102564102565" y="411.5128205128205" type="line"/>
-      <point x="123.46153846153845" y="411.5128205128205" type="line"/>
+      <point x="108.41" y="303.077" type="line"/>
+      <point x="518.769" y="303.077" type="line"/>
+      <point x="534.41" y="411.513" type="line"/>
+      <point x="123.462" y="411.513" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -17,7 +17,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
       <string>zero</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 19:32:43</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

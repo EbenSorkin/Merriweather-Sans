@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="lcommaaccent.sc" format="2">
-  <advance width="496.61538461538464"/>
-  <anchor x="185.5128205128205" y="-199.0" name="bottom"/>
-  <anchor x="255.5128205128205" y="325.5897435897436" name="center"/>
-  <anchor x="297.5128205128205" y="650.1794871794872" name="top"/>
-  <anchor x="524.6153846153846" y="650.1794871794872" name="topright"/>
+  <advance width="497.0"/>
+  <anchor x="186.0" y="-199.0" name="bottom"/>
+  <anchor x="255.513" y="325.59" name="center"/>
+  <anchor x="297.513" y="650.179" name="top"/>
+  <anchor x="524.615" y="650.179" name="topright"/>
   <outline>
     <component base="l.sc"/>
-    <component base="commaaccentcomb" xOffset="211.5128205128205"/>
+    <component base="commaaccentcomb" xOffset="212.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:03</string>
+      <string>2019/02/18 20:31:35</string>
     </dict>
   </lib>
 </glyph>

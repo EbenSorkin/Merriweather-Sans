@@ -3,24 +3,24 @@
   <advance width="744.8"/>
   <outline>
     <contour>
-      <point x="92.11111111111111" y="0.0" type="line"/>
-      <point x="210.8222222222222" y="0.0" type="line"/>
-      <point x="210.8222222222222" y="272.4888888888889" type="line"/>
-      <point x="534.6222222222223" y="272.4888888888889" type="line"/>
-      <point x="534.6222222222223" y="0.0" type="line"/>
-      <point x="652.6888888888889" y="0.0" type="line"/>
-      <point x="652.6888888888889" y="646.0" type="line"/>
-      <point x="534.6222222222223" y="646.0" type="line"/>
-      <point x="534.6222222222223" y="360.46666666666664" type="line"/>
-      <point x="210.8222222222222" y="360.46666666666664" type="line"/>
-      <point x="210.8222222222222" y="646.0" type="line"/>
-      <point x="92.11111111111111" y="646.0" type="line"/>
+      <point x="92.111" y="0.0" type="line"/>
+      <point x="210.822" y="0.0" type="line"/>
+      <point x="210.822" y="272.489" type="line"/>
+      <point x="534.622" y="272.489" type="line"/>
+      <point x="534.622" y="0.0" type="line"/>
+      <point x="652.689" y="0.0" type="line"/>
+      <point x="652.689" y="646.0" type="line"/>
+      <point x="534.622" y="646.0" type="line"/>
+      <point x="534.622" y="360.467" type="line"/>
+      <point x="210.822" y="360.467" type="line"/>
+      <point x="210.822" y="646.0" type="line"/>
+      <point x="92.111" y="646.0" type="line"/>
     </contour>
     <contour>
-      <point x="8.244444444444442" y="447.4" type="line"/>
-      <point x="738.3777777777777" y="447.4" type="line"/>
-      <point x="738.3777777777777" y="519.6666666666666" type="line"/>
-      <point x="8.244444444444442" y="519.6666666666666" type="line"/>
+      <point x="8.244" y="447.4" type="line"/>
+      <point x="738.378" y="447.4" type="line"/>
+      <point x="738.378" y="519.667" type="line"/>
+      <point x="8.244" y="519.667" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -39,7 +39,7 @@
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:39:24</string>
+      <string>2019/02/18 20:30:01</string>
       <key>public.markColor</key>
       <string>0.98,0.36,0.67,1</string>
     </dict>

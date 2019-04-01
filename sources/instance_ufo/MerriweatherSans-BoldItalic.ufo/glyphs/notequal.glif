@@ -1,32 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="notequal" format="2">
-  <advance width="526.0512820512821"/>
+  <advance width="526.05128"/>
   <unicode hex="2260"/>
   <note>
 notequal
 </note>
   <outline>
     <contour>
-      <point x="68.94871794871796" y="0.0" type="line"/>
-      <point x="168.5128205128205" y="0.0" type="line"/>
-      <point x="240.69230769230768" y="157.53846153846155" type="line"/>
-      <point x="457.28205128205127" y="157.53846153846155" type="line"/>
-      <point x="472.3333333333333" y="265.56410256410254" type="line"/>
-      <point x="290.79487179487177" y="265.56410256410254" type="line"/>
-      <point x="353.46153846153845" y="400.3076923076923" type="line"/>
-      <point x="486.05128205128204" y="400.3076923076923" type="line"/>
-      <point x="501.6923076923077" y="508.3333333333333" type="line"/>
-      <point x="402.97435897435895" y="508.3333333333333" type="line"/>
-      <point x="470.7435897435897" y="655.4615384615385" type="line"/>
-      <point x="371.5897435897436" y="655.4615384615385" type="line"/>
-      <point x="303.4102564102564" y="508.3333333333333" type="line"/>
-      <point x="94.64102564102564" y="508.3333333333333" type="line"/>
-      <point x="79.58974358974359" y="400.3076923076923" type="line"/>
-      <point x="253.71794871794873" y="400.3076923076923" type="line"/>
-      <point x="191.23076923076923" y="265.56410256410254" type="line"/>
-      <point x="65.87179487179488" y="265.56410256410254" type="line"/>
-      <point x="50.230769230769226" y="157.53846153846155" type="line"/>
-      <point x="141.71794871794873" y="157.53846153846155" type="line"/>
+      <point x="68.949" y="0.0" type="line"/>
+      <point x="168.513" y="0.0" type="line"/>
+      <point x="240.692" y="157.538" type="line"/>
+      <point x="457.282" y="157.538" type="line"/>
+      <point x="472.333" y="265.564" type="line"/>
+      <point x="290.795" y="265.564" type="line"/>
+      <point x="353.462" y="400.308" type="line"/>
+      <point x="486.051" y="400.308" type="line"/>
+      <point x="501.692" y="508.333" type="line"/>
+      <point x="402.974" y="508.333" type="line"/>
+      <point x="470.744" y="655.462" type="line"/>
+      <point x="371.59" y="655.462" type="line"/>
+      <point x="303.41" y="508.333" type="line"/>
+      <point x="94.641" y="508.333" type="line"/>
+      <point x="79.59" y="400.308" type="line"/>
+      <point x="253.718" y="400.308" type="line"/>
+      <point x="191.231" y="265.564" type="line"/>
+      <point x="65.872" y="265.564" type="line"/>
+      <point x="50.231" y="157.538" type="line"/>
+      <point x="141.718" y="157.538" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -36,7 +36,7 @@ notequal
 15 5 1 48 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:16</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

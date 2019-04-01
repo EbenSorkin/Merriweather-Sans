@@ -7,26 +7,16 @@ underscore
 </note>
   <outline>
     <contour>
-      <point x="-54.0" y="-165.0" type="line"/>
-      <point x="619.0" y="-165.0" type="line"/>
+      <point x="-54.0" y="-168.9" type="line"/>
+      <point x="619.0" y="-168.9" type="line"/>
       <point x="628.0" y="-91.0" type="line"/>
       <point x="-44.0" y="-91.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>assembly</key>
-      <string>PUSHB[ ]	/* 2 values pushed */
-6 100 
-WCVTP[ ]	/* WriteCVTInPixels */
-NPUSHB[ ]	/* 21 values pushed */
-0 1 0 0 1 85 0 1 1 0 89 0 0 1 0 77 17 16 2 7 22 
-CALL[ ]	/* CallFunction */
-PUSHB[ ]	/* 2 values pushed */
-6 0 
-WCVTP[ ]	/* WriteCVTInPixels */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 19:32:43</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

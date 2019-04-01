@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Obreve" format="2">
-  <advance width="768.3111111111111"/>
+  <advance width="768.0"/>
   <unicode hex="014E"/>
-  <anchor x="384.24444444444447" y="0.0" name="bottom"/>
-  <anchor x="383.06666666666666" y="-83.0" name="btm"/>
-  <anchor x="384.24444444444447" y="372.0" name="center"/>
-  <anchor x="691.1333333333333" y="10.0" name="ogonek"/>
-  <anchor x="396.24444444444447" y="1004.7777777777778" name="top"/>
+  <anchor x="384.244" y="0.0" name="bottom"/>
+  <anchor x="383.067" y="-83.0" name="btm"/>
+  <anchor x="384.244" y="372.0" name="center"/>
+  <anchor x="691.133" y="10.0" name="ogonek"/>
+  <anchor x="396.0" y="1004.778" name="top"/>
   <anchor x="20.0" y="743.0" name="topleft"/>
-  <anchor x="748.3111111111111" y="743.0" name="topright"/>
+  <anchor x="748.311" y="743.0" name="topright"/>
   <outline>
     <component base="O"/>
-    <component base="brevecomb.case" xOffset="396.24444444444447"/>
+    <component base="brevecomb.case" xOffset="396.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 06:18:47</string>
+      <string>2019/02/18 20:30:31</string>
     </dict>
   </lib>
 </glyph>

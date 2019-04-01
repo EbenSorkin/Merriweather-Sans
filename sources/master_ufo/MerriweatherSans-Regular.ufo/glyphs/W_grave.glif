@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Wgrave" format="2">
-  <advance width="937.0"/>
+  <advance width="942.0"/>
   <unicode hex="1E80"/>
-  <anchor x="469.0" y="0.0" name="bottom"/>
-  <anchor x="469.0" y="-83.0" name="btm"/>
-  <anchor x="412.0" y="1007.0" name="top"/>
+  <anchor x="471.311" y="0.0" name="bottom"/>
+  <anchor x="469.533" y="-83.0" name="btm"/>
+  <anchor x="413.356" y="1008.778" name="top"/>
   <outline>
     <component base="W"/>
-    <component base="gravecomb.case" xOffset="469.0"/>
+    <component base="gravecomb.case" xOffset="470.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 06:18:47</string>
+      <string>2019/02/18 20:30:31</string>
     </dict>
   </lib>
 </glyph>

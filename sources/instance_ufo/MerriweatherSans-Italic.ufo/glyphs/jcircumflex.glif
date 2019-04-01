@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="jcircumflex" format="2">
-  <advance width="289.825"/>
+  <advance width="290.0"/>
   <unicode hex="0135"/>
   <note>
 jcircumflex
 </note>
   <anchor x="72.25" y="-273.0" name="bottom"/>
-  <anchor x="212.25" y="788.0" name="top"/>
+  <anchor x="212.0" y="788.0" name="top"/>
   <outline>
     <component base="jdotless"/>
-    <component base="circumflexcomb" xOffset="145.25"/>
+    <component base="circumflexcomb" xOffset="145.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:02</string>
+      <string>2019/02/18 20:31:35</string>
     </dict>
   </lib>
 </glyph>

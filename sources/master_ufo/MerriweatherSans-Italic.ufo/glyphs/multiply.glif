@@ -1,34 +1,30 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="multiply" format="2">
-  <advance width="669.0"/>
+  <advance width="671.275"/>
   <unicode hex="00D7"/>
   <note>
 multiply
 </note>
   <outline>
     <contour>
-      <point x="163.0" y="154.0" type="line"/>
-      <point x="343.0" y="325.0" type="line"/>
-      <point x="480.0" y="154.0" type="line"/>
-      <point x="544.0" y="214.0" type="line"/>
-      <point x="397.0" y="374.0" type="line"/>
-      <point x="584.0" y="533.0" type="line"/>
-      <point x="535.0" y="593.0" type="line"/>
-      <point x="354.0" y="422.0" type="line"/>
-      <point x="217.0" y="593.0" type="line"/>
-      <point x="153.0" y="533.0" type="line"/>
-      <point x="300.0" y="374.0" type="line"/>
-      <point x="113.0" y="214.0" type="line"/>
+      <point x="267.975" y="148.475" type="line"/>
+      <point x="416.775" y="288.275" type="line"/>
+      <point x="459.85" y="225.825" type="line"/>
+      <point x="564.475" y="318.975" type="line"/>
+      <point x="443.475" y="452.975" type="line"/>
+      <point x="510.225" y="503.75" type="line"/>
+      <point x="431.975" y="600.8" type="line"/>
+      <point x="282.825" y="461.0" type="line"/>
+      <point x="239.1" y="523.775" type="line"/>
+      <point x="134.8" y="430.625" type="line"/>
+      <point x="255.8" y="297.3" type="line"/>
+      <point x="188.4" y="245.525" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>assembly</key>
-      <string>PUSHB[ ]	/* 4 values pushed */
-8 2 1 48 
-CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:16</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

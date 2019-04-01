@@ -10,19 +10,21 @@
     <key>public.kern1.five.sups</key>
     <dict>
       <key>public.kern2.solidus</key>
-      <real>-70.0</real>
+      <real>-68.0</real>
     </dict>
     <key>public.kern1.four.sups</key>
     <dict>
       <key>public.kern2.seven.sinf</key>
-      <real>-30.0</real>
+      <real>-28.0</real>
       <key>public.kern2.solidus</key>
       <real>-30.0</real>
+      <key>public.kern2.two.sinf</key>
+      <real>-2.0</real>
     </dict>
     <key>public.kern1.one.sups</key>
     <dict>
       <key>public.kern2.solidus</key>
-      <real>-30.0</real>
+      <real>-32.0</real>
     </dict>
     <key>public.kern1.seven.sinf</key>
     <dict>
@@ -37,18 +39,23 @@
     <key>public.kern1.six.sups</key>
     <dict>
       <key>public.kern2.solidus</key>
-      <real>-50.0</real>
+      <real>-52.0</real>
     </dict>
     <key>public.kern1.solidus</key>
     <dict>
       <key>public.kern2.five.sinf</key>
-      <real>-20.0</real>
+      <real>-22.0</real>
       <key>public.kern2.four.numr</key>
-      <real>-90.0</real>
+      <real>-86.0</real>
       <key>public.kern2.seven.sinf</key>
-      <real>30.0</real>
+      <real>28.0</real>
       <key>public.kern2.six.sinf</key>
-      <real>-60.0</real>
+      <real>-62.0</real>
+    </dict>
+    <key>public.kern1.two.sups</key>
+    <dict>
+      <key>public.kern2.solidus</key>
+      <real>0.0</real>
     </dict>
   </dict>
 </plist>

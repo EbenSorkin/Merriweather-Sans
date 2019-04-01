@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="lslash" format="2">
-  <advance width="313.2051282051282"/>
+  <advance width="313.20513"/>
   <unicode hex="0142"/>
   <note>
 lslash
 </note>
   <outline>
     <contour>
-      <point x="46.8974358974359" y="0.5897435897435899" type="line"/>
-      <point x="197.89743589743588" y="0.5897435897435899" type="line"/>
-      <point x="256.66666666666663" y="431.38461538461536" type="line"/>
-      <point x="349.0" y="468.02564102564105" type="line"/>
-      <point x="349.0" y="560.5897435897435" type="line"/>
-      <point x="269.48717948717945" y="527.5384615384615" type="line"/>
-      <point x="305.8974358974359" y="798.5897435897435" type="line"/>
-      <point x="154.4871794871795" y="798.5897435897435" type="line"/>
-      <point x="109.25641025641026" y="461.974358974359" type="line"/>
-      <point x="13.84615384615385" y="423.56410256410254" type="line"/>
-      <point x="13.84615384615385" y="335.4102564102564" type="line"/>
-      <point x="96.43589743589743" y="368.4102564102564" type="line"/>
+      <point x="46.897" y="0.59" type="line"/>
+      <point x="197.897" y="0.59" type="line"/>
+      <point x="256.667" y="431.385" type="line"/>
+      <point x="349.0" y="468.026" type="line"/>
+      <point x="349.0" y="560.59" type="line"/>
+      <point x="269.487" y="527.538" type="line"/>
+      <point x="305.897" y="798.59" type="line"/>
+      <point x="154.487" y="798.59" type="line"/>
+      <point x="109.256" y="461.974" type="line"/>
+      <point x="13.846" y="423.564" type="line"/>
+      <point x="13.846" y="335.41" type="line"/>
+      <point x="96.436" y="368.41" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -28,7 +28,7 @@ lslash
 11 10 6 5 4 0 6 0 1 1 74 0 1 1 19 75 0 0 0 18 0 76 21 18 2 7 22 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:02</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

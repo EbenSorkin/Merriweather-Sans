@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ecedillabreve.sc" format="2">
-  <advance width="544.225"/>
-  <anchor x="270.625" y="0.0" name="bottom"/>
+  <advance width="544.0"/>
+  <anchor x="271.0" y="0.0" name="bottom"/>
   <anchor x="452.225" y="9.0" name="ogonek"/>
-  <anchor x="350.625" y="882.0" name="top"/>
+  <anchor x="351.0" y="882.0" name="top"/>
   <anchor x="69.025" y="651.0" name="topleft"/>
   <outline>
     <component base="e.sc"/>
-    <component base="cedillacomb" xOffset="270.625"/>
-    <component base="brevecomb" xOffset="283.625" yOffset="94.0"/>
+    <component base="cedillacomb" xOffset="271.0"/>
+    <component base="brevecomb" xOffset="284.0" yOffset="94.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 17:33:43</string>
+      <string>2019/02/18 20:31:35</string>
     </dict>
   </lib>
 </glyph>

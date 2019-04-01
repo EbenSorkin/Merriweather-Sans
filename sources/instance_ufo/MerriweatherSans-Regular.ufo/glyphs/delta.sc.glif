@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="delta.sc" format="2">
-  <advance width="773.9111111111112"/>
+  <advance width="773.91111"/>
   <outline>
     <component base="Delta"/>
   </outline>
@@ -9,7 +9,7 @@
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 05:11:50</string>
+      <string>2019/02/18 20:30:01</string>
     </dict>
   </lib>
 </glyph>

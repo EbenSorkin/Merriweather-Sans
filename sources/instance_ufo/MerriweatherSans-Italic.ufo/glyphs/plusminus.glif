@@ -7,8 +7,8 @@ plusminus
 </note>
   <outline>
     <contour>
-      <point x="266.45" y="140.42499999999998" type="line"/>
-      <point x="360.925" y="140.42499999999998" type="line"/>
+      <point x="266.45" y="140.425" type="line"/>
+      <point x="360.925" y="140.425" type="line"/>
       <point x="374.575" y="261.025" type="line"/>
       <point x="379.25" y="339.075" type="line"/>
       <point x="432.95" y="335.075" type="line"/>
@@ -23,14 +23,14 @@ plusminus
       <point x="300.75" y="415.2" type="line"/>
       <point x="234.7" y="421.2" type="line"/>
       <point x="122.75" y="421.2" type="line"/>
-      <point x="113.44999999999999" y="335.075" type="line"/>
+      <point x="113.45" y="335.075" type="line"/>
       <point x="225.075" y="335.075" type="line"/>
       <point x="292.1" y="339.075" type="line"/>
       <point x="279.775" y="261.025" type="line"/>
     </contour>
     <contour>
-      <point x="83.35" y="12.399999999999997" type="line"/>
-      <point x="510.275" y="12.399999999999997" type="line"/>
+      <point x="83.35" y="12.4" type="line"/>
+      <point x="510.275" y="12.4" type="line"/>
       <point x="518.95" y="90.275" type="line"/>
       <point x="91.35" y="90.275" type="line"/>
     </contour>
@@ -55,7 +55,7 @@ NPUSHB[ ]	/* 16 values pushed */
 27 27 27 30 27 30 19 21 33 34 22 33 32 9 7 27 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:16</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

@@ -7,10 +7,10 @@ macron
 </note>
   <outline>
     <contour>
-      <point x="32.52499999999999" y="684.25" type="line"/>
+      <point x="32.525" y="684.25" type="line"/>
       <point x="286.05" y="684.25" type="line"/>
       <point x="289.7" y="761.8" type="line"/>
-      <point x="35.49999999999999" y="761.8" type="line"/>
+      <point x="35.5" y="761.8" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -26,7 +26,7 @@ PUSHB[ ]	/* 2 values pushed */
 6 0 
 WCVTP[ ]	/* WriteCVTInPixels */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:12</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

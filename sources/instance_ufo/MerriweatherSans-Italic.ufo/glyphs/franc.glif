@@ -7,7 +7,7 @@ franc
 </note>
   <outline>
     <contour>
-      <point x="96.27499999999998" y="0.0" type="line"/>
+      <point x="96.275" y="0.0" type="line"/>
       <point x="208.95" y="0.0" type="line"/>
       <point x="226.65" y="134.625" type="line"/>
       <point x="374.075" y="134.625" type="line"/>
@@ -21,10 +21,10 @@ franc
       <point x="574.2" y="658.25" type="line"/>
       <point x="583.475" y="747.0" type="line"/>
       <point x="193.225" y="747.0" type="line"/>
-      <point x="124.29999999999998" y="215.575" type="line"/>
-      <point x="16.924999999999983" y="215.575" type="line"/>
-      <point x="7.924999999999986" y="134.625" type="line"/>
-      <point x="113.29999999999998" y="134.625" type="line"/>
+      <point x="124.3" y="215.575" type="line"/>
+      <point x="16.925" y="215.575" type="line"/>
+      <point x="7.925" y="134.625" type="line"/>
+      <point x="113.3" y="134.625" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -34,7 +34,7 @@ franc
 0 4 0 3 2 4 3 97 7 1 2 8 1 1 0 2 1 97 0 5 5 6 89 0 6 6 17 75 0 0 0 18 0 76 17 17 17 17 17 17 17 17 16 9 7 29 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:16</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

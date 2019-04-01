@@ -3,28 +3,28 @@
   <advance width="591.0"/>
   <outline>
     <contour>
-      <point x="68.07692307692308" y="0.0" type="line"/>
-      <point x="502.28205128205127" y="0.0" type="line"/>
-      <point x="513.1025641025641" y="99.56410256410255" type="line"/>
-      <point x="369.7435897435897" y="99.56410256410255" type="line"/>
-      <point x="461.1025641025641" y="737.0" type="line"/>
-      <point x="358.9230769230769" y="747.0" type="line"/>
-      <point x="356.9230769230769" y="747.0" type="line"/>
-      <point x="307.33333333333337" y="711.0"/>
-      <point x="215.4102564102564" y="664.2820512820513"/>
-      <point x="100.92307692307693" y="643.0512820512821" type="curve"/>
-      <point x="117.97435897435898" y="559.3076923076923" type="line"/>
-      <point x="179.0769230769231" y="563.8974358974359"/>
-      <point x="250.56410256410257" y="574.6153846153846"/>
-      <point x="285.1538461538462" y="583.2051282051282" type="curve"/>
-      <point x="215.7948717948718" y="99.56410256410255" type="line"/>
-      <point x="78.48717948717949" y="99.56410256410255" type="line"/>
+      <point x="68.077" y="0.0" type="line"/>
+      <point x="502.282" y="0.0" type="line"/>
+      <point x="513.103" y="99.564" type="line"/>
+      <point x="369.744" y="99.564" type="line"/>
+      <point x="461.103" y="737.0" type="line"/>
+      <point x="358.923" y="747.0" type="line"/>
+      <point x="356.923" y="747.0" type="line"/>
+      <point x="307.333" y="711.0"/>
+      <point x="215.41" y="664.282"/>
+      <point x="100.923" y="643.051" type="curve"/>
+      <point x="117.974" y="559.308" type="line"/>
+      <point x="179.077" y="563.897"/>
+      <point x="250.564" y="574.615"/>
+      <point x="285.154" y="583.205" type="curve"/>
+      <point x="215.795" y="99.564" type="line"/>
+      <point x="78.487" y="99.564" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:03</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

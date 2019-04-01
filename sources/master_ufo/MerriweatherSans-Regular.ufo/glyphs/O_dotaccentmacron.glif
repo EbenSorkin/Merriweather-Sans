@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Odotaccentmacron" format="2">
-  <advance width="766.0"/>
+  <advance width="768.0"/>
   <unicode hex="0230"/>
-  <anchor x="383.0" y="0.0" name="bottom"/>
-  <anchor x="382.0" y="-83.0" name="btm"/>
-  <anchor x="383.0" y="372.0" name="center"/>
-  <anchor x="689.0" y="10.0" name="ogonek"/>
-  <anchor x="395.0" y="1179.0" name="top"/>
+  <anchor x="384.244" y="0.0" name="bottom"/>
+  <anchor x="383.067" y="-83.0" name="btm"/>
+  <anchor x="384.244" y="372.0" name="center"/>
+  <anchor x="691.133" y="10.0" name="ogonek"/>
+  <anchor x="396.0" y="1182.778" name="top"/>
   <anchor x="20.0" y="743.0" name="topleft"/>
-  <anchor x="746.0" y="743.0" name="topright"/>
+  <anchor x="748.311" y="743.0" name="topright"/>
   <outline>
     <component base="O"/>
-    <component base="dotaccentcomb.case" xOffset="395.0" yOffset="20.0"/>
-    <component base="macroncomb.case" xOffset="395.0" yOffset="196.0"/>
+    <component base="dotaccentcomb.case" xOffset="396.0" yOffset="16.0"/>
+    <component base="macroncomb.case" xOffset="396.0" yOffset="198.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 06:18:47</string>
+      <string>2019/02/18 20:30:31</string>
     </dict>
   </lib>
 </glyph>

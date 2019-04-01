@@ -1,40 +1,36 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="A" format="2">
-  <advance width="618.0"/>
+  <advance width="624.175"/>
   <unicode hex="0041"/>
   <note>
 A
 </note>
-  <anchor x="272.0" y="0.0" name="bottom"/>
-  <anchor x="575.0" y="0.0" name="ogonek"/>
-  <anchor x="371.0" y="747.0" name="top"/>
+  <anchor x="275.25" y="0.0" name="bottom"/>
+  <anchor x="582.8" y="0.0" name="ogonek"/>
+  <anchor x="374.25" y="747.975" name="top"/>
   <outline>
     <contour>
-      <point x="-37.0" y="0.0" type="line"/>
-      <point x="66.0" y="0.0" type="line"/>
-      <point x="155.0" y="193.0" type="line"/>
-      <point x="445.0" y="193.0" type="line"/>
-      <point x="477.0" y="0.0" type="line"/>
-      <point x="574.0" y="0.0" type="line"/>
-      <point x="434.0" y="747.0" type="line"/>
-      <point x="327.0" y="747.0" type="line"/>
+      <point x="-40.9" y="0.0" type="line"/>
+      <point x="76.4" y="0.0" type="line"/>
+      <point x="159.875" y="184.55" type="line"/>
+      <point x="444.675" y="184.55" type="line"/>
+      <point x="474.075" y="0.0" type="line"/>
+      <point x="583.425" y="0.0" type="line"/>
+      <point x="448.3" y="747.0" type="line"/>
+      <point x="322.775" y="747.0" type="line"/>
     </contour>
     <contour>
-      <point x="189.0" y="267.0" type="line"/>
-      <point x="345.0" y="605.0" type="line"/>
-      <point x="370.0" y="660.0" type="line"/>
-      <point x="376.0" y="604.0" type="line"/>
-      <point x="432.0" y="267.0" type="line"/>
+      <point x="196.475" y="265.375" type="line"/>
+      <point x="348.575" y="601.425" type="line"/>
+      <point x="372.925" y="657.725" type="line"/>
+      <point x="378.6" y="601.075" type="line"/>
+      <point x="431.675" y="265.375" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>assembly</key>
-      <string>NPUSHB[ ]	/* 40 values pushed */
-10 1 4 2 1 74 5 1 4 0 0 1 4 0 98 0 2 2 17 75 3 1 1 1 18 1 76 8 8 8 11 8 11 17 17 17 16 6 7 24 
-CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:02</string>
+      <string>2019/02/18 20:31:10</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

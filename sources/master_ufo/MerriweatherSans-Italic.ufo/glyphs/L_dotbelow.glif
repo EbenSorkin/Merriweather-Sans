@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ldotbelow" format="2">
-  <advance width="478.0"/>
+  <advance width="485.0"/>
   <unicode hex="1E36"/>
-  <anchor x="176.0" y="-199.0" name="bottom"/>
-  <anchor x="252.0" y="374.0" name="center"/>
-  <anchor x="301.0" y="747.0" name="top"/>
-  <anchor x="520.0" y="747.0" name="topright"/>
+  <anchor x="180.0" y="-199.0" name="bottom"/>
+  <anchor x="255.575" y="374.325" name="center"/>
+  <anchor x="304.575" y="747.975" name="top"/>
+  <anchor x="527.15" y="747.975" name="topright"/>
   <outline>
     <component base="L"/>
-    <component base="dotbelowcomb.case" xOffset="202.0"/>
+    <component base="dotbelowcomb.case" xOffset="206.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:02</string>
+      <string>2019/02/18 20:31:35</string>
     </dict>
   </lib>
 </glyph>

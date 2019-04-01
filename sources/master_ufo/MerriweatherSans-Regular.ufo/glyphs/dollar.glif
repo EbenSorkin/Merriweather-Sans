@@ -1,29 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dollar" format="2">
-  <advance width="670.0"/>
+  <advance width="673.2"/>
   <unicode hex="0024"/>
-  <anchor x="329.0" y="0.0" name="bottom"/>
-  <anchor x="325.0" y="-83.0" name="btm"/>
-  <anchor x="346.0" y="830.0" name="top"/>
+  <anchor x="330.24399999999997" y="0.0" name="bottom"/>
+  <anchor x="326.955" y="-83.0" name="btm"/>
+  <anchor x="348.133" y="830.0" name="top"/>
   <outline>
     <contour>
-      <point x="309.0" y="734.0" type="line"/>
-      <point x="389.0" y="734.0" type="line"/>
-      <point x="390.0" y="860.0" type="line"/>
-      <point x="310.0" y="860.0" type="line"/>
+      <point x="307.4" y="731.511" type="line"/>
+      <point x="389.178" y="731.511" type="line"/>
+      <point x="390.711" y="860.178" type="line"/>
+      <point x="308.933" y="860.178" type="line"/>
     </contour>
     <contour>
-      <point x="289.0" y="-116.0" type="line"/>
-      <point x="369.0" y="-116.0" type="line"/>
-      <point x="370.0" y="7.0" type="line"/>
-      <point x="290.0" y="7.0" type="line"/>
+      <point x="286.689" y="-114.933" type="line"/>
+      <point x="368.467" y="-114.933" type="line"/>
+      <point x="369.822" y="10.911" type="line"/>
+      <point x="288.222" y="10.911" type="line"/>
     </contour>
-    <component base="S" xOffset="52.0"/>
+    <component base="S" xOffset="50.044"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/01/21 06:08:13</string>
+      <string>2019/02/18 20:30:01</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
     </dict>
   </lib>
 </glyph>

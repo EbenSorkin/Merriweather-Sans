@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ohorn" format="2">
-  <advance width="599.1111111111111"/>
+  <advance width="599.0"/>
   <unicode hex="01A1"/>
-  <anchor x="299.55555555555554" y="0.0" name="bottom"/>
-  <anchor x="297.9111111111111" y="-83.0" name="btm"/>
-  <anchor x="280.9111111111111" y="830.0" name="top"/>
-  <anchor x="299.55555555555554" y="279.0" name="center"/>
+  <anchor x="299.556" y="0.0" name="bottom"/>
+  <anchor x="297.911" y="-83.0" name="btm"/>
+  <anchor x="280.911" y="830.0" name="top"/>
+  <anchor x="299.556" y="279.0" name="center"/>
   <anchor x="323.2" y="25.0" name="ogonek"/>
-  <anchor x="579.1111111111111" y="557.0" name="topright"/>
+  <anchor x="579.0889999999999" y="557.0" name="topright"/>
   <outline>
     <component base="o"/>
-    <component base="horncomb" xOffset="493.02222222222224"/>
+    <component base="horncomb" xOffset="493.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:06:06</string>
+      <string>2019/02/18 20:30:31</string>
       <key>public.markColor</key>
       <string>0.85,0.26,0.06,1</string>
     </dict>

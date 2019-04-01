@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="period" format="2">
-  <advance width="297.3777777777778"/>
+  <advance width="297.37778"/>
   <unicode hex="002E"/>
   <outline>
     <contour>
-      <point x="144.77777777777777" y="-11.0" type="curve" smooth="yes"/>
-      <point x="189.08888888888887" y="-11.0"/>
-      <point x="228.97777777777776" y="27.95555555555555"/>
-      <point x="227.15555555555554" y="78.19999999999999" type="curve" smooth="yes"/>
-      <point x="226.33333333333331" y="119.68888888888887"/>
-      <point x="200.73333333333332" y="154.9333333333333"/>
-      <point x="151.95555555555555" y="154.9333333333333" type="curve" smooth="yes"/>
-      <point x="109.28888888888889" y="154.9333333333333"/>
-      <point x="69.22222222222223" y="115.15555555555554"/>
-      <point x="70.22222222222223" y="66.55555555555554" type="curve" smooth="yes"/>
-      <point x="71.04444444444445" y="22.599999999999994"/>
-      <point x="105.11111111111111" y="-11.0"/>
+      <point x="144.778" y="-11.0" type="curve" smooth="yes"/>
+      <point x="189.089" y="-11.0"/>
+      <point x="228.978" y="27.956"/>
+      <point x="227.156" y="78.2" type="curve" smooth="yes"/>
+      <point x="226.333" y="119.689"/>
+      <point x="200.733" y="154.933"/>
+      <point x="151.956" y="154.933" type="curve" smooth="yes"/>
+      <point x="109.289" y="154.933"/>
+      <point x="69.222" y="115.156"/>
+      <point x="70.222" y="66.556" type="curve" smooth="yes"/>
+      <point x="71.044" y="22.6"/>
+      <point x="105.111" y="-11.0"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:51:05</string>
+      <string>2019/02/18 20:30:01</string>
     </dict>
   </lib>
 </glyph>

@@ -98,7 +98,7 @@
       <real>557.0</real>
       <real>565.0</real>
       <real>747.0</real>
-      <real>756.0</real>
+      <real>755.0</real>
       <real>983.0</real>
       <real>999.0</real>
     </array>
@@ -113,13 +113,13 @@
     </array>
     <key>postscriptStemSnapH</key>
     <array>
-      <integer>96</integer>
-      <integer>97</integer>
+      <integer>108</integer>
+      <integer>109</integer>
     </array>
     <key>postscriptStemSnapV</key>
     <array>
-      <integer>72</integer>
-      <integer>77</integer>
+      <integer>78</integer>
+      <integer>86</integer>
     </array>
     <key>postscriptUnderlinePosition</key>
     <integer>-122</integer>

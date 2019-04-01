@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="firsttonechinese" format="2">
-  <advance width="316.0"/>
+  <advance width="320.62222"/>
   <unicode hex="02C9"/>
-  <anchor x="157.0" y="830.0" name="_top"/>
+  <anchor x="159.133" y="830.178" name="_top"/>
   <outline>
     <contour>
-      <point x="24.0" y="867.0" type="line"/>
-      <point x="292.0" y="867.0" type="line"/>
-      <point x="292.0" y="946.0" type="line"/>
-      <point x="24.0" y="946.0" type="line"/>
+      <point x="24.533" y="866.289" type="line"/>
+      <point x="296.089" y="866.289" type="line"/>
+      <point x="296.089" y="949.022" type="line"/>
+      <point x="24.533" y="949.022" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:51:28</string>
+      <string>2019/02/18 20:30:01</string>
     </dict>
   </lib>
 </glyph>

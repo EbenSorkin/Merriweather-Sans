@@ -3,16 +3,18 @@
   <unicode hex="0337"/>
   <outline>
     <contour>
-      <point x="148.0" y="555.0" type="line"/>
-      <point x="-233.0" y="-101.0" type="line"/>
-      <point x="-146.0" y="-101.0" type="line"/>
-      <point x="233.0" y="555.0" type="line"/>
+      <point x="144.75" y="555.0" type="line"/>
+      <point x="-236.25" y="-101.0" type="line"/>
+      <point x="-142.75" y="-101.0" type="line"/>
+      <point x="236.25" y="555.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:12</string>
+      <string>2019/02/18 20:31:10</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <real>195.0</real>
     </dict>
   </lib>
 </glyph>

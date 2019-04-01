@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hyphen" format="2">
-  <advance width="599.7179487179487"/>
+  <advance width="599.71795"/>
   <unicode hex="002D"/>
   <note>
 hyphen
 </note>
   <outline>
     <contour>
-      <point x="108.41025641025641" y="303.0769230769231" type="line"/>
-      <point x="497.7692307692308" y="303.0769230769231" type="line"/>
-      <point x="513.4102564102564" y="411.5128205128205" type="line"/>
-      <point x="123.46153846153845" y="411.5128205128205" type="line"/>
+      <point x="108.41" y="303.077" type="line"/>
+      <point x="497.769" y="303.077" type="line"/>
+      <point x="513.41" y="411.513" type="line"/>
+      <point x="123.462" y="411.513" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -20,7 +20,7 @@ hyphen
 2 1 1 0 0 1 85 2 1 1 1 0 89 0 0 1 0 77 0 0 0 3 0 3 17 3 7 21 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 19:32:43</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

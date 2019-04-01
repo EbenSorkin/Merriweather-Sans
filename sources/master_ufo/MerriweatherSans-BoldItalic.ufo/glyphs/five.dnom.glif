@@ -1,71 +1,47 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="five.dnom" format="2">
-  <advance width="462.0"/>
+  <advance width="464.05128"/>
   <outline>
     <contour>
-      <point x="70.0" y="-6.0" type="curve" smooth="yes"/>
-      <point x="268.0" y="-6.0"/>
-      <point x="413.0" y="73.0"/>
-      <point x="413.0" y="215.0" type="curve" smooth="yes"/>
-      <point x="413.0" y="313.0"/>
-      <point x="360.0" y="365.0"/>
-      <point x="261.0" y="365.0" type="curve" smooth="yes"/>
-      <point x="225.0" y="365.0"/>
-      <point x="191.0" y="358.0"/>
-      <point x="177.0" y="352.0" type="curve"/>
-      <point x="207.0" y="457.0" type="line"/>
-      <point x="391.0" y="457.0" type="line"/>
-      <point x="421.0" y="566.0" type="line"/>
-      <point x="352.0" y="566.0" type="line"/>
-      <point x="344.0" y="560.0" type="line"/>
-      <point x="104.0" y="560.0" type="line"/>
-      <point x="46.0" y="312.0" type="line"/>
-      <point x="95.0" y="261.0" type="line"/>
-      <point x="114.0" y="270.0"/>
-      <point x="155.0" y="280.0"/>
-      <point x="183.0" y="280.0" type="curve" smooth="yes"/>
-      <point x="238.0" y="280.0"/>
-      <point x="264.0" y="254.0"/>
-      <point x="264.0" y="201.0" type="curve" smooth="yes"/>
-      <point x="264.0" y="111.0"/>
-      <point x="142.0" y="85.0"/>
-      <point x="63.0" y="85.0" type="curve" smooth="yes"/>
-      <point x="54.0" y="85.0"/>
-      <point x="44.0" y="85.0"/>
-      <point x="32.0" y="88.0" type="curve"/>
-      <point x="19.0" y="0.0" type="line"/>
-      <point x="32.0" y="-5.0"/>
-      <point x="57.0" y="-6.0"/>
+      <point x="67.128" y="-6.41" type="curve" smooth="yes"/>
+      <point x="269.231" y="-6.41"/>
+      <point x="416.692" y="69.308"/>
+      <point x="416.692" y="213.769" type="curve" smooth="yes"/>
+      <point x="416.692" y="317.923"/>
+      <point x="360.41" y="367.872"/>
+      <point x="267.974" y="367.872" type="curve" smooth="yes"/>
+      <point x="230.333" y="367.872"/>
+      <point x="195.923" y="360.462"/>
+      <point x="183.974" y="354.462" type="curve"/>
+      <point x="211.513" y="447.154" type="line"/>
+      <point x="388.128" y="447.154" type="line"/>
+      <point x="422.231" y="566.0" type="line"/>
+      <point x="350.359" y="566.0" type="line"/>
+      <point x="342.769" y="560.0" type="line"/>
+      <point x="97.846" y="560.0" type="line"/>
+      <point x="40.256" y="313.641" type="line"/>
+      <point x="94.179" y="256.897" type="line"/>
+      <point x="110.718" y="265.487"/>
+      <point x="151.308" y="276.308"/>
+      <point x="178.897" y="276.308" type="curve" smooth="yes"/>
+      <point x="236.359" y="276.308"/>
+      <point x="252.923" y="245.385"/>
+      <point x="252.923" y="199.769" type="curve" smooth="yes"/>
+      <point x="252.923" y="113.462"/>
+      <point x="128.872" y="93.205"/>
+      <point x="61.359" y="93.205" type="curve" smooth="yes"/>
+      <point x="52.769" y="93.205"/>
+      <point x="42.769" y="93.205"/>
+      <point x="30.769" y="95.795" type="curve"/>
+      <point x="16.538" y="-0.41" type="line"/>
+      <point x="29.538" y="-5.41"/>
+      <point x="53.308" y="-6.41"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>RMXScaler</key>
-      <dict>
-        <key>adjustSpace</key>
-        <integer>10</integer>
-        <key>height</key>
-        <integer>75</integer>
-        <key>width</key>
-        <integer>80</integer>
-      </dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:03</string>
-      <key>com.schriftgestaltung.Glyphs.nodeUserData.0.11</key>
-      <dict>
-        <key>name</key>
-        <string>hr01</string>
-      </dict>
-      <key>com.schriftgestaltung.Glyphs.nodeUserData.0.13</key>
-      <dict>
-        <key>name</key>
-        <string>hr02</string>
-      </dict>
-      <key>com.schriftgestaltung.Glyphs.nodeUserData.0.29</key>
-      <dict>
-        <key>name</key>
-        <string>hr03</string>
-      </dict>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

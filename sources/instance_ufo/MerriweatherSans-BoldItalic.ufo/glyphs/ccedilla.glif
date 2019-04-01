@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ccedilla" format="2">
-  <advance width="459.9230769230769"/>
+  <advance width="459.92308"/>
   <unicode hex="00E7"/>
   <note>
 ccedilla
 </note>
-  <anchor x="275.1025641025641" y="0.0" name="bottom"/>
+  <anchor x="275.0" y="0.0" name="bottom"/>
   <anchor x="329.0" y="557.0" name="top"/>
   <outline>
     <component base="c"/>
-    <component base="cedillacomb" xOffset="275.1025641025641"/>
+    <component base="cedillacomb" xOffset="275.0"/>
   </outline>
   <lib>
     <dict>
@@ -31,7 +31,7 @@ NPUSHB[ ]	/* 13 values pushed */
 0 0 0 42 0 41 41 36 42 37 6 7 24 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 17:10:56</string>
+      <string>2019/02/18 20:31:35</string>
     </dict>
   </lib>
 </glyph>

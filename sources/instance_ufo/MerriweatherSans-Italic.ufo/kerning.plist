@@ -5,7 +5,7 @@
     <key>public.kern1.fraction</key>
     <dict>
       <key>public.kern2.seven.dnom</key>
-      <real>63.25000000000001</real>
+      <integer>63</integer>
     </dict>
     <key>public.kern1.one.dnom</key>
     <dict>

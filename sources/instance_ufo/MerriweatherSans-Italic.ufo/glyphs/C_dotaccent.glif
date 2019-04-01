@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Cdotaccent" format="2">
-  <advance width="561.225"/>
+  <advance width="561.0"/>
   <unicode hex="010A"/>
   <note>
 Cdotaccent
 </note>
   <anchor x="302.0" y="0.0" name="bottom"/>
-  <anchor x="429.85" y="939.975" name="top"/>
+  <anchor x="430.0" y="940.0" name="top"/>
   <outline>
     <component base="C"/>
-    <component base="dotaccentcomb.case" xOffset="342.85" yOffset="0.9750000000000014"/>
+    <component base="dotaccentcomb.case" xOffset="343.0" yOffset="1.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:42:49</string>
+      <string>2019/02/18 20:31:35</string>
     </dict>
   </lib>
 </glyph>

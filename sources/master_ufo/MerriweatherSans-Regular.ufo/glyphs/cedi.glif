@@ -1,57 +1,57 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="cedi" format="2">
-  <advance width="679.0"/>
+  <advance width="685.75556"/>
   <unicode hex="20B5"/>
   <outline>
     <contour>
-      <point x="286.0" y="-173.0" type="line"/>
-      <point x="358.0" y="-173.0" type="line"/>
-      <point x="373.0" y="-7.0" type="line"/>
-      <point x="380.0" y="-7.0"/>
-      <point x="387.0" y="-8.0"/>
-      <point x="395.0" y="-8.0" type="curve" smooth="yes"/>
-      <point x="487.0" y="-8.0"/>
-      <point x="540.0" y="14.0"/>
-      <point x="582.0" y="31.0" type="curve"/>
-      <point x="582.0" y="127.0" type="line"/>
-      <point x="556.0" y="104.0"/>
-      <point x="476.0" y="82.0"/>
-      <point x="401.0" y="82.0" type="curve" smooth="yes"/>
-      <point x="394.0" y="82.0"/>
-      <point x="387.0" y="82.0"/>
-      <point x="381.0" y="83.0" type="curve"/>
-      <point x="432.0" y="658.0" type="line"/>
-      <point x="520.0" y="653.0"/>
-      <point x="559.0" y="629.0"/>
-      <point x="571.0" y="623.0" type="curve"/>
-      <point x="587.0" y="723.0" type="line"/>
-      <point x="564.0" y="729.0"/>
-      <point x="521.0" y="745.0"/>
-      <point x="440.0" y="750.0" type="curve"/>
-      <point x="453.0" y="886.0" type="line"/>
-      <point x="381.0" y="886.0" type="line"/>
-      <point x="369.0" y="750.0" type="line"/>
-      <point x="194.0" y="739.0"/>
-      <point x="47.0" y="603.0"/>
-      <point x="47.0" y="368.0" type="curve" smooth="yes"/>
-      <point x="47.0" y="177.0"/>
-      <point x="144.0" y="41.0"/>
-      <point x="302.0" y="2.0" type="curve"/>
+      <point x="291.867" y="-173.0" type="line"/>
+      <point x="363.867" y="-173.0" type="line"/>
+      <point x="378.867" y="-7.0" type="line"/>
+      <point x="386.044" y="-7.0"/>
+      <point x="393.044" y="-8.0"/>
+      <point x="401.222" y="-8.0" type="curve" smooth="yes"/>
+      <point x="492.156" y="-8.0"/>
+      <point x="545.867" y="14.178"/>
+      <point x="586.978" y="31.0" type="curve"/>
+      <point x="586.978" y="136.067" type="line"/>
+      <point x="561.156" y="113.067"/>
+      <point x="482.933" y="90.533"/>
+      <point x="409.533" y="90.533" type="curve" smooth="yes"/>
+      <point x="401.822" y="90.533"/>
+      <point x="394.289" y="90.533"/>
+      <point x="387.578" y="91.533" type="curve"/>
+      <point x="437.156" y="649.111" type="line"/>
+      <point x="523.911" y="644.644"/>
+      <point x="563.444" y="620.111"/>
+      <point x="575.622" y="613.4" type="curve"/>
+      <point x="592.867" y="722.644" type="line"/>
+      <point x="568.444" y="729.0"/>
+      <point x="525.978" y="745.0"/>
+      <point x="446.044" y="750.0" type="curve"/>
+      <point x="458.867" y="886.0" type="line"/>
+      <point x="386.867" y="886.0" type="line"/>
+      <point x="374.867" y="750.0" type="line"/>
+      <point x="196.489" y="738.822"/>
+      <point x="48.244" y="604.422"/>
+      <point x="48.244" y="368.356" type="curve" smooth="yes"/>
+      <point x="48.244" y="175.578"/>
+      <point x="145.422" y="39.756"/>
+      <point x="307.689" y="1.644" type="curve"/>
     </contour>
     <contour>
-      <point x="310.0" y="99.0" type="line"/>
-      <point x="215.0" y="138.0"/>
-      <point x="160.0" y="241.0"/>
-      <point x="160.0" y="375.0" type="curve" smooth="yes"/>
-      <point x="160.0" y="533.0"/>
-      <point x="235.0" y="637.0"/>
-      <point x="360.0" y="656.0" type="curve"/>
+      <point x="316.756" y="108.244" type="line"/>
+      <point x="225.311" y="146.711"/>
+      <point x="173.689" y="245.978"/>
+      <point x="173.689" y="375.889" type="curve" smooth="yes"/>
+      <point x="173.689" y="527.489"/>
+      <point x="246.022" y="626.867"/>
+      <point x="365.156" y="646.4" type="curve"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/01/21 06:08:13</string>
+      <string>2019/02/18 20:30:01</string>
       <key>com.schriftgestaltung.Glyphs.nodeUserData.0.28</key>
       <dict>
         <key>name</key>

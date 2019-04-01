@@ -4,37 +4,37 @@
   <unicode hex="014A"/>
   <outline>
     <contour>
-      <point x="208.8222222222222" y="0.0" type="line"/>
-      <point x="208.8222222222222" y="447.5111111111112" type="line"/>
-      <point x="196.9111111111111" y="667.9555555555555" type="line"/>
-      <point x="150.97777777777776" y="667.9555555555555" type="line"/>
-      <point x="260.8" y="466.8666666666667" type="line"/>
-      <point x="558.9111111111112" y="19.688888888888894" type="line"/>
-      <point x="558.9111111111112" y="-48.3111111111111"/>
-      <point x="455.68888888888887" y="-124.24444444444444"/>
-      <point x="372.68888888888887" y="-148.24444444444444" type="curve"/>
-      <point x="400.93333333333334" y="-201.0222222222222" type="line"/>
-      <point x="508.9111111111111" y="-189.26666666666665"/>
-      <point x="642.3111111111111" y="-111.08888888888887"/>
-      <point x="670.0222222222222" y="18.177777777777795" type="curve" smooth="yes"/>
-      <point x="684.7333333333333" y="84.82222222222225"/>
-      <point x="682.5555555555555" y="160.62222222222226"/>
-      <point x="682.5555555555555" y="251.8" type="curve" smooth="yes"/>
-      <point x="682.5555555555555" y="743.0" type="line"/>
+      <point x="208.822" y="0.0" type="line"/>
+      <point x="208.822" y="447.511" type="line"/>
+      <point x="196.911" y="667.956" type="line"/>
+      <point x="150.978" y="667.956" type="line"/>
+      <point x="260.8" y="466.867" type="line"/>
+      <point x="558.911" y="19.689" type="line"/>
+      <point x="558.911" y="-48.311"/>
+      <point x="455.689" y="-124.244"/>
+      <point x="372.689" y="-148.244" type="curve"/>
+      <point x="400.933" y="-201.022" type="line"/>
+      <point x="508.911" y="-189.267"/>
+      <point x="642.311" y="-111.089"/>
+      <point x="670.022" y="18.178" type="curve" smooth="yes"/>
+      <point x="684.733" y="84.822"/>
+      <point x="682.556" y="160.622"/>
+      <point x="682.556" y="251.8" type="curve" smooth="yes"/>
+      <point x="682.556" y="743.0" type="line"/>
       <point x="567.2" y="743.0" type="line"/>
-      <point x="567.2" y="283.5555555555555" type="line"/>
-      <point x="581.1555555555556" y="77.44444444444441" type="line"/>
-      <point x="617.8444444444444" y="77.44444444444441" type="line"/>
-      <point x="521.8" y="258.3111111111111" type="line"/>
-      <point x="202.5333333333333" y="743.0" type="line"/>
-      <point x="93.46666666666667" y="743.0" type="line"/>
-      <point x="94.46666666666667" y="0.0" type="line"/>
+      <point x="567.2" y="283.556" type="line"/>
+      <point x="581.156" y="77.444" type="line"/>
+      <point x="617.844" y="77.444" type="line"/>
+      <point x="521.8" y="258.311" type="line"/>
+      <point x="202.533" y="743.0" type="line"/>
+      <point x="93.467" y="743.0" type="line"/>
+      <point x="94.467" y="0.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/01/21 06:08:13</string>
+      <string>2019/02/18 20:30:01</string>
     </dict>
   </lib>
 </glyph>

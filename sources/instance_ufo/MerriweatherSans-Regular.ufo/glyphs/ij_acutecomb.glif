@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ij_acutecomb" format="2">
-  <advance width="584.8888888888889"/>
-  <anchor x="149.42222222222222" y="0.0" name="bottom_1"/>
-  <anchor x="441.8666666666667" y="-273.0" name="bottom_2"/>
+  <advance width="585.0"/>
+  <anchor x="149.422" y="0.0" name="bottom_1"/>
+  <anchor x="442.022" y="-273.0" name="bottom_2"/>
   <anchor x="149.6" y="-83.0" name="btm"/>
-  <anchor x="222.66666666666666" y="25.0" name="ogonek"/>
-  <anchor x="88.82222222222222" y="994.2444444444444" name="top_1"/>
-  <anchor x="450.8" y="830.1777777777778" name="top_2"/>
+  <anchor x="222.667" y="25.0" name="ogonek"/>
+  <anchor x="88.578" y="994.422" name="top_1"/>
+  <anchor x="450.956" y="830.178" name="top_2"/>
   <outline>
     <component base="iacute"/>
-    <component base="jdotless" xOffset="298.84444444444443"/>
-    <component base="acutecomb" xOffset="450.6222222222222"/>
+    <component base="jdotless" xOffset="299.0"/>
+    <component base="acutecomb" xOffset="451.0"/>
   </outline>
   <lib>
     <dict>
@@ -19,7 +19,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
       <string>ij</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 05:47:38</string>
+      <string>2019/02/18 20:30:01</string>
     </dict>
   </lib>
 </glyph>

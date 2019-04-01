@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="quotedblleft" format="2">
-  <advance width="565.0"/>
+  <advance width="569.55"/>
   <unicode hex="201C"/>
   <note>
 quotedblleft
 </note>
   <outline>
-    <component base="quoteleft" xOffset="232.0"/>
+    <component base="quoteleft" xOffset="234.275"/>
     <component base="quoteleft"/>
   </outline>
   <lib>
@@ -16,7 +16,12 @@ quotedblleft
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>quoteleft</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 19:32:43</string>
+      <string>2019/02/18 20:31:10</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>-1</integer>
+      </array>
     </dict>
   </lib>
 </glyph>

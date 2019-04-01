@@ -11,8 +11,8 @@ M
     <contour>
       <point x="363.35" y="-9.0" type="line"/>
       <point x="451.85" y="-1.0" type="line"/>
-      <point x="665.1750000000001" y="526.85" type="line"/>
-      <point x="726.3000000000001" y="682.725" type="line"/>
+      <point x="665.175" y="526.85" type="line"/>
+      <point x="726.3" y="682.725" type="line"/>
       <point x="714.65" y="507.425" type="line"/>
       <point x="686.725" y="0.0" type="line"/>
       <point x="797.075" y="0.0" type="line"/>
@@ -23,7 +23,7 @@ M
       <point x="422.075" y="229.65" type="line"/>
       <point x="350.55" y="747.0" type="line"/>
       <point x="205.75" y="747.0" type="line"/>
-      <point x="16.824999999999992" y="0.0" type="line"/>
+      <point x="16.825" y="0.0" type="line"/>
       <point x="126.525" y="0.0" type="line"/>
       <point x="243.5" y="512.45" type="line"/>
       <point x="273.2" y="682.725" type="line"/>
@@ -37,7 +37,7 @@ M
 14 9 2 3 1 0 1 74 12 1 1 71 4 3 2 0 0 17 75 2 1 1 1 18 1 76 0 0 0 18 0 18 25 17 20 5 7 23 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:02</string>
+      <string>2019/02/18 20:31:10</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

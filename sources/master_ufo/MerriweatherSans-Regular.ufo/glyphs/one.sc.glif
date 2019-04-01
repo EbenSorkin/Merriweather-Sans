@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="one.sc" format="2">
-  <advance width="448.0"/>
+  <advance width="455.46667"/>
   <outline>
     <contour>
-      <point x="185.0" y="0.0" type="line"/>
-      <point x="296.0" y="0.0" type="line"/>
-      <point x="296.0" y="744.0" type="line"/>
-      <point x="248.0" y="753.0" type="line"/>
-      <point x="220.0" y="728.0"/>
-      <point x="127.0" y="677.0"/>
-      <point x="63.0" y="658.0" type="curve"/>
-      <point x="76.0" y="594.0" type="line"/>
-      <point x="113.0" y="601.0"/>
-      <point x="147.0" y="610.0"/>
-      <point x="185.0" y="620.0" type="curve"/>
+      <point x="186.067" y="0.0" type="line"/>
+      <point x="305.244" y="0.0" type="line"/>
+      <point x="305.422" y="743.644" type="line"/>
+      <point x="252.444" y="752.822" type="line"/>
+      <point x="222.844" y="726.756"/>
+      <point x="127.0" y="675.4"/>
+      <point x="62.822" y="656.756" type="curve"/>
+      <point x="75.822" y="588.133" type="line"/>
+      <point x="113.0" y="595.133"/>
+      <point x="147.889" y="603.6"/>
+      <point x="186.067" y="613.6" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -21,7 +21,7 @@
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:51:05</string>
+      <string>2019/02/18 20:30:01</string>
     </dict>
   </lib>
 </glyph>

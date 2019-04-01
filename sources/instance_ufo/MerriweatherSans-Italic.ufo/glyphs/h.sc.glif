@@ -8,16 +8,16 @@ H
   <anchor x="385.625" y="650.0" name="top"/>
   <outline>
     <contour>
-      <point x="46.77499999999999" y="0.0" type="line"/>
-      <point x="156.45000000000002" y="0.0" type="line"/>
-      <point x="194.10000000000002" y="283.15" type="line"/>
+      <point x="46.775" y="0.0" type="line"/>
+      <point x="156.45" y="0.0" type="line"/>
+      <point x="194.1" y="283.15" type="line"/>
       <point x="481.125" y="283.15" type="line"/>
       <point x="443.8" y="0.0" type="line"/>
       <point x="554.475" y="0.0" type="line"/>
       <point x="638.75" y="646.0" type="line"/>
       <point x="527.75" y="646.0" type="line"/>
       <point x="490.775" y="361.95" type="line"/>
-      <point x="203.07500000000002" y="361.95" type="line"/>
+      <point x="203.075" y="361.95" type="line"/>
       <point x="241.4" y="646.0" type="line"/>
       <point x="130.725" y="646.0" type="line"/>
     </contour>
@@ -42,7 +42,7 @@ CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 17:33:37</string>
+      <string>2019/02/18 20:31:10</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

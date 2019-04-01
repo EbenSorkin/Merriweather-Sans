@@ -2,9 +2,9 @@
 <glyph name="tugrik" format="2">
   <advance width="627.55"/>
   <unicode hex="20AE"/>
-  <anchor x="281.47499999999997" y="0.0" name="bottom"/>
-  <anchor x="331.47499999999997" y="374.325" name="center"/>
-  <anchor x="380.47499999999997" y="747.975" name="top"/>
+  <anchor x="281.475" y="0.0" name="bottom"/>
+  <anchor x="331.475" y="374.325" name="center"/>
+  <anchor x="380.475" y="747.975" name="top"/>
   <outline>
     <contour>
       <point x="99.425" y="313.575" type="line"/>
@@ -13,17 +13,17 @@
       <point x="101.425" y="402.0" type="line"/>
     </contour>
     <contour>
-      <point x="95.425" y="106.74999999999997" type="line"/>
-      <point x="526.425" y="246.74999999999997" type="line"/>
+      <point x="95.425" y="106.75" type="line"/>
+      <point x="526.425" y="246.75" type="line"/>
       <point x="528.425" y="335.525" type="line"/>
-      <point x="97.425" y="195.52499999999998" type="line"/>
+      <point x="97.425" y="195.525" type="line"/>
     </contour>
-    <component base="T" xOffset="43.17499999999999"/>
+    <component base="T" xOffset="43.175"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:16</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

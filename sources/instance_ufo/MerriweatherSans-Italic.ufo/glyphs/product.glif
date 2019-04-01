@@ -8,12 +8,12 @@ product
   <outline>
     <contour>
       <point x="103.275" y="-83.0" type="line"/>
-      <point x="224.62500000000003" y="-83.0" type="line"/>
-      <point x="328.32500000000005" y="657.225" type="line"/>
+      <point x="224.625" y="-83.0" type="line"/>
+      <point x="328.325" y="657.225" type="line"/>
       <point x="581.025" y="657.225" type="line"/>
       <point x="477.325" y="-83.0" type="line"/>
       <point x="598.35" y="-83.0" type="line"/>
-      <point x="702.0500000000001" y="657.225" type="line"/>
+      <point x="702.05" y="657.225" type="line"/>
       <point x="799.975" y="657.225" type="line"/>
       <point x="812.275" y="747.0" type="line"/>
       <point x="122.0" y="747.0" type="line"/>
@@ -28,7 +28,7 @@ product
 5 1 1 48 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:16</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

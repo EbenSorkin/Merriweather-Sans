@@ -1,69 +1,54 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="thorn.sc" format="2">
-  <advance width="574.0"/>
+  <advance width="581.475"/>
   <note>
 Thorn
 </note>
   <outline>
     <contour>
-      <point x="51.0" y="0.0" type="line"/>
-      <point x="148.0" y="0.0" type="line"/>
-      <point x="163.0" y="118.0" type="line"/>
-      <point x="180.0" y="116.0"/>
-      <point x="207.0" y="114.0"/>
-      <point x="248.0" y="114.0" type="curve" smooth="yes"/>
-      <point x="363.0" y="114.0"/>
-      <point x="452.0" y="161.0"/>
-      <point x="499.0" y="240.0" type="curve" smooth="yes"/>
-      <point x="520.0" y="275.0"/>
-      <point x="533.0" y="319.0"/>
-      <point x="533.0" y="372.0" type="curve" smooth="yes"/>
-      <point x="533.0" y="490.0"/>
-      <point x="459.0" y="550.0"/>
-      <point x="314.0" y="550.0" type="curve" smooth="yes"/>
-      <point x="297.0" y="550.0"/>
-      <point x="234.0" y="547.0"/>
-      <point x="217.0" y="545.0" type="curve"/>
-      <point x="231.0" y="650.0" type="line"/>
-      <point x="133.0" y="650.0" type="line"/>
+      <point x="48.075" y="0.0" type="line"/>
+      <point x="158.725" y="0.0" type="line"/>
+      <point x="174.05" y="117.35" type="line"/>
+      <point x="194.3" y="115.35"/>
+      <point x="221.625" y="113.025"/>
+      <point x="256.45" y="113.025" type="curve" smooth="yes"/>
+      <point x="373.725" y="113.025"/>
+      <point x="464.35" y="160.35"/>
+      <point x="511.675" y="239.675" type="curve" smooth="yes"/>
+      <point x="533.325" y="275.65"/>
+      <point x="545.675" y="320.3"/>
+      <point x="545.025" y="371.35" type="curve" smooth="yes"/>
+      <point x="544.7" y="489.025"/>
+      <point x="466.8" y="549.35"/>
+      <point x="319.85" y="549.35" type="curve" smooth="yes"/>
+      <point x="300.575" y="549.35"/>
+      <point x="249.275" y="547.0"/>
+      <point x="229.025" y="545.0" type="curve"/>
+      <point x="243.025" y="650.0" type="line"/>
+      <point x="132.025" y="650.0" type="line"/>
     </contour>
     <contour>
-      <point x="245.0" y="189.0" type="curve" smooth="yes"/>
-      <point x="224.0" y="189.0"/>
-      <point x="188.0" y="191.0"/>
-      <point x="172.0" y="195.0" type="curve"/>
-      <point x="209.0" y="472.0" type="line"/>
-      <point x="233.0" y="476.0"/>
-      <point x="273.0" y="479.0"/>
-      <point x="299.0" y="479.0" type="curve" smooth="yes"/>
-      <point x="386.0" y="479.0"/>
-      <point x="436.0" y="446.0"/>
-      <point x="435.0" y="373.0" type="curve" smooth="yes"/>
-      <point x="434.0" y="250.0"/>
-      <point x="372.0" y="189.0"/>
+      <point x="255.075" y="196.8" type="curve" smooth="yes"/>
+      <point x="233.75" y="196.8"/>
+      <point x="199.375" y="198.8"/>
+      <point x="184.35" y="202.8" type="curve"/>
+      <point x="219.725" y="464.85" type="line"/>
+      <point x="246.325" y="467.875"/>
+      <point x="275.275" y="470.55"/>
+      <point x="302.25" y="470.55" type="curve" smooth="yes"/>
+      <point x="389.25" y="470.55"/>
+      <point x="436.325" y="439.175"/>
+      <point x="435.0" y="370.075" type="curve" smooth="yes"/>
+      <point x="433.35" y="254.55"/>
+      <point x="374.925" y="196.8"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>RMXScaler</key>
-      <dict>
-        <key>adjustSpace</key>
-        <integer>2</integer>
-        <key>height</key>
-        <integer>87</integer>
-        <key>weight</key>
-        <integer>1</integer>
-        <key>width</key>
-        <integer>96</integer>
-      </dict>
-      <key>assembly</key>
-      <string>NPUSHB[ ]	/* 46 values pushed */
-10 1 4 3 24 1 5 4 2 74 0 3 0 4 5 3 4 99 0 5 0 0 1 5 0 100 0 2 2 17 75 0 1 1 18 1 76 37 35 37 17 18 34 6 7 26 
-CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:50:25</string>
+      <string>2019/02/18 20:31:10</string>
       <key>public.markColor</key>
       <string>0,0.67,0.91,1</string>
     </dict>

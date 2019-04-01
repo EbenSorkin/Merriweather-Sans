@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="one.osf" format="2">
-  <advance width="490.66666666666663"/>
+  <advance width="490.66667"/>
   <note>
 one
 </note>
   <outline>
     <contour>
-      <point x="152.5897435897436" y="0.0" type="line"/>
-      <point x="304.1794871794872" y="0.0" type="line"/>
-      <point x="386.0" y="561.2307692307693" type="line"/>
-      <point x="291.4102564102564" y="567.0" type="line"/>
-      <point x="229.23076923076923" y="526.0"/>
-      <point x="150.82051282051282" y="482.0"/>
-      <point x="87.82051282051282" y="469.0" type="curve"/>
-      <point x="105.05128205128204" y="382.61538461538464" type="line"/>
-      <point x="161.43589743589743" y="391.56410256410254"/>
-      <point x="181.35897435897436" y="394.56410256410254"/>
-      <point x="211.17948717948718" y="404.56410256410254" type="curve"/>
+      <point x="152.59" y="0.0" type="line"/>
+      <point x="304.179" y="0.0" type="line"/>
+      <point x="386.0" y="561.231" type="line"/>
+      <point x="291.41" y="567.0" type="line"/>
+      <point x="229.231" y="526.0"/>
+      <point x="150.821" y="482.0"/>
+      <point x="87.821" y="469.0" type="curve"/>
+      <point x="105.051" y="382.615" type="line"/>
+      <point x="161.436" y="391.564"/>
+      <point x="181.359" y="394.564"/>
+      <point x="211.179" y="404.564" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -26,7 +26,7 @@ one
 8 3 2 0 72 0 0 0 18 0 76 25 1 7 21 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:03</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

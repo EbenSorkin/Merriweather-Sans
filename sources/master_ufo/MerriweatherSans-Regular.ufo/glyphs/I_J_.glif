@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="IJ" format="2">
-  <advance width="661.0"/>
+  <advance width="676.0"/>
   <unicode hex="0132"/>
-  <anchor x="156.0" y="830.0" name="top"/>
-  <anchor x="498.0" y="830.0" name="top_"/>
-  <anchor x="157.0" y="0.0" name="bottom_1"/>
-  <anchor x="487.0" y="0.0" name="bottom_2"/>
-  <anchor x="160.0" y="-83.0" name="btm_1"/>
-  <anchor x="444.0" y="-83.0" name="btm_2"/>
-  <anchor x="260.0" y="10.0" name="ogonek"/>
+  <anchor x="159.733" y="830.0" name="top"/>
+  <anchor x="509.911" y="830.0" name="top_"/>
+  <anchor x="160.556" y="0.0" name="bottom_1"/>
+  <anchor x="497.733" y="0.0" name="bottom_2"/>
+  <anchor x="163.2" y="-83.0" name="btm_1"/>
+  <anchor x="451.711" y="-83.0" name="btm_2"/>
+  <anchor x="259.644" y="10.0" name="ogonek"/>
   <anchor x="20.0" y="743.0" name="topleft"/>
   <outline>
     <component base="I"/>
-    <component base="J" xOffset="313.0"/>
+    <component base="J" xOffset="320.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 17:41:47</string>
+      <string>2019/02/18 20:30:31</string>
     </dict>
   </lib>
 </glyph>

@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="quotedbl" format="2">
-  <advance width="534.1282051282051"/>
+  <advance width="534.12821"/>
   <unicode hex="0022"/>
   <note>
 quotedbl
 </note>
   <outline>
     <component base="quotesingle"/>
-    <component base="quotesingle" xOffset="265.025641025641"/>
+    <component base="quotesingle" xOffset="265.026"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:03</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

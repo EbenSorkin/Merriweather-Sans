@@ -9,17 +9,17 @@ x
   <anchor x="273.9" y="557.0" name="top"/>
   <outline>
     <contour>
-      <point x="-30.225000000000005" y="1.6749999999999994" type="line"/>
-      <point x="84.45000000000002" y="1.6749999999999994" type="line"/>
+      <point x="-30.225" y="1.675" type="line"/>
+      <point x="84.45" y="1.675" type="line"/>
       <point x="216.25" y="203.875" type="line"/>
-      <point x="296.625" y="1.6749999999999994" type="line"/>
-      <point x="422.925" y="1.6749999999999994" type="line"/>
-      <point x="285.02500000000003" y="276.025" type="line"/>
-      <point x="491.02500000000003" y="557.0" type="line"/>
+      <point x="296.625" y="1.675" type="line"/>
+      <point x="422.925" y="1.675" type="line"/>
+      <point x="285.025" y="276.025" type="line"/>
+      <point x="491.025" y="557.0" type="line"/>
       <point x="375.65" y="557.0" type="line"/>
-      <point x="248.82500000000002" y="363.475" type="line"/>
+      <point x="248.825" y="363.475" type="line"/>
       <point x="180.125" y="557.0" type="line"/>
-      <point x="52.14999999999999" y="557.0" type="line"/>
+      <point x="52.15" y="557.0" type="line"/>
       <point x="180.05" y="289.975" type="line"/>
     </contour>
   </outline>
@@ -30,7 +30,7 @@ x
 9 6 3 3 0 2 1 74 3 1 2 2 20 75 1 1 0 0 18 0 76 18 18 18 17 4 7 24 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:03</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

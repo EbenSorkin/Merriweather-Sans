@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Oinvertedbreve" format="2">
-  <advance width="673.0"/>
+  <advance width="674.0"/>
   <unicode hex="020E"/>
-  <anchor x="300.0" y="0.0" name="bottom"/>
-  <anchor x="350.0" y="374.0" name="center"/>
-  <anchor x="404.0" y="10.0" name="ogonek"/>
-  <anchor x="432.0" y="976.0" name="top"/>
-  <anchor x="82.0" y="747.0" name="topleft"/>
-  <anchor x="715.0" y="747.0" name="topright"/>
+  <anchor x="300.65" y="0.0" name="bottom"/>
+  <anchor x="350.65" y="374.325" name="center"/>
+  <anchor x="407.25" y="10.0" name="ogonek"/>
+  <anchor x="434.0" y="977.0" name="top"/>
+  <anchor x="82.0" y="747.975" name="topleft"/>
+  <anchor x="716.3" y="747.975" name="topright"/>
   <outline>
     <component base="O"/>
-    <component base="breveinvertedcomb.case" xOffset="339.0"/>
+    <component base="breveinvertedcomb.case" xOffset="341.0" yOffset="1.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:02</string>
+      <string>2019/02/18 20:31:35</string>
     </dict>
   </lib>
 </glyph>

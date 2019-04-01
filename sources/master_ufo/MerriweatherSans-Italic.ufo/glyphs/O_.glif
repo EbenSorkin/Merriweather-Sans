@@ -1,54 +1,50 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="O" format="2">
-  <advance width="673.0"/>
+  <advance width="674.3"/>
   <unicode hex="004F"/>
   <note>
 O
 </note>
-  <anchor x="300.0" y="0.0" name="bottom"/>
-  <anchor x="350.0" y="374.0" name="center"/>
-  <anchor x="404.0" y="10.0" name="ogonek"/>
-  <anchor x="401.0" y="747.0" name="top"/>
-  <anchor x="82.0" y="747.0" name="topleft"/>
-  <anchor x="715.0" y="747.0" name="topright"/>
+  <anchor x="300.65" y="0.0" name="bottom"/>
+  <anchor x="350.65" y="374.325" name="center"/>
+  <anchor x="407.25" y="10.0" name="ogonek"/>
+  <anchor x="402.95" y="747.975" name="top"/>
+  <anchor x="82.0" y="747.975" name="topleft"/>
+  <anchor x="716.3" y="747.975" name="topright"/>
   <outline>
     <contour>
-      <point x="292.0" y="-8.0" type="curve" smooth="yes"/>
-      <point x="506.0" y="-8.0"/>
-      <point x="637.0" y="197.0"/>
-      <point x="637.0" y="438.0" type="curve" smooth="yes"/>
-      <point x="637.0" y="607.0"/>
-      <point x="561.0" y="755.0"/>
-      <point x="397.0" y="755.0" type="curve" smooth="yes"/>
-      <point x="187.0" y="755.0"/>
-      <point x="53.0" y="546.0"/>
-      <point x="53.0" y="310.0" type="curve" smooth="yes"/>
-      <point x="53.0" y="136.0"/>
+      <point x="293.625" y="-8.0" type="curve" smooth="yes"/>
+      <point x="509.575" y="-8.0"/>
+      <point x="641.875" y="199.6"/>
+      <point x="641.875" y="442.225" type="curve" smooth="yes"/>
+      <point x="641.875" y="610.9"/>
+      <point x="562.625" y="755.0"/>
+      <point x="397.65" y="755.0" type="curve" smooth="yes"/>
+      <point x="184.4" y="755.0"/>
+      <point x="49.425" y="544.7"/>
+      <point x="49.425" y="305.45" type="curve" smooth="yes"/>
+      <point x="49.425" y="133.4"/>
       <point x="131.0" y="-8.0"/>
     </contour>
     <contour>
-      <point x="308.0" y="66.0" type="curve" smooth="yes"/>
-      <point x="205.0" y="66.0"/>
-      <point x="157.0" y="144.0"/>
-      <point x="153.0" y="316.0" type="curve" smooth="yes"/>
-      <point x="149.0" y="487.0"/>
-      <point x="235.0" y="678.0"/>
-      <point x="382.0" y="678.0" type="curve" smooth="yes"/>
-      <point x="485.0" y="678.0"/>
-      <point x="534.0" y="603.0"/>
-      <point x="537.0" y="431.0" type="curve" smooth="yes"/>
-      <point x="539.0" y="256.0"/>
-      <point x="457.0" y="66.0"/>
+      <point x="309.3" y="75.1" type="curve" smooth="yes"/>
+      <point x="211.175" y="75.1"/>
+      <point x="165.125" y="148.225"/>
+      <point x="162.425" y="313.4" type="curve" smooth="yes"/>
+      <point x="159.725" y="478.875"/>
+      <point x="241.175" y="669.55"/>
+      <point x="382.0" y="669.55" type="curve" smooth="yes"/>
+      <point x="485.0" y="669.55"/>
+      <point x="527.175" y="591.3"/>
+      <point x="529.2" y="433.6" type="curve" smooth="yes"/>
+      <point x="530.55" y="265.1"/>
+      <point x="452.45" y="75.1"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>assembly</key>
-      <string>NPUSHB[ ]	/* 28 values pushed */
-0 2 2 0 91 0 0 0 25 75 0 3 3 1 91 0 1 1 26 1 76 37 37 38 34 4 7 24 
-CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 04:29:03</string>
+      <string>2019/02/18 20:31:10</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

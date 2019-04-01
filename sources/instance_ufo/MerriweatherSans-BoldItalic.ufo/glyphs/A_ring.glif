@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Aring" format="2">
-  <advance width="645.2051282051282"/>
+  <advance width="645.0"/>
   <unicode hex="00C5"/>
   <note>
 Aring
 </note>
-  <anchor x="286.1025641025641" y="0.0" name="bottom"/>
-  <anchor x="606.7948717948718" y="0.0" name="ogonek"/>
-  <anchor x="426.12820512820514" y="977.7692307692307" name="top"/>
+  <anchor x="286.103" y="0.0" name="bottom"/>
+  <anchor x="606.795" y="0.0" name="ogonek"/>
+  <anchor x="426.0" y="978.0" name="top"/>
   <outline>
     <component base="A"/>
-    <component base="ringcomb.case" xOffset="332.12820512820514" yOffset="1.7692307692307696"/>
+    <component base="ringcomb.case" xOffset="332.0" yOffset="2.0"/>
   </outline>
   <lib>
     <dict>
@@ -19,7 +19,7 @@ Aring
 34 17 4 3 6 4 1 74 0 2 0 5 4 2 5 99 7 1 6 0 0 1 6 0 98 0 4 4 25 75 3 1 1 1 18 1 76 32 32 32 36 32 36 35 35 22 39 17 16 8 7 26 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:02</string>
+      <string>2019/02/18 20:31:35</string>
     </dict>
   </lib>
 </glyph>

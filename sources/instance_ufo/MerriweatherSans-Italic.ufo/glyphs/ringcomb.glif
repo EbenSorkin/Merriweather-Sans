@@ -5,7 +5,7 @@
 ring
 </note>
   <anchor x="37.0" y="557.0" name="_top"/>
-  <anchor x="135.54999999999998" y="732.925" name="top"/>
+  <anchor x="135.55" y="732.925" name="top"/>
   <outline>
     <contour>
       <point x="49.025" y="612.0" type="curve" smooth="yes"/>
@@ -22,14 +22,14 @@ ring
       <point x="-34.975" y="853.275"/>
       <point x="-68.95" y="812.3" type="curve" smooth="yes"/>
       <point x="-86.275" y="791.65"/>
-      <point x="-94.60000000000001" y="766.675"/>
-      <point x="-94.60000000000001" y="736.7" type="curve" smooth="yes"/>
-      <point x="-94.60000000000001" y="657.675"/>
+      <point x="-94.6" y="766.675"/>
+      <point x="-94.6" y="736.7" type="curve" smooth="yes"/>
+      <point x="-94.6" y="657.675"/>
       <point x="-41.95" y="612.0"/>
     </contour>
     <contour>
       <point x="52.325" y="666.925" type="curve" smooth="yes"/>
-      <point x="12.625000000000002" y="666.925"/>
+      <point x="12.625" y="666.925"/>
       <point x="-22.375" y="697.275"/>
       <point x="-22.375" y="736.3" type="curve" smooth="yes"/>
       <point x="-22.375" y="794.675"/>
@@ -55,7 +55,7 @@ PUSHB[ ]	/* 2 values pushed */
 6 0 
 WCVTP[ ]	/* WriteCVTInPixels */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:12</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

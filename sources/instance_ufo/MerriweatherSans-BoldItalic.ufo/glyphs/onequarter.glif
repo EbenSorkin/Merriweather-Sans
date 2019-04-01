@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="onequarter" format="2">
-  <advance width="1077.871794871795"/>
+  <advance width="1078.0"/>
   <unicode hex="00BC"/>
   <note>
 onequarter
 </note>
   <outline>
     <component base="one.numr"/>
-    <component base="fraction" xOffset="341.53846153846155"/>
-    <component base="four.dnom" xOffset="557.6410256410256"/>
+    <component base="fraction" xOffset="342.0"/>
+    <component base="four.dnom" xOffset="558.0"/>
   </outline>
   <lib>
     <dict>
@@ -54,7 +54,7 @@ PUSHB[ ]	/* 2 values pushed */
 6 0 
 WCVTP[ ]	/* WriteCVTInPixels */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:45:50</string>
+      <string>2019/02/18 20:31:35</string>
     </dict>
   </lib>
 </glyph>

@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Eth" format="2">
-  <advance width="688.5128205128206"/>
+  <advance width="688.51282"/>
   <unicode hex="00D0"/>
   <note>
 Eth
 </note>
-  <anchor x="307.46153846153845" y="0.0" name="bottom"/>
-  <anchor x="357.46153846153845" y="374.5897435897436" name="center"/>
-  <anchor x="406.46153846153845" y="748.7692307692307" name="top"/>
+  <anchor x="307.462" y="0.0" name="bottom"/>
+  <anchor x="357.462" y="374.59" name="center"/>
+  <anchor x="406.462" y="748.769" name="top"/>
   <outline>
     <contour>
-      <point x="412.56410256410254" y="440.97435897435895" type="line"/>
-      <point x="26.58974358974359" y="440.97435897435895" type="line"/>
-      <point x="16.358974358974358" y="336.0769230769231" type="line"/>
-      <point x="401.7435897435897" y="336.0769230769231" type="line"/>
+      <point x="412.564" y="440.974" type="line"/>
+      <point x="26.59" y="440.974" type="line"/>
+      <point x="16.359" y="336.077" type="line"/>
+      <point x="401.744" y="336.077" type="line"/>
     </contour>
     <component base="D"/>
   </outline>
@@ -39,7 +39,7 @@ CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>D</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:02</string>
+      <string>2019/02/18 20:31:10</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

@@ -1,83 +1,57 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="D" format="2">
-  <advance width="672.0"/>
+  <advance width="675.9"/>
   <unicode hex="0044"/>
   <note>
 D
 </note>
-  <anchor x="299.0" y="0.0" name="bottom"/>
-  <anchor x="349.0" y="374.0" name="center"/>
-  <anchor x="398.0" y="747.0" name="top"/>
+  <anchor x="300.95" y="0.0" name="bottom"/>
+  <anchor x="350.95" y="374.325" name="center"/>
+  <anchor x="399.95" y="747.975" name="top"/>
   <outline>
     <contour>
-      <point x="255.0" y="-8.0" type="curve" smooth="yes"/>
-      <point x="483.0" y="-14.0"/>
-      <point x="634.0" y="189.0"/>
-      <point x="634.0" y="438.0" type="curve" smooth="yes"/>
-      <point x="634.0" y="637.0"/>
-      <point x="547.0" y="755.0"/>
-      <point x="352.0" y="755.0" type="curve" smooth="yes"/>
-      <point x="334.0" y="755.0"/>
-      <point x="208.0" y="747.0"/>
-      <point x="194.0" y="747.0" type="curve" smooth="yes"/>
-      <point x="148.0" y="747.0" type="line"/>
-      <point x="54.0" y="0.0" type="line"/>
-      <point x="103.0" y="0.0" type="line" smooth="yes"/>
-      <point x="180.0" y="0.0"/>
-      <point x="184.0" y="-6.0"/>
+      <point x="260.525" y="-8.0" type="curve" smooth="yes"/>
+      <point x="493.725" y="-12.05"/>
+      <point x="643.425" y="190.3"/>
+      <point x="643.425" y="440.6" type="curve" smooth="yes"/>
+      <point x="643.425" y="638.3"/>
+      <point x="556.425" y="755.0"/>
+      <point x="361.1" y="755.0" type="curve" smooth="yes"/>
+      <point x="323.275" y="755.0"/>
+      <point x="227.5" y="747.0"/>
+      <point x="200.175" y="747.0" type="curve" smooth="yes"/>
+      <point x="147.025" y="747.0" type="line"/>
+      <point x="50.75" y="0.0" type="line"/>
+      <point x="103.325" y="0.0" type="line" smooth="yes"/>
+      <point x="171.225" y="0.0"/>
+      <point x="200.25" y="-6.65"/>
     </contour>
     <contour>
-      <point x="275.0" y="65.0" type="curve" smooth="yes"/>
-      <point x="236.0" y="64.0"/>
-      <point x="190.0" y="69.0"/>
-      <point x="161.0" y="80.0" type="curve"/>
-      <point x="235.0" y="674.0" type="line"/>
-      <point x="255.0" y="679.0"/>
-      <point x="298.0" y="684.0"/>
-      <point x="323.0" y="684.0" type="curve" smooth="yes"/>
-      <point x="426.0" y="684.0"/>
-      <point x="484.0" y="654.0"/>
-      <point x="513.0" y="582.0" type="curve" smooth="yes"/>
-      <point x="527.0" y="545.0"/>
-      <point x="534.0" y="496.0"/>
-      <point x="534.0" y="433.0" type="curve" smooth="yes"/>
-      <point x="534.0" y="312.0"/>
-      <point x="497.0" y="194.0"/>
-      <point x="419.0" y="122.0" type="curve" smooth="yes"/>
-      <point x="380.0" y="86.0"/>
-      <point x="332.0" y="67.0"/>
+      <point x="279.55" y="73.775" type="curve" smooth="yes"/>
+      <point x="241.85" y="73.1"/>
+      <point x="199.1" y="78.1"/>
+      <point x="171.4" y="88.125" type="curve"/>
+      <point x="245.4" y="665.55" type="line"/>
+      <point x="265.075" y="670.225"/>
+      <point x="306.45" y="674.9"/>
+      <point x="331.125" y="674.9" type="curve" smooth="yes"/>
+      <point x="428.275" y="674.9"/>
+      <point x="483.025" y="646.85"/>
+      <point x="510.4" y="578.75" type="curve" smooth="yes"/>
+      <point x="523.75" y="543.7"/>
+      <point x="530.425" y="496.975"/>
+      <point x="530.425" y="436.9" type="curve" smooth="yes"/>
+      <point x="530.425" y="314.925"/>
+      <point x="494.725" y="198.55"/>
+      <point x="419.0" y="128.825" type="curve" smooth="yes"/>
+      <point x="381.3" y="93.8"/>
+      <point x="334.6" y="75.45"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>assembly</key>
-      <string>PUSHB[ ]	/* 6 values pushed */
-30 1 5 4 1 74 
-MPPEM[ ]	/* MeasurePixelPerEm */
-PUSHB[ ]	/* 1 value pushed */
-33 
-LT[ ]	/* LessThan */
-IF[ ]	/* If */
-NPUSHB[ ]	/* 24 values pushed */
-0 4 4 2 91 3 1 2 2 17 75 6 1 5 5 0 91 1 1 0 0 26 0 76 
-ELSE[ ]	/* Else */
-MPPEM[ ]	/* MeasurePixelPerEm */
-PUSHB[ ]	/* 1 value pushed */
-42 
-LT[ ]	/* LessThan */
-IF[ ]	/* If */
-NPUSHB[ ]	/* 28 values pushed */
-0 4 4 2 91 3 1 2 2 17 75 0 1 1 18 75 6 1 5 5 0 91 0 0 0 26 0 76 
-ELSE[ ]	/* Else */
-NPUSHB[ ]	/* 32 values pushed */
-0 2 2 17 75 0 4 4 3 89 0 3 3 17 75 0 1 1 18 75 6 1 5 5 0 91 0 0 0 26 0 76 
-EIF[ ]	/* EndIf */
-EIF[ ]	/* EndIf */
-NPUSHB[ ]	/* 14 values pushed */
-19 19 19 33 19 32 41 49 33 50 34 7 7 25 
-CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:02</string>
+      <string>2019/02/18 20:31:10</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

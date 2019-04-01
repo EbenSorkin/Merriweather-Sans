@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="bitcoin" format="2">
-  <advance width="605.0"/>
+  <advance width="614.1"/>
   <unicode hex="20BF"/>
-  <anchor x="266.0" y="0.0" name="bottom"/>
-  <anchor x="365.0" y="747.0" name="top"/>
+  <anchor x="270.55" y="0.0" name="bottom"/>
+  <anchor x="369.55" y="747.975" name="top"/>
   <outline>
     <contour>
       <point x="393.0" y="713.0" type="line"/>
@@ -34,7 +34,11 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:16</string>
+      <string>2019/02/18 20:31:10</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
     </dict>
   </lib>
 </glyph>

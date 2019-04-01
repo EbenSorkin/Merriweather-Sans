@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="zcaron" format="2">
-  <advance width="522.0888888888888"/>
+  <advance width="522.08889"/>
   <unicode hex="017E"/>
-  <anchor x="261.1333333333333" y="0.0" name="bottom"/>
-  <anchor x="261.1333333333333" y="-83.0" name="btm"/>
-  <anchor x="261.1333333333333" y="279.0" name="center"/>
-  <anchor x="264.2" y="1020.3111111111111" name="top"/>
+  <anchor x="261.133" y="0.0" name="bottom"/>
+  <anchor x="261.133" y="-83.0" name="btm"/>
+  <anchor x="261.133" y="279.0" name="center"/>
+  <anchor x="264.0" y="1020.311" name="top"/>
   <outline>
     <component base="z"/>
-    <component base="caroncomb" xOffset="264.2"/>
+    <component base="caroncomb" xOffset="264.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 06:18:47</string>
+      <string>2019/02/18 20:30:31</string>
     </dict>
   </lib>
 </glyph>

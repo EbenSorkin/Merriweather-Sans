@@ -8,18 +8,18 @@
       <point x="438.1" y="149.325" type="line"/>
       <point x="562.925" y="149.325" type="line"/>
       <point x="574.55" y="243.15" type="line"/>
-      <point x="449.40000000000003" y="236.15" type="line"/>
+      <point x="449.4" y="236.15" type="line"/>
       <point x="478.75" y="454.75" type="line"/>
       <point x="372.325" y="436.075" type="line"/>
-      <point x="345.0" y="231.47500000000002" type="line"/>
-      <point x="133.45000000000002" y="222.8" type="line"/>
-      <point x="173.10000000000002" y="272.45" type="line"/>
+      <point x="345.0" y="231.475" type="line"/>
+      <point x="133.45" y="222.8" type="line"/>
+      <point x="173.1" y="272.45" type="line"/>
       <point x="456.925" y="706.6" type="line"/>
       <point x="396.075" y="747.0" type="line"/>
-      <point x="336.72499999999997" y="747.0" type="line"/>
-      <point x="221.52499999999998" y="534.8"/>
-      <point x="124.89999999999999" y="372.375"/>
-      <point x="14.074999999999996" y="202.85000000000002" type="curve"/>
+      <point x="336.725" y="747.0" type="line"/>
+      <point x="221.525" y="534.8"/>
+      <point x="124.9" y="372.375"/>
+      <point x="14.075" y="202.85" type="curve"/>
       <point x="35.65" y="149.325" type="line"/>
       <point x="333.7" y="149.325" type="line"/>
     </contour>
@@ -29,7 +29,7 @@
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:03</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

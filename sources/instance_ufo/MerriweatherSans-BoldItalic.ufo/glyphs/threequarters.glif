@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="threequarters" format="2">
-  <advance width="1238.3589743589744"/>
+  <advance width="1238.0"/>
   <unicode hex="00BE"/>
   <note>
 threequarters
 </note>
   <outline>
     <component base="three.numr"/>
-    <component base="fraction" xOffset="502.025641025641"/>
-    <component base="four.dnom" xOffset="718.1282051282051"/>
+    <component base="fraction" xOffset="502.0"/>
+    <component base="four.dnom" xOffset="718.0"/>
   </outline>
   <lib>
     <dict>
@@ -45,7 +45,7 @@ PUSHB[ ]	/* 2 values pushed */
 6 0 
 WCVTP[ ]	/* WriteCVTInPixels */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:45:50</string>
+      <string>2019/02/18 20:31:35</string>
     </dict>
   </lib>
 </glyph>

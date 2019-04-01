@@ -1,64 +1,38 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="r" format="2">
-  <advance width="413.0"/>
+  <advance width="424.89744"/>
   <unicode hex="0072"/>
   <note>
 r
 </note>
-  <anchor x="110.0" y="0.0" name="bottom"/>
-  <anchor x="284.0" y="557.0" name="top"/>
+  <anchor x="117.385" y="0.0" name="bottom"/>
+  <anchor x="289.744" y="557.0" name="top"/>
   <outline>
     <contour>
-      <point x="39.0" y="0.0" type="line"/>
-      <point x="174.0" y="0.0" type="line"/>
-      <point x="220.0" y="336.0" type="line"/>
-      <point x="256.0" y="395.0"/>
-      <point x="306.0" y="429.0"/>
-      <point x="350.0" y="429.0" type="curve" smooth="yes"/>
-      <point x="371.0" y="429.0"/>
-      <point x="391.0" y="426.0"/>
-      <point x="398.0" y="419.0" type="curve"/>
-      <point x="425.0" y="558.0" type="line"/>
-      <point x="420.0" y="562.0"/>
-      <point x="409.0" y="564.0"/>
-      <point x="393.0" y="564.0" type="curve" smooth="yes"/>
-      <point x="322.0" y="564.0"/>
-      <point x="263.0" y="508.0"/>
-      <point x="236.0" y="451.0" type="curve"/>
-      <point x="245.0" y="557.0" type="line"/>
-      <point x="115.0" y="557.0" type="line"/>
+      <point x="38.59" y="0.0" type="line"/>
+      <point x="189.59" y="0.0" type="line"/>
+      <point x="237.641" y="342.154" type="line"/>
+      <point x="273.231" y="389.667"/>
+      <point x="315.436" y="414.641"/>
+      <point x="359.026" y="414.641" type="curve" smooth="yes"/>
+      <point x="379.205" y="414.641"/>
+      <point x="400.846" y="410.821"/>
+      <point x="407.026" y="403.41" type="curve"/>
+      <point x="435.667" y="558.0" type="line"/>
+      <point x="430.667" y="562.0"/>
+      <point x="418.846" y="564.0"/>
+      <point x="402.846" y="564.0" type="curve" smooth="yes"/>
+      <point x="333.897" y="564.0"/>
+      <point x="276.538" y="507.179"/>
+      <point x="251.59" y="446.897" type="curve"/>
+      <point x="260.179" y="557.0" type="line"/>
+      <point x="114.59" y="557.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>assembly</key>
-      <string>MPPEM[ ]	/* MeasurePixelPerEm */
-PUSHB[ ]	/* 1 value pushed */
-31 
-LT[ ]	/* LessThan */
-IF[ ]	/* If */
-NPUSHB[ ]	/* 14 values pushed */
-13 1 0 2 2 1 1 0 2 74 1 1 2 72 
-ELSE[ ]	/* Else */
-NPUSHB[ ]	/* 14 values pushed */
-1 1 2 3 13 1 0 2 2 1 1 0 3 74 
-EIF[ ]	/* EndIf */
-MPPEM[ ]	/* MeasurePixelPerEm */
-PUSHB[ ]	/* 1 value pushed */
-31 
-LT[ ]	/* LessThan */
-IF[ ]	/* If */
-NPUSHB[ ]	/* 18 values pushed */
-0 0 0 2 91 4 3 2 2 2 20 75 0 1 1 18 1 76 
-ELSE[ ]	/* Else */
-NPUSHB[ ]	/* 22 values pushed */
-0 2 2 20 75 0 0 0 3 91 4 1 3 3 28 75 0 1 1 18 1 76 
-EIF[ ]	/* EndIf */
-NPUSHB[ ]	/* 12 values pushed */
-0 0 0 17 0 16 17 19 36 5 7 23 
-CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:03</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

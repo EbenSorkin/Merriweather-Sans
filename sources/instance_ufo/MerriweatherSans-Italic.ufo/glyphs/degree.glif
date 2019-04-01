@@ -10,18 +10,18 @@ degree
       <point x="233.8" y="463.075" type="curve" smooth="yes"/>
       <point x="298.1" y="463.075"/>
       <point x="351.75" y="493.4"/>
-      <point x="381.40000000000003" y="543.375" type="curve" smooth="yes"/>
-      <point x="396.40000000000003" y="568.7"/>
+      <point x="381.4" y="543.375" type="curve" smooth="yes"/>
+      <point x="396.4" y="568.7"/>
       <point x="403.725" y="596.35"/>
       <point x="403.725" y="627.0" type="curve" smooth="yes"/>
       <point x="403.725" y="683.975"/>
-      <point x="373.40000000000003" y="734.95"/>
+      <point x="373.4" y="734.95"/>
       <point x="324.75" y="763.275" type="curve" smooth="yes"/>
       <point x="300.425" y="776.925"/>
-      <point x="272.77500000000003" y="783.925"/>
+      <point x="272.775" y="783.925"/>
       <point x="243.125" y="783.925" type="curve" smooth="yes"/>
-      <point x="179.47500000000002" y="783.925"/>
-      <point x="126.17500000000001" y="753.275"/>
+      <point x="179.475" y="783.925"/>
+      <point x="126.175" y="753.275"/>
       <point x="97.2" y="704.3" type="curve" smooth="yes"/>
       <point x="82.2" y="678.975"/>
       <point x="74.875" y="651.325"/>
@@ -29,18 +29,18 @@ degree
       <point x="74.875" y="563.7"/>
       <point x="104.2" y="512.4"/>
       <point x="153.175" y="484.4" type="curve" smooth="yes"/>
-      <point x="176.82500000000002" y="470.075"/>
+      <point x="176.825" y="470.075"/>
       <point x="204.15" y="463.075"/>
     </contour>
     <contour>
       <point x="237.125" y="527.275" type="curve" smooth="yes"/>
-      <point x="187.10000000000002" y="527.275"/>
+      <point x="187.1" y="527.275"/>
       <point x="148.75" y="569.975"/>
       <point x="148.75" y="622.0" type="curve" smooth="yes"/>
       <point x="148.75" y="677.375"/>
       <point x="187.425" y="719.725"/>
       <point x="240.8" y="719.725" type="curve" smooth="yes"/>
-      <point x="291.15000000000003" y="719.725"/>
+      <point x="291.15" y="719.725"/>
       <point x="329.85" y="677.025"/>
       <point x="329.85" y="625.675" type="curve" smooth="yes"/>
       <point x="329.85" y="570.975"/>
@@ -60,7 +60,7 @@ PUSHB[ ]	/* 2 values pushed */
 6 0 
 WCVTP[ ]	/* WriteCVTInPixels */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:16</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

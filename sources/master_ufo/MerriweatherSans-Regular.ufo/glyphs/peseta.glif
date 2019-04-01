@@ -1,58 +1,58 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="peseta" format="2">
-  <advance width="669.0"/>
+  <advance width="681.97778"/>
   <unicode hex="20A7"/>
   <outline>
     <contour>
-      <point x="95.0" y="0.0" type="line"/>
-      <point x="208.0" y="0.0" type="line"/>
-      <point x="208.0" y="255.0" type="line"/>
-      <point x="228.0" y="254.0"/>
-      <point x="257.0" y="252.0"/>
-      <point x="305.0" y="252.0" type="curve" smooth="yes"/>
-      <point x="466.0" y="252.0"/>
-      <point x="562.0" y="323.0"/>
-      <point x="584.0" y="448.0" type="curve"/>
-      <point x="669.0" y="448.0" type="line"/>
-      <point x="669.0" y="520.0" type="line"/>
-      <point x="589.0" y="520.0" type="line"/>
-      <point x="585.0" y="683.0"/>
-      <point x="486.0" y="751.0"/>
-      <point x="329.0" y="751.0" type="curve" smooth="yes"/>
-      <point x="262.0" y="751.0"/>
-      <point x="205.0" y="743.0"/>
-      <point x="148.0" y="743.0" type="curve" smooth="yes"/>
-      <point x="95.0" y="743.0" type="line"/>
-      <point x="95.0" y="520.0" type="line"/>
-      <point x="6.0" y="520.0" type="line"/>
-      <point x="6.0" y="448.0" type="line"/>
-      <point x="95.0" y="448.0" type="line"/>
+      <point x="95.178" y="0.0" type="line"/>
+      <point x="219.911" y="0.0" type="line"/>
+      <point x="219.911" y="249.667" type="line"/>
+      <point x="239.733" y="248.844"/>
+      <point x="267.667" y="247.022"/>
+      <point x="315.667" y="247.022" type="curve" smooth="yes"/>
+      <point x="480.222" y="247.022"/>
+      <point x="577.467" y="319.267"/>
+      <point x="598.756" y="448.0" type="curve"/>
+      <point x="681.267" y="448.0" type="line"/>
+      <point x="681.267" y="520.0" type="line"/>
+      <point x="603.044" y="520.0" type="line"/>
+      <point x="597.978" y="684.244"/>
+      <point x="497.733" y="751.0"/>
+      <point x="338.244" y="751.0" type="curve" smooth="yes"/>
+      <point x="269.289" y="751.0"/>
+      <point x="210.333" y="743.0"/>
+      <point x="153.867" y="743.0" type="curve" smooth="yes"/>
+      <point x="95.178" y="743.0" type="line"/>
+      <point x="95.178" y="520.0" type="line"/>
+      <point x="7.778" y="520.0" type="line"/>
+      <point x="7.778" y="448.0" type="line"/>
+      <point x="95.178" y="448.0" type="line"/>
     </contour>
     <contour>
-      <point x="208.0" y="520.0" type="line"/>
-      <point x="208.0" y="661.0" type="line"/>
-      <point x="236.0" y="667.0"/>
-      <point x="267.0" y="669.0"/>
-      <point x="297.0" y="670.0" type="curve" smooth="yes"/>
-      <point x="410.0" y="673.0"/>
-      <point x="473.0" y="628.0"/>
-      <point x="477.0" y="520.0" type="curve"/>
+      <point x="219.911" y="520.0" type="line"/>
+      <point x="219.911" y="654.422" type="line"/>
+      <point x="247.556" y="659.889"/>
+      <point x="278.733" y="661.889"/>
+      <point x="308.378" y="662.889" type="curve" smooth="yes"/>
+      <point x="416.044" y="665.533"/>
+      <point x="475.311" y="621.244"/>
+      <point x="480.022" y="520.0" type="curve"/>
     </contour>
     <contour>
-      <point x="208.0" y="341.0" type="curve"/>
-      <point x="208.0" y="448.0" type="line"/>
-      <point x="471.0" y="448.0" type="line"/>
-      <point x="450.0" y="356.0"/>
-      <point x="377.0" y="336.0"/>
-      <point x="299.0" y="336.0" type="curve" smooth="yes"/>
-      <point x="270.0" y="336.0"/>
-      <point x="241.0" y="336.0"/>
+      <point x="219.911" y="342.778" type="curve"/>
+      <point x="219.911" y="448.0" type="line"/>
+      <point x="474.911" y="448.0" type="line"/>
+      <point x="455.156" y="359.378"/>
+      <point x="386.6" y="337.956"/>
+      <point x="310.911" y="337.956" type="curve" smooth="yes"/>
+      <point x="279.6" y="337.956"/>
+      <point x="251.667" y="338.133"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/01/21 06:08:13</string>
+      <string>2019/02/18 20:30:01</string>
       <key>com.schriftgestaltung.Glyphs.nodeUserData.0.16</key>
       <dict>
         <key>name</key>

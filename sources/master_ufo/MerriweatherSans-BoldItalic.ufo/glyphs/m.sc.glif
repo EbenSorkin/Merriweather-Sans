@@ -1,68 +1,40 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="m.sc" format="2">
-  <advance width="899.0"/>
+  <advance width="918.69231"/>
   <note>
 M
 </note>
-  <anchor x="413.0" y="0.0" name="bottom"/>
-  <anchor x="499.0" y="651.0" name="top"/>
+  <anchor x="422.846" y="0.0" name="bottom"/>
+  <anchor x="508.846" y="650.179" name="top"/>
   <outline>
     <contour>
-      <point x="348.0" y="-8.0" type="line"/>
-      <point x="483.0" y="-1.0" type="line"/>
-      <point x="682.0" y="473.0" type="line"/>
-      <point x="727.0" y="582.0" type="line"/>
-      <point x="716.0" y="469.0" type="line"/>
-      <point x="688.0" y="0.0" type="line"/>
-      <point x="825.0" y="0.0" type="line"/>
-      <point x="829.0" y="646.0" type="line"/>
-      <point x="630.0" y="646.0" type="line"/>
-      <point x="456.0" y="202.0" type="line"/>
-      <point x="435.0" y="111.0" type="line"/>
-      <point x="429.0" y="202.0" type="line"/>
-      <point x="374.0" y="646.0" type="line"/>
-      <point x="181.0" y="646.0" type="line"/>
-      <point x="1.0" y="0.0" type="line"/>
-      <point x="136.0" y="0.0" type="line"/>
-      <point x="245.0" y="470.0" type="line"/>
-      <point x="268.0" y="582.0" type="line"/>
-      <point x="277.0" y="471.0" type="line"/>
+      <point x="346.769" y="-8.0" type="line"/>
+      <point x="506.795" y="-1.0" type="line"/>
+      <point x="705.795" y="479.974" type="line"/>
+      <point x="744.641" y="578.718" type="line"/>
+      <point x="733.231" y="480.897" type="line"/>
+      <point x="701.538" y="0.0" type="line"/>
+      <point x="853.718" y="0.0" type="line"/>
+      <point x="856.487" y="646.0" type="line"/>
+      <point x="634.513" y="646.0" type="line"/>
+      <point x="467.487" y="202.821" type="line"/>
+      <point x="446.897" y="106.487" type="line"/>
+      <point x="441.718" y="202.821" type="line"/>
+      <point x="395.744" y="646.0" type="line"/>
+      <point x="176.897" y="646.0" type="line"/>
+      <point x="-6.795" y="0.0" type="line"/>
+      <point x="142.974" y="0.0" type="line"/>
+      <point x="252.385" y="480.667" type="line"/>
+      <point x="274.564" y="578.718" type="line"/>
+      <point x="280.282" y="480.436" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>RMXScaler</key>
-      <dict>
-        <key>adjustSpace</key>
-        <integer>2</integer>
-        <key>height</key>
-        <integer>87</integer>
-        <key>weight</key>
-        <integer>2</integer>
-        <key>width</key>
-        <integer>96</integer>
-      </dict>
-      <key>assembly</key>
-      <string>NPUSHB[ ]	/* 11 values pushed */
-14 13 9 8 2 1 6 1 0 1 74 
-MPPEM[ ]	/* MeasurePixelPerEm */
-PUSHB[ ]	/* 1 value pushed */
-45 
-LT[ ]	/* LessThan */
-IF[ ]	/* If */
-NPUSHB[ ]	/* 15 values pushed */
-5 4 2 0 0 17 75 3 2 2 1 1 18 1 76 
-ELSE[ ]	/* Else */
-NPUSHB[ ]	/* 19 values pushed */
-5 4 2 0 0 17 75 3 1 1 1 18 75 0 2 2 18 2 76 
-EIF[ ]	/* EndIf */
-NPUSHB[ ]	/* 13 values pushed */
-0 0 0 18 0 18 20 20 17 20 6 7 24 
-CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:50:34</string>
+      <string>2019/02/18 20:31:10</string>
       <key>public.markColor</key>
       <string>0,0.67,0.91,1</string>
     </dict>

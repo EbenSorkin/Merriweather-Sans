@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="aeacute" format="2">
-  <advance width="808.0500000000001"/>
+  <advance width="808.05"/>
   <unicode hex="01FD"/>
   <note>
 aeacute
 </note>
-  <anchor x="367.52500000000003" y="0.0" name="bottom"/>
-  <anchor x="392.45000000000005" y="724.725" name="top"/>
+  <anchor x="367.525" y="0.0" name="bottom"/>
+  <anchor x="392.175" y="724.725" name="top"/>
   <outline>
     <component base="ae"/>
-    <component base="acutecomb" xOffset="384.27500000000003"/>
+    <component base="acutecomb" xOffset="384.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:02</string>
+      <string>2019/02/18 20:31:35</string>
     </dict>
   </lib>
 </glyph>

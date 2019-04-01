@@ -1,87 +1,61 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="peseta" format="2">
-  <advance width="722.0"/>
+  <advance width="735.975"/>
   <unicode hex="20A7"/>
   <note>
 peseta
 </note>
   <outline>
     <contour>
-      <point x="104.0" y="0.0" type="line"/>
-      <point x="204.0" y="0.0" type="line"/>
-      <point x="236.0" y="257.0" type="line"/>
-      <point x="253.0" y="254.0"/>
-      <point x="286.0" y="253.0"/>
-      <point x="334.0" y="253.0" type="curve" smooth="yes"/>
-      <point x="479.0" y="253.0"/>
-      <point x="592.0" y="330.0"/>
-      <point x="625.0" y="467.0" type="curve"/>
-      <point x="730.0" y="467.0" type="line"/>
-      <point x="740.0" y="539.0" type="line"/>
-      <point x="635.0" y="539.0" type="line"/>
-      <point x="651.0" y="668.0"/>
-      <point x="560.0" y="755.0"/>
-      <point x="412.0" y="755.0" type="curve" smooth="yes"/>
-      <point x="372.0" y="755.0"/>
-      <point x="288.0" y="747.0"/>
-      <point x="256.0" y="747.0" type="curve" smooth="yes"/>
-      <point x="198.0" y="747.0" type="line"/>
-      <point x="172.0" y="539.0" type="line"/>
-      <point x="75.0" y="539.0" type="line"/>
-      <point x="65.0" y="467.0" type="line"/>
-      <point x="163.0" y="467.0" type="line"/>
+      <point x="101.725" y="0.0" type="line"/>
+      <point x="215.7" y="0.0" type="line"/>
+      <point x="247.375" y="251.475" type="line"/>
+      <point x="269.575" y="248.8"/>
+      <point x="302.25" y="247.8"/>
+      <point x="344.075" y="247.8" type="curve" smooth="yes"/>
+      <point x="492.975" y="247.8"/>
+      <point x="608.9" y="323.825"/>
+      <point x="642.225" y="463.75" type="curve"/>
+      <point x="743.325" y="463.75" type="line"/>
+      <point x="753.325" y="535.75" type="line"/>
+      <point x="652.55" y="535.75" type="line"/>
+      <point x="670.175" y="670.275"/>
+      <point x="577.55" y="754.35"/>
+      <point x="424.35" y="754.35" type="curve" smooth="yes"/>
+      <point x="379.15" y="754.35"/>
+      <point x="298.725" y="746.35"/>
+      <point x="260.225" y="746.35" type="curve" smooth="yes"/>
+      <point x="197.675" y="746.35" type="line"/>
+      <point x="170.375" y="535.75" type="line"/>
+      <point x="76.625" y="535.75" type="line"/>
+      <point x="66.625" y="463.75" type="line"/>
+      <point x="161.375" y="463.75" type="line"/>
     </contour>
     <contour>
-      <point x="333.0" y="331.0" type="curve" smooth="yes"/>
-      <point x="306.0" y="331.0"/>
-      <point x="263.0" y="334.0"/>
-      <point x="246.0" y="337.0" type="curve"/>
-      <point x="262.0" y="467.0" type="line"/>
-      <point x="524.0" y="467.0" type="line"/>
-      <point x="500.0" y="376.0"/>
-      <point x="438.0" y="331.0"/>
+      <point x="346.975" y="333.6" type="curve" smooth="yes"/>
+      <point x="316.725" y="333.6"/>
+      <point x="277.95" y="336.275"/>
+      <point x="259.0" y="339.6" type="curve"/>
+      <point x="274.675" y="463.75" type="line"/>
+      <point x="528.55" y="463.75" type="line"/>
+      <point x="504.875" y="376.975"/>
+      <point x="445.475" y="333.925"/>
     </contour>
     <contour>
-      <point x="271.0" y="539.0" type="line"/>
-      <point x="288.0" y="670.0" type="line"/>
-      <point x="316.0" y="677.0"/>
-      <point x="368.0" y="681.0"/>
-      <point x="395.0" y="681.0" type="curve" smooth="yes"/>
-      <point x="499.0" y="681.0"/>
-      <point x="537.0" y="638.0"/>
-      <point x="534.0" y="539.0" type="curve"/>
+      <point x="283.675" y="535.75" type="line"/>
+      <point x="300.35" y="661.875" type="line"/>
+      <point x="328.025" y="667.9"/>
+      <point x="377.1" y="671.9"/>
+      <point x="404.1" y="671.9" type="curve" smooth="yes"/>
+      <point x="503.55" y="671.9"/>
+      <point x="540.9" y="630.525"/>
+      <point x="538.875" y="535.75" type="curve"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>assembly</key>
-      <string>PUSHB[ ]	/* 5 values pushed */
-12 1 6 1 73 
-MPPEM[ ]	/* MeasurePixelPerEm */
-PUSHB[ ]	/* 1 value pushed */
-28 
-LT[ ]	/* LessThan */
-IF[ ]	/* If */
-NPUSHB[ ]	/* 39 values pushed */
-0 9 0 3 4 9 3 99 0 7 7 0 91 1 1 0 0 17 75 10 5 2 2 2 6 89 8 11 2 6 6 20 75 0 4 4 18 4 76 
-ELSE[ ]	/* Else */
-MPPEM[ ]	/* MeasurePixelPerEm */
-PUSHB[ ]	/* 1 value pushed */
-31 
-LT[ ]	/* LessThan */
-IF[ ]	/* If */
-NPUSHB[ ]	/* 37 values pushed */
-8 11 2 6 10 5 2 2 9 6 2 98 0 9 0 3 4 9 3 99 0 7 7 0 91 1 1 0 0 17 75 0 4 4 18 4 76 
-ELSE[ ]	/* Else */
-NPUSHB[ ]	/* 41 values pushed */
-8 11 2 6 10 5 2 2 9 6 2 98 0 9 0 3 4 9 3 99 0 0 0 17 75 0 7 7 1 91 0 1 1 25 75 0 4 4 18 4 76 
-EIF[ ]	/* EndIf */
-EIF[ ]	/* EndIf */
-NPUSHB[ ]	/* 23 values pushed */
-0 0 40 39 37 35 32 31 28 26 0 25 0 25 17 18 35 22 34 33 12 7 26 
-CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:16</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

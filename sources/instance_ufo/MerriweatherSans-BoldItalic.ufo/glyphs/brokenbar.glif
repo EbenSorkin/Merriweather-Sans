@@ -7,16 +7,16 @@ brokenbar
 </note>
   <outline>
     <contour>
-      <point x="161.30769230769232" y="442.8717948717949" type="line"/>
-      <point x="273.5128205128205" y="442.8717948717949" type="line"/>
-      <point x="273.5128205128205" y="869.0" type="line"/>
-      <point x="161.30769230769232" y="869.0" type="line"/>
+      <point x="161.308" y="442.87200000000007" type="line"/>
+      <point x="273.513" y="442.87200000000007" type="line"/>
+      <point x="273.513" y="869.0" type="line"/>
+      <point x="161.308" y="869.0" type="line"/>
     </contour>
     <contour>
-      <point x="161.30769230769232" y="-91.0" type="line"/>
-      <point x="273.5128205128205" y="-91.0" type="line"/>
-      <point x="273.5128205128205" y="335.1282051282051" type="line"/>
-      <point x="161.30769230769232" y="335.1282051282051" type="line"/>
+      <point x="161.308" y="-91.0" type="line"/>
+      <point x="273.513" y="-91.0" type="line"/>
+      <point x="273.513" y="335.12799999999993" type="line"/>
+      <point x="161.308" y="335.12799999999993" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -26,7 +26,7 @@ brokenbar
 4 1 1 0 0 3 1 0 97 5 1 3 2 2 3 85 5 1 3 3 2 89 0 2 3 2 77 4 4 0 0 4 7 4 7 6 5 0 3 0 3 17 6 7 21 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:16</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

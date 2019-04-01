@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Dz" format="2">
-  <advance width="1237.0"/>
+  <advance width="1248.0"/>
   <unicode hex="01F2"/>
-  <anchor x="619.0" y="743.0" name="top"/>
-  <anchor x="360.0" y="0.0" name="bottom_1"/>
-  <anchor x="978.0" y="0.0" name="bottom_2"/>
-  <anchor x="320.0" y="-83.0" name="btm_1"/>
-  <anchor x="978.0" y="-83.0" name="btm_2"/>
-  <anchor x="360.0" y="372.0" name="center_1"/>
-  <anchor x="978.0" y="279.0" name="center_2"/>
+  <anchor x="624.511" y="743.0" name="top"/>
+  <anchor x="363.556" y="0.0" name="bottom_1"/>
+  <anchor x="987.133" y="0.0" name="bottom_2"/>
+  <anchor x="323.733" y="-83.0" name="btm_1"/>
+  <anchor x="987.133" y="-83.0" name="btm_2"/>
+  <anchor x="363.556" y="372.0" name="center_1"/>
+  <anchor x="987.133" y="279.0" name="center_2"/>
   <outline>
     <component base="D"/>
-    <component base="z" xOffset="719.0"/>
+    <component base="z" xOffset="726.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/16 05:39:16</string>
+      <string>2019/02/18 20:30:31</string>
     </dict>
   </lib>
 </glyph>

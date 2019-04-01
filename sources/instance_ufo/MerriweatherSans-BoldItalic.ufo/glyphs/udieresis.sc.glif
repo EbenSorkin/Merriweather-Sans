@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="udieresis.sc" format="2">
-  <advance width="672.3846153846154"/>
-  <anchor x="299.6923076923077" y="0.0" name="bottom"/>
-  <anchor x="448.8205128205128" y="8.589743589743591" name="ogonek"/>
-  <anchor x="423.56410256410254" y="861.1282051282051" name="top"/>
-  <anchor x="700.3846153846154" y="650.1794871794872" name="topright"/>
+  <advance width="672.0"/>
+  <anchor x="299.692" y="0.0" name="bottom"/>
+  <anchor x="448.821" y="8.59" name="ogonek"/>
+  <anchor x="423.641" y="860.949" name="top"/>
+  <anchor x="700.385" y="650.179" name="topright"/>
   <outline>
     <component base="u.sc"/>
-    <component base="dieresiscomb" xOffset="358.9230769230769" yOffset="93.17948717948718"/>
+    <component base="dieresiscomb" xOffset="359.0" yOffset="93.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 17:15:44</string>
+      <string>2019/02/18 20:31:35</string>
     </dict>
   </lib>
 </glyph>

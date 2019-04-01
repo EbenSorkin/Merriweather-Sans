@@ -10,13 +10,13 @@ g
   <outline>
     <contour>
       <point x="190.325" y="-247.3" type="curve" smooth="yes"/>
-      <point x="267.52500000000003" y="-247.3"/>
+      <point x="267.525" y="-247.3"/>
       <point x="344.45" y="-223.65"/>
       <point x="399.075" y="-162.025" type="curve" smooth="yes"/>
       <point x="426.05" y="-131.05"/>
       <point x="443.375" y="-90.75"/>
-      <point x="450.70000000000005" y="-40.12499999999999" type="curve" smooth="yes"/>
-      <point x="533.0500000000001" y="564.0" type="line"/>
+      <point x="450.7" y="-40.125" type="curve" smooth="yes"/>
+      <point x="533.05" y="564.0" type="line"/>
       <point x="471.2" y="547.025" type="line"/>
       <point x="436.2" y="556.675"/>
       <point x="392.55" y="564.0"/>
@@ -32,22 +32,22 @@ g
       <point x="191.3" y="-8.0" type="curve" smooth="yes"/>
       <point x="262.625" y="-8.0"/>
       <point x="324.325" y="38.95"/>
-      <point x="366.025" y="97.55000000000001" type="curve"/>
+      <point x="366.025" y="97.55" type="curve"/>
       <point x="341.05" y="-47.0" type="line" smooth="yes"/>
       <point x="325.375" y="-128.4"/>
       <point x="289.0" y="-170.1"/>
       <point x="211.6" y="-170.1" type="curve" smooth="yes"/>
       <point x="164.275" y="-170.1"/>
       <point x="113.025" y="-156.5"/>
-      <point x="83.325" y="-141.17499999999998" type="curve"/>
+      <point x="83.325" y="-141.175" type="curve"/>
       <point x="59.325" y="-229.325" type="line"/>
       <point x="79.325" y="-237.65"/>
       <point x="147.0" y="-247.3"/>
     </contour>
     <contour>
-      <point x="215.45000000000002" y="73.47500000000001" type="curve" smooth="yes"/>
-      <point x="165.62500000000003" y="73.47500000000001"/>
-      <point x="150.0" y="137.42499999999998"/>
+      <point x="215.45" y="73.475" type="curve" smooth="yes"/>
+      <point x="165.625" y="73.475"/>
+      <point x="150.0" y="137.425"/>
       <point x="150.0" y="214.35" type="curve" smooth="yes"/>
       <point x="150.0" y="297.35"/>
       <point x="179.375" y="389.725"/>
@@ -58,9 +58,9 @@ g
       <point x="369.275" y="489.8"/>
       <point x="392.0" y="486.45"/>
       <point x="412.725" y="479.425" type="curve"/>
-      <point x="373.975" y="203.25000000000003" type="line"/>
-      <point x="334.925" y="135.35000000000002"/>
-      <point x="273.85" y="73.47500000000001"/>
+      <point x="373.975" y="203.25" type="line"/>
+      <point x="334.925" y="135.35"/>
+      <point x="273.85" y="73.475"/>
     </contour>
   </outline>
   <lib>
@@ -70,7 +70,7 @@ g
 29 1 4 3 16 1 5 4 9 1 1 2 8 1 0 1 4 74 0 4 4 3 91 0 3 3 28 75 0 5 5 2 91 0 2 2 26 75 0 1 1 0 91 0 0 0 22 0 76 37 37 37 37 37 36 6 7 26 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:02</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

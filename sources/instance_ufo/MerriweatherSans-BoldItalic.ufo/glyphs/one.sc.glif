@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="one.sc" format="2">
-  <advance width="445.53846153846155"/>
+  <advance width="445.53846"/>
   <outline>
     <contour>
-      <point x="114.97435897435898" y="0.0" type="line"/>
-      <point x="268.9230769230769" y="0.0" type="line"/>
-      <point x="374.6923076923077" y="734.5897435897435" type="line"/>
-      <point x="279.974358974359" y="747.0" type="line"/>
-      <point x="278.974358974359" y="747.0" type="line"/>
-      <point x="226.97435897435898" y="711.0"/>
-      <point x="143.97435897435898" y="664.0"/>
-      <point x="75.97435897435898" y="648.0" type="curve"/>
-      <point x="93.2051282051282" y="560.8461538461538" type="line"/>
-      <point x="135.6153846153846" y="567.8461538461538"/>
-      <point x="160.74358974358975" y="570.2051282051282"/>
-      <point x="198.74358974358975" y="582.2051282051282" type="curve"/>
+      <point x="114.974" y="0.0" type="line"/>
+      <point x="268.923" y="0.0" type="line"/>
+      <point x="374.692" y="734.59" type="line"/>
+      <point x="279.974" y="747.0" type="line"/>
+      <point x="278.974" y="747.0" type="line"/>
+      <point x="226.974" y="711.0"/>
+      <point x="143.974" y="664.0"/>
+      <point x="75.974" y="648.0" type="curve"/>
+      <point x="93.205" y="560.846" type="line"/>
+      <point x="135.615" y="567.846"/>
+      <point x="160.744" y="570.205"/>
+      <point x="198.744" y="582.205" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -22,7 +22,7 @@
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:03</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

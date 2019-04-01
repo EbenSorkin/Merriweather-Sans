@@ -8,9 +8,9 @@ Oslash
   <anchor x="399.0" y="747.0" name="top"/>
   <outline>
     <contour>
-      <point x="77.82500000000002" y="-64.0" type="line"/>
-      <point x="148.57500000000002" y="42.77499999999999" type="line"/>
-      <point x="188.25" y="9.024999999999999"/>
+      <point x="77.825" y="-64.0" type="line"/>
+      <point x="148.575" y="42.775" type="line"/>
+      <point x="188.25" y="9.025"/>
       <point x="236.6" y="-7.675"/>
       <point x="293.625" y="-7.675" type="curve" smooth="yes"/>
       <point x="430.25" y="-7.675"/>
@@ -29,20 +29,20 @@ Oslash
       <point x="449.65" y="755.0"/>
       <point x="397.65" y="755.0" type="curve" smooth="yes"/>
       <point x="265.4" y="755.0"/>
-      <point x="154.42499999999998" y="670.7"/>
+      <point x="154.425" y="670.7"/>
       <point x="94.425" y="534.075" type="curve" smooth="yes"/>
       <point x="64.425" y="465.425"/>
       <point x="49.425" y="389.1"/>
       <point x="49.425" y="305.775" type="curve" smooth="yes"/>
-      <point x="49.425" y="216.14999999999998"/>
+      <point x="49.425" y="216.15"/>
       <point x="71.375" y="135.5"/>
-      <point x="114.275" y="79.14999999999999" type="curve"/>
-      <point x="34.50000000000001" y="-41.0" type="line"/>
+      <point x="114.275" y="79.15" type="curve"/>
+      <point x="34.5" y="-41.0" type="line"/>
     </contour>
     <contour>
-      <point x="309.3" y="75.42500000000001" type="curve" smooth="yes"/>
-      <point x="264.55" y="75.42500000000001"/>
-      <point x="230.82500000000002" y="90.80000000000001"/>
+      <point x="309.3" y="75.425" type="curve" smooth="yes"/>
+      <point x="264.55" y="75.425"/>
+      <point x="230.825" y="90.8"/>
       <point x="208.125" y="121.9" type="curve"/>
       <point x="503.45" y="591.2" type="line"/>
       <point x="520.5" y="551.45"/>
@@ -50,15 +50,15 @@ Oslash
       <point x="529.2" y="426.85" type="curve" smooth="yes"/>
       <point x="529.2" y="303.425"/>
       <point x="489.825" y="188.75"/>
-      <point x="423.75" y="124.42500000000001" type="curve" smooth="yes"/>
-      <point x="390.05" y="91.42500000000001"/>
-      <point x="352.35" y="75.42500000000001"/>
+      <point x="423.75" y="124.425" type="curve" smooth="yes"/>
+      <point x="390.05" y="91.425"/>
+      <point x="352.35" y="75.425"/>
     </contour>
     <contour>
       <point x="181.8" y="172.575" type="line"/>
       <point x="168.775" y="210.975"/>
       <point x="162.425" y="260.725"/>
-      <point x="162.425" y="320.47499999999997" type="curve" smooth="yes"/>
+      <point x="162.425" y="320.475" type="curve" smooth="yes"/>
       <point x="162.425" y="438.875"/>
       <point x="202.15" y="554.575"/>
       <point x="268.55" y="620.225" type="curve" smooth="yes"/>
@@ -77,7 +77,7 @@ Oslash
 21 1 2 1 40 39 31 30 24 12 9 7 3 2 2 74 23 22 2 1 72 11 10 2 0 71 4 1 2 2 1 91 0 1 1 25 75 5 1 3 3 0 91 0 0 0 26 0 76 34 34 25 25 34 42 34 41 25 33 25 32 43 37 6 7 22 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:02</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

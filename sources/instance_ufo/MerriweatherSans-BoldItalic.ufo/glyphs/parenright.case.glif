@@ -6,20 +6,20 @@ parenright
 </note>
   <outline>
     <contour>
-      <point x="62.076923076923066" y="-169.9230769230769" type="line"/>
-      <point x="226.3076923076923" y="-69.64102564102564"/>
-      <point x="363.2564102564103" y="208.74358974358975"/>
-      <point x="363.2564102564103" y="432.2307692307692" type="curve" smooth="yes"/>
-      <point x="363.2564102564103" y="604.1794871794872"/>
-      <point x="305.2564102564103" y="770.8205128205128"/>
-      <point x="191.6153846153846" y="864.2820512820513" type="curve"/>
-      <point x="107.05128205128204" y="818.1794871794872" type="line"/>
-      <point x="179.4871794871795" y="729.7692307692307"/>
-      <point x="227.5897435897436" y="591.6666666666666"/>
-      <point x="227.5897435897436" y="436.64102564102564" type="curve" smooth="yes"/>
-      <point x="227.5897435897436" y="219.74358974358975"/>
-      <point x="146.1025641025641" y="30.666666666666657"/>
-      <point x="-11.94871794871795" y="-120.76923076923077" type="curve"/>
+      <point x="62.077" y="-169.923" type="line"/>
+      <point x="226.308" y="-69.641"/>
+      <point x="363.256" y="208.744"/>
+      <point x="363.256" y="432.231" type="curve" smooth="yes"/>
+      <point x="363.256" y="604.179"/>
+      <point x="305.256" y="770.821"/>
+      <point x="191.615" y="864.282" type="curve"/>
+      <point x="107.051" y="818.179" type="line"/>
+      <point x="179.487" y="729.769"/>
+      <point x="227.59" y="591.667"/>
+      <point x="227.59" y="436.641" type="curve" smooth="yes"/>
+      <point x="227.59" y="219.744"/>
+      <point x="146.103" y="30.667"/>
+      <point x="-11.949" y="-120.769" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -29,7 +29,7 @@ parenright
 15 3 1 48 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 19:32:34</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

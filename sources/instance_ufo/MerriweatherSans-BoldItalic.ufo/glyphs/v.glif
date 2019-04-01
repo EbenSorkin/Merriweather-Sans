@@ -1,34 +1,34 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="v" format="2">
-  <advance width="537.1282051282051"/>
+  <advance width="537.12821"/>
   <unicode hex="0076"/>
   <note>
 v
 </note>
-  <anchor x="231.56410256410257" y="0.0" name="bottom"/>
-  <anchor x="305.56410256410254" y="557.0" name="top"/>
+  <anchor x="231.564" y="0.0" name="bottom"/>
+  <anchor x="305.564" y="557.0" name="top"/>
   <outline>
     <contour>
-      <point x="124.94871794871796" y="-9.410256410256409" type="line"/>
-      <point x="246.2051282051282" y="-3.41025641025641" type="line"/>
-      <point x="425.9230769230769" y="164.94871794871796"/>
-      <point x="520.9487179487179" y="326.84615384615387"/>
-      <point x="524.4871794871794" y="482.53846153846155" type="curve" smooth="yes"/>
-      <point x="524.4871794871794" y="528.1538461538462"/>
-      <point x="521.4358974358975" y="549.7692307692307"/>
-      <point x="520.2564102564103" y="557.0" type="curve"/>
-      <point x="380.8974358974359" y="557.0" type="line"/>
-      <point x="380.8974358974359" y="518.2564102564103"/>
-      <point x="373.3076923076923" y="440.8974358974359"/>
-      <point x="365.71794871794873" y="404.3076923076923" type="curve" smooth="yes"/>
-      <point x="349.5897435897436" y="312.0"/>
-      <point x="318.7692307692308" y="238.6153846153846"/>
-      <point x="273.87179487179486" y="167.0" type="curve" smooth="yes"/>
-      <point x="236.3076923076923" y="117.30769230769229" type="line"/>
-      <point x="229.89743589743588" y="215.48717948717947" type="line"/>
-      <point x="199.30769230769232" y="557.0" type="line"/>
-      <point x="46.769230769230774" y="557.0" type="line"/>
-      <point x="97.94871794871796" y="173.5897435897436" type="line"/>
+      <point x="124.949" y="-9.41" type="line"/>
+      <point x="246.205" y="-3.41" type="line"/>
+      <point x="425.923" y="164.949"/>
+      <point x="520.949" y="326.846"/>
+      <point x="524.487" y="482.538" type="curve" smooth="yes"/>
+      <point x="524.487" y="528.154"/>
+      <point x="521.436" y="549.769"/>
+      <point x="520.256" y="557.0" type="curve"/>
+      <point x="380.897" y="557.0" type="line"/>
+      <point x="380.897" y="518.256"/>
+      <point x="373.308" y="440.897"/>
+      <point x="365.718" y="404.308" type="curve" smooth="yes"/>
+      <point x="349.59" y="312.0"/>
+      <point x="318.769" y="238.615"/>
+      <point x="273.872" y="167.0" type="curve" smooth="yes"/>
+      <point x="236.308" y="117.308" type="line"/>
+      <point x="229.897" y="215.487" type="line"/>
+      <point x="199.308" y="557.0" type="line"/>
+      <point x="46.769" y="557.0" type="line"/>
+      <point x="97.949" y="173.59" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -38,7 +38,7 @@ v
 23 14 11 3 4 0 71 0 0 0 20 0 76 16 1 7 21 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:03</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

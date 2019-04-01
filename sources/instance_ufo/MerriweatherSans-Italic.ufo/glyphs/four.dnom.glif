@@ -8,19 +8,19 @@
       <point x="365.8" y="112.325" type="line"/>
       <point x="456.6" y="112.325" type="line"/>
       <point x="467.9" y="196.5" type="line"/>
-      <point x="376.77500000000003" y="191.5" type="line"/>
-      <point x="397.45" y="359.77500000000003" type="line"/>
-      <point x="298.325" y="346.77500000000003" type="line"/>
+      <point x="376.775" y="191.5" type="line"/>
+      <point x="397.45" y="359.775" type="line"/>
+      <point x="298.325" y="346.775" type="line"/>
       <point x="277.0" y="188.5" type="line"/>
-      <point x="121.47500000000001" y="181.82500000000002" type="line"/>
+      <point x="121.475" y="181.825" type="line"/>
       <point x="154.125" y="220.8" type="line"/>
       <point x="368.6" y="534.95" type="line"/>
       <point x="330.425" y="560.0" type="line"/>
       <point x="243.7" y="560.0" type="line"/>
       <point x="164.85" y="415.5"/>
       <point x="82.85" y="272.35"/>
-      <point x="8.074999999999996" y="163.20000000000002" type="curve"/>
-      <point x="31.650000000000002" y="112.325" type="line"/>
+      <point x="8.075" y="163.2" type="curve"/>
+      <point x="31.65" y="112.325" type="line"/>
       <point x="266.7" y="112.325" type="line"/>
     </contour>
   </outline>
@@ -36,7 +36,7 @@
         <integer>80</integer>
       </dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:03</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

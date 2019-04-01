@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Rdotbelow" format="2">
-  <advance width="645.3846153846154"/>
+  <advance width="645.0"/>
   <unicode hex="1E5A"/>
-  <anchor x="259.6923076923077" y="-199.0" name="bottom"/>
-  <anchor x="361.1025641025641" y="747.0" name="top"/>
+  <anchor x="260.0" y="-199.0" name="bottom"/>
+  <anchor x="361.103" y="747.0" name="top"/>
   <outline>
     <component base="R"/>
-    <component base="dotbelowcomb.case" xOffset="285.6923076923077"/>
+    <component base="dotbelowcomb.case" xOffset="286.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:02</string>
+      <string>2019/02/18 20:31:35</string>
     </dict>
   </lib>
 </glyph>

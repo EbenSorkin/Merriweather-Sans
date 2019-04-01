@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Adieresis" format="2">
-  <advance width="618.0"/>
+  <advance width="624.0"/>
   <unicode hex="00C4"/>
   <note>
 Adieresis
 </note>
-  <anchor x="272.0" y="0.0" name="bottom"/>
-  <anchor x="575.0" y="0.0" name="ogonek"/>
-  <anchor x="397.0" y="946.0" name="top"/>
+  <anchor x="275.25" y="0.0" name="bottom"/>
+  <anchor x="582.8" y="0.0" name="ogonek"/>
+  <anchor x="400.65" y="951.875" name="top"/>
   <outline>
     <component base="A"/>
-    <component base="dieresiscomb.case" xOffset="309.0"/>
+    <component base="dieresiscomb.case" xOffset="312.0" yOffset="1.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:02</string>
+      <string>2019/02/18 20:31:35</string>
     </dict>
   </lib>
 </glyph>

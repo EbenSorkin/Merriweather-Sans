@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="idotless" format="2">
-  <advance width="312.7948717948718"/>
+  <advance width="312.79487"/>
   <unicode hex="0131"/>
   <note>
 dotlessi
 </note>
-  <anchor x="119.6923076923077" y="0.0" name="bottom"/>
-  <anchor x="211.07692307692307" y="10.0" name="ogonek"/>
-  <anchor x="193.69230769230768" y="557.0" name="top"/>
+  <anchor x="119.692" y="0.0" name="bottom"/>
+  <anchor x="211.077" y="10.0" name="ogonek"/>
+  <anchor x="193.692" y="557.0" name="top"/>
   <outline>
     <contour>
-      <point x="45.48717948717949" y="0.0" type="line"/>
-      <point x="196.48717948717947" y="0.0" type="line"/>
-      <point x="273.3076923076923" y="557.0" type="line"/>
-      <point x="121.48717948717949" y="557.0" type="line"/>
+      <point x="45.487" y="0.0" type="line"/>
+      <point x="196.487" y="0.0" type="line"/>
+      <point x="273.308" y="557.0" type="line"/>
+      <point x="121.487" y="557.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -23,7 +23,7 @@ dotlessi
 2 1 1 1 20 75 0 0 0 18 0 76 0 0 0 3 0 3 17 3 7 21 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 17:12:09</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

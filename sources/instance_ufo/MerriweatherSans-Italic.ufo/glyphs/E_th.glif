@@ -10,7 +10,7 @@ Eth
   <anchor x="399.95" y="747.975" name="top"/>
   <outline>
     <contour>
-      <point x="394.52500000000003" y="421.85" type="line"/>
+      <point x="394.525" y="421.85" type="line"/>
       <point x="27.675" y="421.85" type="line"/>
       <point x="20.025" y="349.1" type="line"/>
       <point x="385.875" y="349.1" type="line"/>
@@ -39,7 +39,7 @@ CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>D</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:02</string>
+      <string>2019/02/18 20:31:10</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

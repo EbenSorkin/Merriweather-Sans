@@ -9,13 +9,13 @@
       <point x="83.0" y="559.35" type="line"/>
       <point x="66.325" y="468.25" type="line"/>
       <point x="420.725" y="469.925" type="line"/>
-      <point x="144.825" y="-121.39999999999999" type="line"/>
+      <point x="144.825" y="-121.4" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:03</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

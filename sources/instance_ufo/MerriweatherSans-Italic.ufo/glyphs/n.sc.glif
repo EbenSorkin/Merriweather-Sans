@@ -8,18 +8,18 @@ N
   <anchor x="383.925" y="651.0" name="top"/>
   <outline>
     <contour>
-      <point x="46.77499999999999" y="0.0" type="line"/>
-      <point x="150.45000000000002" y="0.0" type="line"/>
+      <point x="46.775" y="0.0" type="line"/>
+      <point x="150.45" y="0.0" type="line"/>
       <point x="202.8" y="396.375" type="line"/>
       <point x="210.525" y="518.75" type="line"/>
-      <point x="242.10000000000002" y="413.17499999999995" type="line"/>
+      <point x="242.1" y="413.175" type="line"/>
       <point x="449.0" y="0.0" type="line"/>
       <point x="550.775" y="0.0" type="line"/>
-      <point x="635.0500000000001" y="646.0" type="line"/>
+      <point x="635.05" y="646.0" type="line"/>
       <point x="530.375" y="646.0" type="line"/>
-      <point x="481.0" y="249.85000000000002" type="line"/>
-      <point x="474.65" y="141.87500000000003" type="line"/>
-      <point x="441.35" y="239.10000000000002" type="line"/>
+      <point x="481.0" y="249.85" type="line"/>
+      <point x="474.65" y="141.875" type="line"/>
+      <point x="441.35" y="239.1" type="line"/>
       <point x="239.5" y="646.0" type="line"/>
       <point x="131.05" y="646.0" type="line"/>
     </contour>
@@ -48,7 +48,7 @@ CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>h.sc</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:50:34</string>
+      <string>2019/02/18 20:31:10</string>
       <key>public.markColor</key>
       <string>0,0.67,0.91,1</string>
     </dict>

@@ -14,11 +14,11 @@ dotaccent
       <point x="164.875" y="776.575"/>
       <point x="137.6" y="801.525"/>
       <point x="100.65" y="801.525" type="curve" smooth="yes"/>
-      <point x="60.074999999999996" y="801.525"/>
-      <point x="24.449999999999992" y="765.225"/>
-      <point x="24.449999999999992" y="724.975" type="curve" smooth="yes"/>
-      <point x="24.449999999999992" y="692.025"/>
-      <point x="53.074999999999996" y="665.4"/>
+      <point x="60.075" y="801.525"/>
+      <point x="24.45" y="765.225"/>
+      <point x="24.45" y="724.975" type="curve" smooth="yes"/>
+      <point x="24.45" y="692.025"/>
+      <point x="53.075" y="665.4"/>
     </contour>
   </outline>
   <lib>
@@ -34,7 +34,7 @@ PUSHB[ ]	/* 2 values pushed */
 6 0 
 WCVTP[ ]	/* WriteCVTInPixels */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:12</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

@@ -7,19 +7,19 @@ Lslash
 </note>
   <outline>
     <contour>
-      <point x="51.724999999999994" y="0.0" type="line"/>
+      <point x="51.725" y="0.0" type="line"/>
       <point x="432.55" y="0.0" type="line"/>
-      <point x="445.175" y="92.42500000000001" type="line"/>
-      <point x="172.70000000000002" y="89.775" type="line"/>
+      <point x="445.175" y="92.425" type="line"/>
+      <point x="172.7" y="89.775" type="line"/>
       <point x="202.375" y="319.975" type="line"/>
       <point x="408.975" y="404.35" type="line"/>
       <point x="390.35" y="471.55" type="line"/>
-      <point x="212.35000000000002" y="397.15000000000003" type="line"/>
+      <point x="212.35" y="397.15" type="line"/>
       <point x="257.35" y="747.325" type="line"/>
       <point x="148.0" y="747.325" type="line"/>
       <point x="96.35" y="349.575" type="line"/>
-      <point x="-23.374999999999996" y="299.175" type="line"/>
-      <point x="-3.7499999999999947" y="236.65" type="line"/>
+      <point x="-23.375" y="299.175" type="line"/>
+      <point x="-3.75" y="236.65" type="line"/>
       <point x="86.375" y="273.725" type="line"/>
     </contour>
   </outline>
@@ -30,7 +30,7 @@ Lslash
 10 9 4 3 4 2 1 1 74 0 1 1 17 75 3 1 2 2 0 89 0 0 0 18 0 76 0 0 0 13 0 13 21 17 4 7 22 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:02</string>
+      <string>2019/02/18 20:31:10</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

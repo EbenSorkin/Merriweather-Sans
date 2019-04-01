@@ -10,18 +10,18 @@ N
   <outline>
     <contour>
       <point x="50.75" y="0.0" type="line"/>
-      <point x="153.10000000000002" y="0.0" type="line"/>
+      <point x="153.1" y="0.0" type="line"/>
       <point x="214.125" y="479.025" type="line"/>
-      <point x="224.85000000000002" y="622.4" type="line"/>
+      <point x="224.85" y="622.4" type="line"/>
       <point x="254.425" y="505.825" type="line"/>
       <point x="467.975" y="0.0" type="line"/>
-      <point x="570.4250000000001" y="0.0" type="line"/>
+      <point x="570.425" y="0.0" type="line"/>
       <point x="666.375" y="747.0" type="line"/>
       <point x="562.35" y="747.0" type="line"/>
-      <point x="504.3" y="267.20000000000005" type="line"/>
+      <point x="504.3" y="267.2" type="line"/>
       <point x="495.95" y="144.55" type="line"/>
-      <point x="463.65" y="250.12500000000003" type="line"/>
-      <point x="256.15000000000003" y="747.0" type="line"/>
+      <point x="463.65" y="250.125" type="line"/>
+      <point x="256.15" y="747.0" type="line"/>
       <point x="147.025" y="747.0" type="line"/>
     </contour>
   </outline>
@@ -32,7 +32,7 @@ N
 9 2 2 1 0 1 74 4 3 2 0 0 17 75 2 1 1 1 18 1 76 0 0 0 13 0 13 20 17 20 5 7 23 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:02</string>
+      <string>2019/02/18 20:31:10</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

@@ -5,51 +5,41 @@
 tilde
 </note>
   <anchor x="37.0" y="557.0" name="_top"/>
-  <anchor x="58.0" y="746.0" name="top"/>
+  <anchor x="58.975" y="744.375" name="top"/>
   <outline>
     <contour>
-      <point x="125.0" y="635.0" type="curve" smooth="yes"/>
-      <point x="175.0" y="635.0"/>
-      <point x="214.0" y="675.0"/>
-      <point x="231.0" y="725.0" type="curve"/>
-      <point x="193.0" y="768.0" type="line"/>
-      <point x="173.0" y="728.0"/>
-      <point x="154.0" y="714.0"/>
-      <point x="129.0" y="714.0" type="curve" smooth="yes"/>
-      <point x="114.0" y="714.0"/>
-      <point x="101.0" y="720.0"/>
-      <point x="83.0" y="739.0" type="curve" smooth="yes"/>
-      <point x="58.0" y="766.0"/>
-      <point x="25.0" y="783.0"/>
-      <point x="-7.0" y="783.0" type="curve" smooth="yes"/>
-      <point x="-51.0" y="783.0"/>
-      <point x="-96.0" y="742.0"/>
-      <point x="-116.0" y="700.0" type="curve"/>
-      <point x="-77.0" y="659.0" type="line"/>
-      <point x="-57.0" y="694.0"/>
-      <point x="-40.0" y="704.0"/>
-      <point x="-17.0" y="704.0" type="curve" smooth="yes"/>
-      <point x="2.0" y="704.0"/>
-      <point x="16.0" y="694.0"/>
-      <point x="34.0" y="674.0" type="curve" smooth="yes"/>
-      <point x="55.0" y="650.0"/>
-      <point x="89.0" y="635.0"/>
+      <point x="126.3" y="632.075" type="curve" smooth="yes"/>
+      <point x="175.325" y="632.075"/>
+      <point x="218.55" y="674.675"/>
+      <point x="234.575" y="724.025" type="curve"/>
+      <point x="194.95" y="771.575" type="line"/>
+      <point x="177.875" y="738.725"/>
+      <point x="157.9" y="717.9"/>
+      <point x="129.65" y="717.9" type="curve" smooth="yes"/>
+      <point x="114.0" y="717.9"/>
+      <point x="101.325" y="724.875"/>
+      <point x="83.325" y="744.2" type="curve" smooth="yes"/>
+      <point x="59.625" y="769.9"/>
+      <point x="25.975" y="787.55"/>
+      <point x="-5.05" y="787.55" type="curve" smooth="yes"/>
+      <point x="-49.7" y="787.55"/>
+      <point x="-98.275" y="745.25"/>
+      <point x="-117.95" y="702.6" type="curve"/>
+      <point x="-77.975" y="657.375" type="line"/>
+      <point x="-57.975" y="688.475"/>
+      <point x="-40.975" y="702.05"/>
+      <point x="-16.675" y="702.05" type="curve" smooth="yes"/>
+      <point x="3.3" y="702.05"/>
+      <point x="16.325" y="692.05"/>
+      <point x="35.3" y="672.05" type="curve" smooth="yes"/>
+      <point x="56.95" y="648.7"/>
+      <point x="89.65" y="632.075"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>assembly</key>
-      <string>PUSHB[ ]	/* 2 values pushed */
-6 100 
-WCVTP[ ]	/* WriteCVTInPixels */
-NPUSHB[ ]	/* 43 values pushed */
-14 13 2 1 0 30 29 2 2 3 2 74 0 1 3 2 1 87 0 0 0 3 2 0 3 99 0 1 1 2 91 0 2 1 2 79 37 39 36 34 4 7 24 
-CALL[ ]	/* CallFunction */
-PUSHB[ ]	/* 2 values pushed */
-6 0 
-WCVTP[ ]	/* WriteCVTInPixels */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:12</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

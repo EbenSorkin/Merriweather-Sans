@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="seven.dnom" format="2">
-  <advance width="449.26666666666665"/>
+  <advance width="449.26667"/>
   <outline>
     <contour>
-      <point x="105.46666666666667" y="0.0" type="curve"/>
-      <point x="221.39999999999998" y="0.0" type="line"/>
-      <point x="424.26666666666665" y="507.7111111111111" type="line"/>
-      <point x="400.55555555555554" y="544.8888888888889" type="line"/>
-      <point x="25.0" y="544.8888888888889" type="line"/>
+      <point x="105.467" y="0.0" type="curve"/>
+      <point x="221.4" y="0.0" type="line"/>
+      <point x="424.267" y="507.711" type="line"/>
+      <point x="400.556" y="544.889" type="line"/>
+      <point x="25.0" y="544.889" type="line"/>
       <point x="25.0" y="453.6" type="line"/>
-      <point x="310.26666666666665" y="453.4222222222222" type="line"/>
-      <point x="267.75555555555553" y="363.93333333333334"/>
-      <point x="168.66666666666669" y="120.8666666666667"/>
+      <point x="310.267" y="453.422" type="line"/>
+      <point x="267.756" y="363.933"/>
+      <point x="168.667" y="120.867"/>
     </contour>
   </outline>
   <lib>
@@ -32,7 +32,7 @@
         <integer>78</integer>
       </dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 16:57:32</string>
+      <string>2019/02/18 20:30:01</string>
     </dict>
   </lib>
 </glyph>

@@ -1,52 +1,41 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="eng.sc" format="2">
-  <advance width="748.0"/>
+  <advance width="751.02222"/>
   <outline>
     <contour>
-      <point x="200.0" y="0.0" type="line"/>
-      <point x="200.0" y="371.0" type="line"/>
-      <point x="190.0" y="575.0" type="line"/>
-      <point x="146.0" y="575.0" type="line"/>
-      <point x="251.0" y="396.0" type="line"/>
-      <point x="540.0" y="15.0" type="line"/>
-      <point x="540.0" y="-44.0"/>
-      <point x="440.0" y="-109.0"/>
-      <point x="361.0" y="-130.0" type="curve"/>
-      <point x="387.0" y="-178.0" type="line"/>
-      <point x="487.0" y="-170.0"/>
-      <point x="618.0" y="-100.0"/>
-      <point x="644.0" y="6.0" type="curve" smooth="yes"/>
-      <point x="658.0" y="65.0"/>
-      <point x="656.0" y="118.0"/>
-      <point x="656.0" y="208.0" type="curve" smooth="yes"/>
-      <point x="656.0" y="646.0" type="line"/>
-      <point x="548.0" y="646.0" type="line"/>
-      <point x="548.0" y="266.0" type="line"/>
-      <point x="561.0" y="80.0" type="line"/>
-      <point x="597.0" y="80.0" type="line"/>
-      <point x="504.0" y="235.0" type="line"/>
-      <point x="194.0" y="646.0" type="line"/>
-      <point x="92.0" y="646.0" type="line"/>
-      <point x="93.0" y="0.0" type="line"/>
+      <point x="207.289" y="0.0" type="line"/>
+      <point x="207.289" y="355.711" type="line"/>
+      <point x="193.378" y="571.8" type="line"/>
+      <point x="150.089" y="571.8" type="line"/>
+      <point x="255.267" y="387.644" type="line"/>
+      <point x="535.911" y="13.222" type="line"/>
+      <point x="535.911" y="-46.489"/>
+      <point x="437.867" y="-110.422"/>
+      <point x="358.689" y="-131.422" type="curve"/>
+      <point x="386.111" y="-181.378" type="line"/>
+      <point x="491.444" y="-174.8"/>
+      <point x="620.311" y="-104.444"/>
+      <point x="646.844" y="-2.178" type="curve" smooth="yes"/>
+      <point x="661.733" y="56.467"/>
+      <point x="659.556" y="108.4"/>
+      <point x="659.556" y="196.089" type="curve" smooth="yes"/>
+      <point x="659.556" y="646.0" type="line"/>
+      <point x="543.733" y="646.0" type="line"/>
+      <point x="543.733" y="282.178" type="line"/>
+      <point x="558.689" y="86.578" type="line"/>
+      <point x="593.089" y="86.578" type="line"/>
+      <point x="501.333" y="244.422" type="line"/>
+      <point x="202.178" y="646.0" type="line"/>
+      <point x="91.289" y="646.0" type="line"/>
+      <point x="92.289" y="0.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>RMXScaler</key>
-      <dict>
-        <key>adjustSpace</key>
-        <integer>2</integer>
-        <key>height</key>
-        <integer>87</integer>
-        <key>weight</key>
-        <integer>1</integer>
-        <key>width</key>
-        <integer>96</integer>
-      </dict>
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:08:59</string>
+      <string>2019/02/18 20:30:01</string>
       <key>public.markColor</key>
       <string>0.98,0.36,0.67,1</string>
     </dict>

@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Idieresis" format="2">
-  <advance width="283.0"/>
+  <advance width="293.075"/>
   <unicode hex="00CF"/>
   <note>
 Idieresis
 </note>
-  <anchor x="105.0" y="0.0" name="bottom"/>
-  <anchor x="220.0" y="10.0" name="ogonek"/>
-  <anchor x="232.0" y="946.0" name="top"/>
-  <anchor x="82.0" y="747.0" name="topleft"/>
+  <anchor x="109.875" y="0.0" name="bottom"/>
+  <anchor x="229.1" y="10.0" name="ogonek"/>
+  <anchor x="238.65" y="950.875" name="top"/>
+  <anchor x="82.0" y="747.975" name="topleft"/>
   <outline>
     <component base="I"/>
-    <component base="dieresiscomb.case" xOffset="144.0"/>
+    <component base="dieresiscomb.case" xOffset="150.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:02</string>
+      <string>2019/02/18 20:31:35</string>
     </dict>
   </lib>
 </glyph>

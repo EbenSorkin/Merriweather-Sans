@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ordfeminine" format="2">
-  <advance width="425.77500000000003"/>
+  <advance width="425.775"/>
   <unicode hex="00AA"/>
   <note>
 ordfeminine
@@ -9,7 +9,7 @@ ordfeminine
     <contour>
       <point x="164.625" y="361.7" type="curve" smooth="yes"/>
       <point x="217.625" y="361.7"/>
-      <point x="257.90000000000003" y="387.025"/>
+      <point x="257.9" y="387.025"/>
       <point x="290.85" y="425.0" type="curve"/>
       <point x="282.1" y="361.7" type="line"/>
       <point x="368.0" y="361.7" type="line"/>
@@ -29,21 +29,21 @@ ordfeminine
     </contour>
     <contour>
       <point x="202.525" y="424.55" type="curve" smooth="yes"/>
-      <point x="157.45000000000002" y="424.55"/>
+      <point x="157.45" y="424.55"/>
       <point x="140.75" y="453.95"/>
       <point x="140.75" y="513.05" type="curve" smooth="yes"/>
       <point x="140.75" y="573.775"/>
-      <point x="165.10000000000002" y="643.1"/>
+      <point x="165.1" y="643.1"/>
       <point x="209.775" y="685.425" type="curve" smooth="yes"/>
-      <point x="232.45000000000002" y="706.425"/>
-      <point x="258.77500000000003" y="716.75"/>
+      <point x="232.45" y="706.425"/>
+      <point x="258.775" y="716.75"/>
       <point x="289.1" y="716.75" type="curve" smooth="yes"/>
       <point x="304.125" y="716.75"/>
       <point x="320.175" y="711.05"/>
-      <point x="332.52500000000003" y="701.675" type="curve"/>
+      <point x="332.525" y="701.675" type="curve"/>
       <point x="293.875" y="482.175" type="line"/>
       <point x="258.8" y="445.5"/>
-      <point x="226.82500000000002" y="424.55"/>
+      <point x="226.825" y="424.55"/>
     </contour>
   </outline>
   <lib>
@@ -53,7 +53,7 @@ ordfeminine
 22 17 12 1 2 48 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:03</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

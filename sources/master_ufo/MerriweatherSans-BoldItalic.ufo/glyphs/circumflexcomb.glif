@@ -9,28 +9,18 @@ circumflex
   <outline>
     <contour>
       <point x="-85.0" y="632.0" type="line"/>
-      <point x="62.0" y="741.0" type="line"/>
-      <point x="158.0" y="634.0" type="line"/>
-      <point x="218.0" y="667.0" type="line"/>
-      <point x="120.0" y="850.0" type="line"/>
-      <point x="33.0" y="850.0" type="line"/>
-      <point x="-137.0" y="667.0" type="line"/>
+      <point x="59.949" y="734.846" type="line"/>
+      <point x="152.667" y="633.179" type="line"/>
+      <point x="219.231" y="666.179" type="line"/>
+      <point x="118.769" y="848.769" type="line"/>
+      <point x="31.359" y="848.769" type="line"/>
+      <point x="-143.154" y="666.179" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>assembly</key>
-      <string>PUSHB[ ]	/* 2 values pushed */
-6 100 
-WCVTP[ ]	/* WriteCVTInPixels */
-NPUSHB[ ]	/* 16 values pushed */
-6 5 4 3 2 5 0 71 0 0 0 105 16 1 7 21 
-CALL[ ]	/* CallFunction */
-PUSHB[ ]	/* 2 values pushed */
-6 0 
-WCVTP[ ]	/* WriteCVTInPixels */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:12</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

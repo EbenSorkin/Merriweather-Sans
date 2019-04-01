@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <designspace format="4.0">
   <axes>
-    <axis tag="wght" name="Weight" minimum="300" maximum="900" default="375.757576">
+    <axis tag="wght" name="Weight" minimum="300" maximum="900" default="400">
       <map input="300" output="82"/>
       <map input="400" output="115"/>
       <map input="700" output="152"/>
@@ -25,7 +25,7 @@
       <features copy="1"/>
       <info copy="1"/>
       <location>
-        <dimension name="Weight" xvalue="107"/>
+        <dimension name="Weight" xvalue="115"/>
       </location>
     </source>
     <source filename="MerriweatherSans-Light.ufo" name="Merriweather Sans Light" familyname="Merriweather Sans" stylename="Light">

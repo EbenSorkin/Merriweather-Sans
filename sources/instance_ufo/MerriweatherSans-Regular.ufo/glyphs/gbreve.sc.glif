@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gbreve.sc" format="2">
-  <advance width="683.6222222222223"/>
-  <anchor x="342.31111111111113" y="0.0" name="bottom"/>
-  <anchor x="380.7111111111111" y="-72.0" name="btm"/>
-  <anchor x="378.77777777777777" y="1044.8222222222223" name="top"/>
+  <advance width="684.0"/>
+  <anchor x="342.311" y="0.0" name="bottom"/>
+  <anchor x="380.711" y="-72.0" name="btm"/>
+  <anchor x="379.0" y="1045.0" name="top"/>
   <outline>
     <component base="g.sc"/>
-    <component base="brevecomb" xOffset="378.77777777777777" yOffset="61.82222222222222"/>
+    <component base="brevecomb" xOffset="379.0" yOffset="62.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:38:47</string>
+      <string>2019/02/18 20:30:31</string>
     </dict>
   </lib>
 </glyph>

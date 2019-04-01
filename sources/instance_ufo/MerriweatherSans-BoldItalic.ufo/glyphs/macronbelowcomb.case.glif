@@ -6,10 +6,10 @@ macron
   <anchor x="0.0" y="0.0" name="_bottom"/>
   <outline>
     <contour>
-      <point x="-160.56410256410257" y="-195.1025641025641" type="line"/>
-      <point x="115.1025641025641" y="-195.1025641025641" type="line"/>
-      <point x="121.74358974358974" y="-99.8974358974359" type="line"/>
-      <point x="-153.9230769230769" y="-99.8974358974359" type="line"/>
+      <point x="-160.564" y="-195.103" type="line"/>
+      <point x="115.103" y="-195.103" type="line"/>
+      <point x="121.744" y="-99.897" type="line"/>
+      <point x="-153.923" y="-99.897" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -25,7 +25,7 @@ PUSHB[ ]	/* 2 values pushed */
 6 0 
 WCVTP[ ]	/* WriteCVTInPixels */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:12</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dlinebelow" format="2">
-  <advance width="576.1"/>
+  <advance width="576.0"/>
   <unicode hex="1E0F"/>
   <anchor x="251.55" y="0.0" name="bottom"/>
   <anchor x="288.55" y="279.0" name="center"/>
@@ -8,12 +8,12 @@
   <anchor x="593.1" y="557.0" name="topright"/>
   <outline>
     <component base="d"/>
-    <component base="macronbelowcomb" xOffset="251.55"/>
+    <component base="macronbelowcomb" xOffset="252.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:02</string>
+      <string>2019/02/18 20:31:35</string>
     </dict>
   </lib>
 </glyph>

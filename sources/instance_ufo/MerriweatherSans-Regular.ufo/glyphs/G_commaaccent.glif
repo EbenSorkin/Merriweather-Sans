@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Gcommaaccent" format="2">
-  <advance width="705.1555555555556"/>
+  <advance width="705.0"/>
   <unicode hex="0122"/>
-  <anchor x="352.6666666666667" y="-273.0" name="bottom"/>
-  <anchor x="394.06666666666666" y="-83.0" name="btm"/>
-  <anchor x="397.02222222222224" y="830.1777777777778" name="top"/>
+  <anchor x="353.022" y="-273.0" name="bottom"/>
+  <anchor x="394.067" y="-83.0" name="btm"/>
+  <anchor x="397.022" y="830.178" name="top"/>
   <outline>
     <component base="G"/>
-    <component base="commaaccentcomb.case" xOffset="267.64444444444445"/>
+    <component base="commaaccentcomb.case" xOffset="268.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/16 05:40:25</string>
+      <string>2019/02/18 20:30:31</string>
     </dict>
   </lib>
 </glyph>

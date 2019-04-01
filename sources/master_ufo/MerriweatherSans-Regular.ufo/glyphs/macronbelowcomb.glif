@@ -3,19 +3,19 @@
   <unicode hex="0331"/>
   <anchor x="0.0" y="0.0" name="_bottom"/>
   <anchor x="0.0" y="-83.0" name="_btm"/>
-  <anchor x="0.0" y="-157.0" name="bottom"/>
+  <anchor x="0.0" y="-160.733" name="bottom"/>
   <outline>
     <contour>
-      <point x="-134.0" y="-157.0" type="line"/>
-      <point x="134.0" y="-157.0" type="line"/>
-      <point x="134.0" y="-78.0" type="line"/>
-      <point x="-134.0" y="-78.0" type="line"/>
+      <point x="-135.778" y="-160.733" type="line"/>
+      <point x="135.778" y="-160.733" type="line"/>
+      <point x="135.778" y="-77.822" type="line"/>
+      <point x="-135.778" y="-77.822" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/16 05:39:16</string>
+      <string>2019/02/18 20:30:01</string>
     </dict>
   </lib>
 </glyph>

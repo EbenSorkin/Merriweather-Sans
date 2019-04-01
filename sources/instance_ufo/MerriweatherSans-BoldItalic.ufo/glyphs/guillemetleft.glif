@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="guillemetleft" format="2">
-  <advance width="957.8974358974359"/>
+  <advance width="957.89744"/>
   <unicode hex="00AB"/>
   <note>
 guillemotleft
 </note>
   <outline>
-    <component base="guilsinglleft" xOffset="1.1794871794871806"/>
-    <component base="guilsinglleft" xOffset="376.3076923076923"/>
+    <component base="guilsinglleft" xOffset="1.1790000000000003"/>
+    <component base="guilsinglleft" xOffset="376.308"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:03</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="kgreenlandic.sc" format="2">
-  <advance width="656.8666666666667"/>
-  <anchor x="328.84444444444443" y="0.0" name="bottom"/>
-  <anchor x="328.84444444444443" y="646.0" name="top"/>
-  <anchor x="334.26666666666665" y="-72.0" name="btm"/>
+  <advance width="657.0"/>
+  <anchor x="328.844" y="0.0" name="bottom"/>
+  <anchor x="328.844" y="646.0" name="top"/>
+  <anchor x="334.267" y="-72.0" name="btm"/>
   <outline>
     <component base="k.sc"/>
   </outline>
@@ -12,7 +12,7 @@
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/16 05:39:16</string>
+      <string>2019/02/18 20:30:31</string>
     </dict>
   </lib>
 </glyph>

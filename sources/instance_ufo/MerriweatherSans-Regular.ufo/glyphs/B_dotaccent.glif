@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Bdotaccent" format="2">
-  <advance width="661.1111111111111"/>
+  <advance width="661.0"/>
   <unicode hex="1E02"/>
-  <anchor x="330.55555555555554" y="0.0" name="bottom"/>
+  <anchor x="330.556" y="0.0" name="bottom"/>
   <anchor x="355.0" y="-83.0" name="btm"/>
-  <anchor x="326.0888888888889" y="1027.9555555555555" name="top"/>
+  <anchor x="326.0" y="1028.333" name="top"/>
   <outline>
     <component base="B"/>
-    <component base="dotaccentcomb.case" xOffset="326.0888888888889" yOffset="16.62222222222223"/>
+    <component base="dotaccentcomb.case" xOffset="326.0" yOffset="17.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 06:18:10</string>
+      <string>2019/02/18 20:30:31</string>
     </dict>
   </lib>
 </glyph>

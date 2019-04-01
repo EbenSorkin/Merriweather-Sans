@@ -1,39 +1,39 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="kip" format="2">
-  <advance width="669.0"/>
+  <advance width="675.4"/>
   <unicode hex="20AD"/>
   <outline>
     <contour>
-      <point x="27.0" y="337.0" type="line"/>
-      <point x="541.0" y="337.0" type="line"/>
-      <point x="541.0" y="420.0" type="line"/>
-      <point x="27.0" y="420.0" type="line"/>
+      <point x="27.533" y="336.467" type="line"/>
+      <point x="555.044" y="336.467" type="line"/>
+      <point x="555.044" y="422.489" type="line"/>
+      <point x="27.533" y="422.489" type="line"/>
     </contour>
     <contour>
-      <point x="96.0" y="0.0" type="line"/>
-      <point x="204.0" y="0.0" type="line"/>
-      <point x="204.0" y="360.0" type="line"/>
-      <point x="184.0" y="269.0" type="line"/>
-      <point x="274.0" y="347.0" type="line"/>
-      <point x="283.0" y="358.0" type="line"/>
-      <point x="632.0" y="743.0" type="line"/>
-      <point x="498.0" y="743.0" type="line"/>
-      <point x="204.0" y="416.0" type="line"/>
-      <point x="204.0" y="743.0" type="line"/>
-      <point x="96.0" y="743.0" type="line"/>
+      <point x="95.289" y="0.0" type="line"/>
+      <point x="211.644" y="0.0" type="line"/>
+      <point x="211.644" y="360.0" type="line"/>
+      <point x="191.289" y="257.444" type="line"/>
+      <point x="280.578" y="338.111" type="line"/>
+      <point x="293.667" y="351.956" type="line"/>
+      <point x="640.356" y="743.0" type="line"/>
+      <point x="499.778" y="743.0" type="line"/>
+      <point x="211.644" y="416.0" type="line"/>
+      <point x="211.644" y="743.0" type="line"/>
+      <point x="95.289" y="743.0" type="line"/>
     </contour>
     <contour>
       <point x="510.0" y="0.0" type="line"/>
-      <point x="645.0" y="0.0" type="line"/>
-      <point x="283.0" y="434.0" type="line"/>
+      <point x="652.822" y="0.0" type="line"/>
+      <point x="293.667" y="440.044" type="line"/>
       <point x="233.0" y="375.0" type="line"/>
-      <point x="204.0" y="360.0" type="line"/>
+      <point x="211.644" y="360.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 17:24:34</string>
+      <string>2019/02/18 20:30:01</string>
     </dict>
   </lib>
 </glyph>

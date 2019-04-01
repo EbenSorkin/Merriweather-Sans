@@ -7,20 +7,20 @@ hungarumlaut.cap
   <anchor x="87.0" y="939.0" name="top"/>
   <outline>
     <contour>
-      <point x="-95.64102564102564" y="761.5897435897435" type="line"/>
-      <point x="-44.230769230769226" y="779.1794871794872"/>
-      <point x="54.12820512820513" y="871.7692307692307"/>
-      <point x="74.53846153846153" y="915.7692307692307" type="curve"/>
-      <point x="-8.794871794871796" y="981.2307692307693" type="line"/>
-      <point x="-151.5128205128205" y="800.0512820512821" type="line"/>
+      <point x="-95.641" y="761.59" type="line"/>
+      <point x="-44.231" y="779.179"/>
+      <point x="54.128" y="871.769"/>
+      <point x="74.538" y="915.769" type="curve"/>
+      <point x="-8.795000000000002" y="981.231" type="line"/>
+      <point x="-151.513" y="800.051" type="line"/>
     </contour>
     <contour>
-      <point x="130.3846153846154" y="761.5897435897435" type="line"/>
-      <point x="183.7948717948718" y="779.1794871794872"/>
-      <point x="274.7435897435897" y="863.1025641025641"/>
-      <point x="303.9230769230769" y="914.7692307692307" type="curve"/>
-      <point x="222.4102564102564" y="981.2307692307693" type="line"/>
-      <point x="79.28205128205128" y="800.0512820512821" type="line"/>
+      <point x="130.385" y="761.59" type="line"/>
+      <point x="183.795" y="779.179"/>
+      <point x="274.744" y="863.103"/>
+      <point x="303.923" y="914.769" type="curve"/>
+      <point x="222.41" y="981.231" type="line"/>
+      <point x="79.282" y="800.051" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -30,7 +30,7 @@ hungarumlaut.cap
 11 7 5 0 2 48 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:12</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

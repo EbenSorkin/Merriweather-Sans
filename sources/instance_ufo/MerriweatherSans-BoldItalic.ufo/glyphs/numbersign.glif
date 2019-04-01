@@ -7,40 +7,40 @@ numbersign
 </note>
   <outline>
     <contour>
-      <point x="116.8974358974359" y="0.0" type="line"/>
-      <point x="223.1025641025641" y="0.0" type="line"/>
-      <point x="252.69230769230768" y="162.8974358974359" type="line"/>
-      <point x="377.4871794871795" y="162.8974358974359" type="line"/>
-      <point x="353.3076923076923" y="0.0" type="line"/>
-      <point x="459.1025641025641" y="0.0" type="line"/>
-      <point x="485.6923076923077" y="162.8974358974359" type="line"/>
-      <point x="588.5897435897435" y="162.8974358974359" type="line"/>
-      <point x="596.8205128205128" y="259.7435897435897" type="line"/>
-      <point x="499.9230769230769" y="259.7435897435897" type="line"/>
-      <point x="526.6923076923077" y="422.0769230769231" type="line"/>
-      <point x="632.1794871794872" y="422.0769230769231" type="line"/>
-      <point x="639.8205128205128" y="516.5128205128206" type="line"/>
-      <point x="540.5128205128206" y="516.5128205128206" type="line"/>
-      <point x="564.6923076923077" y="663.0" type="line"/>
-      <point x="456.3076923076923" y="663.0" type="line"/>
-      <point x="431.3076923076923" y="516.5128205128206" type="line"/>
-      <point x="306.5128205128205" y="516.5128205128206" type="line"/>
-      <point x="329.6923076923077" y="663.0" type="line"/>
-      <point x="221.8974358974359" y="663.0" type="line"/>
-      <point x="197.71794871794873" y="516.5128205128206" type="line"/>
-      <point x="98.41025641025641" y="516.5128205128206" type="line"/>
-      <point x="90.58974358974359" y="422.0769230769231" type="line"/>
-      <point x="184.4871794871795" y="422.0769230769231" type="line"/>
-      <point x="157.71794871794873" y="259.7435897435897" type="line"/>
-      <point x="61.82051282051282" y="259.7435897435897" type="line"/>
-      <point x="53.58974358974359" y="162.8974358974359" type="line"/>
-      <point x="143.8974358974359" y="162.8974358974359" type="line"/>
+      <point x="116.897" y="0.0" type="line"/>
+      <point x="223.103" y="0.0" type="line"/>
+      <point x="252.692" y="162.897" type="line"/>
+      <point x="377.487" y="162.897" type="line"/>
+      <point x="353.308" y="0.0" type="line"/>
+      <point x="459.103" y="0.0" type="line"/>
+      <point x="485.692" y="162.897" type="line"/>
+      <point x="588.59" y="162.897" type="line"/>
+      <point x="596.821" y="259.744" type="line"/>
+      <point x="499.923" y="259.744" type="line"/>
+      <point x="526.692" y="422.077" type="line"/>
+      <point x="632.179" y="422.077" type="line"/>
+      <point x="639.821" y="516.513" type="line"/>
+      <point x="540.513" y="516.513" type="line"/>
+      <point x="564.692" y="663.0" type="line"/>
+      <point x="456.308" y="663.0" type="line"/>
+      <point x="431.308" y="516.513" type="line"/>
+      <point x="306.513" y="516.513" type="line"/>
+      <point x="329.692" y="663.0" type="line"/>
+      <point x="221.897" y="663.0" type="line"/>
+      <point x="197.718" y="516.513" type="line"/>
+      <point x="98.41" y="516.513" type="line"/>
+      <point x="90.59" y="422.077" type="line"/>
+      <point x="184.487" y="422.077" type="line"/>
+      <point x="157.718" y="259.744" type="line"/>
+      <point x="61.821" y="259.744" type="line"/>
+      <point x="53.59" y="162.897" type="line"/>
+      <point x="143.897" y="162.897" type="line"/>
     </contour>
     <contour>
-      <point x="266.5128205128205" y="259.7435897435897" type="line"/>
-      <point x="293.28205128205127" y="422.0769230769231" type="line"/>
-      <point x="417.4871794871795" y="422.0769230769231" type="line"/>
-      <point x="391.71794871794873" y="259.7435897435897" type="line"/>
+      <point x="266.513" y="259.744" type="line"/>
+      <point x="293.282" y="422.077" type="line"/>
+      <point x="417.487" y="422.077" type="line"/>
+      <point x="391.718" y="259.744" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -61,7 +61,7 @@ NPUSHB[ ]	/* 30 values pushed */
 0 0 31 30 29 28 0 27 0 27 26 25 24 23 22 21 20 19 17 17 17 17 17 17 17 17 17 17 7 29 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:03</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

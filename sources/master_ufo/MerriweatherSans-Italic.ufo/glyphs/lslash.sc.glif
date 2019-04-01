@@ -1,48 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="lslash.sc" format="2">
-  <advance width="467.0"/>
+  <advance width="474.8"/>
   <note>
 Lslash
 </note>
   <outline>
     <contour>
-      <point x="52.0" y="0.0" type="line"/>
-      <point x="414.0" y="0.0" type="line"/>
-      <point x="424.0" y="82.0" type="line"/>
-      <point x="159.0" y="79.0" type="line"/>
-      <point x="185.0" y="279.0" type="line"/>
-      <point x="380.0" y="352.0" type="line"/>
-      <point x="363.0" y="411.0" type="line"/>
-      <point x="193.0" y="347.0" type="line"/>
-      <point x="232.0" y="646.0" type="line"/>
-      <point x="134.0" y="646.0" type="line"/>
-      <point x="90.0" y="305.0" type="line"/>
-      <point x="-26.0" y="261.0" type="line"/>
-      <point x="-7.0" y="206.0" type="line"/>
-      <point x="82.0" y="238.0" type="line"/>
+      <point x="49.4" y="0.0" type="line"/>
+      <point x="418.225" y="0.0" type="line"/>
+      <point x="429.85" y="91.75" type="line"/>
+      <point x="170.7" y="88.425" type="line"/>
+      <point x="196.375" y="279.975" type="line"/>
+      <point x="394.3" y="351.025" type="line"/>
+      <point x="375.35" y="415.55" type="line"/>
+      <point x="205.35" y="354.15" type="line"/>
+      <point x="244.35" y="646.325" type="line"/>
+      <point x="133.675" y="646.325" type="line"/>
+      <point x="89.025" y="308.9" type="line"/>
+      <point x="-24.7" y="267.5" type="line"/>
+      <point x="-4.075" y="206.975" type="line"/>
+      <point x="80.05" y="235.725" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>RMXScaler</key>
-      <dict>
-        <key>adjustSpace</key>
-        <integer>2</integer>
-        <key>height</key>
-        <integer>87</integer>
-        <key>weight</key>
-        <integer>1</integer>
-        <key>width</key>
-        <integer>96</integer>
-      </dict>
-      <key>assembly</key>
-      <string>NPUSHB[ ]	/* 37 values pushed */
-10 9 4 3 4 2 1 1 74 0 1 1 17 75 3 1 2 2 0 90 0 0 0 18 0 76 0 0 0 13 0 13 21 17 4 7 22 
-CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:50:34</string>
+      <string>2019/02/18 20:31:10</string>
       <key>public.markColor</key>
       <string>0,0.67,0.91,1</string>
     </dict>

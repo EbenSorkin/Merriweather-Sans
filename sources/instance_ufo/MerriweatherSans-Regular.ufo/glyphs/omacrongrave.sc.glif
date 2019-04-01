@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="omacrongrave.sc" format="2">
-  <advance width="743.1333333333333"/>
-  <anchor x="372.06666666666666" y="0.0" name="bottom"/>
-  <anchor x="370.8888888888889" y="-72.0" name="btm"/>
-  <anchor x="372.06666666666666" y="323.0" name="center"/>
-  <anchor x="668.9555555555555" y="10.0" name="ogonek"/>
-  <anchor x="313.22222222222223" y="1073.5111111111112" name="top"/>
+  <advance width="743.0"/>
+  <anchor x="372.067" y="0.0" name="bottom"/>
+  <anchor x="370.889" y="-72.0" name="btm"/>
+  <anchor x="372.067" y="323.0" name="center"/>
+  <anchor x="668.956" y="10.0" name="ogonek"/>
+  <anchor x="313.222" y="1073.133" name="top"/>
   <anchor x="20.0" y="646.0" name="topleft"/>
-  <anchor x="723.1333333333333" y="646.0" name="topright"/>
+  <anchor x="723.133" y="646.0" name="topright"/>
   <outline>
     <component base="o.sc"/>
-    <component base="macroncomb" xOffset="382.0" yOffset="41.82222222222222"/>
-    <component base="gravecomb" xOffset="382.0" yOffset="200.37777777777777"/>
+    <component base="macroncomb" xOffset="382.0" yOffset="42.0"/>
+    <component base="gravecomb" xOffset="382.0" yOffset="200.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 05:55:18</string>
+      <string>2019/02/18 20:30:31</string>
     </dict>
   </lib>
 </glyph>

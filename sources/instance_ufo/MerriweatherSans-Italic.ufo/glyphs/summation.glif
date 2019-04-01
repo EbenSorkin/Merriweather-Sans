@@ -7,18 +7,18 @@ summation
 </note>
   <outline>
     <contour>
-      <point x="60.79999999999999" y="-83.0" type="line"/>
+      <point x="60.8" y="-83.0" type="line"/>
       <point x="582.575" y="-83.0" type="line"/>
-      <point x="594.875" y="2.100000000000012" type="line"/>
-      <point x="226.65000000000003" y="2.100000000000012" type="line"/>
+      <point x="594.875" y="2.1000000000000014" type="line"/>
+      <point x="226.65" y="2.1000000000000014" type="line"/>
       <point x="497.85" y="333.325" type="line"/>
-      <point x="312.02500000000003" y="657.225" type="line"/>
+      <point x="312.025" y="657.225" type="line"/>
       <point x="675.7" y="657.225" type="line"/>
       <point x="688.0" y="747.0" type="line"/>
       <point x="178.125" y="747.0" type="line"/>
-      <point x="158.79999999999998" y="708.0" type="line"/>
-      <point x="374.47499999999997" y="330.65" type="line"/>
-      <point x="51.79999999999999" y="-55.699999999999996" type="line"/>
+      <point x="158.8" y="708.0" type="line"/>
+      <point x="374.475" y="330.65" type="line"/>
+      <point x="51.8" y="-55.7" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -28,7 +28,7 @@ summation
 8 1 1 48 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:16</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

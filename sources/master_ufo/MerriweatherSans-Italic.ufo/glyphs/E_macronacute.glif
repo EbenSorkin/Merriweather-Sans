@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Emacronacute" format="2">
-  <advance width="556.0"/>
+  <advance width="561.0"/>
   <unicode hex="1E16"/>
   <anchor x="288.0" y="0.0" name="bottom"/>
-  <anchor x="465.0" y="10.0" name="ogonek"/>
-  <anchor x="401.0" y="1135.0" name="top"/>
-  <anchor x="82.0" y="747.0" name="topleft"/>
+  <anchor x="469.875" y="10.0" name="ogonek"/>
+  <anchor x="403.0" y="1137.0" name="top"/>
+  <anchor x="82.0" y="747.975" name="topleft"/>
   <outline>
     <component base="E"/>
-    <component base="macroncomb.case" xOffset="288.0"/>
-    <component base="acutecomb.case" xOffset="308.0" yOffset="159.0"/>
+    <component base="macroncomb.case" xOffset="289.0"/>
+    <component base="acutecomb.case" xOffset="310.0" yOffset="161.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:02</string>
+      <string>2019/02/18 20:31:35</string>
     </dict>
   </lib>
 </glyph>

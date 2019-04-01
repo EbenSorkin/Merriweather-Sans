@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="equal" format="2">
-  <advance width="526.4615384615385"/>
+  <advance width="526.46154"/>
   <unicode hex="003D"/>
   <note>
 equal
 </note>
   <outline>
     <contour>
-      <point x="79.58974358974359" y="400.3076923076923" type="line"/>
-      <point x="486.05128205128204" y="400.3076923076923" type="line"/>
-      <point x="501.6923076923077" y="508.3333333333333" type="line"/>
-      <point x="94.64102564102564" y="508.3333333333333" type="line"/>
+      <point x="79.59" y="400.308" type="line"/>
+      <point x="486.051" y="400.308" type="line"/>
+      <point x="501.692" y="508.333" type="line"/>
+      <point x="94.641" y="508.333" type="line"/>
     </contour>
     <contour>
-      <point x="50.230769230769226" y="157.53846153846155" type="line"/>
-      <point x="457.28205128205127" y="157.53846153846155" type="line"/>
-      <point x="472.3333333333333" y="265.56410256410254" type="line"/>
-      <point x="65.87179487179488" y="265.56410256410254" type="line"/>
+      <point x="50.231" y="157.538" type="line"/>
+      <point x="457.282" y="157.538" type="line"/>
+      <point x="472.333" y="265.564" type="line"/>
+      <point x="65.872" y="265.564" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -26,7 +26,7 @@ equal
 4 1 1 0 0 3 1 0 97 5 1 3 2 2 3 85 5 1 3 3 2 89 0 2 3 2 77 4 4 0 0 4 7 4 7 6 5 0 3 0 3 17 6 7 21 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:16</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

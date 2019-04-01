@@ -1,47 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="four.dnom" format="2">
-  <advance width="519.0"/>
+  <advance width="520.23077"/>
   <outline>
     <contour>
-      <point x="249.0" y="0.0" type="line"/>
-      <point x="368.0" y="0.0" type="line"/>
-      <point x="382.0" y="113.0" type="line"/>
-      <point x="462.0" y="113.0" type="line"/>
-      <point x="476.0" y="210.0" type="line"/>
-      <point x="395.0" y="205.0" type="line"/>
-      <point x="415.0" y="378.0" type="line"/>
-      <point x="299.0" y="365.0" type="line"/>
-      <point x="277.0" y="202.0" type="line"/>
-      <point x="137.0" y="196.0" type="line"/>
-      <point x="171.0" y="237.0" type="line"/>
-      <point x="374.0" y="539.0" type="line"/>
-      <point x="350.0" y="560.0" type="line"/>
-      <point x="214.0" y="560.0" type="line"/>
-      <point x="150.0" y="429.0"/>
-      <point x="68.0" y="271.0"/>
-      <point x="2.0" y="174.0" type="curve"/>
-      <point x="33.0" y="113.0" type="line"/>
-      <point x="264.0" y="113.0" type="line"/>
+      <point x="246.949" y="0.0" type="line"/>
+      <point x="377.436" y="0.0" type="line"/>
+      <point x="391.846" y="113.0" type="line"/>
+      <point x="465.692" y="113.0" type="line"/>
+      <point x="480.513" y="218.205" type="line"/>
+      <point x="406.487" y="213.615" type="line"/>
+      <point x="425.256" y="388.667" type="line"/>
+      <point x="299.41" y="376.077" type="line"/>
+      <point x="277.0" y="210.615" type="line"/>
+      <point x="146.436" y="204.205" type="line"/>
+      <point x="181.667" y="246.846" type="line"/>
+      <point x="378.103" y="541.872" type="line"/>
+      <point x="361.487" y="560.0" type="line"/>
+      <point x="197.179" y="560.0" type="line"/>
+      <point x="142.205" y="438.026"/>
+      <point x="58.154" y="269.769"/>
+      <point x="-1.282" y="180.564" type="curve"/>
+      <point x="33.821" y="113.0" type="line"/>
+      <point x="262.769" y="113.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>RMXScaler</key>
-      <dict>
-        <key>adjustSpace</key>
-        <integer>10</integer>
-        <key>height</key>
-        <integer>75</integer>
-        <key>width</key>
-        <integer>80</integer>
-      </dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:03</string>
-      <key>com.schriftgestaltung.Glyphs.nodeUserData.0.16</key>
-      <dict>
-        <key>name</key>
-        <string>hr00</string>
-      </dict>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

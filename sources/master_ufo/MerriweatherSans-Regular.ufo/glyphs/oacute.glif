@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="oacute" format="2">
-  <advance width="592.0"/>
+  <advance width="599.0"/>
   <unicode hex="00F3"/>
-  <anchor x="296.0" y="0.0" name="bottom"/>
-  <anchor x="293.0" y="-83.0" name="btm"/>
-  <anchor x="296.0" y="279.0" name="center"/>
-  <anchor x="320.0" y="25.0" name="ogonek"/>
-  <anchor x="242.0" y="993.0" name="top"/>
-  <anchor x="572.0" y="557.0" name="topright"/>
+  <anchor x="299.556" y="0.0" name="bottom"/>
+  <anchor x="296.556" y="-83.0" name="btm"/>
+  <anchor x="299.556" y="279.0" name="center"/>
+  <anchor x="323.2" y="25.0" name="ogonek"/>
+  <anchor x="243.578" y="994.422" name="top"/>
+  <anchor x="579.111" y="557.0" name="topright"/>
   <outline>
     <component base="o"/>
-    <component base="acutecomb" xOffset="301.0"/>
+    <component base="acutecomb" xOffset="304.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 06:18:47</string>
+      <string>2019/02/18 20:30:20</string>
     </dict>
   </lib>
 </glyph>

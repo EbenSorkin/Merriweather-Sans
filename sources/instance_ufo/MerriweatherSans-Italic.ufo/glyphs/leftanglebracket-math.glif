@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="leftanglebracket-math" format="2">
-  <advance width="497.4000000000001"/>
+  <advance width="497.4"/>
   <unicode hex="27E8"/>
   <outline>
     <component base="rightanglebracket-math" xScale="-1.0" yScale="-1.0" xOffset="459.0" yOffset="647.0"/>
@@ -8,7 +8,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 18:43:50</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

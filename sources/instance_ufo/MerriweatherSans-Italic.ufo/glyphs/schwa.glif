@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="schwa" format="2">
-  <advance width="511.175"/>
+  <advance width="511.0"/>
   <unicode hex="0259"/>
   <anchor x="265.5" y="557.0" name="bottom"/>
   <anchor x="187.675" y="547.0" name="ogonek"/>
@@ -11,7 +11,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:02</string>
+      <string>2019/02/18 20:31:35</string>
     </dict>
   </lib>
 </glyph>

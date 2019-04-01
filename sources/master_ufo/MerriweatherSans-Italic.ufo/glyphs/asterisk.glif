@@ -7,46 +7,42 @@ asterisk
 </note>
   <outline>
     <contour>
-      <point x="284.0" y="316.0" type="line"/>
-      <point x="380.0" y="316.0" type="line"/>
-      <point x="380.0" y="458.0" type="line"/>
-      <point x="372.0" y="529.0" type="line"/>
-      <point x="421.0" y="481.0" type="line"/>
-      <point x="528.0" y="398.0" type="line"/>
-      <point x="584.0" y="479.0" type="line"/>
-      <point x="460.0" y="538.0" type="line"/>
-      <point x="396.0" y="561.0" type="line"/>
-      <point x="465.0" y="584.0" type="line"/>
-      <point x="601.0" y="644.0" type="line"/>
-      <point x="563.0" y="725.0" type="line"/>
-      <point x="438.0" y="642.0" type="line"/>
-      <point x="379.0" y="595.0" type="line"/>
-      <point x="400.0" y="665.0" type="line"/>
-      <point x="429.0" y="807.0" type="line"/>
-      <point x="335.0" y="807.0" type="line"/>
-      <point x="334.0" y="665.0" type="line"/>
-      <point x="341.0" y="595.0" type="line"/>
-      <point x="292.0" y="642.0" type="line"/>
-      <point x="186.0" y="725.0" type="line"/>
-      <point x="129.0" y="644.0" type="line"/>
-      <point x="254.0" y="584.0" type="line"/>
-      <point x="318.0" y="562.0" type="line"/>
-      <point x="249.0" y="538.0" type="line"/>
-      <point x="113.0" y="479.0" type="line"/>
-      <point x="150.0" y="398.0" type="line"/>
-      <point x="276.0" y="481.0" type="line"/>
-      <point x="333.0" y="529.0" type="line"/>
-      <point x="313.0" y="458.0" type="line"/>
+      <point x="281.725" y="310.8" type="line"/>
+      <point x="381.625" y="310.475" type="line"/>
+      <point x="380.325" y="456.05" type="line"/>
+      <point x="373.3" y="526.4" type="line"/>
+      <point x="422.625" y="479.375" type="line"/>
+      <point x="531.25" y="393.775" type="line"/>
+      <point x="590.175" y="478.35" type="line"/>
+      <point x="462.275" y="537.675" type="line"/>
+      <point x="399.25" y="561.0" type="line"/>
+      <point x="467.275" y="584.65" type="line"/>
+      <point x="607.175" y="644.975" type="line"/>
+      <point x="567.875" y="729.55" type="line"/>
+      <point x="439.95" y="643.625" type="line"/>
+      <point x="380.95" y="597.925" type="line"/>
+      <point x="400.975" y="667.275" type="line"/>
+      <point x="431.6" y="812.525" type="line"/>
+      <point x="334.025" y="812.525" type="line"/>
+      <point x="333.675" y="667.275" type="line"/>
+      <point x="339.375" y="597.925" type="line"/>
+      <point x="290.7" y="643.625" type="line"/>
+      <point x="181.125" y="729.225" type="line"/>
+      <point x="123.475" y="644.975" type="line"/>
+      <point x="251.725" y="584.65" type="line"/>
+      <point x="314.75" y="562.0" type="line"/>
+      <point x="246.725" y="537.675" type="line"/>
+      <point x="106.825" y="478.35" type="line"/>
+      <point x="146.425" y="393.45" type="line"/>
+      <point x="274.375" y="479.375" type="line"/>
+      <point x="331.05" y="526.4" type="line"/>
+      <point x="312.025" y="456.05" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>assembly</key>
-      <string>NPUSHB[ ]	/* 37 values pushed */
-29 28 26 22 21 19 18 16 14 13 11 7 6 4 3 1 16 1 0 1 74 0 1 1 0 89 0 0 0 19 1 76 30 24 2 7 22 
-CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:03</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

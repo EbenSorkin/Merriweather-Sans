@@ -13,7 +13,7 @@ guilsinglleft
       <point x="482.625" y="469.125" type="line"/>
       <point x="463.0" y="532.6" type="line"/>
       <point x="121.1" y="339.275" type="line"/>
-      <point x="109.44999999999999" y="259.0" type="line"/>
+      <point x="109.45" y="259.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -23,7 +23,7 @@ guilsinglleft
 4 0 1 48 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:03</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

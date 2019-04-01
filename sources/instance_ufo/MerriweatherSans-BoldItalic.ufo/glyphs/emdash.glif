@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="emdash" format="2">
-  <advance width="993.6923076923077"/>
+  <advance width="993.69231"/>
   <unicode hex="2014"/>
   <note>
 emdash
 </note>
   <outline>
     <contour>
-      <point x="108.41025641025641" y="303.0769230769231" type="line"/>
-      <point x="889.5641025641025" y="303.0769230769231" type="line"/>
-      <point x="907.3846153846154" y="411.5128205128205" type="line"/>
-      <point x="125.23076923076923" y="411.5128205128205" type="line"/>
+      <point x="108.41" y="303.077" type="line"/>
+      <point x="889.564" y="303.077" type="line"/>
+      <point x="907.385" y="411.513" type="line"/>
+      <point x="125.231" y="411.513" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -24,7 +24,7 @@ CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>hyphen</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 19:32:43</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

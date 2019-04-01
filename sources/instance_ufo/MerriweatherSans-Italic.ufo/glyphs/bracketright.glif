@@ -14,14 +14,14 @@ bracketright
       <point x="118.675" y="779.725" type="line"/>
       <point x="251.05" y="779.725" type="line"/>
       <point x="143.025" y="-26.375" type="line"/>
-      <point x="10.325000000000001" y="-26.375" type="line"/>
-      <point x="3.349999999999999" y="-75.525" type="line"/>
-      <point x="22.675" y="-81.85000000000001"/>
-      <point x="103.92500000000001" y="-98.525"/>
+      <point x="10.325" y="-26.375" type="line"/>
+      <point x="3.35" y="-75.525" type="line"/>
+      <point x="22.675" y="-81.85"/>
+      <point x="103.925" y="-98.525"/>
       <point x="135.875" y="-98.525" type="curve" smooth="yes"/>
       <point x="212.925" y="-98.525"/>
-      <point x="238.175" y="-63.900000000000006"/>
-      <point x="249.82500000000002" y="27.724999999999994" type="curve" smooth="yes"/>
+      <point x="238.175" y="-63.9"/>
+      <point x="249.825" y="27.725" type="curve" smooth="yes"/>
       <point x="346.8" y="725.6" type="line" smooth="yes"/>
       <point x="348.8" y="743.25"/>
       <point x="350.475" y="761.25"/>
@@ -39,7 +39,7 @@ CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
       <string>bracketleft</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:03</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

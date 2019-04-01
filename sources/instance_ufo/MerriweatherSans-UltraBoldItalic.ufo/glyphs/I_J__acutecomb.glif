@@ -22,7 +22,7 @@ IJ_acutecomb
 11 10 7 5 4 1 6 1 72 24 1 0 71 4 2 3 3 1 1 17 75 0 0 0 18 0 76 16 16 12 12 16 32 16 32 12 15 12 15 29 5 7 21 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:02</string>
+      <string>2019/02/18 20:31:35</string>
       <key>com.schriftgestaltung.componentsAlignment</key>
       <array>
         <integer>0</integer>

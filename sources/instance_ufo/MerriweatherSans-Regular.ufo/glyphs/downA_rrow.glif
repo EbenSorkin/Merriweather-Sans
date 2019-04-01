@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="downArrow" format="2">
-  <advance width="692.088888888889"/>
+  <advance width="692.08889"/>
   <unicode hex="2193"/>
   <outline>
     <contour>
@@ -20,7 +20,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 06:26:32</string>
+      <string>2019/02/18 20:30:01</string>
     </dict>
   </lib>
 </glyph>

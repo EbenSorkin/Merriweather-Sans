@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ndotbelow" format="2">
-  <advance width="583.0"/>
+  <advance width="593.075"/>
   <unicode hex="1E47"/>
-  <anchor x="229.0" y="-199.0" name="bottom"/>
-  <anchor x="329.0" y="557.0" name="top"/>
+  <anchor x="234.0" y="-199.0" name="bottom"/>
+  <anchor x="333.875" y="557.0" name="top"/>
   <outline>
     <component base="n"/>
-    <component base="dotbelowcomb" xOffset="255.0"/>
+    <component base="dotbelowcomb" xOffset="260.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 17:18:00</string>
+      <string>2019/02/18 20:31:35</string>
     </dict>
   </lib>
 </glyph>

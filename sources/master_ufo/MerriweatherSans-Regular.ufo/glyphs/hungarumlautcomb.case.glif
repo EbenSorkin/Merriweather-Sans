@@ -1,35 +1,35 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hungarumlautcomb.case" format="2">
-  <anchor x="203.0" y="830.0" name="_top"/>
-  <anchor x="234.0" y="977.0" name="top"/>
+  <anchor x="203.356" y="830.178" name="_top"/>
+  <anchor x="238.267" y="973.444" name="top"/>
   <outline>
     <contour>
-      <point x="88.0" y="801.0" type="line"/>
-      <point x="124.0" y="824.0"/>
-      <point x="173.0" y="880.0"/>
-      <point x="212.0" y="934.0" type="curve"/>
-      <point x="128.0" y="977.0" type="line"/>
-      <point x="126.0" y="970.0"/>
-      <point x="31.0" y="838.0"/>
-      <point x="27.0" y="835.0" type="curve"/>
+      <point x="90.489" y="793.356" type="line"/>
+      <point x="127.022" y="815.289"/>
+      <point x="178.333" y="873.6"/>
+      <point x="217.511" y="928.311" type="curve"/>
+      <point x="128.356" y="973.444" type="line"/>
+      <point x="125.289" y="963.244"/>
+      <point x="32.067" y="836.044"/>
+      <point x="26.289" y="831.267" type="curve"/>
     </contour>
     <contour>
-      <point x="317.0" y="801.0" type="line"/>
-      <point x="355.0" y="824.0"/>
-      <point x="406.0" y="880.0"/>
-      <point x="441.0" y="930.0" type="curve"/>
-      <point x="361.0" y="973.0" type="line"/>
-      <point x="359.0" y="967.0"/>
-      <point x="260.0" y="838.0"/>
-      <point x="256.0" y="835.0" type="curve"/>
+      <point x="323.222" y="793.356" type="line"/>
+      <point x="361.578" y="815.289"/>
+      <point x="414.889" y="873.6"/>
+      <point x="450.244" y="924.667" type="curve"/>
+      <point x="364.911" y="969.978" type="line"/>
+      <point x="361.667" y="960.6"/>
+      <point x="264.8" y="836.044"/>
+      <point x="259.022" y="831.267" type="curve"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/16 05:39:16</string>
+      <string>2019/02/18 20:30:01</string>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
-      <real>470.0</real>
+      <real>470.88889</real>
     </dict>
   </lib>
 </glyph>

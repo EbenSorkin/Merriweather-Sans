@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="pi.sc" format="2">
-  <advance width="600.0"/>
+  <advance width="697.64103"/>
   <outline>
     <contour>
-      <point x="177.0" y="0.0" type="line"/>
-      <point x="324.0" y="0.0" type="line"/>
-      <point x="402.0" y="635.0" type="line"/>
-      <point x="625.0" y="635.0" type="line"/>
-      <point x="547.0" y="0.0" type="line"/>
-      <point x="693.0" y="0.0" type="line"/>
-      <point x="771.0" y="635.0" type="line"/>
-      <point x="875.0" y="635.0" type="line"/>
-      <point x="888.0" y="743.0" type="line"/>
-      <point x="166.0" y="743.0" type="line"/>
-      <point x="153.0" y="635.0" type="line"/>
-      <point x="255.0" y="635.0" type="line"/>
+      <point x="183.154" y="0.0" type="line"/>
+      <point x="345.333" y="0.0" type="line"/>
+      <point x="422.103" y="623.923" type="line"/>
+      <point x="627.462" y="623.923" type="line"/>
+      <point x="550.692" y="0.0" type="line"/>
+      <point x="711.872" y="0.0" type="line"/>
+      <point x="788.641" y="623.923" type="line"/>
+      <point x="896.333" y="623.923" type="line"/>
+      <point x="910.564" y="743.0" type="line"/>
+      <point x="168.872" y="743.0" type="line"/>
+      <point x="154.641" y="623.923" type="line"/>
+      <point x="259.923" y="623.923" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -22,7 +22,7 @@
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:27</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

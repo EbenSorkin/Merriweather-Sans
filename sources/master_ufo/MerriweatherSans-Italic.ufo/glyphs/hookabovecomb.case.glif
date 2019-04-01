@@ -4,38 +4,38 @@
   <anchor x="94.0" y="976.0" name="top"/>
   <outline>
     <contour>
-      <point x="37.0" y="817.0" type="curve"/>
-      <point x="85.0" y="817.0" type="line"/>
-      <point x="80.0" y="842.0"/>
-      <point x="95.0" y="869.0"/>
-      <point x="104.0" y="876.0" type="curve" smooth="yes"/>
-      <point x="135.0" y="900.0"/>
-      <point x="174.0" y="915.0"/>
-      <point x="181.0" y="971.0" type="curve" smooth="yes"/>
-      <point x="188.0" y="1029.0"/>
-      <point x="144.0" y="1065.0"/>
-      <point x="79.0" y="1065.0" type="curve" smooth="yes"/>
-      <point x="54.0" y="1065.0"/>
-      <point x="12.0" y="1059.0"/>
-      <point x="-11.0" y="1044.0" type="curve"/>
-      <point x="-17.0" y="981.0" type="line"/>
-      <point x="-4.0" y="988.0"/>
-      <point x="25.0" y="997.0"/>
-      <point x="49.0" y="997.0" type="curve" smooth="yes"/>
-      <point x="83.0" y="997.0"/>
-      <point x="100.0" y="985.0"/>
-      <point x="97.0" y="958.0" type="curve"/>
-      <point x="92.0" y="915.0"/>
-      <point x="36.0" y="912.0"/>
-      <point x="30.0" y="863.0" type="curve"/>
-      <point x="28.0" y="845.0"/>
-      <point x="32.0" y="831.0"/>
+      <point x="39.6" y="817.0" type="curve"/>
+      <point x="93.775" y="817.0" type="line"/>
+      <point x="89.1" y="843.3"/>
+      <point x="102.8" y="869.975"/>
+      <point x="115.7" y="879.575" type="curve" smooth="yes"/>
+      <point x="144.75" y="901.625"/>
+      <point x="182.45" y="922.15"/>
+      <point x="188.8" y="973.925" type="curve" smooth="yes"/>
+      <point x="195.475" y="1030.3"/>
+      <point x="151.8" y="1067.6"/>
+      <point x="77.7" y="1067.6" type="curve" smooth="yes"/>
+      <point x="50.1" y="1067.6"/>
+      <point x="10.375" y="1060.625"/>
+      <point x="-12.3" y="1047.575" type="curve"/>
+      <point x="-18.95" y="980.675" type="line"/>
+      <point x="-6.275" y="988.0"/>
+      <point x="23.375" y="996.675"/>
+      <point x="45.75" y="996.675" type="curve" smooth="yes"/>
+      <point x="82.025" y="996.675"/>
+      <point x="100.0" y="983.375"/>
+      <point x="97.0" y="956.375" type="curve"/>
+      <point x="92.325" y="915.0"/>
+      <point x="38.925" y="914.275"/>
+      <point x="32.6" y="862.35" type="curve"/>
+      <point x="30.275" y="843.7"/>
+      <point x="34.275" y="831.0"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:12</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

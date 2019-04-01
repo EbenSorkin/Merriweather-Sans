@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="kcommaaccent" format="2">
-  <advance width="508.0"/>
+  <advance width="522.95"/>
   <unicode hex="0137"/>
   <note>
 kcommaaccent
 </note>
-  <anchor x="191.0" y="-199.0" name="bottom"/>
-  <anchor x="347.0" y="983.0" name="top"/>
+  <anchor x="198.0" y="-199.0" name="bottom"/>
+  <anchor x="354.475" y="983.0" name="top"/>
   <outline>
     <component base="k"/>
-    <component base="commaaccentcomb" xOffset="217.0"/>
+    <component base="commaaccentcomb" xOffset="224.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:02</string>
+      <string>2019/02/18 20:31:35</string>
     </dict>
   </lib>
 </glyph>

@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tbar" format="2">
-  <advance width="395.8461538461538"/>
+  <advance width="395.84615"/>
   <unicode hex="0167"/>
   <note>
 tbar
 </note>
-  <anchor x="160.9230769230769" y="0.0" name="bottom"/>
-  <anchor x="197.9230769230769" y="279.0" name="center"/>
-  <anchor x="245.07692307692307" y="653.025641025641" name="top"/>
-  <anchor x="412.8461538461538" y="557.0" name="topright"/>
+  <anchor x="160.923" y="0.0" name="bottom"/>
+  <anchor x="197.923" y="279.0" name="center"/>
+  <anchor x="245.077" y="653.026" name="top"/>
+  <anchor x="412.846" y="557.0" name="topright"/>
   <outline>
     <contour>
-      <point x="360.2564102564103" y="360.7435897435897" type="line"/>
-      <point x="47.64102564102564" y="360.7435897435897" type="line"/>
-      <point x="37.41025641025641" y="269.8205128205128" type="line"/>
-      <point x="350.025641025641" y="269.8205128205128" type="line"/>
+      <point x="360.256" y="360.744" type="line"/>
+      <point x="47.641" y="360.744" type="line"/>
+      <point x="37.41" y="269.821" type="line"/>
+      <point x="350.026" y="269.821" type="line"/>
     </contour>
     <component base="t"/>
   </outline>
@@ -38,7 +38,7 @@ NPUSHB[ ]	/* 20 values pushed */
 0 0 0 38 0 38 37 36 17 17 17 17 21 38 39 17 17 12 7 29 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 17:18:10</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

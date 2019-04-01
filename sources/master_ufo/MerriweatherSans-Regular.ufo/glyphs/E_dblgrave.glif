@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Edblgrave" format="2">
-  <advance width="594.0"/>
+  <advance width="597.0"/>
   <unicode hex="0204"/>
-  <anchor x="297.0" y="0.0" name="bottom"/>
-  <anchor x="327.0" y="-83.0" name="btm"/>
+  <anchor x="298.6" y="0.0" name="bottom"/>
+  <anchor x="328.422" y="-83.0" name="btm"/>
   <anchor x="544.0" y="10.0" name="ogonek"/>
-  <anchor x="266.0" y="1011.0" name="top"/>
+  <anchor x="266.889" y="1012.067" name="top"/>
   <anchor x="20.0" y="743.0" name="topleft"/>
   <outline>
     <component base="E"/>
@@ -14,7 +14,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 06:18:47</string>
+      <string>2019/02/18 20:30:31</string>
     </dict>
   </lib>
 </glyph>

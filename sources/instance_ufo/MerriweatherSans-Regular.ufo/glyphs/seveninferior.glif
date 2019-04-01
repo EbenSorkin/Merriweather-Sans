@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="seveninferior" format="2">
-  <advance width="449.26666666666665"/>
+  <advance width="449.0"/>
   <unicode hex="2087"/>
   <outline>
     <component base="seven.dnom"/>
@@ -8,7 +8,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 16:43:07</string>
+      <string>2019/02/18 20:30:31</string>
     </dict>
   </lib>
 </glyph>

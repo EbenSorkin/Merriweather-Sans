@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="IJ_acutecomb" format="2">
-  <advance width="650.7948717948718"/>
+  <advance width="651.0"/>
   <note>
 IJ_acutecomb
 </note>
-  <anchor x="126.56410256410257" y="0.0" name="bottom_1"/>
-  <anchor x="452.05128205128204" y="0.0" name="bottom_2"/>
-  <anchor x="259.4871794871795" y="10.0" name="ogonek"/>
-  <anchor x="575.1025641025641" y="973.0" name="top"/>
-  <anchor x="556.5128205128206" y="747.0" name="top_"/>
-  <anchor x="82.0" y="748.7692307692307" name="topleft"/>
+  <anchor x="126.564" y="0.0" name="bottom_1"/>
+  <anchor x="452.33299999999997" y="0.0" name="bottom_2"/>
+  <anchor x="259.487" y="10.0" name="ogonek"/>
+  <anchor x="575.1030000000001" y="973.0" name="top"/>
+  <anchor x="556.513" y="747.0" name="top_"/>
+  <anchor x="82.0" y="748.769" name="topleft"/>
   <outline>
     <component base="IJ"/>
-    <component base="acutecomb.case" xOffset="166.15384615384616"/>
-    <component base="acutecomb.case" xOffset="482.1025641025641" yOffset="-3.0"/>
+    <component base="acutecomb.case" xOffset="166.0"/>
+    <component base="acutecomb.case" xOffset="482.103" yOffset="-3.0"/>
   </outline>
   <lib>
     <dict>
@@ -22,7 +22,7 @@ IJ_acutecomb
 11 10 7 5 4 1 6 1 72 24 1 0 71 4 2 3 3 1 1 17 75 0 0 0 18 0 76 16 16 12 12 16 32 16 32 12 15 12 15 29 5 7 21 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:02</string>
+      <string>2019/02/18 20:31:35</string>
       <key>com.schriftgestaltung.componentsAlignment</key>
       <array>
         <integer>0</integer>

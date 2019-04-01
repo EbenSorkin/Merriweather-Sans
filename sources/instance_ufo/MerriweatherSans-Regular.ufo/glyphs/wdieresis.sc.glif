@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="wdieresis.sc" format="2">
-  <advance width="912.2666666666667"/>
-  <anchor x="456.1333333333333" y="0.0" name="bottom"/>
-  <anchor x="453.8888888888889" y="-72.0" name="btm"/>
-  <anchor x="453.8888888888889" y="906.7777777777778" name="top"/>
+  <advance width="912.0"/>
+  <anchor x="456.133" y="0.0" name="bottom"/>
+  <anchor x="453.889" y="-72.0" name="btm"/>
+  <anchor x="454.0" y="906.778" name="top"/>
   <outline>
     <component base="w.sc"/>
-    <component base="dieresiscomb" xOffset="453.8888888888889" yOffset="-108.0"/>
+    <component base="dieresiscomb" xOffset="454.0" yOffset="-108.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:07:03</string>
+      <string>2019/02/18 20:30:31</string>
     </dict>
   </lib>
 </glyph>

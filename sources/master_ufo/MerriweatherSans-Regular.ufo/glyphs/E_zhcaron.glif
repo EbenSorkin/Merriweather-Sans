@@ -2,16 +2,16 @@
 <glyph name="Ezhcaron" format="2">
   <advance width="555.0"/>
   <unicode hex="01EE"/>
-  <anchor x="278.0" y="0.0" name="bottom"/>
-  <anchor x="285.0" y="1003.0" name="top"/>
+  <anchor x="278.178" y="0.0" name="bottom"/>
+  <anchor x="283.0" y="1011.889" name="top"/>
   <outline>
     <component base="Ezh"/>
-    <component base="caroncomb.case" xOffset="285.0"/>
+    <component base="caroncomb.case" xOffset="283.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 05:07:55</string>
+      <string>2019/02/18 20:30:31</string>
     </dict>
   </lib>
 </glyph>

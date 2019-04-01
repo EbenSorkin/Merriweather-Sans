@@ -1,35 +1,35 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="kip" format="2">
-  <advance width="665.0"/>
+  <advance width="676.375"/>
   <unicode hex="20AD"/>
-  <anchor x="267.0" y="0.0" name="bottom"/>
-  <anchor x="366.0" y="747.0" name="top"/>
+  <anchor x="277.075" y="0.0" name="bottom"/>
+  <anchor x="376.075" y="747.975" name="top"/>
   <outline>
     <contour>
-      <point x="54.0" y="0.0" type="line"/>
-      <point x="150.0" y="0.0" type="line"/>
-      <point x="192.0" y="341.0" type="line"/>
-      <point x="210.0" y="360.0" type="line"/>
-      <point x="463.0" y="0.0" type="line"/>
-      <point x="580.0" y="0.0" type="line"/>
-      <point x="290.0" y="397.0" type="line"/>
-      <point x="638.0" y="747.0" type="line"/>
-      <point x="525.0" y="747.0" type="line"/>
-      <point x="200.0" y="416.0" type="line"/>
-      <point x="245.0" y="747.0" type="line"/>
-      <point x="148.0" y="747.0" type="line"/>
+      <point x="57.25" y="0.0" type="line"/>
+      <point x="165.925" y="0.0" type="line"/>
+      <point x="208.25" y="334.175" type="line"/>
+      <point x="226.25" y="347.0" type="line"/>
+      <point x="466.25" y="0.0" type="line"/>
+      <point x="597.225" y="0.0" type="line"/>
+      <point x="319.25" y="387.9" type="line"/>
+      <point x="658.475" y="747.0" type="line"/>
+      <point x="531.5" y="747.0" type="line"/>
+      <point x="216.9" y="409.5" type="line"/>
+      <point x="262.875" y="747.0" type="line"/>
+      <point x="153.525" y="747.0" type="line"/>
     </contour>
     <contour>
-      <point x="36.0" y="332.0" type="line"/>
-      <point x="550.0" y="332.0" type="line"/>
-      <point x="563.0" y="421.0" type="line"/>
-      <point x="49.0" y="421.0" type="line"/>
+      <point x="35.675" y="326.15" type="line"/>
+      <point x="574.7" y="326.15" type="line"/>
+      <point x="589.65" y="421.975" type="line"/>
+      <point x="50.3" y="421.975" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:16</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="fiveinferior" format="2">
-  <advance width="488.9111111111111"/>
+  <advance width="488.91111"/>
   <unicode hex="2085"/>
   <outline>
     <component base="five.dnom"/>
@@ -8,7 +8,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 16:43:07</string>
+      <string>2019/02/18 20:30:01</string>
     </dict>
   </lib>
 </glyph>

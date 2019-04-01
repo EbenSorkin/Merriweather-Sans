@@ -1,29 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="summation" format="2">
-  <advance width="778.0"/>
+  <advance width="766.62222"/>
   <unicode hex="2211"/>
   <outline>
     <contour>
-      <point x="124.0" y="-83.0" type="line"/>
-      <point x="637.0" y="-83.0" type="line"/>
-      <point x="637.0" y="-7.0" type="line"/>
-      <point x="197.0" y="-7.0" type="line"/>
-      <point x="234.0" y="-45.0" type="line"/>
-      <point x="492.0" y="333.0" type="line"/>
-      <point x="220.0" y="708.0" type="line"/>
-      <point x="168.0" y="662.0" type="line"/>
-      <point x="630.0" y="662.0" type="line"/>
-      <point x="630.0" y="743.0" type="line"/>
-      <point x="125.0" y="743.0" type="line"/>
-      <point x="111.0" y="704.0" type="line"/>
-      <point x="380.0" y="330.0" type="line"/>
-      <point x="111.0" y="-57.0" type="line"/>
+      <point x="117.422" y="-83.0" type="line"/>
+      <point x="636.289" y="-83.0" type="line"/>
+      <point x="636.289" y="-1.667" type="line"/>
+      <point x="204.467" y="-1.667" type="line"/>
+      <point x="234.889" y="-45.0" type="line"/>
+      <point x="492.178" y="333.356" type="line"/>
+      <point x="221.244" y="708.0" type="line"/>
+      <point x="178.489" y="656.489" type="line"/>
+      <point x="626.978" y="656.489" type="line"/>
+      <point x="626.978" y="743.0" type="line"/>
+      <point x="118.6" y="743.0" type="line"/>
+      <point x="104.422" y="704.0" type="line"/>
+      <point x="373.422" y="330.356" type="line"/>
+      <point x="104.422" y="-56.111" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/01/21 06:08:13</string>
+      <string>2019/02/18 20:30:01</string>
     </dict>
   </lib>
 </glyph>

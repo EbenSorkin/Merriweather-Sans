@@ -7,12 +7,12 @@ logicalnot
 </note>
   <outline>
     <contour>
-      <point x="435.7948717948718" y="157.0" type="line"/>
+      <point x="435.795" y="157.0" type="line"/>
       <point x="550.0" y="157.0" type="line"/>
       <point x="580.0" y="417.0" type="line"/>
       <point x="111.0" y="417.0" type="line"/>
-      <point x="100.17948717948718" y="316.61538461538464" type="line"/>
-      <point x="454.974358974359" y="316.61538461538464" type="line"/>
+      <point x="100.179" y="316.615" type="line"/>
+      <point x="454.974" y="316.615" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -22,7 +22,7 @@ logicalnot
 0 0 1 0 115 3 1 2 1 1 2 85 3 1 2 2 1 89 0 1 2 1 77 0 0 0 5 0 5 17 17 4 7 22 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:16</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

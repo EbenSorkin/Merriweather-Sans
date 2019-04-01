@@ -6,25 +6,25 @@ Hbar
 </note>
   <outline>
     <contour>
-      <point x="48.724999999999994" y="0.0" type="line"/>
-      <point x="158.72500000000002" y="0.0" type="line"/>
-      <point x="189.75" y="226.64999999999998" type="line"/>
-      <point x="477.1" y="226.64999999999998" type="line"/>
+      <point x="48.725" y="0.0" type="line"/>
+      <point x="158.725" y="0.0" type="line"/>
+      <point x="189.75" y="226.65" type="line"/>
+      <point x="477.1" y="226.65" type="line"/>
       <point x="445.75" y="0.0" type="line"/>
       <point x="556.75" y="0.0" type="line"/>
       <point x="610.4" y="410.5" type="line"/>
-      <point x="710.4250000000001" y="410.5" type="line"/>
+      <point x="710.425" y="410.5" type="line"/>
       <point x="717.4" y="490.625" type="line"/>
       <point x="620.375" y="490.625" type="line"/>
       <point x="641.025" y="650.0" type="line"/>
       <point x="530.025" y="650.0" type="line"/>
       <point x="509.7" y="490.625" type="line"/>
-      <point x="222.35000000000002" y="490.625" type="line"/>
+      <point x="222.35" y="490.625" type="line"/>
       <point x="243.675" y="650.0" type="line"/>
       <point x="133.325" y="650.0" type="line"/>
       <point x="113.0" y="490.625" type="line"/>
-      <point x="19.749999999999996" y="490.625" type="line"/>
-      <point x="13.099999999999994" y="410.5" type="line"/>
+      <point x="19.75" y="490.625" type="line"/>
+      <point x="13.1" y="410.5" type="line"/>
       <point x="102.7" y="410.5" type="line"/>
     </contour>
     <contour>
@@ -54,7 +54,7 @@ CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:03</string>
+      <string>2019/02/18 20:31:10</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

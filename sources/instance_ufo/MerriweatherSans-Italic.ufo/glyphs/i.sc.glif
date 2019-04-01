@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="i.sc" format="2">
-  <advance width="289.40000000000003"/>
+  <advance width="289.4"/>
   <note>
 I
 </note>
@@ -10,7 +10,7 @@ I
   <anchor x="70.0" y="651.0" name="topleft"/>
   <outline>
     <contour>
-      <point x="56.724999999999994" y="0.0" type="line"/>
+      <point x="56.725" y="0.0" type="line"/>
       <point x="167.4" y="0.0" type="line"/>
       <point x="251.675" y="647.0" type="line"/>
       <point x="141.0" y="647.0" type="line"/>
@@ -36,7 +36,7 @@ CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 17:27:06</string>
+      <string>2019/02/18 20:31:10</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

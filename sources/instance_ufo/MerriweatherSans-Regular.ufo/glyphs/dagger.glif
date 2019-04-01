@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dagger" format="2">
-  <advance width="501.8888888888889"/>
+  <advance width="501.88889"/>
   <unicode hex="2020"/>
   <outline>
     <contour>
-      <point x="206.22222222222223" y="98.0" type="line"/>
-      <point x="296.02222222222224" y="98.0" type="line"/>
-      <point x="301.84444444444443" y="546.5555555555555" type="line"/>
-      <point x="442.4888888888889" y="544.7333333333333" type="line"/>
-      <point x="442.4888888888889" y="629.0" type="line"/>
-      <point x="301.84444444444443" y="627.1777777777778" type="line"/>
-      <point x="302.6666666666667" y="810.0" type="line"/>
-      <point x="199.04444444444445" y="810.0" type="line"/>
-      <point x="199.86666666666667" y="627.1777777777778" type="line"/>
-      <point x="59.57777777777778" y="629.0" type="line"/>
-      <point x="59.400000000000006" y="544.7333333333333" type="line"/>
-      <point x="199.86666666666667" y="546.5555555555555" type="line"/>
+      <point x="206.222" y="98.0" type="line"/>
+      <point x="296.022" y="98.0" type="line"/>
+      <point x="301.844" y="546.556" type="line"/>
+      <point x="442.489" y="544.733" type="line"/>
+      <point x="442.489" y="629.0" type="line"/>
+      <point x="301.844" y="627.178" type="line"/>
+      <point x="302.667" y="810.0" type="line"/>
+      <point x="199.044" y="810.0" type="line"/>
+      <point x="199.867" y="627.178" type="line"/>
+      <point x="59.578" y="629.0" type="line"/>
+      <point x="59.4" y="544.733" type="line"/>
+      <point x="199.867" y="546.556" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/01/21 06:08:13</string>
+      <string>2019/02/18 20:30:01</string>
     </dict>
   </lib>
 </glyph>

@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Dcroat" format="2">
-  <advance width="726.1111111111111"/>
+  <advance width="726.11111"/>
   <unicode hex="0110"/>
-  <anchor x="363.55555555555554" y="0.0" name="bottom"/>
-  <anchor x="323.73333333333335" y="-83.0" name="btm"/>
-  <anchor x="363.55555555555554" y="372.0" name="center"/>
+  <anchor x="363.556" y="0.0" name="bottom"/>
+  <anchor x="323.733" y="-83.0" name="btm"/>
+  <anchor x="363.556" y="372.0" name="center"/>
   <anchor x="359.2" y="830.0" name="top"/>
   <outline>
     <contour>
-      <point x="32.355555555555554" y="349.68888888888887" type="line"/>
-      <point x="399.02222222222224" y="349.68888888888887" type="line"/>
-      <point x="399.02222222222224" y="426.31111111111113" type="line"/>
-      <point x="32.355555555555554" y="426.31111111111113" type="line"/>
+      <point x="32.356" y="349.689" type="line"/>
+      <point x="399.022" y="349.689" type="line"/>
+      <point x="399.022" y="426.311" type="line"/>
+      <point x="32.356" y="426.311" type="line"/>
     </contour>
     <component base="D"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/01/21 06:08:13</string>
+      <string>2019/02/18 20:30:01</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>

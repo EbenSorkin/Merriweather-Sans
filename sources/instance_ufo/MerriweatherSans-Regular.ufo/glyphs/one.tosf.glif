@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="one.tosf" format="2">
-  <advance width="673.6222222222223"/>
+  <advance width="673.62222"/>
   <outline>
     <contour>
-      <point x="80.22222222222223" y="89.19999999999999" type="line"/>
-      <point x="80.22222222222223" y="0.0" type="line"/>
-      <point x="595.2888888888889" y="0.0" type="line"/>
-      <point x="595.2888888888889" y="89.19999999999999" type="line"/>
-      <point x="419.2444444444444" y="89.19999999999999" type="line"/>
-      <point x="419.4222222222222" y="681.0444444444445" type="line"/>
-      <point x="359.77777777777777" y="694.1777777777778" type="line"/>
-      <point x="359.77777777777777" y="692.5333333333333" type="line"/>
-      <point x="329.2888888888889" y="663.6888888888889"/>
-      <point x="211.44444444444446" y="598.0888888888888"/>
-      <point x="84.97777777777779" y="577.7333333333333" type="curve"/>
-      <point x="99.4" y="488.8888888888889" type="line"/>
-      <point x="191.53333333333336" y="495.35555555555555"/>
-      <point x="256.4666666666667" y="513.2444444444444"/>
-      <point x="294.1777777777778" y="525.6666666666666" type="curve"/>
-      <point x="294.1777777777778" y="89.19999999999999" type="line"/>
+      <point x="80.222" y="89.2" type="line"/>
+      <point x="80.222" y="0.0" type="line"/>
+      <point x="595.289" y="0.0" type="line"/>
+      <point x="595.289" y="89.2" type="line"/>
+      <point x="419.244" y="89.2" type="line"/>
+      <point x="419.422" y="681.044" type="line"/>
+      <point x="359.778" y="694.178" type="line"/>
+      <point x="359.778" y="692.533" type="line"/>
+      <point x="329.289" y="663.689"/>
+      <point x="211.444" y="598.089"/>
+      <point x="84.978" y="577.733" type="curve"/>
+      <point x="99.4" y="488.889" type="line"/>
+      <point x="191.533" y="495.356"/>
+      <point x="256.467" y="513.244"/>
+      <point x="294.178" y="525.667" type="curve"/>
+      <point x="294.178" y="89.2" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -29,7 +29,7 @@
         <integer>677</integer>
       </dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 17:20:53</string>
+      <string>2019/02/18 20:30:01</string>
       <key>com.schriftgestaltung.Glyphs.nodeUserData.0.15</key>
       <dict>
         <key>name</key>

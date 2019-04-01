@@ -1,60 +1,47 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="won" format="2">
-  <advance width="1034.0"/>
+  <advance width="1046.71795"/>
   <unicode hex="20A9"/>
   <note>
 uni20A9
 </note>
-  <anchor x="470.0" y="0.0" name="bottom"/>
-  <anchor x="569.0" y="750.0" name="top"/>
+  <anchor x="471.231" y="0.0" name="bottom"/>
+  <anchor x="570.231" y="748.769" name="top"/>
   <outline>
     <contour>
-      <point x="90.0" y="181.0" type="line"/>
-      <point x="269.0" y="181.0" type="line"/>
-      <point x="282.0" y="272.0" type="line"/>
-      <point x="103.0" y="272.0" type="line"/>
+      <point x="85.487" y="176.897" type="line"/>
+      <point x="264.487" y="176.897" type="line"/>
+      <point x="277.487" y="272.0" type="line"/>
+      <point x="98.487" y="272.0" type="line"/>
     </contour>
     <contour>
-      <point x="246.0" y="557.0" type="line"/>
-      <point x="68.0" y="557.0" type="line"/>
-      <point x="55.0" y="467.0" type="line"/>
-      <point x="233.0" y="467.0" type="line"/>
+      <point x="245.59" y="557.0" type="line"/>
+      <point x="67.59" y="557.0" type="line"/>
+      <point x="54.59" y="462.897" type="line"/>
+      <point x="232.59" y="462.897" type="line"/>
     </contour>
     <contour>
-      <point x="745.0" y="180.0" type="line"/>
-      <point x="907.0" y="180.0" type="line"/>
-      <point x="920.0" y="271.0" type="line"/>
-      <point x="758.0" y="271.0" type="line"/>
+      <point x="765.513" y="175.897" type="line"/>
+      <point x="934.487" y="175.897" type="line"/>
+      <point x="947.487" y="271.0" type="line"/>
+      <point x="778.513" y="271.0" type="line"/>
     </contour>
     <contour>
-      <point x="1041.0" y="556.0" type="line"/>
-      <point x="880.0" y="556.0" type="line"/>
-      <point x="867.0" y="466.0" type="line"/>
-      <point x="1028.0" y="466.0" type="line"/>
+      <point x="1053.308" y="556.0" type="line"/>
+      <point x="885.333" y="556.0" type="line"/>
+      <point x="872.333" y="461.897" type="line"/>
+      <point x="1040.308" y="461.897" type="line"/>
     </contour>
     <component base="W" xOffset="70.0"/>
   </outline>
   <lib>
     <dict>
-      <key>assembly</key>
-      <string>NPUSHB[ ]	/* 18 values pushed */
-9 1 1 2 52 47 46 3 11 10 2 74 54 49 2 10 1 73 
-MPPEM[ ]	/* MeasurePixelPerEm */
-PUSHB[ ]	/* 1 value pushed */
-24 
-LT[ ]	/* LessThan */
-IF[ ]	/* If */
-NPUSHB[ ]	/* 50 values pushed */
-14 12 2 10 11 9 10 85 6 4 2 2 2 17 75 23 19 22 17 8 5 0 0 1 89 7 5 3 3 1 1 20 75 20 18 16 21 15 5 9 9 11 89 13 1 11 11 18 11 76 
-ELSE[ ]	/* Else */
-NPUSHB[ ]	/* 48 values pushed */
-7 5 3 3 1 23 19 22 17 8 5 0 9 1 0 98 14 12 2 10 11 9 10 85 6 4 2 2 2 17 75 20 18 16 21 15 5 9 9 11 89 13 1 11 11 18 11 76 
-EIF[ ]	/* EndIf */
-NPUSHB[ ]	/* 48 values pushed */
-37 37 33 33 0 0 44 43 37 40 37 40 39 38 33 36 33 36 35 34 0 32 0 32 31 30 29 28 27 26 25 24 23 22 21 20 17 17 17 17 18 17 17 17 17 24 7 29 
-CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:15:38</string>
+      <string>2019/02/18 20:31:10</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
     </dict>
   </lib>
 </glyph>

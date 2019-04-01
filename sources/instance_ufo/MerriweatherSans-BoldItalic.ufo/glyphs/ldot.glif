@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ldot" format="2">
-  <advance width="428.7435897435897"/>
+  <advance width="428.74359"/>
   <unicode hex="0140"/>
   <note>
 ldot
 </note>
-  <anchor x="125.87179487179486" y="0.0" name="bottom"/>
-  <anchor x="185.1025641025641" y="492.0" name="center"/>
-  <anchor x="226.69230769230768" y="780.4615384615385" name="top"/>
+  <anchor x="125.872" y="0.0" name="bottom"/>
+  <anchor x="185.103" y="492.0" name="center"/>
+  <anchor x="226.692" y="780.462" name="top"/>
   <anchor x="357.0" y="711.0" name="topright"/>
   <outline>
     <component base="l"/>
-    <component base="period" xOffset="282.025641025641" yOffset="317.8205128205128"/>
+    <component base="period" xOffset="282.026" yOffset="317.821"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:02</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

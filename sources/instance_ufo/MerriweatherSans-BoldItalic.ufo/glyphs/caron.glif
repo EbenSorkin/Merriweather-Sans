@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="caron" format="2">
-  <advance width="390.8205128205128"/>
+  <advance width="390.82051"/>
   <unicode hex="02C7"/>
   <note>
 caron
 </note>
   <outline>
     <contour>
-      <point x="133.23076923076923" y="609.2820512820513" type="line"/>
-      <point x="220.64102564102564" y="609.2820512820513" type="line"/>
-      <point x="393.38461538461536" y="782.8461538461538" type="line"/>
-      <point x="330.8205128205128" y="818.7948717948718" type="line"/>
-      <point x="191.1025641025641" y="718.1282051282051" type="line"/>
-      <point x="81.2051282051282" y="818.7948717948718" type="line"/>
-      <point x="25.51282051282051" y="782.2564102564103" type="line"/>
+      <point x="133.231" y="609.282" type="line"/>
+      <point x="220.641" y="609.282" type="line"/>
+      <point x="393.385" y="782.846" type="line"/>
+      <point x="330.821" y="818.795" type="line"/>
+      <point x="191.103" y="718.128" type="line"/>
+      <point x="81.205" y="818.795" type="line"/>
+      <point x="25.513" y="782.256" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -29,7 +29,7 @@ PUSHB[ ]	/* 2 values pushed */
 6 0 
 WCVTP[ ]	/* WriteCVTInPixels */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:12</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

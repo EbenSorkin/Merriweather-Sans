@@ -1,70 +1,59 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="oe.sc" format="2">
-  <advance width="974.0"/>
-  <anchor x="487.0" y="0.0" name="bottom"/>
-  <anchor x="498.0" y="-72.0" name="btm"/>
-  <anchor x="498.0" y="722.0" name="top"/>
+  <advance width="980.04444"/>
+  <anchor x="490.022" y="0.0" name="bottom"/>
+  <anchor x="498.889" y="-72.0" name="btm"/>
+  <anchor x="498.889" y="722.0" name="top"/>
   <outline>
     <contour>
-      <point x="49.0" y="326.0" type="curve" smooth="yes"/>
-      <point x="44.0" y="133.0"/>
-      <point x="169.0" y="-10.0"/>
-      <point x="365.0" y="-7.0" type="curve" smooth="yes"/>
-      <point x="435.0" y="-6.0"/>
-      <point x="483.0" y="12.0"/>
-      <point x="526.0" y="41.0" type="curve"/>
-      <point x="524.0" y="146.0" type="line"/>
-      <point x="489.0" y="96.0"/>
-      <point x="435.0" y="76.0"/>
-      <point x="370.0" y="76.0" type="curve" smooth="yes"/>
-      <point x="232.0" y="76.0"/>
-      <point x="159.0" y="186.0"/>
-      <point x="159.0" y="322.0" type="curve" smooth="yes"/>
-      <point x="159.0" y="503.0"/>
-      <point x="265.0" y="570.0"/>
-      <point x="378.0" y="570.0" type="curve" smooth="yes"/>
-      <point x="449.0" y="570.0"/>
-      <point x="494.0" y="543.0"/>
-      <point x="526.0" y="507.0" type="curve"/>
-      <point x="519.0" y="618.0" type="line"/>
-      <point x="479.0" y="645.0"/>
-      <point x="428.0" y="654.0"/>
-      <point x="379.0" y="653.0" type="curve" smooth="yes"/>
-      <point x="187.0" y="649.0"/>
-      <point x="54.0" y="540.0"/>
+      <point x="49.356" y="326.0" type="curve" smooth="yes"/>
+      <point x="44.533" y="132.467"/>
+      <point x="168.467" y="-9.644"/>
+      <point x="366.067" y="-7.0" type="curve" smooth="yes"/>
+      <point x="434.111" y="-6.178"/>
+      <point x="484.778" y="12.0"/>
+      <point x="525.822" y="40.467" type="curve"/>
+      <point x="522.756" y="153.111" type="line"/>
+      <point x="489.356" y="101.867"/>
+      <point x="436.6" y="82.4"/>
+      <point x="371.778" y="82.4" type="curve" smooth="yes"/>
+      <point x="239.111" y="82.4"/>
+      <point x="168.244" y="185.822"/>
+      <point x="168.244" y="322.0" type="curve" smooth="yes"/>
+      <point x="168.244" y="503.0"/>
+      <point x="272.289" y="563.067"/>
+      <point x="379.778" y="563.067" type="curve" smooth="yes"/>
+      <point x="450.244" y="563.067"/>
+      <point x="493.822" y="535.356"/>
+      <point x="524.044" y="499.178" type="curve"/>
+      <point x="520.067" y="616.933" type="line"/>
+      <point x="482.022" y="643.578"/>
+      <point x="431.556" y="653.822"/>
+      <point x="380.067" y="653.0" type="curve" smooth="yes"/>
+      <point x="189.311" y="649.711"/>
+      <point x="54.356" y="541.6"/>
     </contour>
     <contour>
-      <point x="490.0" y="0.0" type="line"/>
-      <point x="937.0" y="0.0" type="line"/>
-      <point x="937.0" y="87.0" type="line"/>
-      <point x="600.0" y="87.0" type="line"/>
-      <point x="600.0" y="291.0" type="line"/>
-      <point x="823.0" y="291.0" type="line"/>
-      <point x="823.0" y="375.0" type="line"/>
-      <point x="600.0" y="375.0" type="line"/>
-      <point x="600.0" y="562.0" type="line"/>
-      <point x="904.0" y="562.0" type="line"/>
-      <point x="904.0" y="646.0" type="line"/>
-      <point x="490.0" y="646.0" type="line"/>
+      <point x="491.067" y="0.0" type="line"/>
+      <point x="941.978" y="0.0" type="line"/>
+      <point x="941.978" y="93.044" type="line"/>
+      <point x="609.244" y="93.044" type="line"/>
+      <point x="609.244" y="287.978" type="line"/>
+      <point x="829.933" y="287.978" type="line"/>
+      <point x="829.933" y="377.667" type="line"/>
+      <point x="609.244" y="377.667" type="line"/>
+      <point x="609.244" y="555.956" type="line"/>
+      <point x="909.511" y="555.956" type="line"/>
+      <point x="909.511" y="646.0" type="line"/>
+      <point x="491.067" y="646.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>RMXScaler</key>
-      <dict>
-        <key>adjustSpace</key>
-        <integer>2</integer>
-        <key>height</key>
-        <integer>87</integer>
-        <key>weight</key>
-        <integer>1</integer>
-        <key>width</key>
-        <integer>96</integer>
-      </dict>
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/16 05:39:16</string>
+      <string>2019/02/18 20:30:01</string>
       <key>public.markColor</key>
       <string>0.98,0.36,0.67,1</string>
     </dict>

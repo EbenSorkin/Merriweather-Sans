@@ -7,12 +7,12 @@
       <point x="254.55" y="0.0" type="line"/>
       <point x="362.9" y="736.35" type="line"/>
       <point x="306.55" y="747.0" type="line"/>
-      <point x="306.22499999999997" y="747.0" type="line"/>
+      <point x="306.225" y="747.0" type="line"/>
       <point x="254.225" y="711.0"/>
       <point x="171.225" y="664.0"/>
       <point x="103.225" y="648.0" type="curve"/>
       <point x="115.85" y="579.15" type="line"/>
-      <point x="158.52499999999998" y="586.15"/>
+      <point x="158.525" y="586.15"/>
       <point x="191.25" y="593.525"/>
       <point x="229.25" y="605.525" type="curve"/>
     </contour>
@@ -22,7 +22,7 @@
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:03</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

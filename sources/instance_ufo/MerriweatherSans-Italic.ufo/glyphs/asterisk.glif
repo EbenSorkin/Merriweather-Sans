@@ -8,7 +8,7 @@ asterisk
   <outline>
     <contour>
       <point x="281.725" y="310.8" type="line"/>
-      <point x="381.625" y="310.47499999999997" type="line"/>
+      <point x="381.625" y="310.475" type="line"/>
       <point x="380.325" y="456.05" type="line"/>
       <point x="373.3" y="526.4" type="line"/>
       <point x="422.625" y="479.375" type="line"/>
@@ -32,8 +32,8 @@ asterisk
       <point x="251.725" y="584.65" type="line"/>
       <point x="314.75" y="562.0" type="line"/>
       <point x="246.725" y="537.675" type="line"/>
-      <point x="106.82499999999999" y="478.35" type="line"/>
-      <point x="146.42499999999998" y="393.45" type="line"/>
+      <point x="106.825" y="478.35" type="line"/>
+      <point x="146.425" y="393.45" type="line"/>
       <point x="274.375" y="479.375" type="line"/>
       <point x="331.05" y="526.4" type="line"/>
       <point x="312.025" y="456.05" type="line"/>
@@ -46,7 +46,7 @@ asterisk
 29 28 26 21 19 18 16 14 13 11 6 4 3 1 14 1 0 1 74 0 1 1 0 89 0 0 0 19 1 76 30 24 2 7 22 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:03</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

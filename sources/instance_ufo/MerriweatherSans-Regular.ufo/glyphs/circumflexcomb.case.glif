@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="circumflexcomb.case" format="2">
-  <anchor x="0.0" y="830.1777777777778" name="_top"/>
+  <anchor x="0.0" y="830.178" name="_top"/>
   <anchor x="0.0" y="1018.0" name="top"/>
   <outline>
     <contour>
-      <point x="-109.0" y="806.8666666666667" type="line"/>
-      <point x="-1.0" y="905.5111111111112" type="line"/>
-      <point x="106.17777777777778" y="806.8666666666667" type="line"/>
-      <point x="178.13333333333333" y="838.7111111111111" type="line"/>
-      <point x="48.888888888888886" y="985.4222222222222" type="line"/>
-      <point x="-49.888888888888886" y="985.4222222222222" type="line"/>
-      <point x="-178.13333333333333" y="837.7111111111111" type="line"/>
+      <point x="-109.0" y="806.867" type="line"/>
+      <point x="-1.0" y="905.511" type="line"/>
+      <point x="106.178" y="806.867" type="line"/>
+      <point x="178.133" y="838.711" type="line"/>
+      <point x="48.889" y="985.422" type="line"/>
+      <point x="-49.889" y="985.422" type="line"/>
+      <point x="-178.133" y="837.711" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:51:28</string>
+      <string>2019/02/18 20:30:01</string>
     </dict>
   </lib>
 </glyph>

@@ -2,9 +2,9 @@
 <glyph name="naira" format="2">
   <advance width="826.0"/>
   <unicode hex="20A6"/>
-  <anchor x="405.0" y="0.0" name="bottom"/>
-  <anchor x="388.0" y="-83.0" name="btm"/>
-  <anchor x="412.0" y="830.0" name="top"/>
+  <anchor x="405.355" y="0.0" name="bottom"/>
+  <anchor x="388.355" y="-83.0" name="btm"/>
+  <anchor x="411.11100000000005" y="830.0" name="top"/>
   <outline>
     <contour>
       <point x="36.0" y="171.0" type="line"/>
@@ -30,12 +30,16 @@
       <point x="612.0" y="466.0" type="line"/>
       <point x="790.0" y="466.0" type="line"/>
     </contour>
-    <component base="N" xOffset="25.0"/>
+    <component base="N" xOffset="22.511"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 17:35:45</string>
+      <string>2019/02/18 20:30:01</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
     </dict>
   </lib>
 </glyph>

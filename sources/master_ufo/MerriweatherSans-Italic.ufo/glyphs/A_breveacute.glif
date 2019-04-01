@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Abreveacute" format="2">
-  <advance width="618.0"/>
+  <advance width="624.0"/>
   <unicode hex="1EAE"/>
-  <anchor x="272.0" y="0.0" name="bottom"/>
-  <anchor x="575.0" y="0.0" name="ogonek"/>
-  <anchor x="402.0" y="976.0" name="top"/>
+  <anchor x="275.25" y="0.0" name="bottom"/>
+  <anchor x="582.8" y="0.0" name="ogonek"/>
+  <anchor x="405.0" y="977.0" name="top"/>
   <outline>
     <component base="A"/>
-    <component base="brevecomb_acutecomb.case" xOffset="309.0"/>
+    <component base="brevecomb_acutecomb.case" xOffset="312.0" yOffset="1.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:02</string>
+      <string>2019/02/18 20:31:35</string>
     </dict>
   </lib>
 </glyph>

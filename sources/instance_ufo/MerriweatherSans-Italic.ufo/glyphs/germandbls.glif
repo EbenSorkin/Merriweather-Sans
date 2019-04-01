@@ -8,32 +8,32 @@ germandbls
   <outline>
     <contour>
       <point x="342.725" y="-8.0" type="curve" smooth="yes"/>
-      <point x="456.02500000000003" y="-8.0"/>
+      <point x="456.025" y="-8.0"/>
       <point x="543.65" y="47.05"/>
       <point x="543.65" y="153.625" type="curve" smooth="yes"/>
       <point x="543.65" y="216.675"/>
       <point x="516.25" y="264.725"/>
-      <point x="469.82500000000005" y="326.175" type="curve" smooth="yes"/>
+      <point x="469.825" y="326.175" type="curve" smooth="yes"/>
       <point x="445.475" y="359.175"/>
       <point x="428.25" y="382.7"/>
       <point x="428.25" y="400.65" type="curve" smooth="yes"/>
       <point x="428.25" y="427.65"/>
       <point x="442.6" y="445.325"/>
-      <point x="474.27500000000003" y="477.025" type="curve" smooth="yes"/>
+      <point x="474.275" y="477.025" type="curve" smooth="yes"/>
       <point x="516.25" y="518.35"/>
-      <point x="549.95" y="560.40135"/>
+      <point x="549.95" y="560.401"/>
       <point x="549.95" y="632.025" type="curve" smooth="yes"/>
       <point x="549.95" y="724.675"/>
-      <point x="485.02500000000003" y="775.675"/>
+      <point x="485.025" y="775.675"/>
       <point x="387.475" y="775.675" type="curve" smooth="yes"/>
-      <point x="200.57500000000002" y="775.675"/>
+      <point x="200.575" y="775.675"/>
       <point x="120.65" y="659.25"/>
       <point x="94.675" y="454.675" type="curve" smooth="yes"/>
-      <point x="37.025" y="1.6749999999999994" type="line"/>
-      <point x="143.375" y="1.6749999999999994" type="line"/>
-      <point x="197.70000000000002" y="424.675" type="line" smooth="yes"/>
+      <point x="37.025" y="1.675" type="line"/>
+      <point x="143.375" y="1.675" type="line"/>
+      <point x="197.7" y="424.675" type="line" smooth="yes"/>
       <point x="215.05" y="566.475"/>
-      <point x="249.70000000000002" y="700.5"/>
+      <point x="249.7" y="700.5"/>
       <point x="360.8" y="700.5" type="curve" smooth="yes"/>
       <point x="411.85" y="700.5"/>
       <point x="441.2" y="669.15"/>
@@ -49,13 +49,13 @@ germandbls
       <point x="387.3" y="257.0" type="curve" smooth="yes"/>
       <point x="411.575" y="221.725"/>
       <point x="431.6" y="183.25"/>
-      <point x="431.6" y="150.57500000000002" type="curve" smooth="yes"/>
+      <point x="431.6" y="150.575" type="curve" smooth="yes"/>
       <point x="431.6" y="92.15"/>
       <point x="399.9" y="73.15"/>
-      <point x="329.15000000000003" y="73.15" type="curve" smooth="yes"/>
+      <point x="329.15" y="73.15" type="curve" smooth="yes"/>
       <point x="291.45" y="73.15"/>
-      <point x="250.125" y="93.82500000000002"/>
-      <point x="231.10000000000002" y="112.17500000000001" type="curve"/>
+      <point x="250.125" y="93.825"/>
+      <point x="231.1" y="112.175" type="curve"/>
       <point x="218.425" y="15.0" type="line"/>
       <point x="241.425" y="3.675"/>
       <point x="297.825" y="-8.0"/>
@@ -99,7 +99,7 @@ NPUSHB[ ]	/* 12 values pushed */
 57 56 52 50 34 32 27 25 34 5 7 21 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:03</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

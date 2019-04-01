@@ -1,36 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="x" format="2">
-  <advance width="465.0"/>
+  <advance width="473.125"/>
   <unicode hex="0078"/>
   <note>
 x
 </note>
-  <anchor x="196.0" y="0.0" name="bottom"/>
-  <anchor x="270.0" y="557.0" name="top"/>
+  <anchor x="199.9" y="0.0" name="bottom"/>
+  <anchor x="273.9" y="557.0" name="top"/>
   <outline>
     <contour>
-      <point x="-26.0" y="2.0" type="line"/>
-      <point x="76.0" y="2.0" type="line"/>
-      <point x="213.0" y="212.0" type="line"/>
-      <point x="295.0" y="2.0" type="line"/>
-      <point x="407.0" y="2.0" type="line"/>
-      <point x="273.0" y="277.0" type="line"/>
-      <point x="479.0" y="557.0" type="line"/>
-      <point x="375.0" y="557.0" type="line"/>
-      <point x="242.0" y="356.0" type="line"/>
-      <point x="172.0" y="557.0" type="line"/>
-      <point x="58.0" y="557.0" type="line"/>
-      <point x="182.0" y="289.0" type="line"/>
+      <point x="-30.225" y="1.675" type="line"/>
+      <point x="84.45" y="1.675" type="line"/>
+      <point x="216.25" y="203.875" type="line"/>
+      <point x="296.625" y="1.675" type="line"/>
+      <point x="422.925" y="1.675" type="line"/>
+      <point x="285.025" y="276.025" type="line"/>
+      <point x="491.025" y="557.0" type="line"/>
+      <point x="375.65" y="557.0" type="line"/>
+      <point x="248.825" y="363.475" type="line"/>
+      <point x="180.125" y="557.0" type="line"/>
+      <point x="52.15" y="557.0" type="line"/>
+      <point x="180.05" y="289.975" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>assembly</key>
-      <string>NPUSHB[ ]	/* 28 values pushed */
-9 6 3 3 0 2 1 74 3 1 2 2 20 75 1 1 0 0 18 0 76 18 18 18 17 4 7 24 
-CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:03</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

@@ -10,14 +10,14 @@ w
   <outline>
     <contour>
       <point x="134.4" y="-5.675" type="line"/>
-      <point x="227.525" y="-2.3250000000000006" type="line"/>
-      <point x="323.1" y="106.50000000000001"/>
+      <point x="227.525" y="-2.325" type="line"/>
+      <point x="323.1" y="106.5"/>
       <point x="368.3" y="182.975"/>
-      <point x="406.0" y="268.84999999999997" type="curve"/>
+      <point x="406.0" y="268.85" type="curve"/>
       <point x="418.75" y="174.675" type="line"/>
       <point x="447.425" y="-5.675" type="line"/>
-      <point x="539.25" y="-2.3250000000000006" type="line"/>
-      <point x="714.2" y="197.59999999999997"/>
+      <point x="539.25" y="-2.325" type="line"/>
+      <point x="714.2" y="197.6"/>
       <point x="792.425" y="335.1"/>
       <point x="800.775" y="496.75" type="curve" smooth="yes"/>
       <point x="801.45" y="512.65"/>
@@ -30,7 +30,7 @@ w
       <point x="668.7" y="320.1"/>
       <point x="638.075" y="258.5"/>
       <point x="579.625" y="164.65" type="curve" smooth="yes"/>
-      <point x="521.475" y="84.10000000000001" type="line"/>
+      <point x="521.475" y="84.1" type="line"/>
       <point x="513.45" y="184.425" type="line"/>
       <point x="482.1" y="557.0" type="line"/>
       <point x="367.025" y="557.0" type="line"/>
@@ -38,10 +38,10 @@ w
       <point x="363.65" y="342.7"/>
       <point x="325.275" y="259.4"/>
       <point x="267.575" y="167.0" type="curve" smooth="yes"/>
-      <point x="208.425" y="84.10000000000001" type="line"/>
-      <point x="203.10000000000002" y="184.425" type="line"/>
-      <point x="169.07500000000002" y="557.0" type="line"/>
-      <point x="51.699999999999996" y="557.0" type="line"/>
+      <point x="208.425" y="84.1" type="line"/>
+      <point x="203.1" y="184.425" type="line"/>
+      <point x="169.075" y="557.0" type="line"/>
+      <point x="51.7" y="557.0" type="line"/>
       <point x="106.05" y="174.675" type="line"/>
     </contour>
   </outline>
@@ -52,7 +52,7 @@ w
 36 28 21 16 11 9 6 0 71 1 1 0 0 20 0 76 26 25 19 18 2 7 20 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:03</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

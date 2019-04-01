@@ -8,15 +8,15 @@ X
   <anchor x="327.925" y="651.0" name="top"/>
   <outline>
     <contour>
-      <point x="-31.575000000000003" y="0.0" type="line"/>
-      <point x="98.42500000000001" y="0.0" type="line"/>
+      <point x="-31.575" y="0.0" type="line"/>
+      <point x="98.425" y="0.0" type="line"/>
       <point x="272.25" y="248.85" type="line"/>
       <point x="386.35" y="0.0" type="line"/>
       <point x="510.35" y="0.0" type="line"/>
       <point x="343.675" y="317.375" type="line"/>
       <point x="592.0" y="650.0" type="line"/>
       <point x="468.675" y="650.0" type="line"/>
-      <point x="297.52500000000003" y="412.77500000000003" type="line"/>
+      <point x="297.525" y="412.775" type="line"/>
       <point x="192.75" y="650.0" type="line"/>
       <point x="72.425" y="650.0" type="line"/>
       <point x="226.75" y="339.3" type="line"/>
@@ -42,7 +42,7 @@ CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:50:25</string>
+      <string>2019/02/18 20:31:10</string>
       <key>public.markColor</key>
       <string>0,0.67,0.91,1</string>
     </dict>

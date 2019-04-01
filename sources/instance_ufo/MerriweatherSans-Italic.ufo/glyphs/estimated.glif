@@ -9,16 +9,16 @@ estimated
     <contour>
       <point x="362.925" y="-8.0" type="curve" smooth="yes"/>
       <point x="438.2" y="-8.0"/>
-      <point x="531.875" y="13.625000000000002"/>
+      <point x="531.875" y="13.625"/>
       <point x="572.5" y="42.6" type="curve"/>
-      <point x="550.9" y="100.85000000000001" type="line"/>
-      <point x="507.90000000000003" y="77.9"/>
-      <point x="437.575" y="52.900000000000006"/>
-      <point x="372.625" y="52.900000000000006" type="curve" smooth="yes"/>
-      <point x="289.475" y="52.900000000000006"/>
+      <point x="550.9" y="100.85" type="line"/>
+      <point x="507.9" y="77.9"/>
+      <point x="437.575" y="52.9"/>
+      <point x="372.625" y="52.9" type="curve" smooth="yes"/>
+      <point x="289.475" y="52.9"/>
       <point x="229.4" y="78.65"/>
-      <point x="193.07500000000002" y="130.825" type="curve"/>
-      <point x="193.07500000000002" y="306.7" type="line"/>
+      <point x="193.075" y="130.825" type="curve"/>
+      <point x="193.075" y="306.7" type="line"/>
       <point x="622.925" y="306.7" type="line"/>
       <point x="626.925" y="329.05"/>
       <point x="627.925" y="353.675"/>
@@ -42,10 +42,10 @@ estimated
       <point x="299.275" y="-8.0"/>
     </contour>
     <contour>
-      <point x="193.07500000000002" y="375.0" type="line"/>
-      <point x="193.07500000000002" y="521.15" type="line"/>
+      <point x="193.075" y="375.0" type="line"/>
+      <point x="193.075" y="521.15" type="line"/>
       <point x="229.425" y="576.35"/>
-      <point x="286.52500000000003" y="600.75"/>
+      <point x="286.525" y="600.75"/>
       <point x="357.625" y="600.75" type="curve" smooth="yes"/>
       <point x="422.425" y="600.75"/>
       <point x="469.825" y="582.675"/>
@@ -60,7 +60,7 @@ estimated
 30 27 20 10 2 48 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:16</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

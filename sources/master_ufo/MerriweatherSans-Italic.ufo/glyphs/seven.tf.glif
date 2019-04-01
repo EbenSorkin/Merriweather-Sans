@@ -3,19 +3,19 @@
   <advance width="591.0"/>
   <outline>
     <contour>
-      <point x="136.0" y="0.0" type="line"/>
-      <point x="252.0" y="0.0" type="line"/>
-      <point x="580.0" y="726.0" type="line"/>
-      <point x="564.0" y="747.0" type="line"/>
-      <point x="89.0" y="747.0" type="line"/>
-      <point x="87.0" y="666.0" type="line"/>
-      <point x="466.0" y="667.0" type="line"/>
+      <point x="123.0" y="0.0" type="line"/>
+      <point x="253.3" y="0.0" type="line"/>
+      <point x="575.775" y="724.05" type="line"/>
+      <point x="558.15" y="747.0" type="line"/>
+      <point x="85.1" y="747.0" type="line"/>
+      <point x="77.9" y="656.9" type="line"/>
+      <point x="446.5" y="657.9" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:03</string>
+      <string>2019/02/18 20:31:10</string>
       <key>com.schriftgestaltung.Glyphs.nodeUserData.0.1</key>
       <dict>
         <key>name</key>

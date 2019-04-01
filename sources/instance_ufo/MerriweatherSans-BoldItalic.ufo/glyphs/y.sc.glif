@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="y.sc" format="2">
-  <advance width="542.7948717948718"/>
+  <advance width="542.79487"/>
   <note>
 Y
 </note>
-  <anchor x="234.69230769230768" y="0.0" name="bottom"/>
-  <anchor x="320.6923076923077" y="650.1794871794872" name="top"/>
-  <anchor x="70.0" y="650.1794871794872" name="topleft"/>
+  <anchor x="234.692" y="0.0" name="bottom"/>
+  <anchor x="320.692" y="650.179" name="top"/>
+  <anchor x="70.0" y="650.179" name="topleft"/>
   <outline>
     <contour>
-      <point x="154.84615384615387" y="0.0" type="line"/>
-      <point x="306.2564102564103" y="0.0" type="line"/>
-      <point x="341.48717948717945" y="251.0" type="line"/>
-      <point x="616.8974358974359" y="650.0" type="line"/>
-      <point x="447.84615384615387" y="650.0" type="line"/>
-      <point x="306.97435897435895" y="428.8205128205128" type="line"/>
-      <point x="282.5128205128205" y="370.66666666666663" type="line"/>
-      <point x="269.3333333333333" y="428.8205128205128" type="line"/>
+      <point x="154.846" y="0.0" type="line"/>
+      <point x="306.256" y="0.0" type="line"/>
+      <point x="341.487" y="251.0" type="line"/>
+      <point x="616.897" y="650.0" type="line"/>
+      <point x="447.846" y="650.0" type="line"/>
+      <point x="306.974" y="428.821" type="line"/>
+      <point x="282.513" y="370.667" type="line"/>
+      <point x="269.333" y="428.821" type="line"/>
       <point x="191.0" y="650.0" type="line"/>
       <point x="31.0" y="650.0" type="line"/>
-      <point x="189.66666666666669" y="251.0" type="line"/>
+      <point x="189.667" y="251.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -42,7 +42,7 @@ CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:50:25</string>
+      <string>2019/02/18 20:31:10</string>
       <key>public.markColor</key>
       <string>0,0.67,0.91,1</string>
     </dict>

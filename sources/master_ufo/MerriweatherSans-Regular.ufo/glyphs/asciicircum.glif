@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="asciicircum" format="2">
-  <advance width="666.0"/>
+  <advance width="666.71111"/>
   <unicode hex="005E"/>
   <outline>
     <contour>
-      <point x="90.0" y="239.0" type="line"/>
-      <point x="283.0" y="748.0" type="line"/>
-      <point x="383.0" y="748.0" type="line"/>
-      <point x="575.0" y="239.0" type="line"/>
-      <point x="472.0" y="239.0" type="line"/>
-      <point x="328.0" y="642.0" type="line"/>
-      <point x="337.0" y="642.0" type="line"/>
-      <point x="193.0" y="239.0" type="line"/>
+      <point x="111.689" y="239.0" type="line"/>
+      <point x="293.133" y="718.311" type="line"/>
+      <point x="373.756" y="718.311" type="line"/>
+      <point x="554.2" y="239.0" type="line"/>
+      <point x="494.044" y="239.0" type="line"/>
+      <point x="339.2" y="660.844" type="line"/>
+      <point x="326.867" y="660.844" type="line"/>
+      <point x="172.022" y="239.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/01/21 06:08:13</string>
+      <string>2019/02/18 20:30:01</string>
     </dict>
   </lib>
 </glyph>

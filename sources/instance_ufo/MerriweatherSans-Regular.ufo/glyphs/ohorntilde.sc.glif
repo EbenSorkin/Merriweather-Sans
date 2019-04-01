@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ohorntilde.sc" format="2">
-  <advance width="743.1333333333333"/>
-  <anchor x="372.06666666666666" y="0.0" name="bottom"/>
-  <anchor x="370.8888888888889" y="-72.0" name="btm"/>
-  <anchor x="382.0" y="1052.911111111111" name="top"/>
+  <advance width="743.0"/>
+  <anchor x="372.067" y="0.0" name="bottom"/>
+  <anchor x="370.889" y="-72.0" name="btm"/>
+  <anchor x="382.0" y="1052.911" name="top"/>
   <outline>
     <component base="ohorn.sc"/>
     <component base="tildecomb" xOffset="382.0" yOffset="42.0"/>
@@ -13,7 +13,7 @@
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:51:56</string>
+      <string>2019/02/18 20:30:31</string>
     </dict>
   </lib>
 </glyph>

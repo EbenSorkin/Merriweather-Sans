@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ydotbelow" format="2">
-  <advance width="551.2222222222222"/>
+  <advance width="551.0"/>
   <unicode hex="1EF5"/>
-  <anchor x="276.02222222222224" y="-215.08888888888887" name="bottom"/>
-  <anchor x="473.15555555555557" y="-103.0" name="btm"/>
-  <anchor x="289.9555555555556" y="830.0" name="top"/>
+  <anchor x="276.467" y="-215.089" name="bottom"/>
+  <anchor x="473.156" y="-103.0" name="btm"/>
+  <anchor x="289.956" y="830.0" name="top"/>
   <outline>
     <component base="y"/>
-    <component base="dotbelowcomb" xOffset="276.55555555555554"/>
+    <component base="dotbelowcomb" xOffset="277.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:07:22</string>
+      <string>2019/02/18 20:30:31</string>
       <key>public.markColor</key>
       <string>0.85,0.26,0.06,1</string>
     </dict>

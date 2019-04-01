@@ -6,19 +6,19 @@
 fl
 </note>
   <anchor x="135.6" y="0.0" name="bottom_1"/>
-  <anchor x="459.425" y="0.0" name="bottom_2"/>
-  <anchor x="518.775" y="492.0" name="center"/>
+  <anchor x="459.9" y="0.0" name="bottom_2"/>
+  <anchor x="519.25" y="492.0" name="center"/>
   <anchor x="265.6" y="747.975" name="top_1"/>
-  <anchor x="560.1" y="778.0" name="top_2"/>
-  <anchor x="681.275" y="711.0" name="topright"/>
+  <anchor x="560.575" y="778.0" name="top_2"/>
+  <anchor x="681.75" y="711.0" name="topright"/>
   <outline>
     <component base="f"/>
-    <component base="l" xOffset="344.52500000000003"/>
+    <component base="l" xOffset="345.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:03</string>
+      <string>2019/02/18 20:31:35</string>
     </dict>
   </lib>
 </glyph>

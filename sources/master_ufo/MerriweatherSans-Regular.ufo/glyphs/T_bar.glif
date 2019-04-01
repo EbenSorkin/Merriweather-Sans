@@ -1,24 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Tbar" format="2">
-  <advance width="636.0"/>
+  <advance width="631.37778"/>
   <unicode hex="0166"/>
-  <anchor x="318.0" y="0.0" name="bottom"/>
-  <anchor x="314.0" y="-83.0" name="btm"/>
-  <anchor x="318.0" y="372.0" name="center"/>
-  <anchor x="314.0" y="830.0" name="top"/>
+  <anchor x="315.689" y="0.0" name="bottom"/>
+  <anchor x="312.044" y="-83.0" name="btm"/>
+  <anchor x="315.689" y="372.0" name="center"/>
+  <anchor x="312.044" y="830.0" name="top"/>
   <outline>
     <contour>
-      <point x="122.0" y="318.0" type="line"/>
-      <point x="517.0" y="318.0" type="line"/>
-      <point x="517.0" y="389.0" type="line"/>
-      <point x="122.0" y="389.0" type="line"/>
+      <point x="117.022" y="313.378" type="line"/>
+      <point x="518.422" y="313.378" type="line"/>
+      <point x="518.422" y="389.0" type="line"/>
+      <point x="117.022" y="389.0" type="line"/>
     </contour>
     <component base="T"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/01/21 06:08:13</string>
+      <string>2019/02/18 20:30:01</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
     </dict>
   </lib>
 </glyph>

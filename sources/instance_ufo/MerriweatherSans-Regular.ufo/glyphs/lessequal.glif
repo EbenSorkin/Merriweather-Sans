@@ -1,29 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="lessequal" format="2">
-  <advance width="668.8888888888889"/>
+  <advance width="668.88889"/>
   <unicode hex="2264"/>
   <outline>
     <contour>
-      <point x="79.24444444444444" y="0.0" type="line"/>
-      <point x="553.2444444444444" y="0.0" type="line"/>
-      <point x="553.2444444444444" y="82.73333333333332" type="line"/>
-      <point x="79.24444444444444" y="82.73333333333332" type="line"/>
+      <point x="79.244" y="0.0" type="line"/>
+      <point x="553.244" y="0.0" type="line"/>
+      <point x="553.244" y="82.733" type="line"/>
+      <point x="79.244" y="82.733" type="line"/>
     </contour>
     <contour>
-      <point x="553.2444444444444" y="130.24444444444444" type="line"/>
-      <point x="553.2444444444444" y="234.39999999999998" type="line"/>
-      <point x="187.95555555555552" y="382.35555555555555" type="line"/>
-      <point x="187.95555555555552" y="372.8222222222222" type="line"/>
-      <point x="553.2444444444444" y="520.9555555555555" type="line"/>
-      <point x="553.2444444444444" y="624.2888888888889" type="line"/>
-      <point x="79.24444444444444" y="415.1777777777778" type="line"/>
-      <point x="79.24444444444444" y="339.1777777777778" type="line"/>
+      <point x="553.244" y="130.244" type="line"/>
+      <point x="553.244" y="234.4" type="line"/>
+      <point x="187.956" y="382.356" type="line"/>
+      <point x="187.956" y="372.822" type="line"/>
+      <point x="553.244" y="520.956" type="line"/>
+      <point x="553.244" y="624.289" type="line"/>
+      <point x="79.244" y="415.178" type="line"/>
+      <point x="79.244" y="339.178" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/01/21 06:08:13</string>
+      <string>2019/02/18 20:30:01</string>
     </dict>
   </lib>
 </glyph>

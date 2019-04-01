@@ -1,37 +1,37 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="numbersign" format="2">
-  <advance width="763.0"/>
+  <advance width="770.11111"/>
   <unicode hex="0023"/>
   <outline>
     <contour>
-      <point x="184.0" y="0.0" type="line"/>
-      <point x="275.0" y="0.0" type="line"/>
-      <point x="338.0" y="670.0" type="line"/>
-      <point x="245.0" y="670.0" type="line"/>
+      <point x="181.867" y="0.0" type="line"/>
+      <point x="279.089" y="0.0" type="line"/>
+      <point x="342.267" y="670.0" type="line"/>
+      <point x="243.222" y="670.0" type="line"/>
     </contour>
     <contour>
-      <point x="428.0" y="0.0" type="line"/>
-      <point x="518.0" y="0.0" type="line"/>
-      <point x="580.0" y="670.0" type="line"/>
-      <point x="487.0" y="670.0" type="line"/>
+      <point x="429.244" y="0.0" type="line"/>
+      <point x="525.289" y="0.0" type="line"/>
+      <point x="587.644" y="670.0" type="line"/>
+      <point x="488.6" y="670.0" type="line"/>
     </contour>
     <contour>
-      <point x="673.0" y="430.0" type="line"/>
-      <point x="673.0" y="504.0" type="line"/>
-      <point x="118.0" y="504.0" type="line"/>
-      <point x="118.0" y="430.0" type="line"/>
+      <point x="679.222" y="427.867" type="line"/>
+      <point x="679.222" y="506.311" type="line"/>
+      <point x="117.289" y="506.311" type="line"/>
+      <point x="117.289" y="427.867" type="line"/>
     </contour>
     <contour>
-      <point x="651.0" y="173.0" type="line"/>
-      <point x="651.0" y="250.0" type="line"/>
-      <point x="101.0" y="250.0" type="line"/>
-      <point x="101.0" y="173.0" type="line"/>
+      <point x="657.222" y="170.511" type="line"/>
+      <point x="657.222" y="252.133" type="line"/>
+      <point x="100.111" y="252.133" type="line"/>
+      <point x="100.111" y="170.511" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:51:05</string>
+      <string>2019/02/18 20:30:01</string>
     </dict>
   </lib>
 </glyph>

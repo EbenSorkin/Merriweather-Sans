@@ -1,28 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Tbar" format="2">
-  <advance width="563.1025641025641"/>
+  <advance width="563.10256"/>
   <unicode hex="0166"/>
   <note>
 Tbar
 </note>
   <outline>
     <contour>
-      <point x="167.25641025641028" y="0.0" type="line"/>
-      <point x="319.66666666666663" y="0.0" type="line"/>
-      <point x="364.2564102564103" y="322.974358974359" type="line"/>
-      <point x="489.2051282051282" y="322.974358974359" type="line"/>
-      <point x="502.2564102564103" y="427.6923076923077" type="line"/>
-      <point x="378.71794871794873" y="427.6923076923077" type="line"/>
-      <point x="407.0769230769231" y="635.1025641025641" type="line"/>
-      <point x="588.5128205128206" y="630.1025641025641" type="line"/>
-      <point x="605.5641025641025" y="747.0" type="line"/>
-      <point x="88.1025641025641" y="747.0" type="line"/>
-      <point x="69.64102564102564" y="630.1025641025641" type="line"/>
-      <point x="255.0769230769231" y="635.1025641025641" type="line"/>
-      <point x="226.30769230769232" y="427.6923076923077" type="line"/>
-      <point x="106.58974358974359" y="427.6923076923077" type="line"/>
-      <point x="94.35897435897436" y="322.974358974359" type="line"/>
-      <point x="211.66666666666669" y="322.974358974359" type="line"/>
+      <point x="167.256" y="0.0" type="line"/>
+      <point x="319.667" y="0.0" type="line"/>
+      <point x="364.256" y="322.974" type="line"/>
+      <point x="489.205" y="322.974" type="line"/>
+      <point x="502.256" y="427.692" type="line"/>
+      <point x="378.718" y="427.692" type="line"/>
+      <point x="407.077" y="635.103" type="line"/>
+      <point x="588.513" y="630.103" type="line"/>
+      <point x="605.564" y="747.0" type="line"/>
+      <point x="88.103" y="747.0" type="line"/>
+      <point x="69.641" y="630.103" type="line"/>
+      <point x="255.077" y="635.103" type="line"/>
+      <point x="226.308" y="427.692" type="line"/>
+      <point x="106.59" y="427.692" type="line"/>
+      <point x="94.359" y="322.974" type="line"/>
+      <point x="211.667" y="322.974" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -32,7 +32,7 @@ Tbar
 4 1 0 3 1 1 2 0 1 97 8 7 2 5 5 6 89 0 6 6 17 75 0 2 2 18 2 76 0 0 0 15 0 15 17 17 17 17 17 17 17 9 7 27 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:02</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="h.sc" format="2">
-  <advance width="698.025641025641"/>
+  <advance width="698.02564"/>
   <note>
 H
 </note>
-  <anchor x="309.46153846153845" y="0.0" name="bottom"/>
-  <anchor x="392.28205128205127" y="650.0" name="top"/>
+  <anchor x="309.462" y="0.0" name="bottom"/>
+  <anchor x="392.282" y="650.0" name="top"/>
   <outline>
     <contour>
-      <point x="32.66666666666667" y="0.0" type="line"/>
-      <point x="184.66666666666666" y="0.0" type="line"/>
-      <point x="223.66666666666666" y="264.02564102564105" type="line"/>
-      <point x="464.43589743589746" y="264.02564102564105" type="line"/>
-      <point x="426.43589743589746" y="0.0" type="line"/>
-      <point x="579.4358974358975" y="0.0" type="line"/>
-      <point x="670.8974358974359" y="646.0" type="line"/>
-      <point x="516.8974358974359" y="646.0" type="line"/>
-      <point x="477.0769230769231" y="368.46153846153845" type="line"/>
-      <point x="236.3076923076923" y="368.46153846153845" type="line"/>
-      <point x="276.12820512820514" y="646.0" type="line"/>
-      <point x="123.53846153846155" y="646.0" type="line"/>
+      <point x="32.667" y="0.0" type="line"/>
+      <point x="184.667" y="0.0" type="line"/>
+      <point x="223.667" y="264.026" type="line"/>
+      <point x="464.436" y="264.026" type="line"/>
+      <point x="426.436" y="0.0" type="line"/>
+      <point x="579.436" y="0.0" type="line"/>
+      <point x="670.897" y="646.0" type="line"/>
+      <point x="516.897" y="646.0" type="line"/>
+      <point x="477.077" y="368.462" type="line"/>
+      <point x="236.308" y="368.462" type="line"/>
+      <point x="276.128" y="646.0" type="line"/>
+      <point x="123.538" y="646.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -42,7 +42,7 @@ CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 17:33:37</string>
+      <string>2019/02/18 20:31:10</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

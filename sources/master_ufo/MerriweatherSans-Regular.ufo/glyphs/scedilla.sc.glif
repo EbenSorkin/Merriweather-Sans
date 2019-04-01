@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="scedilla.sc" format="2">
-  <advance width="539.0"/>
-  <anchor x="270.0" y="-227.0" name="bottom"/>
-  <anchor x="266.0" y="-72.0" name="btm"/>
-  <anchor x="291.0" y="892.0" name="top"/>
+  <advance width="545.0"/>
+  <anchor x="273.133" y="-227.0" name="bottom"/>
+  <anchor x="269.556" y="-72.0" name="btm"/>
+  <anchor x="294.022" y="892.0" name="top"/>
   <outline>
     <component base="s.sc"/>
-    <component base="cedillacomb" xOffset="314.0"/>
+    <component base="cedillacomb" xOffset="315.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/16 05:40:09</string>
+      <string>2019/02/18 20:30:31</string>
     </dict>
   </lib>
 </glyph>

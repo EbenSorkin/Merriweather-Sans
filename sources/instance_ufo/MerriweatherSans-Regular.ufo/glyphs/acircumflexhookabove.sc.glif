@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="acircumflexhookabove.sc" format="2">
-  <advance width="666.7777777777778"/>
-  <anchor x="333.8888888888889" y="0.0" name="bottom"/>
-  <anchor x="335.2888888888889" y="-109.0" name="btm"/>
+  <advance width="667.0"/>
+  <anchor x="333.889" y="0.0" name="bottom"/>
+  <anchor x="335.289" y="-109.0" name="btm"/>
   <anchor x="600.6" y="10.0" name="ogonek"/>
-  <anchor x="380.2444444444444" y="1055.3111111111111" name="top"/>
+  <anchor x="380.6" y="1055.3110000000001" name="top"/>
   <outline>
     <component base="a.sc"/>
-    <component base="circumflexcomb_hookabovecomb" xOffset="338.64444444444445" yOffset="66.0"/>
+    <component base="circumflexcomb_hookabovecomb" xOffset="339.0" yOffset="66.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:32:40</string>
+      <string>2019/02/18 20:30:31</string>
     </dict>
   </lib>
 </glyph>

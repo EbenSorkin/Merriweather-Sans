@@ -7,13 +7,13 @@ circumflex.cap
   <anchor x="87.0" y="939.0" name="top"/>
   <outline>
     <contour>
-      <point x="-59.074999999999996" y="774.65" type="line"/>
+      <point x="-59.075" y="774.65" type="line"/>
       <point x="91.65" y="887.475" type="line"/>
       <point x="192.375" y="778.0" type="line"/>
       <point x="242.6" y="812.65" type="line"/>
       <point x="148.325" y="979.325" type="line"/>
       <point x="61.325" y="979.325" type="line"/>
-      <point x="-102.60000000000001" y="811.675" type="line"/>
+      <point x="-102.6" y="811.675" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -23,7 +23,7 @@ circumflex.cap
 6 5 4 3 2 5 0 71 0 0 0 105 16 1 7 21 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:12</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="sacute" format="2">
-  <advance width="434.45"/>
+  <advance width="434.0"/>
   <unicode hex="015B"/>
   <note>
 sacute
 </note>
   <anchor x="176.175" y="0.0" name="bottom"/>
-  <anchor x="225.125" y="724.725" name="top"/>
+  <anchor x="225.175" y="724.725" name="top"/>
   <outline>
     <component base="s"/>
-    <component base="acutecomb" xOffset="216.95000000000002"/>
+    <component base="acutecomb" xOffset="217.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:03</string>
+      <string>2019/02/18 20:31:35</string>
     </dict>
   </lib>
 </glyph>

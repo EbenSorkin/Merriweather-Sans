@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="brokenbar" format="2">
-  <advance width="417.8888888888889"/>
+  <advance width="417.88889"/>
   <unicode hex="00A6"/>
   <outline>
     <contour>
-      <point x="157.22222222222223" y="465.24444444444447" type="line"/>
-      <point x="260.66666666666663" y="465.24444444444447" type="line"/>
-      <point x="260.66666666666663" y="869.0" type="line"/>
-      <point x="157.22222222222223" y="869.0" type="line"/>
+      <point x="157.222" y="465.244" type="line"/>
+      <point x="260.667" y="465.244" type="line"/>
+      <point x="260.667" y="869.0" type="line"/>
+      <point x="157.222" y="869.0" type="line"/>
     </contour>
     <contour>
-      <point x="157.22222222222223" y="-91.0" type="line"/>
-      <point x="260.66666666666663" y="-91.0" type="line"/>
-      <point x="260.66666666666663" y="311.22222222222223" type="line"/>
-      <point x="157.22222222222223" y="311.22222222222223" type="line"/>
+      <point x="157.222" y="-91.0" type="line"/>
+      <point x="260.667" y="-91.0" type="line"/>
+      <point x="260.667" y="311.222" type="line"/>
+      <point x="157.222" y="311.222" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/01/21 06:08:13</string>
+      <string>2019/02/18 20:30:01</string>
     </dict>
   </lib>
 </glyph>

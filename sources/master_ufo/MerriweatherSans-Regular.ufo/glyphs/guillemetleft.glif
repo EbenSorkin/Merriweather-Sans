@@ -1,33 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="guillemetleft" format="2">
-  <advance width="945.0"/>
+  <advance width="950.51111"/>
   <unicode hex="00AB"/>
   <outline>
     <contour>
-      <point x="120.0" y="253.0" type="line"/>
-      <point x="424.0" y="51.0" type="line"/>
-      <point x="451.0" y="128.0" type="line"/>
-      <point x="198.0" y="320.0" type="line"/>
-      <point x="198.0" y="280.0" type="line"/>
-      <point x="451.0" y="474.0" type="line"/>
-      <point x="424.0" y="553.0" type="line"/>
-      <point x="120.0" y="343.0" type="line"/>
+      <point x="119.111" y="250.689" type="line"/>
+      <point x="424.178" y="48.511" type="line"/>
+      <point x="452.956" y="130.489" type="line"/>
+      <point x="202.978" y="321.244" type="line"/>
+      <point x="202.978" y="278.756" type="line"/>
+      <point x="452.956" y="471.333" type="line"/>
+      <point x="424.178" y="555.133" type="line"/>
+      <point x="119.111" y="345.844" type="line"/>
     </contour>
     <contour>
-      <point x="477.0" y="253.0" type="line"/>
-      <point x="791.0" y="51.0" type="line"/>
-      <point x="818.0" y="128.0" type="line"/>
-      <point x="555.0" y="320.0" type="line"/>
-      <point x="555.0" y="280.0" type="line"/>
-      <point x="818.0" y="474.0" type="line"/>
-      <point x="791.0" y="553.0" type="line"/>
-      <point x="477.0" y="343.0" type="line"/>
+      <point x="480.556" y="250.689" type="line"/>
+      <point x="795.622" y="48.511" type="line"/>
+      <point x="824.4" y="130.489" type="line"/>
+      <point x="564.422" y="321.244" type="line"/>
+      <point x="564.422" y="278.756" type="line"/>
+      <point x="824.4" y="471.333" type="line"/>
+      <point x="795.622" y="555.133" type="line"/>
+      <point x="480.556" y="345.844" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:51:05</string>
+      <string>2019/02/18 20:30:01</string>
     </dict>
   </lib>
 </glyph>

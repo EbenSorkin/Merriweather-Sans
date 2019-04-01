@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="oslashacute.sc" format="2">
-  <advance width="741.0"/>
-  <anchor x="371.0" y="0.0" name="bottom"/>
-  <anchor x="323.0" y="885.0" name="top"/>
+  <advance width="743.0"/>
+  <anchor x="372.067" y="0.0" name="bottom"/>
+  <anchor x="322.578" y="886.422" name="top"/>
   <outline>
     <component base="oslash.sc"/>
-    <component base="acutecomb" xOffset="382.0" yOffset="-108.0"/>
+    <component base="acutecomb" xOffset="383.0" yOffset="-108.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:08:25</string>
+      <string>2019/02/18 20:30:31</string>
     </dict>
   </lib>
 </glyph>

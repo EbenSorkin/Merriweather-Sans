@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="guillemetright.case" format="2">
-  <advance width="950.5111111111111"/>
+  <advance width="950.51111"/>
   <outline>
     <component base="guillemetright" yOffset="75.0"/>
   </outline>
@@ -11,7 +11,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>guilsinglright</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:51:05</string>
+      <string>2019/02/18 20:30:01</string>
     </dict>
   </lib>
 </glyph>

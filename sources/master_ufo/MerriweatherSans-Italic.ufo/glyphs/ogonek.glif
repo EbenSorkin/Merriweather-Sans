@@ -1,49 +1,39 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ogonek" format="2">
-  <advance width="238.0"/>
+  <advance width="251.0"/>
   <unicode hex="02DB"/>
   <note>
 ogonek
 </note>
   <outline>
     <contour>
-      <point x="99.0" y="-212.0" type="curve" smooth="yes"/>
-      <point x="150.0" y="-212.0"/>
-      <point x="191.0" y="-191.0"/>
-      <point x="219.0" y="-167.0" type="curve"/>
-      <point x="194.0" y="-118.0" type="line"/>
-      <point x="169.0" y="-135.0"/>
-      <point x="151.0" y="-140.0"/>
-      <point x="130.0" y="-140.0" type="curve" smooth="yes"/>
-      <point x="115.0" y="-140.0"/>
-      <point x="100.0" y="-132.0"/>
-      <point x="100.0" y="-108.0" type="curve" smooth="yes"/>
-      <point x="100.0" y="-76.0"/>
-      <point x="141.0" y="-43.0"/>
-      <point x="201.0" y="0.0" type="curve"/>
-      <point x="171.0" y="29.0" type="line"/>
-      <point x="125.0" y="0.0" type="line" smooth="yes"/>
-      <point x="73.0" y="-30.0"/>
-      <point x="5.0" y="-75.0"/>
-      <point x="5.0" y="-137.0" type="curve" smooth="yes"/>
-      <point x="5.0" y="-177.0"/>
-      <point x="42.0" y="-212.0"/>
+      <point x="97.7" y="-215.9" type="curve" smooth="yes"/>
+      <point x="151.3" y="-215.9"/>
+      <point x="195.225" y="-192.625"/>
+      <point x="225.825" y="-165.7" type="curve"/>
+      <point x="201.8" y="-115.725" type="line"/>
+      <point x="175.825" y="-133.7"/>
+      <point x="157.825" y="-140.0"/>
+      <point x="136.175" y="-140.0" type="curve" smooth="yes"/>
+      <point x="119.875" y="-140.0"/>
+      <point x="105.525" y="-131.675"/>
+      <point x="105.525" y="-107.35" type="curve" smooth="yes"/>
+      <point x="105.525" y="-75.35"/>
+      <point x="148.8" y="-40.075"/>
+      <point x="210.1" y="2.925" type="curve"/>
+      <point x="175.55" y="29.0" type="line"/>
+      <point x="131.825" y="3.575" type="line" smooth="yes"/>
+      <point x="65.2" y="-32.6"/>
+      <point x="3.375" y="-79.55"/>
+      <point x="3.375" y="-139.275" type="curve" smooth="yes"/>
+      <point x="3.375" y="-180.9"/>
+      <point x="40.375" y="-215.9"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>assembly</key>
-      <string>PUSHB[ ]	/* 2 values pushed */
-6 100 
-WCVTP[ ]	/* WriteCVTInPixels */
-NPUSHB[ ]	/* 32 values pushed */
-11 1 1 0 1 74 10 1 2 0 72 0 0 1 1 0 87 0 0 0 1 91 0 1 0 1 79 37 38 2 7 22 
-CALL[ ]	/* CallFunction */
-PUSHB[ ]	/* 2 values pushed */
-6 0 
-WCVTP[ ]	/* WriteCVTInPixels */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/15 20:49:12</string>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

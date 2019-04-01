@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ohornacute" format="2">
-  <advance width="674.3"/>
+  <advance width="674.0"/>
   <unicode hex="1EDA"/>
   <anchor x="300.65" y="0.0" name="bottom"/>
   <anchor x="350.65" y="374.325" name="center"/>
@@ -15,7 +15,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:48:08</string>
+      <string>2019/02/18 20:31:35</string>
     </dict>
   </lib>
 </glyph>

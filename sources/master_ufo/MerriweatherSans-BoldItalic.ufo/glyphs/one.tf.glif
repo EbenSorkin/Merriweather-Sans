@@ -3,33 +3,28 @@
   <advance width="591.0"/>
   <outline>
     <contour>
-      <point x="73.0" y="0.0" type="line"/>
-      <point x="499.0" y="0.0" type="line"/>
-      <point x="509.0" y="93.0" type="line"/>
-      <point x="364.0" y="93.0" type="line"/>
-      <point x="457.0" y="737.0" type="line"/>
-      <point x="370.0" y="747.0" type="line"/>
-      <point x="368.0" y="747.0" type="line"/>
-      <point x="318.0" y="711.0"/>
-      <point x="215.0" y="661.0"/>
-      <point x="112.0" y="641.0" type="curve"/>
-      <point x="127.0" y="563.0" type="line"/>
-      <point x="184.0" y="568.0"/>
-      <point x="260.0" y="582.0"/>
-      <point x="295.0" y="591.0" type="curve"/>
-      <point x="224.0" y="93.0" type="line"/>
-      <point x="83.0" y="93.0" type="line"/>
+      <point x="68.077" y="0.0" type="line"/>
+      <point x="502.282" y="0.0" type="line"/>
+      <point x="513.103" y="99.564" type="line"/>
+      <point x="369.744" y="99.564" type="line"/>
+      <point x="461.103" y="737.0" type="line"/>
+      <point x="358.923" y="747.0" type="line"/>
+      <point x="356.923" y="747.0" type="line"/>
+      <point x="307.333" y="711.0"/>
+      <point x="215.41" y="664.282"/>
+      <point x="100.923" y="643.051" type="curve"/>
+      <point x="117.974" y="559.308" type="line"/>
+      <point x="179.077" y="563.897"/>
+      <point x="250.564" y="574.615"/>
+      <point x="285.154" y="583.205" type="curve"/>
+      <point x="215.795" y="99.564" type="line"/>
+      <point x="78.487" y="99.564" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/14 16:46:03</string>
-      <key>com.schriftgestaltung.Glyphs.nodeUserData.0.15</key>
-      <dict>
-        <key>name</key>
-        <string>hr00</string>
-      </dict>
+      <string>2019/02/18 20:31:10</string>
     </dict>
   </lib>
 </glyph>

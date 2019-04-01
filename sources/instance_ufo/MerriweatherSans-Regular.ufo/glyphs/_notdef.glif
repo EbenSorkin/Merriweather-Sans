@@ -1,32 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name=".notdef" format="2">
-  <advance width="914.8888888888889"/>
+  <advance width="914.88889"/>
   <outline>
     <contour>
-      <point x="111.53333333333333" y="0.0" type="line"/>
-      <point x="803.3555555555556" y="0.0" type="line"/>
-      <point x="803.3555555555556" y="691.0" type="line"/>
-      <point x="111.53333333333333" y="691.0" type="line"/>
+      <point x="111.533" y="0.0" type="line"/>
+      <point x="803.356" y="0.0" type="line"/>
+      <point x="803.356" y="691.0" type="line"/>
+      <point x="111.533" y="691.0" type="line"/>
     </contour>
     <contour>
-      <point x="286.53333333333336" y="107.0" type="line"/>
-      <point x="224.35555555555555" y="177.0" type="line"/>
-      <point x="398.53333333333336" y="344.0" type="line"/>
-      <point x="223.53333333333333" y="521.0" type="line"/>
-      <point x="283.53333333333336" y="583.0" type="line"/>
-      <point x="458.35555555555555" y="403.0" type="line"/>
-      <point x="629.5333333333333" y="582.0" type="line"/>
-      <point x="692.3555555555556" y="521.0" type="line"/>
-      <point x="515.3555555555556" y="346.0" type="line"/>
-      <point x="692.3555555555556" y="167.0" type="line"/>
-      <point x="632.5333333333333" y="107.0" type="line"/>
-      <point x="456.35555555555555" y="287.0" type="line"/>
+      <point x="286.533" y="107.0" type="line"/>
+      <point x="224.356" y="177.0" type="line"/>
+      <point x="398.533" y="344.0" type="line"/>
+      <point x="223.533" y="521.0" type="line"/>
+      <point x="283.533" y="583.0" type="line"/>
+      <point x="458.356" y="403.0" type="line"/>
+      <point x="629.533" y="582.0" type="line"/>
+      <point x="692.356" y="521.0" type="line"/>
+      <point x="515.356" y="346.0" type="line"/>
+      <point x="692.356" y="167.0" type="line"/>
+      <point x="632.533" y="107.0" type="line"/>
+      <point x="456.356" y="287.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/01/21 06:08:13</string>
+      <string>2019/02/18 20:30:01</string>
     </dict>
   </lib>
 </glyph>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <designspace format="4.0">
   <axes>
-    <axis tag="wght" name="Weight" minimum="300" maximum="800" default="362.857143">
+    <axis tag="wght" name="Weight" minimum="300" maximum="800" default="400">
       <map input="300" output="72"/>
       <map input="400" output="107"/>
       <map input="700" output="150"/>
@@ -16,7 +16,7 @@
     </source>
     <source filename="MerriweatherSans-BoldItalic.ufo" name="Merriweather Sans Bold Italic" familyname="Merriweather Sans" stylename="Bold Italic">
       <location>
-        <dimension name="Weight" xvalue="134"/>
+        <dimension name="Weight" xvalue="150"/>
       </location>
     </source>
     <source filename="MerriweatherSans-Italic.ufo" name="Merriweather Sans Italic" familyname="Merriweather Sans" stylename="Italic">
@@ -25,7 +25,7 @@
       <features copy="1"/>
       <info copy="1"/>
       <location>
-        <dimension name="Weight" xvalue="94"/>
+        <dimension name="Weight" xvalue="107"/>
       </location>
     </source>
     <source filename="MerriweatherSans-LightItalic.ufo" name="Merriweather Sans Light Italic" familyname="Merriweather Sans" stylename="Light Italic">
