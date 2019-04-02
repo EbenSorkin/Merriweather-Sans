@@ -1,5 +1,13 @@
 # Merriweather Sans
 
+NOTE! THIS REPO IS NO LONGER CURRENT. 
+
+Please update link or visit <https://github.com/SorkinType/Merriweather-Sans> to see the latest version of the font and a more up to date change log.
+
+The text below is as it was prior to this change.
+
+--------------------
+
 This file provides detailed information on Merriweather Sans Font Software. This information should be distributed along with the Merriweather Sans font and any derivative works.
 
 Merriweather Sans is useful for creating long texts for books or articles, headlines and captions.
